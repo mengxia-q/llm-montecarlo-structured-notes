@@ -1,0 +1,297 @@
+{
+  "accession": "0000950103-26-012695",
+  "source_file": "data/cleaned/0000950103-26-012695_dp252091_424b2-ubseln1758wof.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-08-18",
+    "strike_date": null,
+    "issue_date": "2026-08-21",
+    "maturity_date": "2031-08-21",
+    "underlyings": [
+      {
+        "name": "Nikkei 225 Index",
+        "ticker": "NKY",
+        "initial_level": 67460.73
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6468.17
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-11-18",
+      "2027-02-18",
+      "2027-05-18",
+      "2027-08-18",
+      "2027-11-18",
+      "2028-02-18",
+      "2028-05-18",
+      "2028-08-18",
+      "2028-11-20",
+      "2029-02-19",
+      "2029-05-18",
+      "2029-08-20",
+      "2029-11-19",
+      "2030-02-18",
+      "2030-05-20",
+      "2030-08-19",
+      "2030-11-18",
+      "2031-02-18",
+      "2031-05-19",
+      "2031-08-18"
+    ],
+    "payment_dates": [
+      "2026-11-23",
+      "2027-02-23",
+      "2027-05-21",
+      "2027-08-23",
+      "2027-11-23",
+      "2028-02-24",
+      "2028-05-23",
+      "2028-08-23",
+      "2028-11-24",
+      "2029-02-22",
+      "2029-05-23",
+      "2029-08-23",
+      "2029-11-23",
+      "2030-02-21",
+      "2030-05-23",
+      "2030-08-22",
+      "2030-11-21",
+      "2031-02-21",
+      "2031-05-22",
+      "2031-08-21"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.5375,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.68
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Royal Bank of Canada |",
+      "lines": [
+        195,
+        195
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        196,
+        196
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | August 18, 2026 |",
+      "lines": [
+        62,
+        62
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | August 18, 2026 |",
+      "lines": [
+        62,
+        62
+      ],
+      "note": "No separate strike date; Initial Underlying Value is the Trade Date close -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | August 21, 2026 |",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | August 21, 2031 |",
+      "lines": [
+        68,
+        68
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nikkei 225 Index (NKY) | 10.15% per annum | 67,460.73 |",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nikkei 225 Index (NKY) | 10.15% per annum | 67,460.73 |",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 10.15% per annum | 6,468.17 |",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 10.15% per annum | 6,468.17 |",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying: | The Underlying with the lowest Underlying Return |",
+      "lines": [
+        203,
+        203
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        236,
+        257
+      ],
+      "note": "20 rows, Nov 2026 - Aug 2031"
+    },
+    "payment_dates": {
+      "quote": "| November 18, 2026 | November 23, 2026 |",
+      "lines": [
+        236,
+        257
+      ],
+      "note": "payment dates printed in table (not derived)"
+    },
+    "autocall.first_observation_index": {
+      "quote": "Each Coupon Observation Date (other than the Final Valuation Date),",
+      "lines": [
+        263,
+        265
+      ],
+      "note": "callable from the 2nd observation (February 18, 2027)"
+    },
+    "autocall.levels_pct": {
+      "quote": "is greater than or equal to its Initial Underlying Value. If the Notes are called, we will pay you on the corresponding Coupon Payment Date",
+      "lines": [
+        201,
+        201
+      ],
+      "note": "100% on observations 2..19; final valuation date excluded (other than the Final Valuation Date) -> 18 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 10.15% per annum.",
+      "lines": [
+        200,
+        200
+      ],
+      "note": "10.15% p.a. / 4 quarterly = 2.5375 (exact; also stated line 442 '2.5375% per quarter', cash $0.25375)"
+    },
+    "coupon.barrier_pct": {
+      "quote": "47,222.51, which is 70% of its Initial Underlying Value",
+      "lines": [
+        97,
+        98
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Coupon Observation Date will not accrue or be payable, and we will not make any payment to you on the relevant Contingent Coupon Payment Date",
+      "lines": [
+        199,
+        199
+      ],
+      "note": "no memory language; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "40,476.44, which is 60% of its Initial Underlying Value",
+      "lines": [
+        97,
+        98
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "| Final Underlying Value: | With respect to each Underlying, the closing value of that Underlying on the Final Valuation Date |",
+      "lines": [
+        208,
+        208
+      ],
+      "note": "Downside Threshold tested on Final Underlying Value only"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 + ($10 × Underlying Return of the Least Performing Underlying)",
+      "lines": [
+        202,
+        202
+      ],
+      "note": "1:1 exposure -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "is $9.68 per Note and is less than the public offering price of the Notes.",
+      "lines": [
+        127,
+        127
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 10.15% p.a. / 4 = 2.5375; filing also states 2.5375% per quarter and $0.25375 in hypothetical terms (consistent)."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Callable on obs 2-19 only (final valuation date explicitly excluded in footnote line 263); 18 entries of 100."
+    },
+    {
+      "field": "underlyings[1].name",
+      "issue": "Name contains ® separated by space in cleaned text ('EURO STOXX 50 ® Index'); verify verbatim form."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed. Several dates shift off the 18th (e.g. 2028-11-20, 2029-02-19)."
+    },
+    {
+      "field": "underlyings[0].initial_level",
+      "issue": "Nikkei 225 is a JPY-denominated price index; notes are USD-paid with no FX exposure (quanto) stated - check pricing model handles quanto."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity price indices (NKY, SX5E); non-memory coupon; quarterly discrete autocall; European (final valuation date only) knock-in at 60%; no buffer."
+  }
+}

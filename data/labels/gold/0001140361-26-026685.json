@@ -1,0 +1,121 @@
+{
+  "accession": "0001140361-26-026685",
+  "source_file": "data/cleaned/0001140361-26-026685_ef20077014_424b2.htm.txt",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-26",
+    "strike_date": null,
+    "issue_date": "2026-06-30",
+    "maturity_date": "2031-06-30",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index \u00ae",
+        "ticker": "NDX",
+        "initial_level": 29118.24
+      },
+      {
+        "name": "EURO STOXX 50 \u00ae Index",
+        "ticker": "SX5E",
+        "initial_level": 6221.55
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-28",
+      "2026-12-28",
+      "2027-03-26",
+      "2027-06-28",
+      "2027-09-27",
+      "2027-12-27",
+      "2028-03-27",
+      "2028-06-26",
+      "2028-09-26",
+      "2028-12-26",
+      "2029-03-26",
+      "2029-06-26",
+      "2029-09-26",
+      "2029-12-26",
+      "2030-03-26",
+      "2030-06-26",
+      "2030-09-26",
+      "2030-12-26",
+      "2031-03-26",
+      "2031-06-26"
+    ],
+    "payment_dates": [
+      "2026-09-30",
+      "2026-12-30",
+      "2027-03-30",
+      "2027-06-30",
+      "2027-09-29",
+      "2027-12-29",
+      "2028-03-29",
+      "2028-06-28",
+      "2028-09-28",
+      "2028-12-28",
+      "2029-03-28",
+      "2029-06-28",
+      "2029-09-28",
+      "2029-12-28",
+      "2030-03-28",
+      "2030-06-28",
+      "2030-09-30",
+      "2030-12-30",
+      "2031-03-28",
+      "2031-06-30"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 3.07,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.883
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing (round 2, timed, with seeded-error check)",
+    "prelabel_file": "data/labels/prelabel/0001140361-26-026685.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 26.0,
+    "round": 2,
+    "overlap_with_other_verifier": false,
+    "seeded_error": {
+      "field": "knock_in.barrier_pct",
+      "change": "knock_in.barrier_pct: 70.0 -> 65.0"
+    },
+    "seeded_error_detected": true,
+    "edit_transcription": "verifier recorded the correction in the timing-sheet comment instead of editing the JSON; Claude transcribed it into the working copy on 2026-10-06 (second verifier's wording confirmed via the author). Non-ASCII comment text was lost when the CSV was saved."
+  }
+}

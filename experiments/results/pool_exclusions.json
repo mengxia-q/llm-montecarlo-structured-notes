@@ -1,0 +1,74 @@
+{
+  "note": "Pool built in three passes: stage-1 (18 filings, before product profiling), then two --append passes on 2026-10-06 (target 5 then 6 per issuer, series cap 2). \"last_run\" is the screen tally of the final pass, which rescans each issuer's search hits; \"all_downloaded\" re-applies every screen offline to every cached download not in the pool, by first failing screen, and is the number to report.",
+  "last_run": {
+    "run": {
+      "query": "\"Autocallable\" \"Contingent Coupon\" -\"Subject to Completion\"",
+      "start": "2026-06-01",
+      "end": "2026-10-05",
+      "per_issuer_scanned": 40,
+      "target_per_issuer": 6,
+      "series_cap": 2,
+      "appended_to": 47
+    },
+    "kept_new": 6,
+    "total_in_pool": 53,
+    "recovered_from_pdf": 15,
+    "excluded": {
+      "out of underlying scope (no registered index or ETF name in the document head)": 182,
+      "preliminary term sheet": 4,
+      "out of underlying scope (unregistered index in basket)": 2,
+      "product-series cap reached": 2
+    }
+  },
+  "first_append_run": {
+    "run": {
+      "query": "\"Autocallable\" \"Contingent Coupon\" -\"Subject to Completion\"",
+      "start": "2026-06-01",
+      "end": "2026-10-05",
+      "per_issuer_scanned": 40,
+      "target_per_issuer": 5,
+      "series_cap": 2,
+      "appended_to": 18
+    },
+    "kept_new": 29,
+    "total_in_pool": 47,
+    "recovered_from_pdf": 14,
+    "excluded": {
+      "out of underlying scope (no registered index or ETF name in the document head)": 180,
+      "preliminary term sheet": 4,
+      "product-series cap reached": 1,
+      "out of underlying scope (unregistered index in basket)": 1
+    }
+  },
+  "all_downloaded": {
+    "n_downloaded_not_in_pool": 216,
+    "by_first_failing_screen": {
+      "single-stock underlying": 171,
+      "preliminary term sheet": 28,
+      "no registered index/ETF (other underlying)": 13,
+      "in scope, not sampled (series cap / issuer quota)": 2,
+      "unregistered index in basket": 2,
+      "pdf bytes (stage-1 artefact)": 1
+    }
+  },
+  "stage1_records_failing_new_template_screens": [
+    {
+      "accession": "0000950103-26-012791",
+      "issuer": "Citigroup Global Markets Holdings Inc.",
+      "buffered": true,
+      "unregistered_index": "msci emerging markets index"
+    },
+    {
+      "accession": "0000950103-26-008823",
+      "issuer": "Citigroup Global Markets Holdings Inc.",
+      "buffered": true,
+      "unregistered_index": null
+    },
+    {
+      "accession": "0000950103-26-012538",
+      "issuer": "Citigroup Global Markets Holdings Inc.",
+      "buffered": true,
+      "unregistered_index": null
+    }
+  ]
+}

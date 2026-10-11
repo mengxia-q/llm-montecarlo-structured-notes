@@ -1,0 +1,95 @@
+{
+  "accession": "0001214659-26-011449",
+  "source_file": "data/cleaned/0001214659-26-011449_y93263424b2.htm.txt",
+  "terms": {
+    "issuer": "Bank of Montreal",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-02",
+    "strike_date": null,
+    "issue_date": "2026-09-08",
+    "maturity_date": "2029-09-07",
+    "underlyings": [
+      {
+        "name": "Russell 2000\u00ae Index",
+        "ticker": "RTY",
+        "initial_level": 2953.166
+      },
+      {
+        "name": "S&P 500\u00ae Index",
+        "ticker": "SPX",
+        "initial_level": 7666.6
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-02",
+      "2027-03-02",
+      "2027-06-02",
+      "2027-09-02",
+      "2027-12-02",
+      "2028-03-02",
+      "2028-06-02",
+      "2028-09-05",
+      "2028-12-04",
+      "2029-03-02",
+      "2029-06-04",
+      "2029-09-04"
+    ],
+    "payment_dates": [
+      "2026-12-04",
+      "2027-03-04",
+      "2027-06-04",
+      "2027-09-07",
+      "2027-12-06",
+      "2028-03-06",
+      "2028-06-06",
+      "2028-09-07",
+      "2028-12-06",
+      "2029-03-06",
+      "2029-06-06",
+      "2029-09-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.77
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0001214659-26-011449.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": null,
+    "verification_minutes_range": [
+      18,
+      23
+    ],
+    "notes": "verifier reported no corrections",
+    "timing_note": "per-file times not recorded; verifier reported 18-23 minutes per file for all 7 files"
+  }
+}

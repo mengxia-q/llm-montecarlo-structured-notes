@@ -1,0 +1,266 @@
+{
+  "accession": "0001213900-26-081428",
+  "source_file": "data/cleaned/0001213900-26-081428_ea0299069-01_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-22",
+    "strike_date": null,
+    "issue_date": "2026-07-27",
+    "maturity_date": "2029-07-26",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2959.938
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6316.99
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-22",
+      "2027-01-22",
+      "2027-04-22",
+      "2027-07-22",
+      "2027-10-22",
+      "2028-01-24",
+      "2028-04-24",
+      "2028-07-24",
+      "2028-10-23",
+      "2029-01-22",
+      "2029-04-23",
+      "2029-07-23"
+    ],
+    "payment_dates": [
+      "2026-10-26",
+      "2027-01-26",
+      "2027-04-26",
+      "2027-07-26",
+      "2027-10-26",
+      "2028-01-26",
+      "2028-04-26",
+      "2028-07-26",
+      "2028-10-25",
+      "2029-01-24",
+      "2029-04-25",
+      "2029-07-26"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.7625,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.806
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | JPMorgan Chase Financial Company LLC, a direct, wholly owned finance subsidiary of JPMorgan Chase & Co. |",
+      "lines": [
+        222,
+        222
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note (subject to a minimum purchase of 100 Notes or $1,000) |",
+      "lines": [
+        227,
+        227
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | July 22, 2026 |",
+      "lines": [
+        84,
+        84
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | July 22, 2026 |",
+      "lines": [
+        84,
+        84
+      ],
+      "note": "No separate strike date; Initial Value is the Trade Date close (line 241)."
+    },
+    "issue_date": {
+      "quote": "| Original Issue Date (Settlement Date) | July 27, 2026 |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | July 26, 2029 |",
+      "lines": [
+        89,
+        89
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index (Bloomberg ticker: RTY) |",
+      "lines": [
+        119,
+        119
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Russell 2000 ® Index (Bloomberg ticker: RTY) | 11.05% per annum | 2,959.938 |",
+      "lines": [
+        119,
+        119
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index (Bloomberg ticker: SX5E) |",
+      "lines": [
+        120,
+        120
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (Bloomberg ticker: SX5E) | 11.05% per annum | 6,316.99 |",
+      "lines": [
+        120,
+        120
+      ]
+    },
+    "performance_type": {
+      "quote": "| Lesser Performing Underlying Return | The lower of the Underlying Returns of the Underlyings |",
+      "lines": [
+        240,
+        240
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates † | Coupon Payment Dates † |",
+      "lines": [
+        269,
+        282
+      ]
+    },
+    "payment_dates": {
+      "quote": "| July 23, 2029 (the Final Valuation Date) | July 26, 2029 (the Maturity Date) |",
+      "lines": [
+        269,
+        282
+      ]
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the second Observation\nDate, January 22, 2027.",
+      "lines": [
+        285,
+        286
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Notes will be called automatically if the closing level of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value.",
+      "lines": [
+        229,
+        229
+      ],
+      "note": "100% on observation dates 2..12 = 11 entries; 'any Observation Date' includes the Final Valuation Date (examples at line 628 also test call on the twelfth date)."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate | 11.05% per annum |",
+      "lines": [
+        233,
+        233
+      ],
+      "note": "11.05% p.a. / 4 (quarterly) = 2.7625%; filing's rounded cash coupon $0.2763 per $10 (line 234) = 2.763% not used per rule."
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,071.957, which is 70% of the Initial Value",
+      "lines": [
+        119,
+        120
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon for that Observation Date will not accrue or be payable, and we will not make any payment to you on the relevant Coupon Payment Date.",
+      "lines": [
+        231,
+        231
+      ],
+      "note": "No memory language; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "4,421.89, which is 70% of the Initial Value",
+      "lines": [
+        120,
+        120
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not automatically called and the Final Value of either Underlying is less than its Downside Threshold",
+      "lines": [
+        237,
+        237
+      ],
+      "note": "Final Value = close on Final Valuation Date (line 242)."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Lesser Performing Underlying Return)",
+      "lines": [
+        237,
+        237
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "of the Notes were set, was $9.806 per $10 principal amount Note.",
+      "lines": [
+        144,
+        144
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Filing says callable on 'any Observation Date' after non-call period (not 'interim'), so the Final Valuation Date is included: 11 levels at 100%. Verify."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Per-annum 11.05%/4 = 2.7625 used; filing's cash coupon $0.2763 is rounded (2.763%)."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Names taken as printed in cleaned text with a space before ® ('Russell 2000 ® Index'); original is likely 'Russell 2000® Index'."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity indices (RTY, SX5E), quarterly discrete autocall at 100% from obs 2, non-memory contingent coupon, 70% European knock-in tested at final valuation only, 1:1 downside; no buffer."
+  }
+}

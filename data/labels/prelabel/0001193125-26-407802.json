@@ -1,0 +1,292 @@
+{
+  "accession": "0001193125-26-407802",
+  "source_file": "data/cleaned/0001193125-26-407802_gs-20260929.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "GS Finance Corp.",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-25",
+    "strike_date": null,
+    "issue_date": "2026-10-02",
+    "maturity_date": "2029-10-02",
+    "underlyings": [
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7743.41
+      },
+      {
+        "name": "Dow Jones Industrial Average ®",
+        "ticker": "INDU",
+        "initial_level": 51828.62
+      },
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 30608.13
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-28",
+      "2027-03-25",
+      "2027-06-25",
+      "2027-09-27",
+      "2027-12-27",
+      "2028-03-27",
+      "2028-06-26",
+      "2028-09-25",
+      "2028-12-26",
+      "2029-03-26",
+      "2029-06-25",
+      "2029-09-25"
+    ],
+    "payment_dates": [
+      "2027-01-05",
+      "2027-04-02",
+      "2027-07-02",
+      "2027-10-04",
+      "2028-01-03",
+      "2028-04-03",
+      "2028-07-03",
+      "2028-10-02",
+      "2029-01-03",
+      "2029-04-03",
+      "2029-07-02",
+      "2029-10-02"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.475,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": null
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Company (Issuer): | GS Finance Corp. (“GSFC”) |",
+      "lines": [
+        75,
+        75
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10.00 per unit;",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "pricing_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | Pricing Date Settlement Date Maturity Date | September 25, 2026 October 2, 2026 October 2, 2029 |",
+      "lines": [
+        14,
+        14
+      ]
+    },
+    "strike_date": {
+      "quote": "The Starting Value of each Index is the closing level of such Index on the pricing date.",
+      "lines": [
+        97,
+        97
+      ],
+      "note": "No separate strike date; initial levels set on the pricing date (2026-09-25)."
+    },
+    "issue_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | Pricing Date Settlement Date Maturity Date | September 25, 2026 October 2, 2026 October 2, 2029 |",
+      "lines": [
+        14,
+        14
+      ],
+      "note": "issue_date = Settlement Date"
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date: | October 2, 2029, subject to postponement",
+      "lines": [
+        105,
+        105
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "the S&P 500 ® Index (current Bloomberg symbol: “SPX Index”)",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Starting Value: | S&P 500 ® Index: 7,743.41; Dow Jones Industrial Average ® : 51,828.62; and Nasdaq-100 Index ® : 30,608.13.",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "the Dow Jones Industrial Average ® (current Bloomberg symbol: “INDU Index”)",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Starting Value: | S&P 500 ® Index: 7,743.41; Dow Jones Industrial Average ® : 51,828.62; and Nasdaq-100 Index ® : 30,608.13.",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[2].name": {
+      "quote": "the Nasdaq-100 Index ® (current Bloomberg symbol: “NDX Index”)",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "underlyings[2].initial_level": {
+      "quote": "| Starting Value: | S&P 500 ® Index: 7,743.41; Dow Jones Industrial Average ® : 51,828.62; and Nasdaq-100 Index ® : 30,608.13.",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "performance_type": {
+      "quote": "| Worst-Performing Market Measure: | The Index with the lowest Observation Value or Ending Value, as applicable, in each case as compared to its Starting Value",
+      "lines": [
+        79,
+        79
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates: | December 28, 2026, March 25, 2027, June 25, 2027, September 27, 2027, December 27, 2027, March 27, 2028, June 26, 2028, September 25, 2028, December 26, 2028, March 26, 2029, June 25, 2029 and September 25, 2029 (the final Coupon Observation Date)",
+      "lines": [
+        100,
+        100
+      ],
+      "note": "12 quarterly dates listed inline (not a table)."
+    },
+    "payment_dates": {
+      "quote": "| Coupon Payment Dates: | The fifth business day following the applicable Coupon Observation Date, subject to postponement as described beginning on page PS-24 of the accompanying product supplement; provided however, that the Coupon Payment Date related to the final Coupon Observation Date will be the maturity date.",
+      "lines": [
+        103,
+        103
+      ],
+      "note": "derived with src.market.calendar --plus 5 (NYSE calendar); final derived date 2029-10-02 equals the stated maturity date."
+    },
+    "autocall.first_observation_index": {
+      "quote": "| Call Observation Dates: | The Coupon Observation Dates beginning on March 25, 2027 and ending on June 25, 2029",
+      "lines": [
+        101,
+        101
+      ],
+      "note": "March 25, 2027 is observation #2."
+    },
+    "autocall.levels_pct": {
+      "quote": "| Call Value: | S&P 500 ® Index: 7,743.41, which is 100% of its Starting Value;",
+      "lines": [
+        86,
+        86
+      ],
+      "note": "Callable on obs #2..#11 (ends June 25, 2029, final date not callable) => 10 entries of 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "a Contingent Coupon Payment of $0.2475 (equal to a contingent rate of 9.90% per annum)",
+      "lines": [
+        87,
+        87
+      ],
+      "note": "$0.2475 / $10 = 2.475% per quarter (= 9.90% / 4)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "S&P 500 ® Index: 5,420.39, which is 70% of its Starting Value (rounded to the nearest one-hundredth)",
+      "lines": [
+        84,
+        84
+      ]
+    },
+    "coupon.memory": {
+      "quote": "The notes will pay a Contingent Coupon Payment on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure on the applicable quarterly Coupon Observation Date is greater than or equal to its Coupon Barrier.",
+      "lines": [
+        121,
+        121
+      ],
+      "note": "No memory / previously-unpaid wording anywhere in the filing; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Threshold Value: | S&P 500 ® Index: 4,646.05, which is 60% of its Starting Value (rounded to the nearest one-hundredth)",
+      "lines": [
+        85,
+        85
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "you will receive a Redemption Amount that is less than the principal amount if the Ending Value of the Worst-Performing Market Measure is less than its Threshold Value on the Final Calculation Day, even if the level of each Index was always greater than its Threshold Value prior to such Final Calculation Day.",
+      "lines": [
+        250,
+        250
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "your notes are subject to 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100% of the principal amount at risk",
+      "lines": [
+        56,
+        56
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your notes at the time the terms of your notes are set on the pricing date is not less than the principal amount of such notes.",
+      "lines": [
+        23,
+        23
+      ],
+      "note": "Only a lower bound (>= $10) is given; no point estimate => null."
+    }
+  },
+  "flags": [
+    {
+      "field": "payment_dates",
+      "issue": "Given only as a rule ('fifth business day following' each Coupon Observation Date); derived with NYSE calendar. Filing's 'business day' may be a banking-day definition (product supplement) rather than NYSE trading day; e.g. 2027-03-25 +5 skips Good Friday 2027-03-26 (NYSE closed, banks open) giving 2027-04-02 vs 2027-04-01 under a banking calendar. Verify each date."
+    },
+    {
+      "field": "estimated_value_per_unit",
+      "issue": "Filing states only that the estimated value is 'not less than the principal amount' ($10); set to null. Human may decide whether to treat as 10."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Coupon Observation Date (2029-09-25) is not a Call Observation Date (call dates end June 25, 2029), so 10 levels for obs #2-#11."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Names stored with the ® mark as rendered in the cleaned file ('S&P 500 ® Index', etc., with a space before ®)."
+    },
+    {
+      "field": "underlyings[*].ticker",
+      "issue": "Tickers taken from Bloomberg symbols (SPX Index, INDU Index, NDX Index) with ' Index' suffix dropped."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on three equity indices (SPX, INDU, NDX); quarterly discrete autocall at 100% from obs #2; non-memory 2.475% quarterly coupon with 70% barrier; European (final-date-only) 60% barrier with 1-to-1 loss from Starting Value (not buffered)."
+  }
+}

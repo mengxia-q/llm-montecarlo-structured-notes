@@ -1,0 +1,69 @@
+{
+  "accession": "0000950103-26-009445",
+  "source_file": "data/cleaned/0000950103-26-009445_dp248879_424b2-us26m9896.htm.txt",
+  "terms": {
+    "issuer": "Citigroup Global Markets Holdings Inc.",
+    "notional_per_unit": 1000,
+    "currency": "USD",
+    "pricing_date": "2026-06-22",
+    "strike_date": "2026-06-18",
+    "issue_date": "2026-06-25",
+    "maturity_date": "2027-07-07",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index \u00ae",
+        "ticker": "NDX",
+        "initial_level": 30406.19
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-10-01",
+      "2026-12-31",
+      "2027-04-01",
+      "2027-07-01"
+    ],
+    "payment_dates": [
+      "2026-10-06",
+      "2027-01-06",
+      "2027-04-06",
+      "2027-07-07"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 3.3375,
+      "barrier_pct": 80.0,
+      "memory": true
+    },
+    "knock_in": {
+      "barrier_pct": 80.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 984.8
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing (round 2, timed, with seeded-error check)",
+    "prelabel_file": "data/labels/prelabel/0000950103-26-009445.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 21.0,
+    "round": 2,
+    "overlap_with_other_verifier": false,
+    "seeded_error": {
+      "field": "coupon.memory",
+      "change": "coupon.memory: True -> False"
+    },
+    "seeded_error_detected": true,
+    "edit_transcription": "verifier recorded the correction in the timing-sheet comment instead of editing the JSON; Claude transcribed it into the working copy on 2026-10-06 (second verifier's wording confirmed via the author). Non-ASCII comment text was lost when the CSV was saved."
+  }
+}

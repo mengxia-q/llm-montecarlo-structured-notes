@@ -1,0 +1,352 @@
+{
+  "accession": "0000950103-26-011404",
+  "source_file": "data/cleaned/0000950103-26-011404_dp250905_424b2-9374ubs.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-29",
+    "strike_date": null,
+    "issue_date": "2026-07-31",
+    "maturity_date": "2036-07-31",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2906.31
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6248.84
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-29",
+      "2027-01-29",
+      "2027-04-29",
+      "2027-07-29",
+      "2027-10-29",
+      "2028-01-31",
+      "2028-04-28",
+      "2028-07-31",
+      "2028-10-30",
+      "2029-01-29",
+      "2029-04-30",
+      "2029-07-30",
+      "2029-10-29",
+      "2030-01-29",
+      "2030-04-29",
+      "2030-07-29",
+      "2030-10-29",
+      "2031-01-29",
+      "2031-04-29",
+      "2031-07-29",
+      "2031-10-29",
+      "2032-01-29",
+      "2032-04-29",
+      "2032-07-29",
+      "2032-10-29",
+      "2033-01-31",
+      "2033-04-29",
+      "2033-07-29",
+      "2033-10-31",
+      "2034-01-30",
+      "2034-04-28",
+      "2034-07-31",
+      "2034-10-30",
+      "2035-01-29",
+      "2035-04-30",
+      "2035-07-30",
+      "2035-10-29",
+      "2036-01-29",
+      "2036-04-29",
+      "2036-07-29"
+    ],
+    "payment_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02",
+      "2027-11-02",
+      "2028-02-02",
+      "2028-05-02",
+      "2028-08-02",
+      "2028-11-01",
+      "2029-01-31",
+      "2029-05-02",
+      "2029-08-01",
+      "2029-10-31",
+      "2030-01-31",
+      "2030-05-01",
+      "2030-07-31",
+      "2030-10-31",
+      "2031-01-31",
+      "2031-05-01",
+      "2031-07-31",
+      "2031-10-31",
+      "2032-02-02",
+      "2032-05-03",
+      "2032-08-02",
+      "2032-11-02",
+      "2033-02-02",
+      "2033-05-03",
+      "2033-08-02",
+      "2033-11-02",
+      "2034-02-01",
+      "2034-05-02",
+      "2034-08-02",
+      "2034-11-01",
+      "2035-01-31",
+      "2035-05-02",
+      "2035-08-01",
+      "2035-10-31",
+      "2036-01-31",
+      "2036-05-01",
+      "2036-07-31"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.125,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.387
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Barclays Bank PLC |",
+      "lines": [
+        298,
+        298
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        299,
+        299
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date: | July 29, 2026 |",
+      "lines": [
+        68,
+        68
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date: | July 29, 2026 |",
+      "lines": [
+        68,
+        68
+      ],
+      "note": "No separate strike date; Initial Underlying Level is the Closing Level on the Trade Date, so strike_date = null."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date: | July 31, 2026 |",
+      "lines": [
+        69,
+        69
+      ],
+      "note": "Settlement Date used as issue date."
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date: | July 31, 2036 |",
+      "lines": [
+        72,
+        72
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index (RTY) |",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Russell 2000 ® Index (RTY) | 8.50% per annum | 2,906.310 |",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) |",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 8.50% per annum | 6,248.84 |",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "performance_type": {
+      "quote": "| Lesser Performing Underlying: | The Underlying with the lower Underlying Return |",
+      "lines": [
+        311,
+        311
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates / Call Settlement Dates |",
+      "lines": [
+        350,
+        392
+      ],
+      "note": "40 rows, Oct 29 2026 .. Jul 29 2036 (final = Final Valuation Date)."
+    },
+    "payment_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates / Call Settlement Dates |",
+      "lines": [
+        350,
+        392
+      ],
+      "note": "Read from the table, not derived."
+    },
+    "autocall.first_observation_index": {
+      "quote": "*The Notes are NOT automatically callable until the fourth Observation Date, which is July 29, 2027.",
+      "lines": [
+        394,
+        394
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Issuer will automatically call the Notes if the Closing Level of each Underlying on any quarterly Observation Date, beginning on July 29, 2027, is greater than or equal to its Initial Underlying Level.",
+      "lines": [
+        64,
+        64
+      ],
+      "note": "'any quarterly Observation Date' incl. final (Example 2 says 'Fortieth Observation Date (the Final Valuation Date) ... Notes NOT automatically called'), so 37 entries (obs 4..40) at 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "The Contingent Coupon Rate is 8.50% per annum. Accordingly, the Contingent Coupon with respect to each Observation Date is equal to $0.2125 per Note.",
+      "lines": [
+        308,
+        308
+      ],
+      "note": "8.50% / 4 = 2.125%; $0.2125 / $10 = 2.125%."
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,179.733, which is 75.00% of the Initial Underlying Level",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Observation Date will not accrue or be payable",
+      "lines": [
+        305,
+        305
+      ],
+      "note": "No memory language; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "Downside Threshold (which is set equal to its Coupon Barrier)",
+      "lines": [
+        40,
+        40
+      ],
+      "note": "75.00% per cover table."
+    },
+    "knock_in.monitoring": {
+      "quote": "The Final Underlying Level of each Underlying is observed relative to its Downside Threshold only on the Final Valuation Date",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Lesser Performing Underlying )",
+      "lines": [
+        309,
+        309
+      ],
+      "note": "1:1 downside exposure => 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "Our estimated value of the Notes on the Trade Date, based on our internal pricing models, is $9.387 per Note.",
+      "lines": [
+        146,
+        146
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Treated final valuation date as callable ('any quarterly Observation Date, beginning on July 29, 2027'; Example 2 refers to the Fortieth/Final date as 'NOT automatically called'). 37 levels for obs 4..40. Economically equivalent at maturity since call level 100 >= downside threshold, but verify count convention."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Names written as in cleaned text with spaced '®' ('Russell 2000 ® Index'); cleaning split ® onto separate lines in prose."
+    },
+    {
+      "field": "issue_date",
+      "issue": "Filing uses 'Settlement Date' (July 31, 2026); taken as issue date."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "First three observation/payment rows carry '*' (non-callable footnote); dates subject to postponement, scheduled dates used."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity price-return indices (RTY, SX5E); non-memory quarterly coupon; European (final-date-only) downside threshold with 1:1 loss; discrete quarterly autocall from obs 4. No buffer, no daily monitoring."
+  }
+}

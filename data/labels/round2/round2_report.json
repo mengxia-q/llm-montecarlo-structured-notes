@@ -1,0 +1,227 @@
+{
+  "verifiers": {
+    "author": {
+      "files": [
+        {
+          "accession": "0000950103-26-009445",
+          "role": "own",
+          "minutes": 21.0,
+          "changed": [
+            "coupon.memory"
+          ],
+          "corrections_to_prelabel": [],
+          "seeded_detected": true
+        },
+        {
+          "accession": "0001839882-26-031609",
+          "role": "own",
+          "minutes": 22.0,
+          "changed": [
+            "coupon.rate_per_period_pct"
+          ],
+          "corrections_to_prelabel": [],
+          "seeded_detected": true
+        },
+        {
+          "accession": "0001193125-26-392100",
+          "role": "own",
+          "minutes": 17.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001839882-26-034030",
+          "role": "overlap",
+          "minutes": 20.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0000950103-26-008658",
+          "role": "own",
+          "minutes": 18.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0000950103-26-008922",
+          "role": "own",
+          "minutes": 18.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001839882-26-041422",
+          "role": "own",
+          "minutes": 17.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001918704-26-015862",
+          "role": "overlap",
+          "minutes": 20.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001214659-26-011786",
+          "role": "overlap",
+          "minutes": 18.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001214659-26-011448",
+          "role": "own",
+          "minutes": 16.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        }
+      ],
+      "n_timed": 10,
+      "minutes_mean": 18.7,
+      "minutes_median": 18.0,
+      "minutes_range": [
+        16.0,
+        22.0
+      ]
+    },
+    "second": {
+      "files": [
+        {
+          "accession": "0001140361-26-026685",
+          "role": "own",
+          "minutes": 26.0,
+          "changed": [
+            "knock_in.barrier_pct"
+          ],
+          "corrections_to_prelabel": [],
+          "seeded_detected": true
+        },
+        {
+          "accession": "0001918704-26-019604",
+          "role": "own",
+          "minutes": 27.0,
+          "changed": [
+            "coupon.barrier_pct"
+          ],
+          "corrections_to_prelabel": [],
+          "seeded_detected": true
+        },
+        {
+          "accession": "0001839882-26-034030",
+          "role": "overlap",
+          "minutes": 25.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001213900-26-081481",
+          "role": "own",
+          "minutes": 20.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001918704-26-015862",
+          "role": "overlap",
+          "minutes": 23.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        },
+        {
+          "accession": "0001214659-26-011786",
+          "role": "overlap",
+          "minutes": 22.0,
+          "changed": [],
+          "corrections_to_prelabel": [],
+          "seeded_detected": null
+        }
+      ],
+      "n_timed": 6,
+      "minutes_mean": 23.833333333333332,
+      "minutes_median": 24.0,
+      "minutes_range": [
+        20.0,
+        27.0
+      ]
+    }
+  },
+  "seeded": [
+    {
+      "verifier": "author",
+      "accession": "0000950103-26-009445",
+      "field": "coupon.memory",
+      "change": "coupon.memory: True -> False",
+      "detected": true
+    },
+    {
+      "verifier": "author",
+      "accession": "0001839882-26-031609",
+      "field": "coupon.rate_per_period_pct",
+      "change": "coupon.rate_per_period_pct: 2.275 -> 9.1 (per-annum written as per-period)",
+      "detected": true
+    },
+    {
+      "verifier": "second",
+      "accession": "0001140361-26-026685",
+      "field": "knock_in.barrier_pct",
+      "change": "knock_in.barrier_pct: 70.0 -> 65.0",
+      "detected": true
+    },
+    {
+      "verifier": "second",
+      "accession": "0001918704-26-019604",
+      "field": "coupon.barrier_pct",
+      "change": "coupon.barrier_pct: 70.0 -> 75.0",
+      "detected": true
+    }
+  ],
+  "overlap": [
+    {
+      "accession": "0001214659-26-011786",
+      "all_fields_disagree": [],
+      "critical_agree": 9,
+      "critical_total": 9
+    },
+    {
+      "accession": "0001839882-26-034030",
+      "all_fields_disagree": [],
+      "critical_agree": 9,
+      "critical_total": 9
+    },
+    {
+      "accession": "0001918704-26-015862",
+      "all_fields_disagree": [],
+      "critical_agree": 9,
+      "critical_total": 9
+    }
+  ],
+  "gold_written": [
+    "0000950103-26-009445",
+    "0001839882-26-031609",
+    "0001193125-26-392100",
+    "0001839882-26-034030",
+    "0000950103-26-008658",
+    "0000950103-26-008922",
+    "0001839882-26-041422",
+    "0001918704-26-015862",
+    "0001214659-26-011786",
+    "0001214659-26-011448",
+    "0001140361-26-026685",
+    "0001918704-26-019604",
+    "0001213900-26-081481"
+  ]
+}

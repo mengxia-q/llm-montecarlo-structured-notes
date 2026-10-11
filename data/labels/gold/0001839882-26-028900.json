@@ -1,0 +1,124 @@
+{
+  "accession": "0001839882-26-028900",
+  "source_file": "data/cleaned/0001839882-26-028900_bns_424b2-18936.htm.txt",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-09",
+    "strike_date": null,
+    "issue_date": "2026-06-12",
+    "maturity_date": "2031-06-12",
+    "underlyings": [
+      {
+        "name": "Russell 2000\u00ae Index",
+        "ticker": "RTY",
+        "initial_level": 2867.023
+      },
+      {
+        "name": "S&P 500\u00ae Index",
+        "ticker": "SPX",
+        "initial_level": 7386.65
+      },
+      {
+        "name": "EURO STOXX 50\u00ae Index",
+        "ticker": "SX5E",
+        "initial_level": 6049.74
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-09",
+      "2026-12-09",
+      "2027-03-09",
+      "2027-06-09",
+      "2027-09-09",
+      "2027-12-09",
+      "2028-03-09",
+      "2028-06-09",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-09",
+      "2029-06-11",
+      "2029-09-10",
+      "2029-12-10",
+      "2030-03-11",
+      "2030-06-10",
+      "2030-09-09",
+      "2030-12-09",
+      "2031-03-10",
+      "2031-06-09"
+    ],
+    "payment_dates": [
+      "2026-09-11",
+      "2026-12-11",
+      "2027-03-11",
+      "2027-06-11",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-13",
+      "2028-09-13",
+      "2028-12-13",
+      "2029-03-13",
+      "2029-06-13",
+      "2029-09-12",
+      "2029-12-12",
+      "2030-03-13",
+      "2030-06-12",
+      "2030-09-11",
+      "2030-12-11",
+      "2031-03-12",
+      "2031-06-12"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.8125,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.548
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0001839882-26-028900.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": null,
+    "verification_minutes_range": [
+      18,
+      23
+    ],
+    "notes": "verifier reported no corrections",
+    "timing_note": "per-file times not recorded; verifier reported 18-23 minutes per file for all 7 files"
+  }
+}

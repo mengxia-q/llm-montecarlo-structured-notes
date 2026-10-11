@@ -1,0 +1,85 @@
+{
+  "accession": "0000950103-26-010235",
+  "source_file": "data/cleaned/0000950103-26-010235_dp249686_424b2-us26n3686d.htm.txt",
+  "terms": {
+    "issuer": "Citigroup Global Markets Holdings Inc.",
+    "notional_per_unit": 1000,
+    "currency": "USD",
+    "pricing_date": "2026-07-01",
+    "strike_date": "2026-06-30",
+    "issue_date": "2026-07-07",
+    "maturity_date": "2027-07-07",
+    "underlyings": [
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7499.36
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-08-03",
+      "2026-09-01",
+      "2026-10-01",
+      "2026-11-02",
+      "2026-12-01",
+      "2027-01-04",
+      "2027-02-01",
+      "2027-03-01",
+      "2027-04-01",
+      "2027-05-03",
+      "2027-06-01",
+      "2027-07-01"
+    ],
+    "payment_dates": [
+      "2026-08-06",
+      "2026-09-04",
+      "2026-10-06",
+      "2026-11-05",
+      "2026-12-04",
+      "2027-01-07",
+      "2027-02-04",
+      "2027-03-04",
+      "2027-04-06",
+      "2027-05-06",
+      "2027-06-04",
+      "2027-07-07"
+    ],
+    "autocall": {
+      "first_observation_index": 3,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 0.75,
+      "barrier_pct": 90.5,
+      "memory": true
+    },
+    "knock_in": {
+      "barrier_pct": 90.5,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 986.8
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0000950103-26-010235.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 30,
+    "notes": "pilot file; verifier reported no corrections",
+    "timing_note": "approximate, recalled after the fact; first file verified (learning effect); payment dates had to be derived by hand from the 'third business day' rule with calendar checks"
+  }
+}

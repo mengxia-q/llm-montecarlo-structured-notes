@@ -1,0 +1,256 @@
+{
+  "accession": "0000950103-26-014050",
+  "source_file": "data/cleaned/0000950103-26-014050_dp253451_424b2-9662ubs.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-15",
+    "strike_date": "2026-09-14",
+    "issue_date": "2026-09-17",
+    "maturity_date": "2029-09-18",
+    "underlyings": [
+      {
+        "name": "EURO STOXX 50® Index",
+        "ticker": "SX5E",
+        "initial_level": 6260.38
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-12-14",
+      "2027-03-15",
+      "2027-06-14",
+      "2027-09-14",
+      "2027-12-14",
+      "2028-03-14",
+      "2028-06-14",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-14",
+      "2029-06-14",
+      "2029-09-14"
+    ],
+    "payment_dates": [
+      "2026-12-16",
+      "2027-03-17",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-16",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-16",
+      "2029-06-18",
+      "2029-09-18"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.7125,
+      "barrier_pct": 60.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.826
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Barclays Bank PLC |",
+      "lines": [
+        338,
+        338
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        340,
+        340
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date: | September 15, 2026 |",
+      "lines": [
+        67,
+        67
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike Date: | September 14, 2026 |",
+      "lines": [
+        65,
+        65
+      ],
+      "note": "Separate Strike Date named; Initial Underlying Level is the close on the Strike Date, not the Trade Date (lines 73, 104-105)."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date: | September 17, 2026 |",
+      "lines": [
+        68,
+        68
+      ],
+      "note": "Settlement Date used as issue date."
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date: | September 18, 2029 |",
+      "lines": [
+        71,
+        71
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Reference Asset: | EURO STOXX 50 ® Index (Bloomberg ticker symbol “SX5E<Index>”) (the “Underlying”) |",
+      "lines": [
+        342,
+        342
+      ],
+      "note": "Cleaned text splits '50' and '®' with a space; name recorded as 'EURO STOXX 50® Index'. Ticker SX5E from Bloomberg ticker."
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 6.85% per annum | 6,260.38 |",
+      "lines": [
+        102,
+        102
+      ],
+      "note": "Close on Strike Date 2026-09-14; confirmed at line 788."
+    },
+    "performance_type": {
+      "quote": "linked to the performance of\nthe EURO STOXX 50",
+      "lines": [
+        25,
+        26
+      ],
+      "note": "Single underlying."
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates / Call Settlement Dates |",
+      "lines": [
+        391,
+        404
+      ],
+      "note": "12 quarterly dates, rows 393-404; last = Final Valuation Date 2029-09-14."
+    },
+    "payment_dates": {
+      "quote": "| December 14, 2026* | December 16, 2026* |",
+      "lines": [
+        391,
+        404
+      ],
+      "note": "Read from the same table, row by row; final payment date equals Maturity Date 2029-09-18."
+    },
+    "autocall.first_observation_index": {
+      "quote": "*The Notes are NOT automatically callable until the fourth Observation Date, which is September 14, 2027.",
+      "lines": [
+        406,
+        406
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Issuer will automatically call the Notes if the Closing Level of the Underlying on any quarterly Observation Date, beginning on September 14, 2027, is greater than or equal to the Initial Underlying Level.",
+      "lines": [
+        343,
+        343
+      ],
+      "note": "Call level 100% of Initial Underlying Level on every Observation Date from #4 through #12 (final valuation date is an Observation Date, line 344) => 9 entries of 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 6.85% per annum (or 1.7125% per quarter) |",
+      "lines": [
+        595,
+        595
+      ],
+      "note": "6.85% p.a. / 4 = 1.7125% per quarter (filing states it explicitly); cash coupon $0.1713 per $10 is rounded (line 349)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "3,756.23, which is 60.00% of the Initial Underlying Level",
+      "lines": [
+        102,
+        102
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Observation Date will not accrue or be payable and the Issuer will not make any payment to you on the related Coupon Payment Date.",
+      "lines": [
+        346,
+        346
+      ],
+      "note": "No memory: unpaid coupons do not accrue."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "Downside Threshold** | CUSIP / ISIN |",
+      "lines": [
+        100,
+        102
+      ],
+      "note": "Downside Threshold 3,756.23 = 60.00% of Initial Underlying Level (row on line 102)."
+    },
+    "knock_in.monitoring": {
+      "quote": "The Final Underlying Level is observed relative to the Downside Threshold only on the Final Valuation Date",
+      "lines": [
+        48,
+        48
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return)",
+      "lines": [
+        350,
+        350
+      ],
+      "note": "1-to-1 loss below the threshold from the Initial Underlying Level => 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "Our estimated value of the Notes on the\nTrade Date, based on our internal pricing models, is $9.826 per Note.",
+      "lines": [
+        133,
+        134
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "strike_date",
+      "issue": "Strike Date 2026-09-14 is one day before Trade Date 2026-09-15; initial level 6,260.38 is the Strike Date close."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Filing says callable on 'any quarterly Observation Date, beginning on September 14, 2027' (not 'interim'); final valuation date is an Observation Date, so it is included => 9 levels (obs 4-12). Verify literal reading."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 6.85% p.a. / 4 = 1.7125% (stated in hypothetical-terms table line 595); cash amount $0.1713 is rounded (1.713%)."
+    },
+    {
+      "field": "underlyings[0].name",
+      "issue": "Cleaned text renders the name as 'EURO STOXX 50 ® Index' (space before ®); recorded as 'EURO STOXX 50® Index'."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed. Second observation date is March 15, 2027 (not the 14th)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Single EURO STOXX 50 price-return equity index; quarterly discrete autocall at 100% from obs 4; non-memory contingent coupon with 60% barrier; European (final-valuation-date-only) 60% downside threshold with full 1:1 downside; not buffered."
+  }
+}

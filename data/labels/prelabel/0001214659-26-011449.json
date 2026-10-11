@@ -1,0 +1,272 @@
+{
+  "accession": "0001214659-26-011449",
+  "source_file": "data/cleaned/0001214659-26-011449_y93263424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Bank of Montreal",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-02",
+    "strike_date": null,
+    "issue_date": "2026-09-08",
+    "maturity_date": "2029-09-07",
+    "underlyings": [
+      {
+        "name": "Russell 2000® Index",
+        "ticker": "RTY",
+        "initial_level": 2953.166
+      },
+      {
+        "name": "S&P 500® Index",
+        "ticker": "SPX",
+        "initial_level": 7666.6
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-02",
+      "2027-03-02",
+      "2027-06-02",
+      "2027-09-02",
+      "2027-12-02",
+      "2028-03-02",
+      "2028-06-02",
+      "2028-09-05",
+      "2028-12-04",
+      "2029-03-02",
+      "2029-06-04",
+      "2029-09-04"
+    ],
+    "payment_dates": [
+      "2026-12-04",
+      "2027-03-04",
+      "2027-06-04",
+      "2027-09-07",
+      "2027-12-06",
+      "2028-03-06",
+      "2028-06-06",
+      "2028-09-07",
+      "2028-12-06",
+      "2029-03-06",
+      "2029-06-06",
+      "2029-09-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.77
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Bank of Montreal |",
+      "lines": [
+        324,
+        324
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note |",
+      "lines": [
+        327,
+        327
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date: | September 2, 2026 |",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date: | September 2, 2026 |",
+      "lines": [
+        88,
+        88
+      ],
+      "note": "No separate strike date; Initial Underlier Value is the Closing Value on the Trade Date -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date: | September 8, 2026 |",
+      "lines": [
+        90,
+        90
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 : | September 7, 2029 |",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index (RTY) |",
+      "lines": [
+        124,
+        124
+      ],
+      "note": "Name recorded as 'Russell 2000® Index'; cleaned text inserts a space before ®"
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Russell 2000 ® Index (RTY) | 7.50% per annum | 2,953.166 |",
+      "lines": [
+        124,
+        124
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Index (SPX) |",
+      "lines": [
+        125,
+        125
+      ],
+      "note": "Name recorded as 'S&P 500® Index'"
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| S&P 500 ® Index (SPX) | 7.50% per annum | 7,666.60 |",
+      "lines": [
+        125,
+        125
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlier: | The Underlier with the lowest Underlier Return |",
+      "lines": [
+        339,
+        339
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates/Call Observation Dates* | Contingent Coupon Payment Dates/Call Settlement Dates* |",
+      "lines": [
+        354,
+        367
+      ],
+      "note": "12 rows; dates are subject to postponement, scheduled dates used as printed"
+    },
+    "payment_dates": {
+      "quote": "| December 2, 2026 | December 4, 2026 |",
+      "lines": [
+        356,
+        367
+      ]
+    },
+    "autocall.first_observation_index": {
+      "quote": "* Each Coupon Observation Date (other than the Final Valuation Date), starting from the second Coupon Observation Date, which is March 2, 2027, is a Call Observation Date.",
+      "lines": [
+        369,
+        370
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "If the Closing Value of each Underlier on any Call Observation Date is greater than or equal to its Initial Underlier Value, the Notes will be automatically called",
+      "lines": [
+        330,
+        330
+      ],
+      "note": "Call level 100% on observation dates 2..11 (10 dates); Final Valuation Date excluded"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 7.50% per annum. Accordingly, the Contingent Coupon with respect to each Coupon Observation Date is equal to $0.1875 per Note.",
+      "lines": [
+        332,
+        332
+      ],
+      "note": "7.50% p.a. / 4 = 1.875%; cross-check $0.1875 / $10 = 1.875%"
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon Barrier: | With respect to each Underlier, 70% of its Initial Underlier Value",
+      "lines": [
+        343,
+        343
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Coupon Observation Date will not accrue or be payable",
+      "lines": [
+        331,
+        331
+      ],
+      "note": "No memory wording; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold: | With respect to each Underlier, 70% of its Initial Underlier Value",
+      "lines": [
+        344,
+        344
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The Final Underlier Value of each Underlier is observed relative to its Downside Threshold only on the Final Valuation Date",
+      "lines": [
+        67,
+        67
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 + ($10 × Underlier Return of the Least Performing Underlier)",
+      "lines": [
+        337,
+        337
+      ],
+      "note": "1-to-1 exposure -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "the estimated initial value of the Notes is $9.77 per Note.",
+      "lines": [
+        134,
+        135
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Callable only on observation dates 2-11 (Mar 2027-Jun 2029); final valuation date explicitly excluded ('other than the Final Valuation Date'), so 10 levels for 11 dates from index 2."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted from 7.50% per annum to 1.875% per quarter; consistent with stated $0.1875 per $10 Note."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text renders '2000 ® Index' with spaces; name recorded as 'Russell 2000® Index' / 'S&P 500® Index' (no space). Verify preferred verbatim form."
+    },
+    {
+      "field": "underlyings[*].initial_level",
+      "issue": "Russell 2000 initial level printed with 3 decimals (2,953.166); S&P 500 with 2 (7,666.60)."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Schedule dates are subject to postponement; scheduled dates used as printed. Some rows fall on non-2nd days (Sep 5 2028, Dec 4 2028, Jun 4 2029) - as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity indices (RTY, SPX), quarterly non-memory coupon, discrete quarterly autocall, European (final-valuation-date only) 70% downside threshold with full 1:1 exposure; no buffer, no daily monitoring."
+  }
+}

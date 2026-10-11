@@ -1,0 +1,270 @@
+{
+  "accession": "0001918704-26-015864",
+  "source_file": "data/cleaned/0001918704-26-015864_form424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-03",
+    "strike_date": null,
+    "issue_date": "2026-06-08",
+    "maturity_date": "2029-06-07",
+    "underlyings": [
+      {
+        "name": "Invesco QQQ Trust SM , Series 1",
+        "ticker": "QQQ",
+        "initial_level": 744.21
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight ETF",
+        "ticker": "RSP",
+        "initial_level": 209.25
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-03",
+      "2026-12-03",
+      "2027-03-03",
+      "2027-06-03",
+      "2027-09-03",
+      "2027-12-03",
+      "2028-03-03",
+      "2028-06-05",
+      "2028-09-05",
+      "2028-12-04",
+      "2029-03-05",
+      "2029-06-04"
+    ],
+    "payment_dates": [
+      "2026-09-08",
+      "2026-12-07",
+      "2027-03-05",
+      "2027-06-07",
+      "2027-09-08",
+      "2027-12-07",
+      "2028-03-07",
+      "2028-06-07",
+      "2028-09-07",
+      "2028-12-06",
+      "2029-03-07",
+      "2029-06-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.1875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.785
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "BofA Finance LLC $14,101,900",
+      "lines": [
+        13,
+        13
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Stated Principal Amount | $10.00 per Note |",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date 1 | June 3, 2026 |",
+      "lines": [
+        79,
+        79
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date 1 | June 3, 2026 |",
+      "lines": [
+        79,
+        79
+      ],
+      "note": "No separate strike date; Initial Value is the Closing Market Price on the Trade Date (line 96). strike_date = null."
+    },
+    "issue_date": {
+      "quote": "| Issue Date 1 | June 8, 2026 |",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date | June 7, 2029 |",
+      "lines": [
+        82,
+        82
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "Invesco QQQ Trust SM , Series 1 (Ticker: QQQ)",
+      "lines": [
+        38,
+        38
+      ],
+      "note": "SM is a superscript service mark in the original; kept as rendered in the cleaned text."
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Invesco QQQ Trust SM , Series 1 (Ticker: QQQ) | 8.75% per annum | $744.21 |",
+      "lines": [
+        38,
+        38
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "Invesco S&P 500 Equal Weight ETF (Ticker: RSP)",
+      "lines": [
+        39,
+        39
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Invesco S&P 500 Equal Weight ETF (Ticker: RSP) | 8.75% per annum | $209.25 |",
+      "lines": [
+        39,
+        39
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying | On each Observation Date, including the Final Observation Date, the Underlying with the lowest Underlying Return as of that Observation Date. |",
+      "lines": [
+        92,
+        92
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates 1 | Coupon Payment Dates |",
+      "lines": [
+        131,
+        144
+      ],
+      "note": "12 rows; dates subject to postponement, scheduled dates used as printed."
+    },
+    "payment_dates": {
+      "quote": "| September 3, 2026 * | September 8, 2026 |",
+      "lines": [
+        131,
+        144
+      ]
+    },
+    "autocall.first_observation_index": {
+      "quote": "* The Notes are NOT automatically callable until the second Observation Date, which is December 3, 2026, and will NOT be automatically callable on the Final Observation Date (June 4, 2029).",
+      "lines": [
+        146,
+        146
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "on any Observation Date occurring on or after December 3, 2026 (other than the Final Observation Date) is greater than or equal to its Initial Value.",
+      "lines": [
+        85,
+        85
+      ],
+      "note": "Callable on obs 2..11 (10 dates) at 100% of Initial Value; final date excluded."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "Each Contingent Coupon Payment will be in the amount of $0.21875 for each $10.00 Stated Principal Amount (based on the per annum Contingent Coupon Rate of 8.75%)",
+      "lines": [
+        88,
+        88
+      ],
+      "note": "8.75% p.a. / 4 = 2.1875% per quarter (= $0.21875 / $10.00)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon Barrier | For any Underlying, 70% of its Initial Value, as specified on the cover page of this pricing supplement. |",
+      "lines": [
+        95,
+        95
+      ]
+    },
+    "coupon.memory": {
+      "quote": "no Contingent Coupon Payment will accrue or be paid on the related Coupon Payment Date.",
+      "lines": [
+        24,
+        24
+      ],
+      "note": "No memory/catch-up language anywhere; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold | For any Underlying, 70% of its Initial Value, as specified on the cover page of this pricing supplement. |",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The limited downside protection provided by the Downside Threshold applies only at maturity.",
+      "lines": [
+        168,
+        168
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10.00 × (1 + Underlying Return of the Least Performing Underlying on the Final Observation Date)",
+      "lines": [
+        90,
+        90
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "The initial estimated value of the Notes as of the Trade Date is $9.785 per $10.000 in Stated Principal Amount.",
+      "lines": [
+        46,
+        46
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 8.75% p.a. / 4 = 2.1875 (matches stated $0.21875 per $10)."
+    },
+    {
+      "field": "underlyings[0].name",
+      "issue": "Name contains 'SM' service-mark superscript rendered as ' SM ' in cleaned text; verify desired verbatim form (e.g. 'Invesco QQQ Trust SM, Series 1')."
+    },
+    {
+      "field": "underlyings[1]",
+      "issue": "Screening description says 's&p 500' but the underlying is the Invesco S&P 500 Equal Weight ETF (RSP), not SPY/SPX."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "10 callable dates (obs 2-11); final observation date explicitly not callable."
+    },
+    {
+      "field": "underlyings[*].initial_level",
+      "issue": "Coupon Barrier/Downside Threshold printed as dollar amounts rounded to 2 dp; labelled as 70%."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity ETFs (QQQ, RSP), quarterly non-memory contingent coupon, discrete autocall from obs 2 at 100%, European 70% downside threshold at maturity with 1:1 loss; matches pricing template."
+  }
+}

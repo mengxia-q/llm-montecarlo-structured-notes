@@ -1,0 +1,291 @@
+{
+  "accession": "0000950103-26-011340",
+  "source_file": "data/cleaned/0000950103-26-011340_dp250779_424b2-ubseln1751.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-28",
+    "strike_date": null,
+    "issue_date": "2026-07-30",
+    "maturity_date": "2031-07-31",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 27763.13
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6289.51
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-28",
+      "2027-01-28",
+      "2027-04-28",
+      "2027-07-28",
+      "2027-10-28",
+      "2028-01-28",
+      "2028-04-28",
+      "2028-07-28",
+      "2028-10-30",
+      "2029-01-29",
+      "2029-04-30",
+      "2029-07-30",
+      "2029-10-29",
+      "2030-01-28",
+      "2030-04-29",
+      "2030-07-29",
+      "2030-10-28",
+      "2031-01-28",
+      "2031-04-28",
+      "2031-07-28"
+    ],
+    "payment_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02",
+      "2027-11-02",
+      "2028-02-02",
+      "2028-05-03",
+      "2028-08-02",
+      "2028-11-02",
+      "2029-02-01",
+      "2029-05-03",
+      "2029-08-02",
+      "2029-11-01",
+      "2030-01-31",
+      "2030-05-02",
+      "2030-08-01",
+      "2030-10-31",
+      "2031-01-31",
+      "2031-05-01",
+      "2031-07-31"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.5875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.69
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Royal Bank of Canada |",
+      "lines": [
+        263,
+        263
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        265,
+        265
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | July 28, 2026 |",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | July 28, 2026 |",
+      "lines": [
+        61,
+        61
+      ],
+      "note": "No separate strike date; Initial Underlying Value is the closing value on the Trade Date -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | July 30, 2026 |",
+      "lines": [
+        63,
+        63
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | July 31, 2031 |",
+      "lines": [
+        67,
+        67
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® (NDX) | 10.35% per annum | 27,763.13 |",
+      "lines": [
+        95,
+        95
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® (NDX) | 10.35% per annum | 27,763.13 |",
+      "lines": [
+        95,
+        95
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 10.35% per annum | 6,289.51 |",
+      "lines": [
+        96,
+        96
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (SX5E) | 10.35% per annum | 6,289.51 |",
+      "lines": [
+        96,
+        96
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying: | The Underlying with the lowest Underlying Return |",
+      "lines": [
+        272,
+        272
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        307,
+        328
+      ],
+      "note": "20 quarterly rows; last row = Final Valuation Date July 28, 2031"
+    },
+    "payment_dates": {
+      "quote": "| October 28, 2026 | November 2, 2026 |",
+      "lines": [
+        309,
+        328
+      ],
+      "note": "taken from the same table, column 2"
+    },
+    "autocall.first_observation_index": {
+      "quote": "starting from the second Coupon Observation Date, which is January 28, 2027, is a Call Observation Date",
+      "lines": [
+        335,
+        335
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "Each Coupon Observation Date (other than the Final Valuation Date),",
+      "lines": [
+        334,
+        334
+      ],
+      "note": "Call obs dates = obs 2..19 (final excluded); trigger = Initial Underlying Value (100%) -> 18 entries of 100"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 10.35% per annum. Whether Contingent Coupons will be paid on the Notes will depend on the performance of the Underlyings. |",
+      "lines": [
+        269,
+        269
+      ],
+      "note": "10.35% p.a. / 4 quarterly = 2.5875 (exact; hypothetical section line 527 also states 2.5875% per quarter, $0.25875)"
+    },
+    "coupon.barrier_pct": {
+      "quote": "19,434.19, which is 70% of its Initial Underlying Value",
+      "lines": [
+        95,
+        96
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Coupon Observation Date will not accrue or be payable",
+      "lines": [
+        268,
+        268
+      ],
+      "note": "No memory language; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "4,402.66, which is 70% of its Initial Underlying Value",
+      "lines": [
+        96,
+        96
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The contingent repayment of principal\napplies only at maturity.",
+      "lines": [
+        47,
+        48
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 + ($10 × Underlying Return of the Least Performing Underlying)",
+      "lines": [
+        271,
+        271
+      ],
+      "note": "1-to-1 loss -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "is $9.69 per Note",
+      "lines": [
+        125,
+        125
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Valuation Date explicitly excluded from Call Observation Dates (footnote **), so 18 levels for obs 2-19."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted from 10.35% p.a. / 4 = 2.5875 (filing confirms 2.5875% per quarter in hypothetical section)."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text has '®' separated by spaces/line breaks; names recorded as in cover table."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity indices (NDX, SX5E), non-memory coupon, quarterly discrete autocall, European (final-date) 70% knock-in with 1:1 loss; no buffer."
+  }
+}

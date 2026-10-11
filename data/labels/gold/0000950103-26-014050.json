@@ -1,0 +1,89 @@
+{
+  "accession": "0000950103-26-014050",
+  "source_file": "data/cleaned/0000950103-26-014050_dp253451_424b2-9662ubs.htm.txt",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-15",
+    "strike_date": "2026-09-14",
+    "issue_date": "2026-09-17",
+    "maturity_date": "2029-09-18",
+    "underlyings": [
+      {
+        "name": "EURO STOXX 50\u00ae Index",
+        "ticker": "SX5E",
+        "initial_level": 6260.38
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-12-14",
+      "2027-03-15",
+      "2027-06-14",
+      "2027-09-14",
+      "2027-12-14",
+      "2028-03-14",
+      "2028-06-14",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-14",
+      "2029-06-14",
+      "2029-09-14"
+    ],
+    "payment_dates": [
+      "2026-12-16",
+      "2027-03-17",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-16",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-16",
+      "2029-06-18",
+      "2029-09-18"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.7125,
+      "barrier_pct": 60.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.826
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0000950103-26-014050.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": null,
+    "verification_minutes_range": [
+      18,
+      23
+    ],
+    "notes": "verifier reported no corrections",
+    "timing_note": "per-file times not recorded; verifier reported 18-23 minutes per file for all 7 files"
+  }
+}

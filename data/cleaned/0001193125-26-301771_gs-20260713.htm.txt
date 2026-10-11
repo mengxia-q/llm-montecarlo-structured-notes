@@ -1,0 +1,758 @@
+424B2
+
+1
+
+gs-20260713.htm
+
+424B2
+
+424B2
+
+Filed pursuant to Rule 424(b)(2) / Registration Statement No. 333-284538
+
+| | GS Finance Corp. $15,356,220 Trigger Autocallable Contingent Yield Notes due 2029 guaranteed by The Goldman Sachs Group, Inc. Linked to the least performing of the Russell 2000 ® Index and the S&P 500 ® Index |
+| --- | --- |
+| Investment Description | Investment Description |
+
+The amount you will be paid on your notes is based on the performance of the least performing of the Russell 2000
+®
+Index
+
+and the S&P 500
+®
+Index. The notes are unsecured notes issued by GS Finance Corp. and guaranteed by The Goldman Sachs Group, Inc. Your notes will pay a contingent coupon on a coupon payment date only if the closing level of each index on the applicable observation date (quarterly, including the determination date) is equal to or greater than its coupon barrier. Otherwise, no contingent coupon will be paid for the relevant coupon payment date. Commencing in January 2027, your notes will be automatically called if the closing level of each index on any observation date is equal to or greater than its initial index level on the trade date. If the notes are automatically called, you will receive on the applicable coupon payment date following such observation date a payment per note equal to the face amount plus the contingent coupon otherwise due, and no further payments will be owed to you under the notes. If the notes are not automatically called and the closing level of each index on the determination date (the final index level) is equal to or greater than its downside threshold (which is the same as its coupon barrier), you will receive the face amount of your notes plus the final contingent coupon. If, however, the notes are not automatically called and the final index level of any index is less than its downside threshold, you will receive less than the face amount of your notes and you will not receive a final contingent coupon, resulting in a percentage loss on your investment equal to the percentage change in the lesser performing index from the trade date to the determination date (the index return) and you could lose all of your investment. The lesser performing index is the index with the lowest index return.
+Investing in the notes involves significant risks. You may lose a significant portion or all of your investment and may not receive any contingent coupon during the term of the notes. You will be exposed to the market risk of each index on each observation date, including the determination date, and any decline in the level of one index may negatively affect your return and will not be offset or mitigated by a lesser decline or any potential increase in the level of any other index. Generally, a higher contingent coupon on a note is associated with a greater risk of loss and a greater risk that you will not receive contingent coupons over the term of the notes. The contingent repayment of principal applies only at maturity. Any payment on the notes, including any repayment of principal, is subject to the creditworthiness of GS Finance Corp. and The Goldman Sachs Group, Inc.
+
+| Features | Key Dates | Key Dates |
+| --- | --- | --- |
+| O Potential for Periodic Contingent Coupons – Your notes will pay a contingent coupon on a coupon payment date only if the closing level of each index is equal to or greater than its coupon barrier on the applicable observation date (including the determination date). If, however, the closing level of any index is less than its coupon barrier on the applicable observation date, no contingent coupon will be paid for the relevant coupon payment date. O Automatic Call Feature – Commencing in January 2027, your notes will be automatically called and you will receive the face amount of your notes plus the contingent coupon otherwise due on the related coupon payment date if the closing level of each index is equal to or greater than its initial index level on any quarterly observation date. If the notes were previously automatically called, no further payments will be owed to you under the notes. O Contingent Repayment of Principal at Maturity with Potential for Full Downside Market Exposure – At maturity, if the notes have not been automatically called and the final index level of each index is equal to or greater than its downside threshold (which is the same as its coupon barrier), you will receive a payment equal to the face amount of your notes plus the final contingent coupon. If, however, the final index level of any index is less than its downside threshold, you will receive less than the face amount, if anything, and no contingent coupon, resulting in a percentage loss on your investment equal to the lesser performing index return. The contingent repayment of principal applies only if you hold the notes to maturity. Any payment on the notes, including any repayment of principal, is subject to the creditworthiness of GS Finance Corp. and The Goldman Sachs Group, Inc. | Trade date Original issue date Observation dates* Determination date* Stated maturity date* *Subject to postponement. | July 9, 2026 July 13, 2026 quarterly (see page PS-7) July 9, 2029 July 12, 2029 |
+
+| Notice to investors: the notes are a riskier investment than ordinary debt securities. GS Finance Corp. is not necessarily obligated to repay the face amount of the notes at maturity, and the notes may have the same downside market risk as the indices. This market risk is in addition to the credit risk of GS Finance Corp. and The Goldman Sachs Group, Inc. You should not purchase the notes if you do not understand or are not comfortable with the significant risks involved in investing in the notes. You should read the disclosure herein to better understand the terms and risks of your investment, including the credit risk of GS Finance Corp. and The Goldman Sachs Group, Inc. See page PS- 14 . |
+| --- |
+| Key Terms |
+
+| Index | Bloomberg Symbol | Contingent Coupon (per $10 Face Amount) | Initial Index Level | Coupon Barrier | Downside Threshold | CUSIP | ISIN |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Russell 2000 ® Index | RTY Index | $0.20075/qtr. (up to 8.03% per annum) | 2,992.542 | 70% of its initial index level* | 70% of its initial index level* | 36274H642 | US36274H6421 |
+| S&P 500 ® Index | SPX Index | $0.20075/qtr. (up to 8.03% per annum) | 7,543.64 | 70% of its initial index level* | 70% of its initial index level* | 36274H642 | US36274H6421 |
+
+*The coupon barrier and the downside threshold will equal the same percentage of the index’s initial index level.
+The estimated value of your
+
+notes at the time the terms of your notes are set on the trade date is equal to approximately $9.81 per $10 face amount. For a discussion of the estimated value and the price at which Goldman Sachs & Co. LLC would initially buy or sell your notes, if it makes a market in the notes, see page PS-
+2
+.
+
+| Original issue price | Underwriting discount | Net proceeds to the issuer |
+| --- | --- | --- |
+| 100.00% of the face amount | 2.00% of the face amount | 98.00% of the face amount |
+
+Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or passed upon the accuracy or adequacy of this pricing supplement . Any representation to the contrary is a criminal offense.
+
+The notes are not bank deposits and are not insured by the Federal Deposit Insurance Corporation or any other governmental agency, nor are they obligations of, or guaranteed by, a bank.
+
+| Goldman Sachs & Co. LLC | UBS Financial Services Inc. Selling Agent |
+| --- | --- |
+
+Pricing Supplement No. 25,844 dated July 9, 2026.
+
+The issue price, underwriting discount and net proceeds listed above relate to the notes we sell initially. We may decide to sell additional notes after the date of this pricing supplement , at issue prices and with underwriting discounts and net proceeds that differ from the amounts set forth above. The return (whether positive or negative) on your investment in notes will depend in part on the issue price you pay for such notes.
+GS Finance Corp. may use this prospectus in the initial sale of the notes. In addition, Goldman Sachs & Co. LLC or any other affiliate of GS Finance Corp. may use this prospectus in a market-making transaction in a note after its initial sale.
+Unless GS Finance Corp
+.
+or its agent informs the purchaser otherwise in the confirmation of sale, this prospectus is being used in a market-making transaction.
+
+Estimated Value of Your Notes
+The estimated value of your notes at the time the terms of your notes are set on the trade date (as determined by reference to pricing models used by Goldman Sachs & Co. LLC (GS&Co.) and taking into account our credit spreads) is equal to approximately $9.81 per $10 face amount, which is less than the original issue price. The value of your notes at any time will reflect many factors and cannot be predicted; however, the price (not including GS&Co.’s customary bid and ask spreads) at which GS&Co. would initially buy or sell notes (if it makes a market, which it is not obligated to do) and the value that GS&Co. will initially use for account statements and otherwise is equal to approximately the estimated value of your notes at the time of pricing, plus an additional amount (initially equal to $0.14 per $10 face amount).
+Prior to January 14, 2027, the price (not including GS&Co.’s customary bid and ask spreads) at which GS&Co. would buy or sell your notes (if it makes a market, which it is not obligated to do) will equal approximately the sum of (a) the then-current estimated value of your notes (as determined by reference to GS&Co.’s pricing models) plus (b) any remaining additional amount (the additional amount will decline to zero on a straight-line basis over the period from the time of pricing through January 13, 2027). On and after January 14, 2027, the price (not including GS&Co.’s customary bid and ask spreads) at which GS&Co. would buy or sell your notes (if it makes a market) will equal approximately the then-current estimated value of your notes determined by reference to such pricing models.
+
+About Your Notes
+The notes are part of the Medium-Term Notes, Series F program of GS Finance Corp., and are fully and unconditionally guaranteed by The Goldman Sachs Group, Inc. This prospectus includes this pricing supplement and the accompanying documents listed below. This pricing supplement constitutes a supplement to the documents listed below, does not set forth all of the terms of your notes and therefore should be read in conjunction with such documents:
+●
+General terms supplement no. 17,745 dated January 20, 2026
+●
+Underlier supplement no. 49 dated June 24, 2026
+●
+Prospectus supplement dated February 14, 2025
+●
+Prospectus dated February 14, 2025
+The information in this pricing supplement supersedes any conflicting information in the documents listed above. In addition, some of the terms or features described in the listed documents may not apply to your notes.
+We refer to the notes we are offering by this pricing supplement as the “offered notes” or the “notes”. Each of the offered notes has the terms described below. Please note that in this pricing supplement, references to “GS Finance Corp.”, “we”, “our” and “us” mean only GS Finance Corp. and do not include its subsidiaries or affiliates, references to “The Goldman Sachs Group, Inc.”, our parent company, mean only The Goldman Sachs Group, Inc. and do not include its subsidiaries or affiliates and references to “Goldman Sachs” mean The Goldman Sachs Group, Inc. together with its consolidated subsidiaries and affiliates, including us.
+
+Please note that, for purposes of this pricing supplement, references in the general terms supplement no. 17,745 to “underlier(s)”, “indices” and “exchange-traded fund(s)” shall be deemed to refer to “underlying(s)”, “underlying index(es)” and “underlying ETF(s)”, respectively.
+
+Please note that, for purposes of this pricing supplement, references in the underlier supplement no. 49 to “underlier(s)” and “indices” shall be deemed to refer to “underlying(s)” and “underlying index(es)”, respectively.
+The notes will be issued under the senior debt indenture, dated as of October 10, 2008, as supplemented by the First Supplemental Indenture, dated as of February 20, 2015, each among us, as issuer, The Goldman Sachs Group, Inc., as guarantor, and The Bank of New York Mellon, as trustee. This indenture, as so supplemented and as further supplemented thereafter, is referred to as the “GSFC 2008 indenture” in the accompanying prospectus supplement.
+
+The notes will be issued in book-entry form and represented by master note no 3, dated March 22, 2021.
+
+Minimum Purchase Amount of Notes Offered Hereby
+In connection with the initial offering of the notes, the minimum face amount of notes that may be purchased by any investor is $1,000.
+
+PS-2
+
+| Investor Suitability | Investor Suitability |
+| --- | --- |
+| The notes may be suitable for you if, among other considerations:  You fully understand the risks inherent in an investment in the notes, including the risk of loss of your entire initial investment.  You understand and accept that an investment in the notes is linked to the performance of the lesser performing index and not a basket of the indices, that you will be exposed to the individual market risk of each index on each observation date and on the determination date and that you may lose your entire initial investment if the closing level of any index is less than its downside threshold on the determination date.  You can tolerate a loss of all or a substantial portion of your investment and are willing to make an investment that may have the same downside market risk as an investment in the lesser performing index or the stocks comprising the lesser performing index.  You accept that you may not receive a contingent coupon on some or all of the coupon payment dates.  You believe that the closing level of each index will be equal to or greater than its coupon barrier on the specified observation dates and the final index level of each index will be equal to or greater than its downside threshold on the determination date.  You can accept that the risks of each index are not mitigated by the performance of any other index and the risks of investing in notes with a return based on the performance of multiple indices.  You understand and accept that you will not participate in any appreciation of any index from the trade date to any coupon observation date or the determination date, as applicable, that your notes will be automatically called on any call observation date if the closing level of each index so appreciates and that your potential return is limited to the contingent coupons.  You can tolerate fluctuations in the market price of the notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the indices.  You are willing to invest in the notes based on the downside threshold(s), coupon barrier(s) and contingent coupon specified on the cover hereof.  You do not seek guaranteed current income from this investment and are willing to forgo dividends paid on the stocks comprising the indices.  You are able and willing to invest in notes that may be automatically called early or you are otherwise able and willing to hold the notes to maturity. | The notes may not be suitable for you if, among other considerations:  You do not fully understand the risks inherent in an investment in the notes, including the risk of loss of your entire initial investment.  You do not understand or are unwilling to accept that an investment in the notes is linked to the performance of the lesser performing index and not a basket of the indices, that you will be exposed to the individual market risk of each index on each observation date and on the determination date and that you may lose a significant portion or all of your initial investment if the closing level of any index is less than its downside threshold on the determination date.  You cannot tolerate a loss of all or a substantial portion of your investment and are unwilling to make an investment that may have the same downside market risk as an investment in the lesser performing index or the stocks comprising the lesser performing index.  You require an investment designed to provide a full return of principal at maturity.  You do not accept that you may not receive a contingent coupon on some or all of the coupon payment dates.  You believe that the closing level of any index will be less than its coupon barrier on the specified observation dates and the final index level of any index will be less than its downside threshold on the determination date.  You cannot accept that the risks of each index are not mitigated by the performance of any other index or the risks of investing in securities with a return based on the performance of multiple indices.  You seek an investment that participates in the full appreciation of the levels of the indices or the positive return of which is not limited to the contingent coupons.  You cannot tolerate fluctuations in the market price of the notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the indices.  You are not willing to invest in the notes based on the downside threshold(s), coupon barrier(s) or contingent coupon specified on the cover hereof.  You prefer the lower risk, and therefore accept the potentially lower returns, of fixed income investments with comparable maturities and credit ratings.  You seek guaranteed current income from this investment or prefer to receive the dividends paid on the stocks comprising the indices.  You are unable or unwilling to invest in notes that may be automatically called early, or you are |
+
+PS-
+3
+
+|  You accept that there may be little or no secondary market for the notes and that any secondary market will depend in large part on the price, if any, at which GS&Co., is willing to purchase the notes.  You understand and accept the risks associated with the indices.  You are willing to assume the credit risks of GS Finance Corp. and The Goldman Sachs Group, Inc. for all payments under the notes, and understand that if GS Finance Corp. and The Goldman Sachs Group, Inc. default on their obligations, you may not receive any amounts due on the notes. | otherwise unable or unwilling to hold the notes to maturity, or you seek an investment for which there will be an active secondary market.  You do not understand or accept the risks associated with the indices.  You are not willing to assume the credit risks of GS Finance Corp. and The Goldman Sachs Group, Inc. for all payments under the notes, including any repayment of principal. |
+| --- | --- |
+
+The suitability considerations identified above are not exhaustive. Whether or not the notes are an appropriate investment for you will depend on your individual circumstances, and you should reach an investment decision only after you and your investment, legal, tax, accounting and other advisors have carefully considered the suitability of an investment in the notes in light of your particular circumstances. You should also review carefully the “Additional Risk Factors Specific to Your Notes” section of this pricing supplement . For more information on the indices, please see the section titled “The Underlying Indices” below.
+
+PS-
+4
+
+| Key Terms (continued) |
+| --- |
+
+| Company (Issuer): | GS Finance Corp. |
+| --- | --- |
+| Guarantor: | The Goldman Sachs Group, Inc. |
+| Underlying indices: | the Russell 2000 ® Index and the S&P 500 ® Index |
+| Face amount: | $15,356,220 in the aggregate on the original issue date; the aggregate face amount may be increased if the company, at its sole option, decides to sell an additional amount on a date subsequent to the trade date. |
+| Authorized denominations : | $10 or any integral multiple of $10 in excess thereof |
+| Principal amount: | Subject to redemption by the company as provided under “— Company’s redemption right (automatic call feature)” below, on the stated maturity date, in addition to the final contingent coupon, if any, the company will pay, for each $10 of the outstanding face amount, an amount, if any, in cash equal to the cash settlement amount. |
+| Cash settlement amount : | ● if the final underlying index level of each underlying index is greater than or equal to its downside threshold, $10; or ● if the final underlying index level of any underlying index is less than its downside threshold, the sum of (i) $10 plus (ii) the product of (a) the lesser performing underlying index return times (b) $10. |
+| Company’s redemption right (automatic call feature): | if a redemption event occurs, then the outstanding face amount will be automatically redeemed in whole and the company will pay, in addition to the contingent coupon then due, an amount in cash on the following call payment date, for each $10 of the outstanding face amount, equal to $10 |
+| Redemption event: | a redemption event will occur if, as measured on any call observation date, the closing level of each underlying index is greater than or equal to its initial underlying index level |
+| Initial underlying index level: | 2,992.542 with respect to the Russell 2000 ® Index and 7,543.64 with respect to the S&P 500 ® Index. The initial underlying index level of each underlying index is the closing level of such underlying index on the trade date. |
+| Final underlying index level: | with respect to each underlying index, the closing level of such underlying index on the determination date |
+| Underlying index return: | with respect to each underlying index, the quotient of (i) the final underlying index level minus the initial underlying index level divided by (ii) the initial underlying index level, expressed as a percentage |
+| Downside threshold: | with respect to the Russell 2000 ® Index, 70.00% of its initial underlying index level (rounded to the nearest one-thousandth) and with respect to the S&P 500 ® |
+
+PS-
+5
+
+| | Index, 70.00% of its initial underlying index level (rounded to the nearest one-hundredth) |
+| --- | --- |
+| Lesser performing underlying index return: | the underlying index return of the lesser performing underlying index |
+| Lesser performing underlying index: | the underlying index with the lowest underlying index return |
+| Contingent coupon: | subject to the company’s redemption right, on each coupon payment date, for each $10 of the outstanding face amount, the company will pay an amount in cash equal to: ● if the closing level of each underlying index on the related coupon observation date is greater than or equal to its coupon barrier, $0.20075; or ● if the closing level of any underlying index on the related coupon observation date is less than its coupon barrier, $0.00 |
+| Coupon barrier : | with respect to the Russell 2000 ® Index, 70.00% of its initial underlying index level (rounded to the nearest one-thousandth) and with respect to the S&P 500 ® Index, 70.00% of its initial underlying index level (rounded to the nearest one-hundredth) |
+| Trade date: | July 9, 2026 |
+| Original issue date: | July 13, 2026 |
+| Determination date: | the last coupon observation date, July 9, 2029, subject to adjustment as described in the accompanying general terms supplement |
+| Stated maturity date: | July 12, 2029, subject to adjustment as described in the accompanying general terms supplement |
+| Call observation dates: | each coupon observation date specified in the table under “ — Coupon payment dates” below, commencing January 2027, subject to adjustment as described in the accompanying general terms supplement |
+| Call payment dates: | the coupon payment date immediately after the applicable call observation date, subject to adjustment as described in the accompanying general terms supplement |
+| Coupon observation dates: | the dates specified as such in the table under “— Coupon payment dates” below, commencing on October 9, 2026 and ending on July 9, 2029, subject to adjustment as described in the accompanying general terms supplement |
+| Coupon payment dates: | the dates specified as such in the table below, subject to adjustment as described in the accompanying general terms supplement |
+| Calculation agent: | Goldman Sachs & Co. LLC (“GS&Co.”) |
+
+PS-
+6
+
+| Coupon Observation Dates | Coupon Payment Dates |
+| --- | --- |
+| October 9, 2026 | October 15, 2026 |
+| January 11, 2027 Ɨ | January 14, 2027 |
+| April 9, 2027 | April 14, 2027 |
+| July 9, 2027 | July 14, 2027 |
+| October 11, 2027 | October 14, 2027 |
+| January 10, 2028 | January 13, 2028 |
+| April 10, 2028 | April 13, 2028 |
+| July 10, 2028 | July 13, 2028 |
+| October 9, 2028 | October 12, 2028 |
+| January 9, 2029 | January 12, 2029 |
+| April 9, 2029 | April 12, 2029 |
+| July 9, 2029 | July 12, 2029 |
+
+Ɨ
+This is the first date on which your notes may be automatically called.
+
+PS-
+7
+
+| Investment Timeline With Respect to The Notes Offered Hereby |
+| --- |
+
+| Trade Date | The initial underlying index level for each underlying index and the final terms of the notes are set. |
+| --- | --- |
+| Quarterly | If the closing level of each underlying index is greater than or equal to its coupon barrier on the coupon observation date, you will receive the contingent coupon on the related coupon payment date. Also, your notes will be automatically called if the closing level of each underlying index on the call observation date is greater than or equal to its initial underlying index level. If your notes are automatically called on the call observation date, on the related call payment date we will pay you an amount in cash for each $10 face amount of your notes equal to $10 plus the contingent coupon then due, and no further payments will be made on the notes. |
+| Maturity Date | The final underlying index level of each underlying index is determined as of the determination date. If your notes have not been automatically called and the final underlying index level of each underlying index stock is greater than or equal to its downside threshold, on the stated maturity date we will pay you an amount in cash for each $10 face amount of your notes equal to the sum of $10 plus the final contingent coupon. If your notes have not been automatically called and the final underlying index level of any underlying index is less than its downside threshold, on the stated maturity date we will pay you an amount in cash for each $10 face amount of your notes equal to the sum of (i) $10 plus (ii) the product of (a) the lesser performing underlying index return times (b) $10. You will receive less than the face amount of your notes, resulting in a loss on your investment proportionate to the decline of the lesser performing underlying index. |
+
+INVESTING IN THE NOTES INVOLVES SIGNIFICANT RISKS. YOU MAY LOSE SOME OR ALL OF YOUR INVESTMENT IN THE NOTES. ANY PAYMENT ON THE NOTES IS SUBJECT TO THE CREDITWORTHINESS OF GS FINANCE CORP. AND THE GOLDMAN SACHS GROUP, INC.
+
+IF GS FINANCE CORP. AND THE GOLDMAN SACHS GROUP, INC. WERE TO DEFAULT ON THEIR PAYMENT OBLIGATIONS, YOU MAY NOT RECEIVE ANY AMOUNTS OWED TO YOU UNDER THE NOTES AND YOU COULD LOSE YOUR ENTIRE INVESTMENT.
+
+PS-
+8
+
+| H YPOTHETICAL EXAMPLES |
+| --- |
+
+| (Hypothetical examples use hypothetical terms only. Actual terms will vary.) |
+| --- |
+| The following examples illustrate the hypothetical payments on a coupon payment date, upon an automatic call or at maturity under different hypothetical scenarios for a $10 note linked to the underlying indices based on the assumptions set forth in the table below. The actual terms for the offering of notes are specified above. |
+
+The following examples are provided for purposes of illustration only. They should not be taken as an indication or prediction of future investment results and are intended merely to illustrate (i) the impact that various hypothetical closing levels of the underlying indices on a coupon observation date could have on the contingent coupon payable on the related coupon payment date and (ii) the impact that the various hypothetical closing levels of the lesser performing underlying index on the determination date could have on the cash settlement amount at maturity assuming all other variables remain constant.
+The examples below are based on a range of underlying index levels of the lesser performing underlying index that are entirely hypothetical; no one can predict what the underlying index level of any underlying index will be on any day throughout the life of your notes, what the closing level of any underlying index will be on any coupon observation date or call observation date, as the case may be, and what the final underlying index level of the lesser performing underlying index will be on the determination date. The underlying indices have been highly volatile in the past — meaning that the underlying index levels have changed substantially in relatively short periods — and their performance cannot be predicted for any future period.
+The information in the following examples reflects hypothetical rates of return on the offered notes assuming that they are purchased on the original issue date at the face amount and held to a call payment date or the stated maturity date. If you sell your notes in a secondary market prior to a call payment date or the stated maturity date, as the case may be, your return will depend upon the market value of your notes at the time of sale, which may be affected by a number of factors that are not reflected in the examples below such as interest rates, the volatility of the underlying indices, the creditworthiness of GS Finance Corp., as issuer, and the creditworthiness of The Goldman Sachs Group, Inc., as guarantor. In addition, the estimated value of your notes at the time the terms of your notes are set on the trade date (as determined by reference to pricing models used by GS&Co.) is less than the original issue price of your notes. For more information on the estimated value of your notes, see “Additional Risk Factors Specific to Your Notes — The Estimated Value of Your Notes At the Time the Terms of Your Notes Are Set On the Trade Date (as Determined By Reference to Pricing Models Used By GS&Co.) Is Less Than the Original Issue Price Of Your Notes” on page PS-
+14
+of this pricing supplement .
+
+| Key Terms and Assumptions | Key Terms and Assumptions |
+| --- | --- |
+| Face amount | $10 |
+| Hypothetical initial underlying index level of the Russell 2000 ® Index | 100* |
+| Hypothetical initial underlying index level of the S&P 500 ® Index | 100* |
+| Downside threshold | with respect to each underlying index, 70.00% of its initial underlying index level (based on the hypothetical initial underlying index levels above, the downside threshold for each index is 70) |
+| Coupon barrier | with respect to each underlying index, 70.00% of its initial underlying index level (based on the hypothetical initial underlying index levels above, the coupon barrier for each index is 70) |
+| Contingent coupon | $0.20075 (up to 8.03% per annum) |
+| * The hypothetical initial underlying index level of 100 has been chosen for illustrative purposes only and does not represent the actual initial underlying index level of the underlying index Neither a market disruption event nor a non-trading day occurs on any originally scheduled coupon observation date or the originally scheduled determination date | * The hypothetical initial underlying index level of 100 has been chosen for illustrative purposes only and does not represent the actual initial underlying index level of the underlying index Neither a market disruption event nor a non-trading day occurs on any originally scheduled coupon observation date or the originally scheduled determination date |
+| No change in or affecting any of the underlying index stocks or the method by which the applicable underlying index sponsor calculates any underlying index | No change in or affecting any of the underlying index stocks or the method by which the applicable underlying index sponsor calculates any underlying index |
+| Notes purchased on original issue date at the face amount and held to a call payment date or the stated maturity date | Notes purchased on original issue date at the face amount and held to a call payment date or the stated maturity date |
+
+PS-
+9
+
+The actual performance of the underlying indices over the life of your notes, the actual underlying index levels on any call observation date or coupon observation date, as well as the contingent coupon payable, if any, on each coupon payment date, may bear little relation to the hypothetical examples shown below or to the historical underlying index levels shown elsewhere in this pricing supplement . For information about the underlying index levels during recent periods, see “The Underlying Indices — Historical Closing Levels of the Underlying Indices” on page PS-
+23
+. Before investing in the notes, you should consult publicly available information to determine the underlying index levels between the date of this pricing supplement and the date of your purchase of the notes.
+Also, the hypothetical examples shown below do not take into account the effects of applicable taxes. Because of the U.S. tax treatment applicable to your notes, tax liabilities could affect the after-tax rate of return on your notes to a comparatively greater extent than the after-tax return on the underlying index stocks.
+Example 1 – The notes are automatically called on the second hypothetical coupon observation date (which is also the first hypothetical call observation date)
+
+| Hypothetical Coupon Observation Date | Hypothetical Closing Level of the Russell 2000 ® Index | Hypothetical Closing Level of the S&P 500 ® Index | Hypothetical Contingent Coupon Paid on Related Coupon Payment Date |
+| --- | --- | --- | --- |
+| First | 50 (below its hypothetical coupon barrier) | 65 (below its hypothetical coupon barrier) | $0 |
+| Second | 120 (at or above its hypothetical initial underlying index level) | 115 (at or above its hypothetical initial underlying index level) | $0.20075 |
+| | | Total Contingent Coupon Payments | $0.20075 |
+
+The hypothetical closing level of each underlying index decreases, compared to its hypothetical initial underlying index level, on the first hypothetical coupon observation date. Because the hypothetical closing level of at least one of the underlying indices on the first hypothetical coupon observation date is less than its hypothetical coupon barrier, no hypothetical contingent coupon will be paid on the first hypothetical coupon payment date. Because the hypothetical closing level of each underlying index is greater than or equal to its hypothetical initial underlying index level on the second hypothetical coupon observation date (which is also the first hypothetical call observation date), your notes will be automatically called. Therefore, on the corresponding hypothetical call payment date, in addition to the hypothetical contingent coupon, you will receive an amount in cash equal to $10 for each $10 face amount of your notes. No further payments will be made on the notes since your notes will no longer be outstanding.
+Example 2 – The notes are not automatically called
+and
+the hypothetical final underlying index level of each underlying index is at or above the hypothetical downside threshold
+
+| Hypothetical Coupon Observation Date | Hypothetical Closing Level of the Russell 2000 ® Index | Hypothetical Closing Level of the S&P 500 ® Index | Hypothetical Contingent Coupon Paid on Related Coupon Payment Date |
+| --- | --- | --- | --- |
+| First | 80 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | 110 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | $0.20075 |
+| Second | 105 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | 95 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | $0.20075 |
+| Third – Eleventh | 65 (below its hypothetical coupon barrier) | 60 (below its hypothetical coupon barrier) | $0 |
+| Twelfth | 92 (at or above its hypothetical downside threshold) | 92 (at or above its hypothetical downside threshold) | $0.20075 |
+| | | Total Contingent Coupon Payments | $0.60225 |
+
+The hypothetical closing level of each underlying index increases and decreases by varying amounts, compared to its hypothetical initial underlying index level, on the hypothetical coupon observation dates. Because the hypothetical closing level of each underlying index on the first and second hypothetical coupon observation dates is
+greater than
+or
+equal to
+its hypothetical coupon barrier, hypothetical contingent coupons are paid on the two related hypothetical coupon payment dates. Although the final underlying index level of each underlying index is less than the initial underlying index level, because the final underlying index level of each underlying index is not less than its hypothetical downside threshold, at maturity you will receive a cash settlement amount equal to $10, plus the final coupon.
+
+PS-
+10
+
+Example 3 – The notes are not automatically called
+and
+the hypothetical final underlying index level of the lesser performing underlying index is below its hypothetical downside threshold
+
+| Hypothetical Coupon Observation Date | Hypothetical Closing Level of the Russell 2000 ® Index | Hypothetical Closing Level of the S&P 500 ® Index | Hypothetical Contingent Coupon Paid on Related Coupon Payment Date |
+| --- | --- | --- | --- |
+| First | 85 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | 105 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | $0.20075 |
+| Second | 105 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | 90 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | $0.20075 |
+| Third – Eleventh | 65 (below its hypothetical coupon barrier) | 80 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | $0 |
+| Twelfth | 50 (below its hypothetical downside threshold) | 80 (at or above its hypothetical downside threshold) | $0 |
+| | | Total Contingent Coupon Payments | $0.4015 |
+
+The hypothetical closing level of each underlying index increases and decreases by varying amounts, compared to its hypothetical initial underlying index level, on the hypothetical coupon observation dates. Because the hypothetical closing level of each underlying index on the first and second hypothetical coupon observation dates is
+greater than
+or
+equal to
+its hypothetical coupon barrier, hypothetical contingent coupons are paid on the two related hypothetical coupon payment dates. As the hypothetical final underlying index level of the lesser performing underlying index is less than its hypothetical downside threshold, you will receive a cash settlement amount at maturity equal to the
+sum
+of (i) $10
+plus
+(ii) the
+product
+of (a) the lesser performing underlying index return
+times
+(b)
+
+$10, calculated as follows:
+
+$10 + (the lesser performing underlying index return
+×
+$10) = $10 + ((50 - 100)/100))
+×
+$10) = $5.00
+Including the contingent coupons paid over the term of the notes, this represents a loss of 45.985% of the face amount of your notes.
+Example 4 – The notes are not automatically called
+and
+the hypothetical final underlying index level of the lesser performing underlying index is below its hypothetical downside threshold
+
+| Hypothetical Coupon Observation Date | Hypothetical Closing Level of the Russell 2000 ® Index | Hypothetical Closing Level of the S&P 500 ® Index | Hypothetical Contingent Coupon Paid on Related Coupon Payment Date |
+| --- | --- | --- | --- |
+| First | 65 (below its hypothetical coupon barrier) | 105 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | $0 |
+| Second | 110 (at or above its hypothetical coupon barrier; at or above its hypothetical initial underlying index level) | 55 (below its hypothetical coupon barrier) | $0 |
+| Third – Eleventh | 80 (at or above its hypothetical coupon barrier; below its hypothetical initial underlying index level) | 50 (below its hypothetical coupon barrier) | $0 |
+| Twelfth | 80 (at or above its hypothetical downside threshold) | 55 (below its hypothetical downside threshold) | $0 |
+| | | Total Contingent Coupon Payments | $0 |
+
+The hypothetical closing level of each underlying index increases and decreases by varying amounts, compared to its hypothetical initial underlying index level, on the hypothetical coupon observation dates. Because in each case the hypothetical closing level of at least one underlying index is
+less than
+its hypothetical coupon barrier, you will not receive a hypothetical contingent coupon payment on any hypothetical coupon payment date. As the hypothetical final underlying index level of the lesser performing underlying index is less than its hypothetical downside threshold, you will receive a cash settlement amount at maturity equal to the
+sum
+of (i) $10
+plus
+(ii) the
+product
+of (a) the lesser performing underlying index return
+times
+(b)
+
+$10, calculated as follows:
+$10 + (the lesser performing underlying index return
+×
+$10) = $10 + ((55 - 100)/100))
+×
+$10) = $5.50
+
+This represents a loss of 45% of the face amount of your notes.
+
+PS-
+11
+
+Hypothetical Cash Settlement Amount at Maturity
+If the notes are
+not
+automatically called on any call observation date
+(i.e., on each call observation date the closing level of at least one underlying index is less than its initial underlying index level) the cash settlement amount we would deliver for each $10 face amount of your notes on the stated maturity date will depend on the performance of the lesser performing underlying index on the determination date, as shown in the table below. The table below assumes that
+the notes have
+not
+been automatically called on a call observation date
+and reflects hypothetical cash settlement amounts that you could receive on the stated maturity date.
+The levels in the left column of the table below represent hypothetical final underlying index levels of the lesser performing underlying index and are expressed as percentages of the initial underlying index level of the lesser performing underlying index. The amounts in the right column represent the hypothetical cash settlement amounts, based on the corresponding hypothetical final underlying index level of the lesser performing underlying index, and are expressed as percentages of the face amount of a note (rounded to the nearest one-thousandth of a percent). Thus, a hypothetical cash settlement amount of 100.000% means that the value of the cash payment that we would deliver for each $10 of the outstanding face amount of the offered notes on the stated maturity date would equal 100.000% of the face amount of a note, based on the corresponding hypothetical final underlying index level of the lesser performing underlying index and the assumptions noted above.
+
+| The Notes Have Not Been Automatically Called | The Notes Have Not Been Automatically Called |
+| --- | --- |
+| Hypothetical Final Underlying Index Level of the Lesser Performing Underlying Index | Hypothetical Cash Settlement Amount at Maturity if the Notes Have Not Been Automatically Called on a Call Observation Date |
+| (as Percentage of Initial Underlying Index Level) | (as Percentage of Face Amount) |
+| 99.999% | 100.000%* |
+| 90.000% | 100.000%* |
+| 85.000% | 100.000%* |
+| 80.000% | 100.000%* |
+| 70.000% | 100.000%* |
+| 69.999% | 69.999% |
+| 50.000% | 50.000% |
+| 25.000% | 25.000% |
+| 10.000% | 10.000% |
+| 0.000% | 0.000% |
+| *Does not include the final contingent coupon | |
+
+If, for example, the notes have
+not
+been automatically called on a call observation date and the final underlying index level of the lesser performing underlying index were determined to be 25.000% of its initial underlying index level, the cash settlement amount that we would deliver on your notes at maturity would be 25.000% of the face amount of your notes, as shown in the table above. As a result, if you purchased your notes on the original issue date at the face amount and held them to the stated maturity date, you would lose 75.000% of your investment excluding any contingent coupons you may have received over the term of the notes (if you purchased your notes at a premium to face amount you would lose a correspondingly higher percentage of your investment). In addition, if the final underlying index level of the lesser performing underlying index were determined to be 85.000% of its initial underlying index level, the cash settlement amount that we would deliver on your notes at maturity would be 100.000% of the face amount of your notes, as shown in the table above. Because the final underlying index level of the lesser performing underlying index is greater than or equal to its downside threshold, if you held your notes to the stated maturity date, you would receive $10 for each $10 face amount of your notes.
+
+The cash settlement amounts shown above are entirely hypothetical; they are based on hypothetical market prices for the underlying indices that may not be achieved on the determination date and on assumptions that may prove to be erroneous. The actual market value of your notes on the stated maturity date or at any other time, including any time you may wish to sell your notes, may bear little relation to the hypothetical cash
+
+PS-
+12
+
+settlement amounts shown above, and these amounts should not be viewed as an indication of the financial return on an investment in any offered notes. The hypothetical cash settlement amounts on notes held to the stated maturity date in the examples above assume you purchased your notes at their face amount and have not been adjusted to reflect the actual issue price you pay for your notes. The return on your investment (whether positive or negative) in your notes will be affected by the amount you pay for your notes. If you purchase your notes for a price other than the face amount, the return on your investment will differ from, and may be significantly lower than, the hypothetical returns suggested by the above examples. Please read “Additional Risk Factors Specific to Your Notes — The Market Value of Your Notes May Be Influenced by Many Unpredictable Factors” on page PS-
+19
+.
+Payments on the notes are economically equivalent to the amounts that would be paid on a combination of other instruments. For example, payments on the notes are economically equivalent to a bond bought by the holder and one or more options entered into between the holder and us. Therefore, the terms of the notes may be impacted by the various factors mentioned under “Additional Risk Factors Specific to Your Notes — The Market Value of Your Notes May Be Influenced by Many Unpredictable Factors” on page PS-
+19
+. The discussion in this paragraph does not modify or affect the terms of the notes or the U.S. federal income tax treatment of the notes, as described elsewhere in this pricing supplement .
+
+| We cannot predict the actual closing levels of the underlying indices on any day, the final underlying index levels of the underlying indices or what the market value of your notes will be on any particular trading day, nor can we predict the relationship between the closing levels of the underlying indices and the market value of your notes at any time prior to the stated maturity date. The actual contingent coupon payment, if any, that a holder of the notes will receive on each coupon payment date, the actual amount that you will receive at maturity, if any, and the rate of return on the offered notes will depend on whether or not the notes are called and on the actual closing levels of the underlying indices and the actual final underlying index levels determined by the calculation agent as described above. Moreover, the assumptions on which the hypothetical examples are based may turn out to be inaccurate. Consequently, the contingent coupon to be paid in respect of your notes, if any, and the cash amount to be paid in respect of your notes on the stated maturity date, if any, may be very different from the information reflected in the examples above. |
+| --- |
+
+PS-
+13
+
+| ADDITIONAL RISK FACTORS SPECIFIC TO YOUR NOTES |
+| --- |
+
+An investment in your notes is subject to the risks described below, as well as the risks and considerations described in the accompanying prospectus and in the accompanying prospectus supplement. You should carefully review these risks and considerations as well as the terms of the notes described herein and in the accompanying prospectus and the accompanying prospectus supplement. Your notes are a riskier investment than ordinary debt securities. Also, your notes are not equivalent to investing directly in the underlying index stocks, i.e., with respect to an underlying index to which your notes are linked, the stocks comprising such underlying index. You should carefully consider whether the offered notes are appropriate given your particular circumstances.
+Without limiting the foregoing, for certain risks and considerations related to conflicts of interest, including calculation agent discretion and hedging activities, see “Additional Risk Factors Specific to the Notes — Risks Related to Structure, Valuation and Secondary Market Sales — The Calculation Agent Will Have the Authority to Make Determinations That Could Affect the Market Value of Your Notes, When Your Notes Mature and the Amount, If Any, Payable on Your Notes” and “Additional Risk Factors Specific to the Notes — Risks Related to Conflicts of Interest — Hedging Activities by Goldman Sachs or Our Distributors May Negatively Impact Investors in the Notes and Cause Our Interests and Those of Our Clients and Counterparties to be Contrary to Those of Investors in the Notes” in the accompanying general terms supplement.
+♦ Risks Related to Structure, Valuation and Secondary Market Sales
+♦ The Estimated Value of Your Notes At the Time the Terms of Your Notes Are Set On the Trade Date (as Determined By Reference to Pricing Models Used By GS&Co.) Is Less Than the Original Issue Price Of Your Notes
+The original issue price for your notes exceeds the estimated value of your notes as of the time the terms of your notes are set on the trade date, as determined by reference to GS&Co.’s pricing models and taking into account our credit spreads. Such estimated value on the trade date is set forth above under “Estimated Value of Your Notes”; after the trade date, the estimated value as determined by reference to these models will be affected by changes in market conditions, the creditworthiness of GS Finance Corp., as issuer, the creditworthiness of The Goldman Sachs Group, Inc., as guarantor, and other relevant factors. The price at which GS&Co. would initially buy or sell your notes (if GS&Co. makes a market, which it is not obligated to do), and the value that GS&Co. will initially use for account statements and otherwise, also exceeds the estimated value of your notes as determined by reference to these models. As agreed by GS&Co. and the distribution participants, this excess (i.e., the additional amount described under “Estimated Value of Your Notes”) will decline to zero on a straight line basis over the period from the date hereof through the applicable date set forth above under “Estimated Value of Your Notes”. Thereafter, if GS&Co. buys or sells your notes it will do so at prices that reflect the estimated value determined by reference to such pricing models at that time. The price at which GS&Co. will buy or sell your notes at any time also will reflect its then current bid and ask spread for similar sized trades of structured notes.
+In estimating the value of your notes as of the time the terms of your notes are set on the trade date, as disclosed above under “Estimated Value of Your Notes”, GS&Co.’s pricing models consider certain variables, including principally our credit spreads, interest rates (forecasted, current and historical rates), volatility, price-sensitivity analysis and the time to maturity of the notes. These pricing models are proprietary and rely in part on certain assumptions about future events, which may prove to be incorrect. As a result, the actual value you would receive if you sold your notes in the secondary market, if any, to others may differ, perhaps materially, from the estimated value of your notes determined by reference to our models due to, among other things, any differences in pricing models or assumptions used by others. See “— The Market Value of Your Notes May Be Influenced by Many Unpredictable Factors” below.
+The difference between the estimated value of your notes as of the time the terms of your notes are set on the trade date and the original issue price is a result of certain factors, including principally the underwriting discount and commissions, the expenses incurred in creating, documenting and marketing the notes, and an estimate of the difference between the amounts we pay to GS&Co. and the amounts GS&Co. pays to us in connection with your notes. We pay to GS&Co. amounts based on what we would pay to holders of a non-structured note with a similar maturity. In return for such payment, GS&Co. pays to us the amounts we owe under your notes.
+
+PS-
+14
+
+In addition to the factors discussed above, the value and quoted price of your notes at any time will reflect many factors and cannot be predicted. If GS&Co. makes a market in the notes, the price quoted by GS&Co. would reflect any changes in market conditions and other relevant factors, including any deterioration in our creditworthiness or perceived creditworthiness or the creditworthiness or perceived creditworthiness of The Goldman Sachs Group, Inc. These changes may adversely affect the value of your notes, including the price you may receive for your notes in any market making transaction. To the extent that GS&Co. makes a market in the notes, the quoted price will reflect the estimated value determined by reference to GS&Co.’s pricing models at that time, plus or minus its then current bid and ask spread for similar sized trades of structured notes (and subject to the declining excess amount described above).
+Furthermore, if you sell your notes, you will likely be charged a commission for secondary market transactions, or the price will likely reflect a dealer discount. This commission or discount will further reduce the proceeds you would receive for your notes in a secondary market sale.
+There is no assurance that GS&Co. or any other party will be willing to purchase your notes at any price and, in this regard, GS&Co. is not obligated to make a market in the notes. See “— Your Notes May Not Have an Active Trading Market” below.
+♦ The Notes Are Subject to the Credit Risk of the Issuer and the Guarantor
+Although the contingent coupons (if any) and return on the notes will be based on the performance of each underlying index, the payment of any amount due on the notes is subject to the credit risk of GS Finance Corp., as issuer of the notes, and the credit risk of The Goldman Sachs Group, Inc., as guarantor of the notes. The notes are our unsecured obligations. Investors are dependent on our ability to pay all amounts due on the notes, and therefore investors are subject to our credit risk and to changes in the market’s view of our creditworthiness. Similarly, investors are dependent on the ability of The Goldman Sachs Group, Inc., as guarantor of the notes, to pay all amounts due on the notes, and therefore are also subject to its credit risk and to changes in the market’s view of its creditworthiness. See “Description of the Notes We May Offer — Information About Our Medium-Term Notes, Series F Program — How the Notes Rank Against Other Debt” on page S-5 of the accompanying prospectus supplement and “Description of Debt Securities We May Offer— Guarantee by The Goldman Sachs Group, Inc.” on page 65 of the accompanying prospectus.
+♦ You May Lose Your Entire Investment in the Notes
+You can lose your entire investment in the notes. Assuming your notes are not automatically called, the cash settlement amount on your notes, if any, on the stated maturity date will be based on the performance of the lesser performing underlying index as measured from its initial underlying index level to its closing level on the determination date. If the final underlying index level of the lesser performing underlying index is
+less than
+its downside threshold, you will have a loss for each $10 of the face amount of your notes equal to the
+product
+of the lesser performing underlying index return
+times
+$10. Thus, you may lose your entire investment in the notes, which would include any premium to face amount you paid when you purchased the notes.
+
+Also, the application of the downside threshold applies only at maturity and the market price of your notes prior to a call payment date or the stated maturity date, as the case may be, may be significantly lower than the purchase price you pay for your notes. Consequently, if you sell your notes before the stated maturity date, you may receive far less than the amount of your investment in the notes.
+
+♦ The Return on Your Notes May Change Significantly Despite Only a Small Change in the Level of the Lesser Performing Underlying Index
+If your notes are not automatically called and the final underlying index level of the lesser performing underlying index is less than its downside threshold, you will receive less than the face amount of your notes and you could lose all or a substantial portion of your investment in the notes. This means that while a decrease in the final underlying index level of the lesser performing underlying index to its downside threshold will not result in a loss of principal on the notes, a decrease in the final underlying index level of the lesser performing underlying index to less than its downside threshold will result in a loss of a significant portion of the face amount of the notes despite only a small change in the level of the lesser performing underlying index.
+♦ You May Not Receive a Contingent Coupon on Any Coupon Payment Date
+You will be paid a contingent coupon on a coupon payment date only if the closing level of each underlying index on the applicable coupon observation date is
+equal to
+or
+greater than
+its coupon barrier. If the closing level of at
+
+PS-
+15
+
+least one underlying index on the related coupon observation date is less than its coupon barrier, you will not receive a contingent coupon payment on the applicable coupon payment date. If this occurs on every coupon observation date, whether due to changes in the levels of one or more of the underlying indices, the overall return you earn on your notes will be less than zero and such return will be less than you would have earned by investing in a note that bears interest at the prevailing market rate.
+♦ Because the Notes Are Linked to the Performance of the Lesser Performing Underlying Index, You Have a Greater Risk of Receiving No Quarterly Contingent Coupons and Sustaining a Significant Loss on Your Investment Than If the Notes Were Linked to Just One Underlying Index
+The risk that you will not receive any quarterly contingent coupons, or that you will suffer a significant loss on your investment, is greater if you invest in the notes as opposed to substantially similar notes that are linked to the performance of just one underlying index. With two underlying indices, it is more likely that at least one underlying index will close below its coupon barrier on any coupon observation date, or below its downside threshold on the determination date, than if the notes were linked to only one underlying index. Therefore, it is more likely that you will not receive any quarterly contingent coupons and that you will suffer a significant loss on your investment.
+Movements in the values of the underlying indices may be correlated or uncorrelated at different times during the term of the notes and, if there is correlation, such correlation may be positive (the underlying indices move in the same direction) or negative (the underlying indices move in reverse directions). You should not take the historical correlation (or lack thereof) of the underlying indices as an indication of the future correlation, if any, of the underlying indices. Such correlation could have an adverse effect on your return on the notes. For example, if the underlying indices are negatively correlated on a coupon observation date or the determination date, as applicable, and the level of one underlying index increases, it is likely that the other underlying indices will decrease and such decrease could cause one or both of the underlying indices to close below its coupon barrier on a coupon observation date or below its downside threshold on the determination date. In addition, although the correlation of the underlying indices’ performance may change over the term of the notes, the contingent coupon is determined, in part, based on the correlation of the underlying indices' performance at the time when the terms of the notes are finalized. As discussed below in “A Higher Contingent Coupon, a Lower Coupon Barrier and/or a Lower Downside Threshold May Reflect Greater Expected Volatility of the Underlying Indices, and Greater Expected Volatility Generally Indicates An Increased Risk of Declines in the Levels of the Underlying Indices and, Potentially, a Significant Loss at Maturity”, higher contingent coupons indicate a greater potential for missed contingent coupons and for a loss on your investment at maturity, which are risks generally associated with underlying indices that have lower correlation. In addition, other factors and inputs other than correlation may impact how the terms of the notes are set and the performance of the notes.
+♦ A Higher Contingent Coupon, a Lower Coupon Barrier and/or a Lower Downside Threshold May Reflect Greater Expected Volatility of the Underlying Indices, and Greater Expected Volatility Generally Indicates An Increased Risk of Declines in the Levels of the Underlying Indices and, Potentially, a Significant Loss at Maturity
+The economic terms for the notes, including the contingent coupon, the coupon barrier and the downside threshold, are based, in part, on the expected volatility of each underlying index at the time the terms of the notes are set. “Volatility” refers to the frequency and magnitude of changes in the levels of the underlying indices.
+
+Higher expected volatility with respect to each underlying index as of the trade date generally indicates a greater expectation as of that date that (i) the final underlying index level of the lesser performing underlying index could ultimately be less than its downside threshold on the determination date, which would result in a loss of a significant portion or all of your investment in the notes, or (ii) the closing level of the underlying index on any coupon observation date will be less than its coupon barrier, which would result in the nonpayment of the contingent coupon. At the time the terms of the notes are set, higher expected volatility will generally be reflected in a higher contingent coupon, a lower coupon barrier and/or a lower downside threshold, as compared to otherwise comparable notes issued by the same issuer with the same maturity (taking into account any ability of the issuer to redeem the notes prior to maturity) but with one or more different underlying indices.
+However, there is no guarantee that the higher contingent coupon, lower coupon barrier or lower downside threshold set for your notes on the trade date will adequately compensate you, from a risk-potential reward perspective, for the greater risk of receiving no contingent coupon on any coupon payment date or of losing some or all of your investment in the notes.
+
+PS-
+16
+
+A relatively higher contingent coupon (as compared to otherwise comparable securities), which would increase the positive return if the closing level of each underlying index is greater than or equal to its coupon barrier on a coupon observation date, or a relatively lower coupon barrier, which would increase the amount that an underlying index could decrease on a coupon observation date before the notes become ineligible for a particular coupon payment, may generally indicate an increased risk that the level of each underlying index will decrease substantially, which would result in the nonpayment of the contingent coupon on some or all of the coupon payment dates.
+
+Similarly, a relatively lower downside threshold (as compared to otherwise comparable securities), which would increase the buffer against the loss of principal, may generally indicate an increased risk that the level of each underlying index will decrease substantially. This would result in a significant loss at maturity if the final underlying index level of at least one underlying index is less than its downside threshold. Further, a relatively lower downside threshold may not indicate that the notes have a greater likelihood of a return of principal at maturity based on the performance of each underlying index.
+You should not take the historical volatility of any underlying index as an indication of its future volatility. You should be willing to accept the downside market risk of each underlying index and the potential to not receive some or all of the contingent coupons and to lose some or all of your investment in the notes.
+♦ Your Notes Are Subject to Automatic Redemption
+We will automatically call and redeem all, but not part, of your notes on a call payment date, if, as measured on any call observation date, the closing level of each underlying index is greater than or equal to its initial underlying index level. Therefore, the term for your notes may be reduced and you will not receive any further payments on the notes since your notes will no longer be outstanding. You may not be able to reinvest the proceeds from an investment in the notes at a comparable return for a similar level of risk in the event the notes are automatically called prior to maturity. For the avoidance of doubt, if your notes are automatically called, no discounts, commissions or fees described herein will be rebated or reduced.
+If the notes remain outstanding following any given call observation date, it means that at least one of the underlying indices has closed below its initial underlying index level on each prior call observation date. The longer the notes are outstanding from the trade date, the less time remains during which one or both of the underlying indices will have an opportunity to increase to or above its initial underlying index level to be automatically called. The notes will not be automatically called in the event that at least one of the underlying indices does not increase to or beyond its initial underlying index level.
+
+♦ The Contingent Coupon Does Not Reflect the Actual Performance of the Underlying Indices from the Trade Date to Any Coupon Observation Date or from Coupon Observation Date to Coupon Observation Date
+On any coupon payment date, you will receive a contingent coupon only if the level of each underlying index is equal to or above its coupon barrier. The contingent coupon for each quarterly coupon payment date is different from, and may be less than, a contingent coupon that is based on the performance of any underlying index between the trade date and any coupon observation date or between two coupon observation dates. You will not participate in any appreciation of any underlying index. Accordingly, the contingent coupons, if any, on the notes may be less than the return you could earn on another instrument linked to any underlying index that pays contingent coupons based on the performance of such underlying index from the trade date to any coupon observation date or from coupon observation date to coupon observation date. In addition, although both the coupon observation dates and coupon payment dates occur quarterly, there may not be an equal number of days between coupon observation dates or between coupon payment dates, respectively. However, the way in which the contingent coupon is determined will not vary based on the actual number of days between coupon observation dates or between coupon payment dates.
+♦ The Cash Settlement Amount Will Be Based Solely on the Lesser Performing Underlying Index
+If the notes are not automatically called, the cash settlement amount will be based on the lesser performing underlying index without regard to the performance of the other underlying indices. As a result, you could lose all or some of your initial investment if the lesser performing underlying index return is negative, even if there is an increase in the level of the other underlying indices. This could be the case even if the other underlying index increased by an amount greater than the decrease in the lesser performing underlying index.
+
+PS-
+17
+
+♦ You Are Exposed to the Market Risk of Each Underlying Index
+Your return on the notes will be contingent upon the independent performance of each underlying index. Unlike an instrument with a return linked to a basket of underlying assets, in which risk is mitigated and diversified among all of the components of the basket, you will be fully exposed to the risks related to each underlying index. Poor performance by either of the underlying indices over the term of the notes may negatively affect your return and will not be offset or mitigated by positive performance by the other underlying indices.
+
+For the notes to be automatically called, each underlying index must close at or above its initial underlying index level on a call observation date. To receive any contingent coupon payment, each underlying index must close at or above its coupon barrier on a coupon observation date. To receive any contingent repayment of principal at maturity, each underlying index must close at or above its downside threshold on the determination date. In addition, if not automatically called prior to maturity, you will incur a loss proportionate to the negative return of the lesser performing underlying index even if the other underlying indices appreciate during the term of the notes. Accordingly, your investment is subject to the market risk of each underlying index.
+
+Movements in the values of the underlying indices may be correlated or uncorrelated at different times during the term of the notes. Any such correlation may be positive (the underlying indices move in the same direction) or negative (the underlying indices move in reverse directions), and such correlation (or lack thereof) could have an adverse effect on your return on the notes. If the performance of the underlying indices is not correlated or is negatively correlated, the risk of not receiving a contingent coupon and of incurring a significant loss of principal at maturity generally increases.
+
+For example, the likelihood that one of the underlying indices will close below its coupon barrier on a coupon observation date and/or its downside threshold on the determination date, generally will increase when the movements in the values of the underlying indices are negatively correlated. This results in a greater likelihood that a contingent coupon will not be paid during the term of the notes and/or that there will be a significant loss of principal at maturity if the notes are not previously automatically called.
+However, even if the underlying indices have a higher positive correlation, one or more of those underlying indices might close below its coupon barrier on a coupon observation date or its downside threshold on the determination date, as each of the underlying indices may decrease in value together.
+
+The contingent coupon and the downside threshold are determined, in part, based on the correlations of the underlying indices’ performance at the time when the terms of the notes are set on the trade date. A higher contingent coupon, a lower coupon barrier and/or a lower downside threshold (as compared to otherwise comparable securities) are generally associated with more negative correlation, which reflects a greater likelihood that a contingent coupon will not be paid and that there will be a loss on your investment at maturity.
+However, there is no guarantee that the higher contingent coupon, lower coupon barrier or lower downside threshold set for your notes on the trade date will adequately compensate you, from a risk-potential reward perspective, for the greater risk of receiving no contingent coupon on any coupon payment date or of losing some or all of your investment in the notes.
+
+The correlations referenced in setting the terms of the notes are based on the future expected correlation of the underlying indices as determined by us and are not derived from the daily levels of the underlying indices over the period set forth under “Correlation of the Underlying Indices.” Other factors and inputs other than correlation may also impact how the terms of the notes are set and the performance of the notes.
+
+The greater the number of underlying indices to which a note is linked, generally the more likely it is that one of the underlying indices will close below its coupon barrier or its downside threshold, resulting in a greater likelihood that a contingent coupon will not be paid during the terms of the notes and that there will be a significant loss of principal at maturity.
+
+PS-
+18
+
+♦ The Market Value of
+Your Notes May Be Influenced by Many Unpredictable Factors
+When we refer to the market value of your notes, we mean the value that you could receive for your notes if you chose to sell them in the open market before the stated maturity date. A number of factors, many of which are beyond our control and impact the value of bonds and options generally, will influence the market value of your notes, including:
+•
+the levels of the underlying indices;
+•
+the volatility – i.e., the frequency and magnitude of changes – in the closing levels of the underlying indices;
+•
+the dividend rates of the underlying index stocks;
+•
+economic, financial, regulatory, political, military, public health and other events that affect stock markets generally and the underlying index stocks, and which may affect the closing levels of the underlying indices;
+•
+the actual and expected positive or negative correlation between the underlying indices, or the actual or expected absence of any such correlation;
+•
+interest rates and yield rates in the market;
+•
+the time remaining until your notes mature; and
+•
+our creditworthiness and the creditworthiness of The Goldman Sachs Group, Inc., whether actual or perceived, and including actual or anticipated upgrades or downgrades in our credit ratings or the credit ratings of The Goldman Sachs Group, Inc. or changes in other credit measures.
+Without limiting the foregoing, the market value of your notes may be negatively impacted by increasing interest rates. Such adverse impact of increasing interest rates could be significantly enhanced in notes with longer-dated maturities, the market values of which are generally more sensitive to increasing interest rates.
+
+These factors, and many other factors, will influence the price you will receive if you sell your notes before maturity, including the price you may receive for your notes in any market making transaction. If you sell your notes before maturity, you may receive less than the face amount of your notes or the amount you may receive upon an automatic call or, if the notes are not automatically called, the amount you may receive at maturity.
+You cannot predict the future performance of the underlying indices based on their historical performance. The actual performance of the underlying indices over the life of the offered notes, the amount paid upon any early redemption of your notes, the cash settlement amount paid on the stated maturity date as well as the contingent coupon payable, if any, on each coupon payment date, may bear little or no relation to the historical closing levels of the underlying indices or to the hypothetical examples shown elsewhere in this pricing supplement .
+♦ If You Purchase Your Notes at a Premium to Face Amount, the Return on Your Investment Will Be Lower Than the Return on Notes Purchased at Face Amount and the Impact of Certain Key Terms of the Notes Will Be Negatively Affected
+The cash settlement amount you will be paid for your notes on the stated maturity date, if any, or the amount you will be paid on a call payment date will not be adjusted based on the issue price you pay for the notes. If you purchase notes at a price that differs from the face amount of the notes, then the return on your investment in such notes held to a call payment date or the stated maturity date will differ from, and may be substantially less than, the return on notes purchased at face amount. If you purchase your notes at a premium to face amount and hold them to a call payment date or the stated maturity date, the return on your investment in the notes will be lower than it would have been had you purchased the notes at face amount or a discount to face amount.
+
+♦ You Have No Shareholder Rights or Rights to Receive Any Underlying Index Stock
+Investing in your notes will not make you a holder of any of the underlying index stocks. Neither you nor any other holder or owner of your notes will have any rights with respect to the underlying index stocks, including any voting rights, any rights to receive dividends or other distributions, any rights to make a claim against the underlying index stocks or any other rights of a holder of the underlying index stocks. Your notes will be paid in cash, as will any contingent coupon payments, and you will have no right to receive delivery of any underlying index stocks.
+
+PS-
+19
+
+♦ Your Notes May Not Have an Active Trading Market
+Your notes will not be listed or displayed on any securities exchange or included in any interdealer market quotation system, and there may be little or no secondary market for your notes. Even if a secondary market for your notes develops, it may not provide significant liquidity and we expect that transaction costs in any secondary market would be high. As a result, the difference between bid and asked prices for your notes in any secondary market could be substantial.
+♦ We May Sell an Additional Aggregate Face Amount of the Notes at a Different Issue Price
+At our sole option, we may decide to sell an additional aggregate face amount of the notes subsequent to the date of this pricing supplement . The issue price of the notes in the subsequent sale may differ substantially (higher or lower) from the issue price you paid as provided on the cover of this pricing supplement.
+
+♦
+Additional Risks Related to the Russell 2000
+®
+Index
+♦ There are Small-Capitalization Stock Risks Associated with the Russell 2000
+®
+Index
+The Russell 2000
+®
+Index is comprised of stocks of companies that may be considered small capitalization companies. These companies often have greater stock price volatility, lower trading volume and less liquidity than large capitalization companies and therefore the Russell 2000
+®
+Index may be more volatile than an index in which a greater percentage of the constituent stocks are issued by large-capitalization companies.
+
+♦
+Risks Related to Tax
+♦ Certain Considerations for Insurance Companies and Employee Benefit Plans
+Any insurance company or fiduciary of a pension plan or other employee benefit plan that is subject to the prohibited transaction rules of the Employee Retirement Income Security Act of 1974, as amended, which we call “ERISA”, or the Internal Revenue Code of 1986, as amended, including an IRA or a Keogh plan (or a governmental plan to which similar prohibitions apply), and that is considering purchasing the offered notes with the assets of the insurance company or the assets of such a plan, should consult with its counsel regarding whether the purchase or holding of the offered notes could become a “prohibited transaction” under ERISA, the Internal Revenue Code or any substantially similar prohibition in light of the representations a purchaser or holder in any of the above categories is deemed to make by purchasing and holding the offered notes. This is discussed in more detail under “Employee Retirement Income Security Act” below.
+♦ The Tax Consequences of an Investment in Your Notes Are Uncertain
+The tax consequences of an investment in your notes are uncertain, both as to the timing and character of any inclusion in income in respect of your notes.
+
+The Internal Revenue Service announced on December 7, 2007 that it is considering issuing guidance regarding the tax treatment of an instrument such as your notes, and any such guidance could adversely affect the value and the tax treatment of your notes. Among other things, the Internal Revenue Service may decide to require the holders to accrue ordinary income on a current basis and recognize ordinary income on payment at maturity, and could subject non-U.S. investors to withholding tax. Furthermore, in 2007, legislation was introduced in Congress that, if enacted, would have required holders that acquired instruments such as your notes after the bill was enacted to accrue interest income over the term of such instruments even though there may be no interest payments over the term of such instruments. It is not possible to predict whether a similar or identical bill will be enacted in the future, or whether any such bill would affect the tax treatment of your notes. We describe these developments in more detail under “Supplemental Discussion of U.S. Federal Income Tax Consequences – United States Holders – Possible Change in Law” below. You should consult your tax advisor about this matter. Except to the extent otherwise provided by law, GS Finance Corp. intends to continue treating the notes for U.S. federal income tax purposes in accordance with the treatment described under “Supplemental Discussion of U.S. Federal Income Tax Consequences” below unless and until such time as Congress, the Treasury Department or the Internal Revenue Service determine that some other treatment is more appropriate. Please also consult your tax advisor concerning the U.S. federal income tax and any other applicable tax consequences to you of owning your notes in your particular circumstances.
+
+PS-
+20
+
+♦ Foreign Account Tax Compliance Act (FATCA) Withholding May Apply to Payments on Your Notes, Including as a Result of the Failure of the Bank or Broker Through Which You Hold the Notes to Provide Information to Tax Authorities
+Please see the discussion under “United States Taxation — Taxation of Debt Securities — Foreign Account Tax Compliance Act (FATCA) Withholding” in the accompanying prospectus for a description of the applicability of FATCA to payments made on your notes.
+
+PS-
+21
+
+| THE UNDERLYING INDICES |
+| --- |
+
+Russell 2000
+®
+Index
+
+The Russell 2000
+®
+Index measures the composite price performance of stocks of 2,000 companies incorporated in the U.S., its territories and certain “benefit-driven incorporation countries.” The Russell 2000
+®
+Index is designed to track the performance of the small capitalization segment of the U.S. equity market. For more details about the Russell 2000
+®
+Index, the underlying index sponsor and license agreement between the underlying index sponsor and the issuer, see “The Underliers — Russell 2000
+®
+Index” on page S-92 of the accompanying underlier supplement no. 49.
+The Russell 2000
+®
+Index is a trademark of FTSE Russell (“Russell”) and has been licensed for use by GS Finance Corp. The notes are not sponsored, endorsed, sold or promoted by Russell, and Russell makes no representation regarding the advisability of investing in the notes.
+
+S&P 500
+®
+Index
+The S&P 500
+®
+Index includes a representative sample of 500 companies in leading industries of the U.S. economy and is intended to provide a performance benchmark for the large-cap U.S. equity markets. For more details about the S&P 500
+®
+Index, the underlying index sponsor and license agreement between the underlying index sponsor and the issuer, see “The Underliers — S&P 500
+®
+Index” on page S-130 of the accompanying underlier supplement no. 49.
+The S&P 500
+®
+Index is a product of S&P Dow Jones Indices LLC, and has been licensed for use by GS Finance Corp. (“Goldman”). Standard & Poor’s
+®
+and S&P
+®
+are registered trademarks of Standard & Poor’s Financial Services LLC; Dow Jones
+®
+is a registered trademark of Dow Jones Trademark Holdings LLC (“Dow Jones”) and these trademarks have been licensed for use by S&P Dow Jones Indices LLC and sublicensed for certain purposes by Goldman. Goldman’s notes are not sponsored, endorsed, sold or promoted by S&P Dow Jones Indices LLC, Dow Jones, Standard & Poor’s Financial Services LLC or any of their respective affiliates and neither S&P Dow Jones Indices LLC, Dow Jones, Standard & Poor’s Financial Services LLC or any of their respective affiliates make any representation regarding the advisability of investing in such notes.
+
+PS-
+22
+
+Historical Closing Levels of the Underlying Indices
+The closing levels of the underlying indices have fluctuated in the past and may, in the future, experience significant fluctuations.
+In particular, the underlying indices have recently experienced extreme and unusual volatility.
+Any historical upward or downward trend in the closing level of any underlying index during the period shown below is not an indication that such underlying index is more or less likely to increase or decrease at any time during the life of your notes.
+You should not take the historical closing levels of an underlying index as an indication of the future performance of an underlying index, including because of recent volatility described above.
+We cannot give you any assurance that the future performance of any underlying index or the underlying index stocks will result in you receiving any contingent coupon payments or receiving the outstanding face amount of your notes on the stated maturity date.
+Neither we nor any of our affiliates make any representation to you as to the performance of the underlying indices. Before investing in the offered notes, you should consult publicly available information to determine the relevant underlying index levels between the date of this pricing supplement and the date of your purchase of the offered notes
+and, given the recent volatility described above, you should pay particular attention to recent levels of the underlying indices
+. The actual performance of an underlying index over the life of the offered notes, as well as the cash settlement amount at maturity may bear little relation to the historical levels shown below.
+The graphs below show the daily historical closing levels of each underlying index from January 1, 2021 through July 9, 2026. As a result, the following graphs do not reflect the global financial crisis which began in 2008, which had a materially negative impact on the price of most equity securities and, as a result, the level of most equity indices. We obtained the closing levels in the graphs below from Bloomberg Financial Services, without independent verification.
+
+Although the official closing levels of the Russell 2000
+®
+Index are published to six decimal places by the index sponsor, Bloomberg Financial Services reports the levels of the Russell 2000
+®
+Index to fewer decimal places.
+
+Historical Performance of the Russell 2000
+®
+Index
+
+PS-
+23
+
+Historical Performance of the S&P 500
+®
+Index
+
+PS-
+24
+
+Correlation of the Underlying Indices
+The graph below shows the historical closing levels of each underlying index from January 1, 2021 through July 9, 2026. For comparison purposes, each underlying index has been adjusted to have a closing level of 100.00 on January 1, 2021 by dividing the closing level of that underlying index on each day by the closing level of that underlying index on January 1, 2021 and multiplying by 100.00. We obtained the closing levels used to determine the adjusted closing levels in the graph below from Bloomberg Financial Services, without independent verification.
+You should not take the historical performance of the underlying indices as an indication of the future performance of the underlying indices.
+
+Historical Performances of the Russell 2000
+®
+Index and the S&P 500
+®
+Index
+Movements in the values of the underlying indices may be correlated or uncorrelated at different times during the term of the notes and, if there is correlation, such correlation may be positive (the underlying indices move in the same direction) or negative (the underlying indices move in reverse directions). The more similar the movements of the daily returns of the underlying indices over the given period, the more positively correlated those underlying indices are. The graph above illustrates the historical performance of each underlying index relative to the other underlying index over the time period shown and provides an indication of how the relative performance of the daily returns of one underlying index has historically been to another.
+However, it is the
+actual
+level of the lesser performing underlying index (and not the level of historical correlation between the underlying indices) that determines the return on your notes.
+Please read “Additional Risk Factors Specific to Your Notes—You Are Exposed to the Market Risk of Each Underlying Index” on page PS-
+18
+of this pricing supplement.
+
+PS-
+25
+
+| Supplemental Discussion of U.S. Federal Income Tax Consequences |
+| --- |
+
+The following section supplements the discussion of U.S. federal income taxation in the accompanying prospectus.
+The following section is the opinion of Sidley Austin
+llp
+, counsel to GS Finance Corp. and The Goldman Sachs Group, Inc. In addition, it is the opinion of Sidley Austin
+llp
+that the characterization of the notes for U.S. federal income tax purposes that will be required under the terms of the notes, as discussed below, is a reasonable interpretation of current law.
+This section does not apply to you if you are a member of a class of holders subject to special rules, such as:
+•
+a dealer in securities or currencies;
+•
+a trader in securities that elects to use a mark-to-market method of accounting for your securities holdings;
+•
+a bank;
+•
+a life insurance company;
+•
+a regulated investment company;
+•
+an accrual method taxpayer subject to special tax accounting rules as a result of its use of financial statements;
+•
+a tax exempt organization;
+•
+a partnership;
+•
+a person that owns a note as a hedge or that is hedged against interest rate risks;
+•
+a person that owns a note as part of a straddle or conversion transaction for tax purposes; or
+•
+a United States holder (as defined below) whose functional currency for tax purposes is not the U.S. dollar.
+Although this section is based on the U.S. Internal Revenue Code of 1986, as amended, its legislative history, existing and proposed regulations under the Internal Revenue Code, published rulings and court decisions, all as currently in effect, no statutory, judicial or administrative authority directly discusses how your notes should be treated for U.S. federal income tax purposes, and as a result, the U.S. federal income tax consequences of your investment in your notes are uncertain. Moreover, these laws are subject to change, possibly on a retroactive basis.
+You should consult your tax advisor concerning the U.S. federal income tax and other tax consequences of your investment in the notes, including the application of state, local or other tax laws and the possible effects of changes in federal or other tax laws.
+
+PS-
+26
+
+United States Holders
+This section applies to you only if you are a United States holder that holds your notes as a capital asset for tax purposes. You are a United States holder if you are a beneficial owner of a note and you are:
+•
+a citizen or resident of the United States;
+•
+a domestic corporation;
+•
+an estate whose income is subject to U.S. federal income tax regardless of its source; or
+•
+a trust if a United States court can exercise primary supervision over the trust’s administration and one or more United States persons are authorized to control all substantial decisions of the trust.
+Tax Treatment
+. You will be obligated pursuant to the terms of the notes — in the absence of a change in law, an administrative determination or a judicial ruling to the contrary — to characterize your notes for all tax purposes as income-bearing pre-paid derivative contracts in respect of the underlying indices. Except as otherwise stated below, the discussion below assumes that the notes will be so treated.
+Contingent coupon payments that you receive should be included in ordinary income at the time you receive the payment or when the payment accrues, in accordance with your regular method of accounting for U.S. federal income tax purposes.
+Upon the sale, exchange, redemption or maturity of your notes, you should recognize capital gain or loss equal to the difference between the amount realized on the sale, exchange, redemption or maturity (excluding any amounts attributable to accrued and unpaid contingent coupon payments, which will be taxable as described above) and your tax basis in your notes. Your tax basis in your notes will generally be equal to the amount that you paid for the notes. Such capital gain or loss should generally be short-term capital gain or loss if you hold the notes for one year or less, and should be long-term capital gain or loss if you hold the notes for more than one year. Short-term capital gains are generally subject to tax at the marginal tax rates applicable to ordinary income.
+No statutory, judicial or administrative authority directly discusses how your notes should be treated for U.S. federal income tax purposes. As a result, the U.S. federal income tax consequences of your investment in the notes are uncertain and alternative characterizations are possible. Accordingly, we urge you to consult your tax advisor in determining the tax consequences of an investment in your notes in your particular circumstances, including the application of state, local or other tax laws and the possible effects of changes in federal or other tax laws.
+Alternative Treatments.
+There is no judicial or administrative authority discussing how your notes should be treated for U.S. federal income tax purposes. Therefore, the Internal Revenue Service might assert that a treatment other than that described above is more appropriate. For example, the Internal Revenue Service could treat your notes as a single debt instrument subject to special rules governing contingent payment debt instruments.
+Under those rules, the amount of interest you are required to take into account for each accrual period would be determined by constructing a projected payment schedule for the notes and applying rules similar to those for accruing original issue discount on a hypothetical noncontingent debt instrument with that projected payment schedule. This method is applied by first determining the comparable yield — i.e., the yield at which we would issue a noncontingent fixed rate debt instrument with terms and conditions similar to your notes — and then determining a payment schedule as of the applicable original issue date that would produce the comparable yield. These rules may have the effect of requiring you to include interest in income in respect of your notes prior to your receipt of cash attributable to that income.
+If the rules governing contingent payment debt instruments apply, any gain you recognize upon the sale, exchange, redemption or maturity of your notes would be treated as ordinary interest income. Any loss you recognize at that time would be treated as ordinary loss to the extent of interest you included as income in the current or previous taxable years in respect of your notes, and, thereafter, as capital loss.
+
+PS-
+27
+
+If the rules governing contingent payment debt instruments apply, special rules would apply to persons who purchase a note at other than the adjusted issue price as determined for tax purposes.
+
+It is possible that the Internal Revenue Service could assert that your notes should generally be characterized as described above, except that (1) the gain you recognize upon the sale, exchange, redemption or maturity of your notes should be treated as ordinary income or (2) you should not include the contingent coupon payments in income as you receive them but instead you should reduce your basis in your notes by the amount of contingent coupon payments that you receive. It is also possible that the Internal Revenue Service could seek to characterize your notes in a manner that results in tax consequences to you different from those described above.
+
+It is also possible that the Internal Revenue Service could seek to characterize your notes as notional principal contracts. It is also possible that the contingent coupon payments would not be treated as either ordinary income or interest for U.S. federal income tax purposes, but instead would be treated in some other manner.
+
+You should consult your tax advisor as to possible alternative characterizations of your notes for U.S. federal income tax purposes.
+Possible Change in Law
+In 2007, legislation was introduced in Congress that, if enacted, would have required holders that acquired instruments such as your notes after the bill was enacted to accrue interest income over the term of such instruments even though there may be no interest payments over the term of such instruments. It is not possible to predict whether a similar or identical bill will be enacted in the future, or whether any such bill would affect the tax treatment of your notes.
+In addition, on December 7, 2007, the Internal Revenue Service released a notice stating that the Internal Revenue Service and the Treasury Department are actively considering issuing guidance regarding the proper U.S. federal income tax treatment of an instrument such as the offered notes including whether the holders should be required to accrue ordinary income on a current basis and whether gain or loss should be ordinary or capital. It is not possible to determine what guidance they will ultimately issue, if any. It is possible, however, that under such guidance, holders of the notes will ultimately be required to accrue income currently and this could be applied on a retroactive basis. The Internal Revenue Service and the Treasury Department are also considering other relevant issues, including whether foreign holders of such instruments should be subject to withholding tax on any deemed income accruals, and whether the special “constructive ownership rules” of Section 1260 of the Internal Revenue Code might be applied to such instruments. Except to the extent otherwise provided by law, GS Finance Corp. intends to continue treating the notes for U.S. federal income tax purposes in accordance with the treatment described above unless and until such time as Congress, the Treasury Department or the Internal Revenue Service determine that some other treatment is more appropriate.
+It is impossible to predict what any such legislation or administrative or regulatory guidance might provide, and whether the effective date of any legislation or guidance will affect notes that were issued before the date that such legislation or guidance is issued. You are urged to consult your tax advisor as to the possibility that any legislative or administrative action may adversely affect the tax treatment of your notes.
+Non-United States Holders
+This section applies to you only if you are a non-United States holder. You are a non-United States holder if you are the beneficial owner of the notes and are, for U.S. federal income tax purposes:
+•
+a nonresident alien individual;
+•
+a foreign corporation; or
+•
+an estate or trust that in either case is not subject to U.S. federal income tax on a net income basis on income or gain from the notes.
+
+PS-
+28
+
+Because the U.S. federal income tax treatment (including the applicability of withholding) of the contingent coupon payments on the notes is uncertain, in the absence of further guidance, we intend to withhold on the contingent coupon payments made to you at a 30% rate or at a lower rate specified by an applicable income tax treaty under an “other income” or similar provision. We will not make payments of any additional amounts. To claim a reduced treaty rate for withholding, you generally must provide a valid Internal Revenue Service Form W-8BEN, Internal Revenue Service Form W-8BEN-E, or an acceptable substitute form upon which you certify, under penalty of perjury, your status as a non-United States holder and your entitlement to the lower treaty rate. Payments will be made to you at a reduced treaty rate of withholding only if such reduced treaty rate would apply to any possible characterization of the payments (including, for example, if the contingent coupon payments were characterized as contract fees). Withholding also may not apply to contingent coupon payments made to you if: (i) the contingent coupon payments are “effectively connected” with your conduct of a trade or business in the United States and are includable in your gross income for U.S. federal income tax purposes, (ii) the contingent coupon payments are attributable to a permanent establishment that you maintain in the United States, if required by an applicable tax treaty, and (iii) you comply with the requisite certification requirements (generally, by providing an Internal Revenue Service Form W-8ECI). If you are eligible for a reduced rate of United States withholding tax, you may obtain a refund of any amounts withheld in excess of that rate by filing a refund claim with the Internal Revenue Service.
+“Effectively connected” payments includable in your United States gross income are generally taxed at rates applicable to United States citizens, resident aliens, and domestic corporations; if you are a corporate non-United States holder, “effectively connected” payments may be subject to an additional “branch profits tax” under certain circumstances.
+You will also be subject to generally applicable information reporting and backup withholding requirements with respect to payments on your notes and, notwithstanding that we do not intend to treat the notes as debt for tax purposes, we intend to backup withhold on such payments with respect to your notes unless you comply with the requirements necessary to avoid backup withholding on debt instruments (in which case you will not be subject to such backup withholding) as set forth under “United States Taxation – Taxation of Debt Securities – Non-United States Holders” in the accompanying prospectus.
+
+Furthermore, on December 7, 2007, the Internal Revenue Service released Notice 2008-2 soliciting comments from the public on various issues, including whether instruments such as your notes should be subject to withholding. It is therefore possible that rules will be issued in the future, possibly with retroactive effect, that would cause payments on your notes to be subject to withholding, even if you comply with certification requirements as to your foreign status.
+As discussed above, alternative characterizations of the notes for U.S. federal income tax purposes are possible. Should an alternative characterization of the notes, by reason of a change or clarification of the law, by regulation or otherwise, cause payments with respect to the notes to become subject to withholding tax, we will withhold tax at the applicable statutory rate and we will not make payments of any additional amounts. Prospective non-United States holders of the notes should consult their tax advisors in this regard.
+In addition, the Treasury Department has issued regulations under which amounts paid or deemed paid on certain financial instruments (“871(m) financial instruments”) that are treated as attributable to U.S.-source dividends could be treated, in whole or in part depending on the circumstances, as a “dividend equivalent” payment that is subject to tax at a rate of 30% (or a lower rate under an applicable treaty), which in the case of any contingent coupon payments and any amounts you receive upon the sale, exchange, redemption or maturity of your notes, could be collected via withholding. If these regulations were to apply to the notes, we may be required to withhold such taxes if any U.S.-source dividends are paid on the stocks included in the underlying indices during the term of the notes. We could also require you to make certifications (e.g., an applicable Internal Revenue Service Form W-8) prior to any contingent coupon payment or the
+
+maturity of the notes in order to avoid or minimize withholding obligations, and we could withhold accordingly (subject to your potential right to claim a refund from the Internal Revenue Service) if such certifications were not received or were not satisfactory. If withholding was required, we would not be required to pay any additional amounts with respect to amounts so withheld. These regulations generally will apply to 871(m) financial instruments (or a combination of financial instruments treated as having been entered into in connection with each other) issued (or significantly modified and treated as retired and reissued) on or after January 1, 2027, but will also apply to certain 871(m) financial instruments (or a combination
+
+PS-
+29
+
+of financial instruments treated as having been entered into in connection with each other) that have a delta (as defined in the applicable Treasury regulations) of one and are issued (or significantly modified and treated as retired and reissued) on or after January 1, 2017. In addition, these regulations will not apply to financial instruments that reference a “qualified index” (as defined in the regulations). We have determined that, as of the issue date of your notes, your notes will not be subject to withholding under these rules. In certain limited circumstances, however, you should be aware that it is possible for non-United States holders to be liable for tax under these rules with respect to a combination of transactions treated as having been entered into in connection with each other even when no withholding is required. You should consult your tax advisor concerning these regulations, subsequent official guidance and regarding any other possible alternative characterizations of your notes for U.S. federal income tax purposes.
+Foreign Account Tax Compliance Act (FATCA) Withholding
+
+Pursuant to Treasury regulations, Foreign Account Tax Compliance Act (FATCA) withholding (as described in “United States Taxation—Taxation of Debt Securities—Foreign Account Tax Compliance Act (FATCA) Withholding” in the accompanying prospectus) will generally apply to obligations that are issued on or after July 1, 2014; therefore, the notes will generally be subject to the FATCA withholding rules.
+
+PS-
+30
+
+| SUPPLEMENTAL PLAN OF DISTRIBUTION; CONFLICTS OF INTEREST |
+| --- |
+
+See “Supplemental Plan of Distribution” on page S-51 of the accompanying general terms supplement and “Plan of Distribution — Conflicts of Interest” on page 127 of the accompanying prospectus. GS Finance Corp. estimates that its share of the total offering expenses, excluding underwriting discounts and commissions, will be approximately $20,000.
+GS Finance Corp. will sell to Goldman Sachs & Co. LLC (“GS&Co.”), and GS&Co. will purchase from GS Finance Corp., the aggregate face amount of the offered notes specified on the front cover of this pricing supplement. GS&Co. proposes initially to offer the notes to the public at the original issue price set forth on the cover page of this pricing supplement, and to UBS Financial Services Inc. at such price less a concession not in excess of 2.00% of the face amount. GS&Co. is an affiliate of GS Finance Corp. and The Goldman Sachs Group, Inc. and, as such, will have a “conflict of interest” in this offering of notes within the meaning of Financial Industry Regulatory Authority, Inc. (FINRA) Rule 5121. Consequently, this offering of notes will be conducted in compliance with the provisions of FINRA Rule 5121. GS&Co. will not be permitted to sell notes in this offering to an account over which it exercises discretionary authority without the prior specific written approval of the account holder.
+
+In connection with the initial offering of the notes, the minimum face amount of notes that may be purchased by any investor is $1,000.
+We will deliver the notes against payment therefor in New York, New York on July 13, 2026. Under Rule 15c6-1 of the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes on any date prior to one business day before delivery will be required to specify alternative settlement arrangements to prevent a failed settlement.
+We have been advised by GS&Co. that it intends to make a market in the notes. However, neither GS&Co. nor any of our other affiliates that makes a market is obligated to do so and any of them may stop doing so at any time without notice. No assurance can be given as to the liquidity or trading market for the notes.
+The notes will not be listed on any securities exchange or interdealer quotation system.
+
+PS-
+31
+
+VALIDITY OF THE NOTES AND GUARANTEE
+In the opinion of Sidley Austin
+llp
+, as counsel to GS Finance Corp. and The Goldman Sachs Group, Inc., when the notes offered by this pricing supplement have been executed and issued by GS Finance Corp., such notes have been authenticated by the trustee pursuant to the indenture, and such notes have been delivered against payment as contemplated herein, (a) such notes will be valid and binding obligations of GS Finance Corp., enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally, concepts of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good faith, fair dealing and the lack of bad faith), provided that such counsel expresses no opinion as to the effect of fraudulent conveyance, fraudulent transfer or similar provision of applicable law on the conclusions expressed above and (b) the guarantee with respect to such notes will be a valid and binding obligation of The Goldman Sachs Group, Inc., enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors' rights generally, concepts of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good faith, fair dealing and the lack of bad faith), provided that such counsel expresses no opinion as to the effect of fraudulent conveyance, fraudulent transfer or similar provision of applicable law on the conclusions expressed above. This opinion is given as of the date hereof and is limited to the laws of the State of New York and the General Corporation Law of the State of Delaware as in effect on the date hereof. In addition, this opinion is subject to customary assumptions about the trustee’s authorization, execution and delivery of the indenture and the genuineness of signatures and certain factual matters, all as stated in the letter of such counsel dated January 27, 2025, which has been filed as Exhibit 5.6 to the registration statement on Form S-3 filed with the Securities and Exchange Commission by GS Finance Corp. and The Goldman Sachs Group, Inc. on January 27, 2025.
+
+PS-
+32
+
+We have not authorized anyone to provide any information or to make any representations other than those contained or incorporated by reference in this pricing supplement the accompanying general terms supplement, the accompanying underlier supplement, the accompanying prospectus supplement or the accompanying prospectus. We take no responsibility for, and can provide no assurance as to the reliability of, any other information that others may give you. This pricing supplement, the accompanying general terms supplement, the accompanying underlier supplement, the accompanying prospectus supplement and the accompanying prospectus is an offer to sell only the notes offered hereby, but only under circumstances and in jurisdictions where it is lawful to do so. The information contained in this pricing supplement, the accompanying general terms supplement, the accompanying underlier supplement, the accompanying prospectus supplement and the accompanying prospectus is current only as of the respective dates of such documents.
+
+$15,356,220
+GS Finance Corp.
+Trigger Autocallable Contingent Yield Notes due 2029
+guaranteed by
+The Goldman Sachs Group, Inc.
+____________
+____________
+Goldman Sachs & Co. LLC
+
+UBS Financial Services Inc.
+Selling Agent

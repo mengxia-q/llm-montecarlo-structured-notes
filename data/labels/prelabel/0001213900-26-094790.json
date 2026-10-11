@@ -1,0 +1,57 @@
+{
+  "accession": "0001213900-26-094790",
+  "source_file": "data/cleaned/0001213900-26-094790_ea0303730-01_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-08-26",
+    "strike_date": null,
+    "issue_date": "2026-08-31",
+    "maturity_date": "2029-08-30",
+    "underlyings": [
+      {"name": "Russell 2000 ® Index", "ticker": "RTY", "initial_level": 3005.900},
+      {"name": "State Street ® Energy Select Sector SPDR ® ETF", "ticker": "XLE", "initial_level": 62.43}
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": ["2026-11-27","2027-02-26","2027-05-26","2027-08-26","2027-11-26","2028-02-28","2028-05-26","2028-08-28","2028-11-27","2029-02-26","2029-05-29","2029-08-27"],
+    "payment_dates": ["2026-12-02","2027-03-03","2027-06-01","2027-08-31","2027-12-01","2028-03-02","2028-06-01","2028-08-31","2028-11-30","2029-03-01","2029-06-01","2029-08-30"],
+    "autocall": {"first_observation_index": 2, "levels_pct": [100,100,100,100,100,100,100,100,100,100,100]},
+    "coupon": {"rate_per_period_pct": 2.4125, "barrier_pct": 70, "memory": false},
+    "knock_in": {"barrier_pct": 65, "monitoring": "at_maturity"},
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.62
+  },
+  "evidence": {
+    "issuer": {"quote": "| Issuer | JPMorgan Chase Financial Company LLC, a direct, wholly owned finance subsidiary of JPMorgan Chase & Co. |", "lines": [219, 219]},
+    "notional_per_unit": {"quote": "| Principal Amount | $10 per Note (subject to a minimum purchase of 100 Notes or $1,000) |", "lines": [224, 224]},
+    "pricing_date": {"quote": "| Trade Date | Trade Date | August 26, 2026 |", "lines": [78, 78]},
+    "strike_date": {"quote": "| Trade Date | Trade Date | August 26, 2026 |", "lines": [78, 78], "note": "No separate strike date; Initial Value is the closing value on the Trade Date -> null"},
+    "issue_date": {"quote": "| Original Issue Date (Settlement Date) | Original Issue Date (Settlement Date) | August 31, 2026 |", "lines": [80, 80]},
+    "maturity_date": {"quote": "| Maturity Date 1 | Maturity Date 1 | August 30, 2029 |", "lines": [83, 83]},
+    "underlyings[0].name": {"quote": "| Russell 2000 ® Index (Bloomberg ticker: RTY) | 9.65% per annum | 3,005.900 |", "lines": [112, 112]},
+    "underlyings[0].initial_level": {"quote": "| Russell 2000 ® Index (Bloomberg ticker: RTY) | 9.65% per annum | 3,005.900 |", "lines": [112, 112]},
+    "underlyings[1].name": {"quote": "| State Street ® Energy Select Sector SPDR ® ETF (Bloomberg ticker: XLE) | 9.65% per annum | $62.43 |", "lines": [113, 113]},
+    "underlyings[1].initial_level": {"quote": "| State Street ® Energy Select Sector SPDR ® ETF (Bloomberg ticker: XLE) | 9.65% per annum | $62.43 |", "lines": [113, 113]},
+    "performance_type": {"quote": "| Lesser Performing Underlying Return | The lower of the Underlying Returns of the Underlyings |", "lines": [235, 235]},
+    "observation_dates": {"quote": "| Observation Dates † | Coupon Payment Dates † |", "lines": [266, 279], "note": "12 quarterly rows; scheduled dates as printed"},
+    "payment_dates": {"quote": "| August 27, 2029 (the Final Valuation Date) | August 30, 2029 (the Maturity Date) |", "lines": [266, 279], "note": "Coupon Payment Dates column, row by row"},
+    "autocall.first_observation_index": {"quote": "The Notes are not callable until the second Observation\nDate, February 26, 2027.", "lines": [282, 283]},
+    "autocall.levels_pct": {"quote": "The Notes will be called automatically if the closing value 1 of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value.", "lines": [226, 226], "note": "'any Observation Date' includes the Final Valuation Date (hypothetical tables line 657 test call on the twelfth date) -> obs 2..12 = 11 entries of 100"},
+    "coupon.rate_per_period_pct": {"quote": "| Contingent Coupon Rate | 9.65% per annum | |", "lines": [228, 228], "note": "9.65% p.a. / 4 = 2.4125 (exact; filing's rounded cash coupon $0.2413 per $10 = 2.413%)"},
+    "coupon.barrier_pct": {"quote": "$43.70, which is 70% of the Initial Value", "lines": [113, 113]},
+    "coupon.memory": {"quote": "the Contingent Coupon for that Observation Date will not accrue or be payable, and we will not make any payment to you on the relevant Coupon Payment Date", "lines": [227, 227], "note": "No memory/catch-up wording"},
+    "knock_in.barrier_pct": {"quote": "1,953.835, which is 65% of the Initial Value", "lines": [112, 112]},
+    "knock_in.monitoring": {"quote": "If the Notes are not automatically called and the Final Value of either Underlying is less than its Downside Threshold", "lines": [232, 232], "note": "Final Value = closing value on Final Valuation Date only"},
+    "downside_participation_pct": {"quote": "$10 × (1 + Lesser Performing Underlying Return)", "lines": [232, 232]},
+    "estimated_value_per_unit": {"quote": "the Notes were set, was $9.62 per $10 principal amount Note.", "lines": [137, 137]}
+  },
+  "flags": [
+    {"field": "coupon.rate_per_period_pct", "issue": "Used exact 9.65%/4 = 2.4125; filing prints rounded cash coupon $0.2413 (2.413%)."},
+    {"field": "autocall.levels_pct", "issue": "Call wording 'any Observation Date (after six-month non-call)'; final date treated as callable (11 levels, obs 2-12) per literal wording and hypothetical examples. Economically identical to maturity payoff at >=100%."},
+    {"field": "underlyings[1].name", "issue": "Name rendered with ® separated by spaces in cleaned text ('State Street ® Energy Select Sector SPDR ® ETF'); verify against original."}
+  ],
+  "scope": {"in_scope": true, "reason": "Worst-of autocallable contingent coupon on equity index (RTY) and ETF (XLE), non-memory, European (final-date) 65% knock-in, 1:1 downside, discrete quarterly autocall."}
+}

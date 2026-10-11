@@ -1,0 +1,609 @@
+424B2
+
+1
+
+bns_424b2-22398.htm
+
+FORM 424B2
+
+| PRICING SUPPLEMENT Dated July 8, 2026 Filed Pursuant to Rule 424(b)(2) Registration Statement No. 333-282565 (To Prospectus dated November 8, 2024, Prospectus Supplement dated November 8, 2024, Underlier Supplement dated November 8, 2024 and Product Supplement dated November 8, 2024) |
+| --- |
+
+The Bank of Nova Scotia $5,000,000 Trigger Autocallable Contingent Yield Notes
+
+Linked to the Nasdaq-100 Index
+®
+due July 12, 2029
+
+Investment Description
+
+The Bank of Nova Scotia Trigger Autocallable Contingent Yield Notes (the “Notes”) are senior, unsecured debt securities issued by The Bank of Nova Scotia (“BNS” or the “issuer”) linked to the Nasdaq-100 Index
+®
+(the “underlying asset”). BNS will pay a contingent coupon on a coupon payment date only if the closing level of the underlying asset on the applicable observation date (including the final valuation date) is equal to or greater than the coupon barrier. Otherwise, no contingent coupon will be paid for the relevant coupon payment date. BNS will automatically call the Notes early if the closing level of the underlying asset on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level. If the Notes are subject to an automatic call, BNS will pay on the applicable coupon payment date following such observation date (the “call settlement date”) a cash payment per Note equal to your principal amount plus the contingent coupon otherwise due, and no further payments will be owed to you under the Notes. If the Notes are not subject to an automatic call and the closing level of the underlying asset on the final valuation date (the “final level”) is equal to or greater than the downside threshold, BNS will pay you a cash payment per Note at maturity equal to the principal amount. If, however, the Notes are not subject to an automatic call and the final level is less than the downside threshold, BNS will pay you a cash payment per Note at maturity that is less than the principal amount, if anything, resulting in a percentage loss on your principal amount equal to the percentage decline in the underlying asset from the initial level to the final level (the “underlying return”) and, in extreme situations, you could lose your entire investment in the Notes.
+Investing in the Notes involves significant risks. You may lose a significant portion or all of your investment and may not receive any contingent coupon during the term of the Notes. Generally, a higher contingent coupon rate on a Note is associated with a greater risk of loss and a greater risk that you will not receive contingent coupons over the term of the Notes. The contingent repayment of principal applies only at maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of BNS. If BNS were to default on its payment obligations, you may not receive any amounts owed to you under the Notes and you could lose your entire investment in the Notes.
+
+Features
+
+| ❑ | Potential for Periodic Contingent Coupons — BNS will pay a contingent coupon on a coupon payment date only if the closing level of the underlying asset on the applicable observation date (including the final valuation date) is equal to or greater than the coupon barrier. Otherwise, if the closing level of the underlying asset is less than the coupon barrier on the applicable observation date, no contingent coupon will be paid for the relevant coupon payment date. |
+| --- | --- |
+| ❑ | Automatic Call Feature — BNS will automatically call the Notes and pay you the principal amount of your Notes plus the contingent coupon otherwise due on the related coupon payment date if the closing level of the underlying asset is equal to or greater than the initial level on any observation date (quarterly, callable after 12 months) prior to the final valuation date. If the Notes were previously subject to an automatic call, no further payments will be owed to you under the Notes. |
+| ❑ | Contingent Repayment of Principal at Maturity with Potential for Full Downside Market Exposure — If the Notes have not been subject to an automatic call and the final level is equal to or greater than the downside threshold, BNS will repay you the principal amount per Note at maturity. If, however, the Notes are not subject to an automatic call and the final level is less than the downside threshold, BNS will pay you a cash payment per Note at maturity that is less than the principal amount, if anything, resulting in a percentage loss on your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes. The contingent repayment of principal applies only if you hold the Notes to maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of BNS. |
+
+Key Dates
+
+| Strike Date | Strike Date | July 6, 2026 | July 6, 2026 |
+| --- | --- | --- | --- |
+| Trade Date | Trade Date | July 8, 2026 | July 8, 2026 |
+| Settlement Date | Settlement Date | July 9, 2026 | July 9, 2026 |
+| Observation Dates* | Observation Dates* | Quarterly (callable after 12 months) (see page P-4) | Quarterly (callable after 12 months) (see page P-4) |
+| Final Valuation Date* | Final Valuation Date* | July 9, 2029 | July 9, 2029 |
+| Maturity Date* | Maturity Date* | July 12, 2029 | July 12, 2029 |
+| * | Subject to postponement in the event of a market disruption event, as described in the accompanying product supplement. | Subject to postponement in the event of a market disruption event, as described in the accompanying product supplement. | |
+
+Notice to investors: the Notes are significantly riskier than conventional debt instruments. The issuer is not necessarily obligated to repay the principal amount of the Notes at maturity, and the Notes may have the same downside market risk as that of the underlying asset. This market risk is in addition to the credit risk inherent in purchasing a debt obligation of BNS. You should not purchase the Notes if you do not understand or are not comfortable with the significant risks involved in investing in the Notes.
+
+You should carefully consider the risks described under “Key Risks” beginning on page P-5 and under “Additional Risk Factors Specific to the Notes” beginning on page PS-6 of the accompanying product supplement and “Risk Factors” beginning on page S-2 of the accompanying prospectus supplement and on page 8 of the accompanying prospectus. Events relating to any of those risks, or other risks and uncertainties, could adversely affect the market value of, and the return on, your Notes. You may lose a significant portion or all of your investment in the Notes. The Notes will not be listed or displayed on any securities exchange or any electronic communications network.
+
+Note Offering
+
+The initial level of the underlying asset is its closing level on the strike date and not its closing level or its level at any other time on the trade date, and the remaining final terms of the Notes were also set as of the strike date. The Notes are offered at a minimum investment of 100 Notes at $10 per Note (representing a $1,000 investment), and integral multiples of $10 in excess thereof.
+
+| Underlying Asset | Bloomberg Ticker | Contingent Coupon Rate | Initial Level | Coupon Barrier | Downside Threshold | CUSIP | ISIN |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nasdaq-100 Index ® | NDX | 8.10% per annum | 29,697.87 | 17,818.72, which is 60.00% of the Initial Level | 17,818.72, which is 60.00% of the Initial Level | 06419X638 | US06419X6388 |
+
+The initial estimated value of your Notes on the trade date was $9.71 per principal amount, which is less than the issue price to public listed below. See “Additional Information Regarding Estimated Value of the Notes” herein and “Key Risks — Risks Relating to Estimated Value and Liquidity” beginning on page P-6 of this document for additional information. The actual value of your Notes at any time will reflect many factors and cannot be predicted with accuracy.
+
+See “Additional Information About BNS and the Notes” on page P-ii. The Notes will have the terms set forth in the accompanying product supplement, prospectus supplement, underlier supplement and prospectus, each dated November 8, 2024, and this document.
+
+Neither the Securities and Exchange Commission (the “SEC”) nor any other regulatory body has approved or disapproved of these Notes or passed upon the adequacy or accuracy of this document, the accompanying product supplement, underlier supplement, prospectus supplement or prospectus. Any representation to the contrary is a criminal offense.
+
+The Notes are not insured by the Canada Deposit Insurance Corporation (the “CDIC”) pursuant to the Canada Deposit Insurance Corporation Act (the “CDIC Act”) or the U.S. Federal Deposit Insurance Corporation or any other government agency of Canada, the U.S. or any other jurisdiction. The Notes are not bail-inable debt securities under the CDIC Act.
+
+| Offering of Notes | Issue Price to Public | Issue Price to Public | Issue Price to Public | Underwriting Discount (1)(2) | Underwriting Discount (1)(2) | Proceeds to The Bank of Nova Scotia (1)(2) | Proceeds to The Bank of Nova Scotia (1)(2) | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Total | Per Note | Total | Total | Per Note | Total | Per Note | Per Note |
+| Notes linked to the Nasdaq-100 Index ® | $5,000,000.00 | $10.00 | $62,500.00 | $62,500.00 | $0.125 | $4,937,500.00 | $9.875 | $9.875 |
+
+(1)
+Scotia Capital (USA) Inc. (“SCUSA”), our affiliate, has agreed to purchase the Notes at the principal amount and, as part of the distribution of the Notes, has agreed to sell the Notes to UBS Financial Services Inc. (“UBS”) at the discount specified in the table above. See “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein for additional information.
+
+(2)
+This amount excludes any profits to BNS, SCUSA or any of our other affiliates from hedging. See “Key Risks” and “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein for additional considerations relating to hedging activities.
+
+| Scotia Capital (USA) Inc. | UBS Financial Services Inc. |
+| --- | --- |
+
+Additional Information About BNS and the Notes
+
+| You should read this pricing supplement together with the prospectus dated November 8, 2024, as supplemented by the prospectus supplement dated November 8, 2024, the underlier supplement dated November 8, 2024 and the product supplement (Market-Linked Notes, Series A) dated November 8, 2024, relating to our Senior Note Program, Series A, of which these Notes are a part. Capitalized terms used but not defined in this pricing supplement will have the meanings given to them in the product supplement. The Notes may vary from the terms described in the accompanying prospectus, prospectus supplement, underlier supplement and product supplement in several important ways. You should read this pricing supplement carefully, including the documents incorporated by reference herein. In the event of any conflict between this pricing supplement and any of the foregoing, the following hierarchy will govern: first, this pricing supplement; second, the accompanying product supplement; third, the accompanying underlier supplement; fourth, the accompanying prospectus supplement; and last, the accompanying prospectus. You may access these documents on the SEC website at www.sec.gov as follows (or if that address has changed, by reviewing our filings for the relevant date on the SEC website). This pricing supplement, together with the documents listed below, contains the terms of the Notes and supersedes all prior or contemporaneous oral statements as well as any other written materials including preliminary or indicative pricing terms, correspondence, trade ideas, structures for implementation, sample structures, brochures or other educational materials of ours. You should carefully consider, among other things, the matters set forth in “Key Risks” herein, in “Additional Risk Factors Specific to the Notes” of the accompanying product supplement and in “Risk Factors” of the accompanying prospectus supplement and of the accompanying prospectus, as the Notes involve risks not associated with conventional debt securities. We urge you to consult your investment, legal, tax, accounting and other advisors concerning an investment in the Notes in light of your particular circumstances. |
+| --- |
+| You may access these documents on the SEC website at www.sec.gov as follows: |
+| ♦ Product Supplement (Market-Linked Notes, Series A) dated November 8, 2024: http://www.sec.gov/Archives/edgar/data/9631/000183988224038316/bns_424b2 - 21309.htm ♦ Underlier Supplement dated November 8, 2024: http://www.sec.gov/Archives/edgar/data/9631/000183988224038308/bns_424b2 - 21314.htm ♦ Prospectus Supplement dated November 8, 2024: http://www.sec.gov/Archives/edgar/data/9631/000183988224038303/bns_424b3 - 21311.htm ♦ Prospectus dated November 8, 2024: http://www.sec.gov/Archives/edgar/data/9631/000119312524253771/d875135d424b3.htm |
+| References to “BNS”, “we”, “our” and “us” refer only to The Bank of Nova Scotia and not to its consolidated subsidiaries and references to the “Trigger Autocallable Contingent Yield Notes” or the “Notes” refer to the Notes that are offered hereby. Also, references to the “accompanying product supplement” mean the BNS product supplement, dated November 8, 2024, references to the “accompanying underlier supplement” mean the BNS underlier supplement, dated November 8, 2024, references to the “accompanying prospectus supplement” mean the BNS prospectus supplement, dated November 8, 2024 and references to the “accompanying prospectus” mean the BNS prospectus, dated November 8, 2024. |
+| BNS reserves the right to change the terms of, or reject any offer to purchase, the Notes prior to their issuance. In the event of any changes to the terms of the Notes, BNS will notify you and you will be asked to accept such changes in connection with your purchase. You may also choose to reject such changes in which case BNS may reject your offer to purchase. |
+
+P-
+ii
+
+Investor Suitability
+
+The Notes may be suitable for you if:
+
+♦
+You fully understand and are willing to accept the risks inherent in an investment in the Notes, including the risk of loss of a significant portion or all of your investment in the Notes.
+
+♦
+You can tolerate a loss of a significant portion or all of your investment and are willing to make an investment that may have the same downside market risk as that of a hypothetical investment in the underlying asset or the stocks comprising the underlying asset (the “underlying constituents”).
+
+♦
+You are willing to receive few or no contingent coupons and believe that the closing level of the underlying asset will be equal to or greater than the coupon barrier on the specified observation dates and that the final level will be equal to or greater than the downside threshold.
+
+♦
+You understand and accept that you will not participate in any appreciation in the level of the underlying asset and that your potential return is limited to any contingent coupons.
+
+♦
+You can tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the level of the underlying asset.
+
+♦
+You are willing to invest in the Notes based on the contingent coupon rate specified on the cover hereof.
+
+♦
+You are willing to invest in the Notes based on the downside threshold and coupon barrier specified on the cover hereof.
+
+♦
+You do not seek guaranteed current income from your investment and are willing to forgo any dividends paid on the underlying constituents.
+
+♦
+You are willing to invest in Notes that may be subject to an automatic call and you are otherwise willing to hold such Notes to maturity and you accept that there may be little or no secondary market for the Notes.
+
+♦
+You understand and are willing to accept the risks associated with the underlying asset.
+
+♦
+You are willing to assume the credit risk of BNS for all payments under the Notes, and understand that if BNS defaults on its obligations you may not receive any amounts due to you including any repayment of principal.
+
+The Notes may not be suitable for you if:
+
+♦
+You do not fully understand or are not willing to accept the risks inherent in an investment in the Notes, including the risk of loss of a significant portion or all of your investment in the Notes.
+
+♦
+You require an investment designed to provide a full return of principal at maturity.
+
+♦
+You cannot tolerate a loss of a significant portion or all of your investment or are unwilling to make an investment that may have the same downside market risk as that of a hypothetical investment in the underlying asset or the underlying constituents.
+
+♦
+You are unwilling to receive few or no contingent coupons during the term of the Notes and believe that the level of the underlying asset will decline during the term of the Notes and is likely to be less than the coupon barrier on at least one observation date or that the final level will be less than the downside threshold.
+
+♦
+You seek an investment that participates in the full appreciation of the level of the underlying asset or that has unlimited return potential.
+
+♦
+You cannot tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the level of the underlying asset.
+
+♦
+You are unwilling to invest in the Notes based on the contingent coupon rate specified on the cover hereof.
+
+♦
+You are unwilling to invest in the Notes based on the downside threshold or coupon barrier specified on the cover hereof.
+
+♦
+You seek guaranteed current income from this investment or prefer to receive any dividends paid on the underlying constituents.
+
+♦
+You are unable or are unwilling to invest in Notes that may be subject to an automatic call, you are otherwise unable or unwilling to hold the Notes to maturity or you seek an investment for which there will be an active secondary market for the Notes.
+
+♦
+You do not understand or are unwilling to accept the risks associated with the underlying asset.
+
+♦
+You are unwilling to assume the credit risk of BNS for all payments under the Notes, including any repayment of principal.
+
+The suitability considerations identified above are not exhaustive. Whether or not the Notes are a suitable investment for you will depend on your individual circumstances and you should reach an investment decision only after you and your investment, legal, tax, accounting and other advisors have carefully considered the suitability of an investment in the Notes in light of your particular circumstances. You should review “Information About the Underlying Asset” herein for more information on the underlying asset. You should also review carefully the “Key Risks” section herein and the more detailed “Additional Risk Factors Specific to the Notes” in the accompanying product supplement for risks related to an investment in the Notes.
+
+P-
+1
+
+Final Terms
+
+| Issuer | The Bank of Nova Scotia | The Bank of Nova Scotia |
+| --- | --- | --- |
+| Issue | Senior Note Program, Series A | Senior Note Program, Series A |
+| Agents | Scotia Capital (USA) Inc. (“SCUSA”) and UBS Financial Services Inc. (“UBS”). See “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein for additional information. | Scotia Capital (USA) Inc. (“SCUSA”) and UBS Financial Services Inc. (“UBS”). See “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein for additional information. |
+| Principal Amount | $10 per Note | $10 per Note |
+| Term | Approximately 3 years, unless subject to an automatic call. | Approximately 3 years, unless subject to an automatic call. |
+| Underlying Asset | The Nasdaq-100 Index ® . | The Nasdaq-100 Index ® . |
+| Contingent Coupon and Contingent Coupon Rate | If the closing level of the underlying asset is equal to or greater than the coupon barrier on any observation date (including the final valuation date), BNS will pay you the contingent coupon applicable to such observation date on the related coupon payment date. If the closing level of the underlying asset is less than the coupon barrier on any observation date (including the final valuation date), the contingent coupon applicable to such observation date will not accrue or be payable and BNS will not make any payment to you on the related coupon payment date. The contingent coupon is a fixed amount based upon equal periodic installments at a per annum rate (the “contingent coupon rate”). The table below sets forth the contingent coupon rate and contingent coupon for each Note that would be applicable to each observation date on which the closing level of the underlying asset is equal to or greater than the coupon barrier. | If the closing level of the underlying asset is equal to or greater than the coupon barrier on any observation date (including the final valuation date), BNS will pay you the contingent coupon applicable to such observation date on the related coupon payment date. If the closing level of the underlying asset is less than the coupon barrier on any observation date (including the final valuation date), the contingent coupon applicable to such observation date will not accrue or be payable and BNS will not make any payment to you on the related coupon payment date. The contingent coupon is a fixed amount based upon equal periodic installments at a per annum rate (the “contingent coupon rate”). The table below sets forth the contingent coupon rate and contingent coupon for each Note that would be applicable to each observation date on which the closing level of the underlying asset is equal to or greater than the coupon barrier. |
+| | Contingent Coupon Rate | Contingent Coupon |
+| | 8.10% | $0.2025 |
+| | Contingent coupons on the Notes are not guaranteed. BNS will not pay you the contingent coupon for any observation date on which the closing level of the underlying asset is less than the coupon barrier. | Contingent coupons on the Notes are not guaranteed. BNS will not pay you the contingent coupon for any observation date on which the closing level of the underlying asset is less than the coupon barrier. |
+| Automatic Call Feature | BNS will automatically call the Notes if the closing level of the underlying asset on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level. If the Notes are subject to an automatic call, BNS will pay you on the corresponding coupon payment date (which will be the “call settlement date”) a cash payment per Note equal to your principal amount plus the contingent coupon otherwise due on such date (the “call settlement amount”). Following an automatic call, no further payments will be made on the Notes. | BNS will automatically call the Notes if the closing level of the underlying asset on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level. If the Notes are subject to an automatic call, BNS will pay you on the corresponding coupon payment date (which will be the “call settlement date”) a cash payment per Note equal to your principal amount plus the contingent coupon otherwise due on such date (the “call settlement amount”). Following an automatic call, no further payments will be made on the Notes. |
+
+| Business Day | As specified in the product supplement under “General Terms of the Notes — Special Calculation Provisions — Business Day”. |
+| --- | --- |
+| Payment at Maturity (per Note) | If the Notes are not subject to an automatic call and the final level is equal to or greater than the downside threshold, BNS will pay you a cash payment equal to: Principal Amount of $10 If the Notes are not subject to an automatic call and the final level is less than the downside threshold , BNS will pay you a cash payment that is less than the principal amount, if anything, equal to: $10 × (1 + Underlying Return) In this case, you will suffer a percentage loss on your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes. |
+| Underlying Return | The quotient, expressed as a percentage, of the following formula: Final Level – Initial Level Initial Level |
+| Downside Threshold (1) | A specified level of the underlying asset that is less than the initial level, equal to a percentage of the initial level, as specified on the cover hereof. |
+| Coupon Barrier (1) | A specified level of the underlying asset that is less than the initial level, equal to a percentage of the initial level, as specified on the cover hereof. |
+| Initial Level (1) | The closing level of the underlying asset on the strike date, as specified on the cover hereof. |
+| Final Level (1) | The closing level of the underlying asset on the final valuation date. |
+| Trading Day | As specified in the product supplement under “General Terms of the Notes — Special Calculation Provisions — Trading Day”. |
+| Tax Redemption | Notwithstanding anything to the contrary in the accompanying product supplement, the provision set forth under “General Terms of the Notes — Payment of Additional Amounts” and “General Terms of the Notes — Tax Redemption” shall not apply to the Notes. |
+| Canadian Bail-in | The Notes are not bail-inable debt securities under the CDIC Act. |
+| Terms Incorporated | All of the terms appearing above the item under the caption “General Terms of the Notes” in the accompanying product supplement, as modified by this pricing supplement, and for purposes of the foregoing, references herein to “underlying asset”, “underlying constituents”, “closing level”, “underlying return”, “downside threshold” and “observation dates” mean “reference asset”, “reference asset constituents”, “closing value”, “reference asset return”, “barrier value” and “valuation dates”, respectively, each as defined in the accompanying product supplement. In addition to those terms, the following two sentences are also so incorporated into the master note: BNS confirms that it fully understands and is able to calculate the effective annual rate of interest applicable to the Notes based on the methodology for calculating per annum rates provided for in the Notes. BNS irrevocably agrees not to plead or assert Section 4 of the Interest Act (Canada), whether by way of defense or otherwise, in any proceeding relating to the Notes. |
+
+(1)
+As determined by the calculation agent and as may be determined or adjusted as described under “General Terms of the Notes — Unavailability of the Closing Value of a Reference Asset; Adjustments to a Reference Asset — Unavailability of the Closing Value of a Reference Index; Alternative Calculation Methodology” in the accompanying product supplement.
+
+P-
+2
+
+Investment Timeline
+
+| Strike Date | The initial level of the underlying asset is observed and the final terms of the Notes are set. |
+| --- | --- |
+| Observation Dates (Quarterly, callable after 12 months) | If the closing level of the underlying asset is equal to or greater than the coupon barrier on any observation date (including the final valuation date), BNS will pay you a contingent coupon on the applicable coupon payment date. The Notes will be subject to an automatic call if the closing level of the underlying asset on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level. If the Notes are subject to an automatic call, BNS will pay you a cash payment per Note on the call settlement date equal to the principal amount plus the contingent coupon otherwise due on such date. Following an automatic call, no further payments will be made on the Notes. |
+| Maturity Date | The final level is observed on the final valuation date and the underlying return of the underlying asset is calculated. If the Notes are not subject to an automatic call and the final level is equal to or greater than the downside threshold, BNS will pay you a cash payment per Note at maturity equal to: Principal Amount of $10 If the Notes are not subject to an automatic call and the final level is less than the downside threshold, BNS will pay you a cash payment per Note at maturity that is less than the principal amount, if anything, equal to: $10 × (1 + Underlying Return) In this case, you will suffer a percentage loss on your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes. |
+
+Investing in the Notes involves significant risks. You may lose a significant portion or all of your investment in the Notes. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of BNS. If BNS were to default on its payment obligations, you may not receive any amounts owed to you under the Notes and you could lose your entire investment in the Notes.
+
+If the Notes are not subject to an automatic call, you may lose a significant portion or all of your investment. Specifically, if the Notes are not subject to an automatic call and the final level is less than the downside threshold, you will lose a percentage of your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes.
+
+P-
+3
+
+Observation Dates
+(1)(2)
+, Coupon Payment Dates
+(1)(2)(3)
+and Call Settlement Dates
+(1)(2)(3)
+
+| Observation Dates | Coupon Payment Dates |
+| --- | --- |
+| October 8, 2026* | October 13, 2026* |
+| January 8, 2027* | January 12, 2027* |
+| April 8, 2027* | April 12, 2027* |
+| July 14, 2027* | July 16, 2027 |
+| October 8, 2027 | October 13, 2027 |
+| January 10, 2028 | January 12, 2028 |
+| April 10, 2028 | April 12, 2028 |
+| July 10, 2028 | July 12, 2028 |
+| October 9, 2028 | October 11, 2028 |
+| January 8, 2029 | January 10, 2029 |
+| April 9, 2029 | April 11, 2029 |
+| Final Valuation Date | Maturity Date |
+
+| * | The Notes are not callable until the first potential call settlement date, which is July 16, 2027. |
+| --- | --- |
+
+| (1) | Subject to the market disruption event provisions set forth under “General Terms of the Notes—Unavailability of the Closing Value of a Reference Asset; Adjustments to a Reference Asset — Unavailability of the Closing Value of a Reference Index; Alternative Calculation Methodology” and “General Terms of the Notes — Market Disruption Events — Market Disruption Events for a Reference Index” in the accompanying product supplement. |
+| --- | --- |
+
+| (2) | If you are able to sell your Notes in the secondary market on an observation date, the purchaser of the Notes will be deemed to be the record holder on the applicable record date and therefore you will not be entitled to any contingent coupon paid on the corresponding coupon payment date. If an observation date listed above is not a trading day, such date will be the next following trading day. If an observation date is postponed, the corresponding payment date for the Notes will also be postponed to maintain the same number of business days between such dates as existed prior to such postponement(s). |
+| --- | --- |
+
+| (3) | Two business days following each observation date (as any such date may be postponed with respect to the underlying asset), except that the coupon payment date for the final valuation date is the maturity date. If a coupon payment date or call settlement date is not a business day, such date will be the next following business day. |
+| --- | --- |
+
+P-
+4
+
+Key Risks
+
+An investment in the offering of the Notes involves significant risks. Investing in the Notes is not equivalent to a hypothetical investment in the underlying asset or underlying constituents. Some of the key risks that apply to the Notes are summarized below, but we urge you to read the more detailed explanation of risks relating to the Notes under “Additional Risk Factors Specific to the Notes” of the accompanying product supplement and “Risk Factors” of the accompanying prospectus supplement and of the accompanying prospectus. We also urge you to consult your investment, legal, tax, accounting and other advisors concerning an investment in the Notes in light of your particular circumstances.
+
+Risks Relating to Return Characteristics
+
+♦
+Risk of loss at maturity
+— The Notes differ from ordinary debt securities in that BNS will not necessarily make periodic coupon payments or repay the principal amount of the Notes at maturity. If the Notes are not subject to an automatic call and the final level is less than the downside threshold, you will lose a percentage of your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes.
+
+♦
+The contingent repayment of principal applies only at maturity
+— You should be willing to hold your Notes to an automatic call or maturity. If you are able to sell your Notes prior to an automatic call or maturity in the secondary market, you may have to sell them at a loss relative to your investment even if the level of the underlying asset is equal to or greater than the downside threshold. All payments on the Notes are subject to the creditworthiness of BNS.
+
+♦
+You may not receive any contingent coupons with respect to your Notes
+— BNS will not necessarily make periodic coupon payments on the Notes. BNS will pay a contingent coupon for each observation date on which the closing level of the underlying asset is equal to or greater than the coupon barrier. If the closing level of the underlying asset is less than the coupon barrier on any observation date, BNS will not pay you the contingent coupon applicable to such observation date. If the closing level of the underlying asset is less than the coupon barrier on each of the observation dates, BNS will not pay you any contingent coupons during the term of, and you will not receive a positive return on, your Notes. Generally, this non-payment of the contingent coupon coincides with a period of greater risk of principal loss on your Notes.
+
+♦
+Your potential return on the Notes is limited to any contingent coupons and you will not participate in any appreciation of the underlying asset or underlying constituents
+— The return potential of the Notes is limited to the pre-specified contingent coupon rate, regardless of any appreciation of the underlying asset. In addition, your return on the Notes will vary based on the number of observation dates, if any, on which the requirements of the contingent coupon have been met prior to maturity or an automatic call. Further, if the Notes are subject to an automatic call, you will not receive any contingent coupons or any other payment in respect of any observation dates after the applicable call settlement date. Because the Notes may be subject to an automatic call as early as the first potential call settlement date, the total return on the Notes could be less than if the Notes remained outstanding until maturity. Furthermore, if the Notes are not subject to an automatic call, you may be subject to the decline of the underlying asset even though you cannot participate in any appreciation of the underlying asset or underlying constituents. As a result, the return on an investment in the Notes could be less than the return on a hypothetical direct investment in any or all of the underlying asset or underlying constituents. In addition, as an owner of the Notes, you will not have voting rights or any other rights of a holder of the underlying constituents.
+
+♦
+A higher contingent coupon rate or lower downside threshold or coupon barrier may reflect greater expected volatility of the underlying asset, and greater expected volatility generally indicates an increased risk of loss at maturity
+— The economic terms for the Notes, including the contingent coupon rate, coupon barrier and downside threshold, are based, in part, on the expected volatility of the underlying asset at the time the terms of the Notes are set. “Volatility” refers to the frequency and magnitude of changes in the level of the underlying asset. The greater the expected volatility of the underlying asset as of the time the terms of the Notes are determined, the greater the expectation is as of that date that the closing level of the underlying asset could be less than the coupon barrier on any observation date and that the final level could be less than the downside threshold and, as a consequence, indicates an increased risk of not receiving a contingent coupon and an increased risk of loss, respectively. All things being equal, this greater expected volatility will generally be reflected in a higher contingent coupon rate than the yield payable on our conventional debt securities with a similar maturity or on otherwise comparable securities, and/or a lower downside threshold and/or coupon barrier than those terms on otherwise comparable securities. Therefore, a relatively higher contingent coupon rate may indicate an increased risk of loss. Further, a relatively lower downside threshold and/or coupon barrier may not necessarily indicate that the Notes have a greater likelihood of a return of principal at maturity and/or paying contingent coupons. You should be willing to accept the downside market risk of the underlying asset and the potential to lose a significant portion or all of your investment in the Notes.
+
+♦
+Reinvestment risk
+— The Notes will be subject to an automatic call if the closing level of the underlying asset is equal to or greater than the initial level on certain observation dates prior to the final valuation date, as set forth under “Observation Dates, Coupon Payment Dates and Call Settlement Dates“ herein. Because the Notes could be subject to an automatic call, the term of your investment may be limited. In the event that the Notes are subject to an automatic call, there is no guarantee that you would be able to reinvest the proceeds at a comparable return and/or with a comparable contingent coupon rate for a similar level of risk. In addition, to the extent you are able to reinvest such proceeds in an investment comparable to the Notes, you may incur transaction costs such as dealer discounts and hedging costs built into the price of the new securities. Generally, however, the longer the Notes remain outstanding, the less likely the Notes will be subject to an automatic call due to the decline in the level of the underlying asset and the shorter time remaining for the level of the underlying asset to recover. Such periods generally coincide with a period of greater risk of principal loss on your Notes.
+
+Risks Relating to Characteristics of the Underlying Asset
+
+♦
+Market risk
+— The return on the Notes, which may be negative, is directly linked to the performance of the underlying asset and indirectly linked to the value of the underlying constituents. The level of the underlying asset can rise or fall sharply due to factors specific to the underlying asset and its underlying constituents and their issuers (each, an “underlying constituent issuer”), such as stock price volatility, earnings and financial conditions, corporate, industry and regulatory developments, management changes and decisions and other events, as well as general market factors, such as general stock market or commodity market volatility and levels, interest rates and economic, political and other conditions. You, as an investor in the Notes, should conduct your own investigation into the underlying asset and underlying constituents.
+
+♦
+There can be no assurance that the investment view implicit in the Notes will be successful
+— It is impossible to predict whether and the extent to which the level of the underlying asset will rise or fall and there can be no assurance that the closing level of the underlying asset will be equal to or greater than the coupon barrier on any observation date, or, if the Notes are not subject to an automatic call, that the final level will be equal to or greater than the downside threshold. The level of the underlying asset will be influenced by complex and interrelated political, economic, financial and other factors that affect the underlying constituent issuers. You should be willing to accept the downside risks associated with the relevant market(s) tracked by the underlying asset in general and the underlying asset and its underlying constituents in particular, and the risk of losing a significant portion or all of your investment.
+
+P-
+5
+
+♦
+The Notes are subject to risks associated with non-U.S. securities
+— The Notes are subject to risks associated with non-U.S. securities because the underlying asset is comprised, in part, of non-U.S. companies. Market developments may affect non-U.S. markets differently from U.S. securities markets and direct or indirect government intervention to stabilize these non-U.S. markets, as well as cross shareholdings in non-U.S. companies, may affect trading prices and volumes in those markets. Securities issued by non-U.S. companies are subject to political, economic, financial and social factors that may be unique to the particular country. These factors, which could negatively affect the applicable underlying constituents include the possibility of recent or future changes in the non-U.S. government's economic and fiscal policies, the possible imposition of, or changes in, currency exchange laws or other non-U.S. laws or restrictions applicable to non-U.S. companies or investments in non-U.S. equity securities and the possibility of fluctuations in the rate of exchange between currencies. Moreover, certain aspects of a particular non-U.S. economy may differ favorably or unfavorably from the U.S. economy in important respects, such as growth of gross national product, rate of inflation, capital reinvestment, resources and self-sufficiency.
+
+♦
+The underlying asset reflects price return, not total return
+— The return on your Notes is based on the performance of the underlying asset, which reflects the changes in the market prices of the underlying constituents. Your Notes are not, however, linked to a “total return” index or strategy, which, in addition to reflecting those price returns, would also reflect any dividends paid on the underlying constituents. The return on your Notes will not include such a total return feature or any dividend component.
+
+♦
+BNS and the Agents cannot control actions by the index sponsor and the index sponsor has no obligation to consider your interests
+— None of BNS, UBS or our or their respective affiliates are affiliated with the index sponsor or have any ability to control or predict its actions, including any errors in or discontinuation of public disclosure regarding methods or policies relating to the calculation of the underlying asset. The index sponsor is not involved in the Notes offering in any way and has no obligation to consider your interest as an owner of the Notes in taking any actions that might affect the market value of, and any amount payable on, the Notes.
+
+♦
+Changes affecting the underlying asset could have an adverse effect on the market value of, and any amount payable on, the Notes
+— The policies of the index sponsor as specified under “Information About the Underlying Asset” (the “index sponsor”), concerning additions, deletions and substitutions of the underlying constituents and the manner in which the index sponsor takes account of certain changes affecting those underlying constituents may adversely affect the level of the underlying asset. The policies of the index sponsor with respect to the calculation of the underlying asset could also adversely affect the level of the underlying asset. The index sponsor may discontinue or suspend calculation or dissemination of the underlying asset. Any such actions could have an adverse effect on the market value of, and any amount payable on, the Notes.
+
+Risks Relating to Estimated Value and Liquidity
+
+♦
+BNS’ initial estimated value of the Notes at the time of pricing is lower than the issue price of the Notes
+— BNS’ initial estimated value of the Notes is only an estimate. The issue price of the Notes exceeds BNS’ initial estimated value. The difference between the issue price of the Notes and BNS’ initial estimated value reflects costs associated with selling and structuring the Notes, as well as hedging its obligations under the Notes. Therefore, the economic terms of the Notes are less favorable to you than they would have been if these expenses had not been paid or had been lower.
+
+♦
+Neither BNS’ nor SCUSA’s estimated value of the Notes at any time is determined by reference to credit spreads or the borrowing rate BNS would pay for its conventional fixed-rate debt securities
+— BNS’ initial estimated value of the Notes and SCUSA’s estimated value of the Notes at any time are determined by reference to BNS’ internal funding rate. The internal funding rate used in the determination of the estimated value of the Notes generally represents a discount from the credit spreads for BNS’ conventional fixed-rate debt securities and the borrowing rate BNS would pay for its conventional fixed-rate debt securities. This discount is based on, among other things, BNS’ view of the funding value of the Notes as well as the higher issuance, operational and ongoing liability management costs of the Notes in comparison to those costs for BNS’ conventional fixed-rate debt. If the interest rate implied by the credit spreads for BNS’ conventional fixed-rate debt securities, or the borrowing rate BNS would pay for its conventional fixed-rate debt securities were to be used, BNS would expect the economic terms of the Notes to be more favorable to you. Consequently, the use of an internal funding rate for the Notes increases the estimated value of the Notes at any time and has an adverse effect on the economic terms of the Notes.
+
+♦
+BNS’ initial estimated value of the Notes does not represent future values of the Notes and may differ from others’ (including SCUSA’s) estimates
+— BNS’ initial estimated value of the Notes was determined by reference to its internal pricing models on the trade date. These pricing models consider certain factors, such as BNS’ internal funding rate on the trade date, the expected term of the Notes, market conditions and other relevant factors existing at that time, and BNS’ assumptions about market parameters, which can include volatility of the underlying asset, dividend rates, interest rates and other factors. Different pricing models and assumptions (including the pricing models and assumptions used by SCUSA) could provide valuations for the Notes that are different, and perhaps materially lower, from BNS’ initial estimated value. Therefore, the price at which SCUSA would buy or sell your Notes (if SCUSA makes a market, which it is not obligated to do) may be materially lower than BNS’ initial estimated value. In addition, market conditions and other relevant factors in the future may change, and any assumptions may prove to be incorrect.
+
+♦
+The Notes have limited liquidity
+— The Notes will not be listed on any securities exchange or automated quotation system. Therefore, there may be little or no secondary market for the Notes. SCUSA and any other affiliates of BNS intend, but are not required, to make a market in the Notes. Even if there is a secondary market, it may not provide enough liquidity to allow you to trade or sell the Notes easily. Because we do not expect that other broker-dealers will participate in the secondary market for the Notes, the price at which you may be able to trade your Notes is likely to depend on the price, if any, at which SCUSA is willing to purchase the Notes from you. If at any time SCUSA does not make a market in the Notes, it is likely that there would be no secondary market for the Notes. Accordingly, you should be willing to hold your Notes to maturity.
+
+♦
+The price at which SCUSA would buy or sell the Notes (if SCUSA makes a market, which it is not obligated to do) will be based on SCUSA’s estimated value of the Notes and may be greater than BNS’ valuation of the Notes at that time, greater than any other secondary market prices provided by unaffiliated dealers (if any) and, depending on your broker, greater than the valuation provided on your customer account statements
+— SCUSA’s estimated value of the Notes is determined by reference to its pricing models and takes into account BNS’ internal funding rate. The price at which SCUSA would initially buy or sell the Notes in the secondary market (if SCUSA makes a market, which it is not obligated to do) may exceed (i) SCUSA’s estimated value of the Notes at the time of pricing, (ii) any secondary market prices provided by unaffiliated dealers, potentially including UBS, and (ii) depending on your broker, the valuation provided on your customer account statement. The price that SCUSA may initially offer to buy such Notes following issuance will exceed the valuations indicated by its internal pricing models due to the inclusion for a limited period of time of the aggregate value of the costs associated with structuring and selling the Notes, including the underwriting discount, hedging costs, issuance costs and theoretical projected trading profit. The portion of such amounts included in any secondary market price will decline to zero on a straight-line basis over a period ending no later than the date specified under “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any).” Thereafter, if SCUSA buys or sells the Notes it will do so at prices that reflect the estimated value determined by reference to SCUSA’s pricing models at that time. The price at which SCUSA will buy or sell the Notes at any time also will reflect its then current bid and ask spread for similar sized trades of structured notes. The temporary positive differential relative to SCUSA’s internal pricing models arises from requests from and arrangements made by BNS and the Agents. As described above, SCUSA and its affiliates intend, but are not required, to make a market for the Notes and may stop making a market at any time. SCUSA reflects this temporary positive differential on its customer account statements. Investors should inquire as to the valuation provided on customer account statements provided by unaffiliated dealers, including UBS.
+
+P-
+6
+
+SCUSA’s pricing models consider certain variables, including principally BNS’ internal funding rate, interest rates (forecasted, current and historical rates), volatility of the underlying asset, price-sensitivity analysis and the time to maturity of the Notes. These pricing models are proprietary and rely in part on certain assumptions about future events, which may prove to be incorrect. As a result, the actual value you would receive if you sold your Notes in the secondary market, if any, to others may differ, perhaps materially, from the estimated value of the Notes determined by reference to SCUSA’s models, taking into account BNS’ internal funding rate, due to, among other things, any differences in pricing models or assumptions used by others. If SCUSA calculated its estimated value of the Notes by reference to BNS’ credit spreads or the borrowing rate BNS would pay for its conventional fixed-rate debt securities (as opposed to BNS’ internal funding rate), the price at which SCUSA would buy or sell the Notes (if SCUSA makes a market, which it is not obligated to do) could be significantly lower.
+
+In addition to the factors discussed above, the value and quoted price of the Notes at any time will reflect many factors and cannot be predicted. If SCUSA makes a market in the Notes, the price quoted by SCUSA would reflect any changes in market conditions and other relevant factors, including any deterioration in BNS’ creditworthiness or perceived creditworthiness. These changes may adversely affect the value of the Notes, including the price you may receive for the Notes in any market making transaction. To the extent that SCUSA makes a market in the Notes, the quoted price will reflect the estimated value determined by reference to SCUSA’s pricing models at that time, plus or minus SCUSA’s then current bid and ask spread for similar sized trades of structured notes (and subject to the declining excess amount described above). Furthermore, if you sell your Notes, you will likely be charged a commission for secondary market transactions, or the price will likely reflect a dealer discount. This commission or discount will further reduce the proceeds you would receive for your Notes in a secondary market sale.
+
+♦
+The price of the Notes prior to maturity will depend on a number of factors and may be substantially less than the principal amount
+— Because structured notes, including the Notes, can be thought of as having a debt component and a derivative component, factors that influence the values of debt instruments and options and other derivatives will also affect the terms and features of the Notes at issuance and the market price of the Notes prior to maturity. Some of these factors include, but are not limited to: (i) actual or anticipated changes in the level of the underlying asset over the full term of the Notes, (ii) volatility of the level of the underlying asset and their underlying constituents and the market's perception of future volatility of the foregoing, (iii) changes in interest rates generally, (iv) any actual or anticipated changes in our credit ratings or credit spreads, (v) dividend yields on the underlying constituents and (vi) time remaining to maturity. In particular, because the provisions of the Notes relating to the contingent coupons and the payment at maturity behave like options, the value of the Notes will vary in ways which are non-linear and may not be intuitive.
+
+Depending on the actual or anticipated level of the underlying asset and other relevant factors, the market value of the Notes may decrease and you may receive substantially less than the principal amount if you sell your Notes prior to maturity regardless of the level of the underlying asset at such time.
+
+Risks Relating to Hedging Activities and Conflicts of Interest
+
+♦
+Hedging activities by BNS and SCUSA may negatively impact investors in the Notes and cause our respective interests and those of our clients and counterparties to be contrary to those of investors in the Notes
+— We, SCUSA or one or more of our other affiliates has hedged or expects to hedge our obligations under the Notes. Such hedging transactions may include entering into swap or similar agreements, purchasing shares of the underlying constituents and/or purchasing futures, options and/or other instruments linked to the underlying asset and/or one or more of the underlying constituents. We, SCUSA or one or more of our or their respective affiliates also expects to adjust the hedge by, among other things, purchasing or selling any of the foregoing, and perhaps other instruments linked to the underlying asset and/or one or more of the underlying constituents, at any time and from time to time, and to unwind the hedge by selling any of the foregoing on or before the final valuation date. We, SCUSA or one or more of our or their respective affiliates may also enter into, adjust and unwind hedging transactions relating to other basket- or index-linked Notes whose returns are linked to changes in the level of the underlying asset and/or one or more of the underlying constituents. Any of these hedging activities may adversely affect the level of the underlying asset — directly or indirectly by affecting the price of their underlying constituents — and therefore the market value of the Notes and the amount you will receive, if any, on the Notes.
+
+You should expect that these transactions will cause BNS, SCUSA or our other affiliates, or our or their respective clients or counterparties, to have economic interests and incentives that do not align with, and that may be directly contrary to, those of an investor in the Notes. None of BNS, SCUSA or any of our other affiliates will have any obligation to take, refrain from taking or cease taking any action with respect to these transactions based on the potential effect on an investor in the Notes, and any of the foregoing may receive substantial returns with respect to these hedging activities while the market value of, and return on, the Notes declines.
+
+♦
+We, the Agents and our or their respective affiliates regularly provide services to, or otherwise have business relationships with, a broad client base, which has included and may include us and the underlying constituent issuers and the market activities by us, the Agents or our or their respective affiliates for our or their own respective accounts or for our or their respective clients could negatively impact investors in the
+Notes — We, the Agents and our or their respective affiliates regularly provide a wide range of financial services, including financial advisory, investment advisory and transactional services to a substantial and diversified client base. As such, we each may act as an investor, investment banker, research provider, investment manager, investment advisor, market maker, trader, prime broker or lender. In those and other capacities, we, the Agents and/or our or their respective affiliates purchase, sell or hold a broad array of investments, actively trade securities (including the Notes or other securities that we have issued), the underlying constituents, derivatives, loans, credit default swaps, indices, baskets and other financial instruments and products for our or their own respective accounts or for the accounts of our or their respective customers, and we will have other direct or indirect interests, in those securities and in other markets that may not be consistent with your interests and may adversely affect the level of the underlying asset and/or the value of the Notes. You should assume that we or they will, at present or in the future, provide such services or otherwise engage in transactions with, among others, us and the underlying constituent issuers, or transact in securities or instruments or with parties that are directly or indirectly related to these entities. These services could include making loans to or equity investments in those companies, providing financial advisory or other investment banking services, or issuing research reports. Any of these financial market activities may, individually or in the aggregate, have an adverse effect on the level of the underlying asset and the market for your Notes, and you should expect that our interests and those of the Agents and/or our or their respective affiliates, clients or counterparties, will at times be adverse to those of investors in the Notes.
+
+You should expect that we, the Agents, and our or their respective affiliates, in providing these services, engaging in such transactions, or acting for our or their own respective accounts, may take actions that have direct or indirect effects on the Notes or other securities that we may issue, the underlying constituents or other securities or instruments similar to or linked to the foregoing, and that such actions could be adverse to the interests of investors in the Notes. In addition, in connection with these activities, certain personnel within us, the Agents or our or their respective affiliates may have access to confidential material non-public information about these parties that would not be disclosed to investors in the Notes.
+
+We, the Agents and our or their respective affiliates regularly offer a wide array of securities, financial instruments and other products into the marketplace, including existing or new products that are similar to the Notes or other securities that we may issue, the underlying constituents or other securities or instruments similar to or linked to the foregoing. Investors in the Notes should expect that we, the Agents and our or their respective affiliates offer securities, financial instruments, and other products that may compete with the Notes for liquidity or otherwise.
+
+P-
+7
+
+♦
+Potential impact on price by BNS or the Agents
+— Trading or transactions by BNS, the Agents or our or their respective affiliates in the underlying asset or any underlying constituents, listed and/or over-the-counter options, futures, exchange-traded funds or other instruments with returns linked to the performance of the underlying asset or any underlying constituents may adversely affect the level of the underlying asset or underlying constituents and, therefore, the market value of the Notes, the likelihood of a contingent coupon being paid on any coupon payment date and of the Notes being called on a call settlement date. See “— Risks Relating to Hedging Activities and Conflicts of Interest — Hedging activities by BNS and SCUSA may negatively impact investors in the Notes and cause our respective interests and those of our clients and counterparties to be contrary to those of investors in the Notes” for additional information regarding hedging-related transactions and trading.
+
+♦
+The calculation agent will have significant discretion with respect to the Notes, which may be exercised in a manner that is adverse to your interests
+— The calculation agent will be an affiliate of BNS. The calculation agent will determine whether the contingent coupon is payable to you on any coupon payment date and the payment at maturity of the Notes, if any, based on observed closing levels of the underlying asset. The calculation agent can postpone the determination of the closing level or final level (and therefore the related coupon payment date or maturity date, as applicable) if a market disruption event occurs and is continuing with respect to the underlying asset on any observation date (including the final valuation date).
+
+♦
+Potentially inconsistent research, opinions or recommendations by BNS or the Agents
+— BNS, the Agents and our or their respective affiliates may publish research from time to time on financial markets and other matters that may influence the value of the Notes, or express opinions or provide recommendations that are inconsistent with purchasing or holding the Notes. Any research, opinions or recommendations expressed by BNS, the Agents or our or their respective affiliates may not be consistent with each other and may be modified from time to time without notice. Investors should make their own independent investigation of the merits of investing in the Notes and the underlying asset to which the Notes are linked.
+
+Risks Relating to General Credit Characteristics
+
+♦
+Credit risk of BNS —
+The Notes are senior, unsecured debt obligations of BNS and are not, either directly or indirectly, an obligation of any third party. Any payment to be made on the Notes, including any repayment of principal, depends on the ability of BNS to satisfy its obligations as they come due. As a result, BNS’ actual and perceived creditworthiness may affect the market value of the Notes. If BNS were to default on its obligations, you may not receive any amounts owed to you under the terms of the Notes and you could lose your entire investment in the Notes.
+
+♦
+BNS is subject to the resolution authority under the CDIC Act
+— Although the Notes are not bail-inable debt securities under the CDIC Act, as described elsewhere in this pricing supplement, BNS remains subject generally to Canadian bank resolution powers under the CDIC Act. Under such powers, the Canada Deposit Insurance Corporation may in certain circumstances take actions that could negatively impact holders of the Notes and result in a loss on your investment. See “Risk Factors — Risks Related to the Bank’s Debt Securities” in the accompanying prospectus for more information.
+
+Risks Relating to Canadian and U.S. Federal Income Taxation
+
+♦
+Uncertain tax treatment
+— Significant aspects of the tax treatment of the Notes are uncertain. You should consult your tax advisor about your tax situation. See “Material Canadian Income Tax Consequences” and “What Are the Tax Consequences of the Notes?” herein.
+
+P-
+8
+
+Hypothetical Examples of How the Notes Might Perform
+
+The below examples are based on hypothetical terms. The actual terms were set on the strike date and are indicated on the cover hereof.
+
+The examples below illustrate the payment upon an automatic call or at maturity for a $10 Note on a hypothetical offering of the Notes, with the following assumptions (amounts may have been rounded for ease of analysis):
+
+| Principal Amount: | $10 |
+| --- | --- |
+| Term: | Approximately 3 years |
+| Contingent Coupon Rate: | 6.00% per annum (or 1.50% per quarter) |
+| Contingent Coupon: | $0.15 per quarter |
+| Observation Dates: | Quarterly (callable after 12 months) |
+| Initial Level: | 100.00 |
+| Coupon Barrier: | 60.00 (which is equal to 60.00% of the Initial Level) |
+| Downside Threshold: | 60.00 (which is equal to 60.00% of the Initial Level) |
+
+Example 1
+— The Closing Level of the Underlying Asset is equal to or greater than the Initial Level on the Observation Date corresponding to the first potential Call Settlement Date.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 120.00 ( equal to or greater than Coupon Barrier and Initial Level) | $0.15 (Contingent Coupon – Not Callable) |
+| Second through Third Observation Dates | Various (all less than Coupon Barrier and Initial Level) | $0.00 |
+| Fourth Observation Date | 125.00 ( equal to or greater than Coupon Barrier and Initial Level) | $10.15 (Call Settlement Amount) |
+| | Total Payment: | $10.30 (3.00% total return) |
+
+Because the Notes are subject to an automatic call on the fourth observation date (which is approximately 12 months after the trade date and is the first observation date in respect of which they are callable), BNS will pay you on the call settlement date a total of $10.15 per Note, reflecting your principal amount plus the applicable contingent coupon. When added to the contingent coupon of $0.15 received in respect of the first observation date, BNS will have paid you a total of $10.30 per Note, for a total return of 3.00% on the Notes. No further amount will be owed to you under the Notes.
+
+Example 2
+— The Notes are NOT subject to an Automatic Call and the Final Level is equal to or greater than the Coupon Barrier and Downside Threshold.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 92.00 ( equal to or greater than Coupon Barrier; less than Initial Level) | $0.15 (Contingent Coupon) |
+| Second through Eleventh Observation Dates | Various (all less than Coupon Barrier and Initial Level) | $0.00 |
+| Final Valuation Date | 84.00 ( equal to or greater than Coupon Barrier and Downside Threshold) | $10.15 (Payment at Maturity) |
+| | Total Payment: | $10.30 (3.00% total return) |
+
+Because the Notes are not subject to an automatic call and the final level is equal to or greater than the coupon barrier and downside threshold, BNS will pay you at maturity a total of $10.15 per Note, reflecting your principal amount plus the contingent coupon applicable to the final valuation date. When added to the contingent coupon of $0.15 received in respect of the first observation date, BNS will have paid you a total of $10.30 per Note, for a total return of 3.00% on the Notes.
+
+Example 3
+— The Notes are NOT subject to an Automatic Call and the Final Level is less than the Coupon Barrier and Downside Threshold.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 76.00 ( equal to or greater than Coupon Barrier; less than Initial Level) | $0.15 (Contingent Coupon) |
+| Second through Eleventh Observation Dates | Various (all less than Coupon Barrier and Initial Level) | $0.00 |
+| Final Valuation Date | 40.00 ( less than Coupon Barrier and Downside Threshold) | $10.00 × (1 + Underlying Return) = $10.00 × [1 + (-60.00%)] = $10.00 × 40.00% = $4.00 (Payment at Maturity) |
+| | Total Payment: | $4.15 (58.50% loss) |
+
+Because the Notes are not subject to an automatic call and the final level is less than the coupon barrier and downside threshold, you will be exposed to the negative return of the underlying asset and BNS will pay you at maturity $4.00 per Note. When added to the contingent coupon of $0.15 received in respect of prior observation dates, BNS will have paid you $4.15 per Note, for a loss on the Notes of 58.50%.
+
+Investing in the Notes involves significant risks. The Notes differ from ordinary debt securities in that BNS is not necessarily obligated to repay the principal amount. If the Notes are not subject to an automatic call, you may lose a significant portion or all of your investment in the Notes. Specifically, if the Notes are not subject to an automatic call and the final level is less than the downside threshold, you will lose a percentage of your principal amount equal to the underlying return and, in extreme situations, you could lose your entire investment in the Notes.
+
+P-
+9
+
+Any payment on the Notes, including any payments in respect of an automatic call, contingent coupon or any repayment of principal, is subject to the creditworthiness of BNS. If BNS were to default on its payment obligations, you may not receive any amounts owed to you under the Notes and you could lose your entire investment in the Notes.
+
+P-
+10
+
+Information About the Underlying Asset
+
+All disclosures contained in this document regarding the underlying asset for the Notes are derived from publicly available information. BNS has not conducted any independent review or due diligence of any publicly available information with respect to the underlying asset. Information from outside sources is not incorporated by reference in, and should not be considered part of, this document or any document incorporated herein by reference. You should make your own investigation into the underlying asset.
+
+Included below is a brief description of the underlying asset. This information has been obtained from publicly available sources. Set forth below is a graph that illustrates the past performance for the underlying asset. We obtained the past performance information set forth below from Bloomberg Professional
+®
+service (“Bloomberg”) without independent verification. You should not take the historical levels of the underlying asset as an indication of future performance.
+
+Nasdaq-100 Index
+®
+
+We have derived all information contained herein regarding the underlying asset, including without limitation, its make-up, method of calculation and changes in its components from publicly available information. Such information reflects the policies of, and is subject to change by,
+Nasdaq, Inc. (the “index sponsor”)
+, and/or its affiliates.
+
+The underlying asset includes 100 of the largest domestic and international non-financial stocks listed on The Nasdaq Stock Market based on market capitalization. Please see “Indices — The Nasdaq-100 Index
+®
+” in the accompanying underlier supplement for additional information regarding the underlying asset, the index sponsor and our license agreement with respect to the underlying asset. Additional information regarding the underlying asset, including its sectors, sector weightings and top constituents, may be available on the index sponsor’s website.
+
+Historical Information
+
+The graph below illustrates the performance of the underlying asset from January 1, 2016 through July 6, 2026, based on the daily closing levels as reported by Bloomberg, without independent verification. BNS has not conducted any independent review or due diligence of publicly available information obtained from Bloomberg. The closing level of the underlying asset on July 6, 2026 was 29,697.87. The dotted line represents the coupon barrier and downside threshold of 17,818.72, which is equal to 60.00% of the initial level.
+Past performance of the underlying asset is not indicative of the future performance of the underlying asset during the term of the Notes.
+
+P-
+11
+
+What Are the Tax Consequences of the Notes?
+
+The U.S. federal income tax consequences of your investment in the Notes are uncertain. There are no statutory provisions, regulations, published rulings or judicial decisions addressing the characterization for U.S. federal income tax purposes of securities with terms that are substantially the same as the Notes. Some of these tax consequences are summarized below, but we urge you to read the more detailed discussion in “Material U.S. Federal Income Tax Consequences” in the accompanying product supplement and to discuss the tax consequences of your particular situation with your tax advisor. This discussion is based upon the U.S. Internal Revenue Code of 1986, as amended (the “Code”), final, temporary and proposed U.S. Department of the Treasury (the “Treasury”) regulations, rulings and decisions, in each case, as available and in effect as of the date hereof, all of which are subject to change, possibly with retroactive effect. Tax consequences under state, local and non-U.S. laws are not addressed herein. No ruling from the U.S. Internal Revenue Service (the “IRS”) has been sought as to the U.S. federal income tax consequences of your investment in the Notes, and the following discussion is not binding on the IRS.
+
+U.S. Tax Treatment.
+Pursuant to the terms of the Notes, BNS and you agree, in the absence of a statutory or regulatory change or an administrative determination or judicial ruling to the contrary, to characterize the Notes as prepaid derivative contracts with respect to the underlying asset. You further agree to include any contingent coupon that is paid by BNS (including on the maturity date or call settlement date) in your income as ordinary income in accordance with your regular method of accounting for U.S. federal income tax purposes.
+
+Under this treatment, you should generally recognize capital gain or loss upon the taxable disposition (including cash settlement) of your Notes in an amount equal to the difference between the amount you receive at such time (other than amounts or proceeds attributable to a contingent coupon or any amount attributable to any accrued but unpaid contingent coupons) and the amount you paid for your Notes. Such gain or loss should generally be long-term capital gain or loss if you have held your Notes for more than one year (and, otherwise, should be short-term capital gain or loss). The deductibility of capital losses is subject to limitations. Although uncertain, it is possible that proceeds received from the taxable disposition of your Notes prior to a coupon payment date, but that could be attributed to an expected contingent coupon, could be treated as ordinary income. You should consult your tax advisor regarding this risk.
+
+Based on certain factual representations received from us, our special U.S. tax counsel, Fried, Frank, Harris, Shriver & Jacobson LLP, is of the opinion that it would be reasonable to treat your Notes in the manner described above. However, because there is no authority that specifically addresses the tax treatment of the Notes, it is possible that your Notes could alternatively be treated for tax purposes as a single contingent payment debt instrument or pursuant to some other characterization, such that the timing and character of your income from the Notes could differ materially and adversely from the treatment described above, as described further under “Material U.S. Federal Income Tax Consequences” in the accompanying product supplement.
+
+Section 1297
+. We will not attempt to ascertain whether any underlying constituent issuer would be treated as a “passive foreign investment company” (a “PFIC”) within the meaning of Section 1297 of the Code. If any such entity were so treated, certain adverse U.S. federal income tax consequences might apply to U.S. holders upon the taxable disposition (including cash settlement) of the Notes. U.S. holders should refer to information filed with the SEC or an equivalent governmental authority by such entities and consult their tax advisors regarding the possible consequences to them if any such entity is or becomes a PFIC.
+
+Except to the extent otherwise required by law, BNS intends to treat your Notes for U.S. federal income tax purposes in accordance with the treatment described above and under “Material U.S. Federal Income Tax Consequences” in the accompanying product supplement unless and until such time as the IRS and the Treasury determine that some other treatment is more appropriate.
+
+Notice 2008-2.
+In 2007, the IRS released a notice that may affect the taxation of holders of the Notes. According to Notice 2008-2, the IRS and the Treasury are considering whether a holder of an instrument such as the Notes should be required to accrue ordinary income on a current basis. It is not possible to determine what guidance they will ultimately issue, if any. It is possible, however, that under such guidance, holders of the Notes will ultimately be required to accrue income currently in excess of any receipt of contingent coupons, and this could be applied on a retroactive basis. According to the Notice, the IRS and the Treasury are also considering other relevant issues, including whether additional gain or loss from such instruments should be treated as ordinary or capital, whether non-U.S. holders of such instruments should be subject to withholding tax on any deemed income accruals, and whether the special “constructive ownership rules” of Section 1260 of the Code should be applied to such instruments. Both U.S. and non-U.S. holders are urged to consult their tax advisors concerning the significance and potential impact of the above considerations.
+
+Medicare Tax on Net Investment Income
+. U.S. holders that are individuals, estates or certain trusts are subject to an additional 3.8% tax on all or a portion of their “net investment income,”
+
+or “undistributed net investment income” in the case of an estate or trust, which may include any income or gain realized with respect to the Notes, to the extent of their net investment income or undistributed net investment income (as the case may be) that, when added to their other modified adjusted gross income, exceeds $200,000 for an unmarried individual, $250,000 for a married taxpayer filing a joint return (or a surviving spouse), $125,000 for a married individual filing a separate return or the dollar amount at which the highest tax bracket begins for an estate or trust. The 3.8% Medicare tax is determined in a different manner than the regular income tax. U.S. holders should consult their tax advisors as to the consequences of the 3.8% Medicare tax.
+
+Specified Foreign Financial Assets.
+U.S. holders may be subject to reporting obligations with respect to their Notes if they do not hold their Notes in an account maintained by a financial institution and the aggregate value of their Notes and certain other “specified foreign financial assets” (applying certain attribution rules) exceeds an applicable threshold. Significant penalties can apply if a U.S. holder is required to disclose its Notes and fails to do so.
+
+Non-U.S. Holders.
+The U.S. federal income tax treatment of the contingent coupons is unclear. Subject to Section 897 of the Code and Section 871(m) of the Code, and FATCA, each as discussed below, we currently do not intend to treat contingent coupons paid to a non-U.S. holder that provides us (and/or the applicable withholding agent) with a fully completed and validly executed applicable IRS Form W-8 as subject to U.S. withholding tax and we currently do not intend to withhold any tax on contingent coupons. However, it is possible that the IRS could assert that such payments are subject to U.S. withholding tax, or that another withholding agent may otherwise determine that withholding is required, in which case such other withholding agent may withhold up to 30% on such payments (subject to reduction or elimination of such withholding tax pursuant to an applicable income tax treaty). We will not pay any additional amounts in respect of such withholding. Subject to Section 897 of the Code and Section 871(m) of the Code, discussed below, gain realized from the taxable disposition of a Note generally should not be subject to U.S. tax unless (i) such gain is effectively connected with a trade or business conducted by the non-U.S. holder in the U.S., (ii) the non-U.S. holder is a non-resident alien individual and is present in the U.S. for 183 days or more during the taxable year of such taxable disposition and certain other conditions are satisfied or (iii) the non-U.S. holder has certain other present or former connections with the U.S.
+
+Section 897.
+We will not attempt to ascertain whether any underlying constituent issuer would be treated as a “United States real property holding corporation” (“USRPHC”) within the meaning of Section 897 of the Code. We also have not attempted to determine whether the Notes should be treated as “United States real property interests” (“USRPI”) as defined in Section 897 of the Code. If any such entity and/or the Notes were so treated, certain adverse U.S. federal income tax consequences could possibly apply, including subjecting any gain to a non-U.S. holder in respect of a Note upon a taxable disposition of the Note to U.S. federal income tax on a net basis, and the proceeds from such a taxable disposition to a 15% withholding tax. Non-U.S. holders should consult their tax advisors regarding the potential treatment of any such entity as a USRPHC and/or the Notes as USRPI.
+
+P-
+12
+
+Section 871(m)
+. A 30% withholding tax (which may be reduced by an applicable income tax treaty) is imposed under Section 871(m) of the Code on certain “dividend equivalents” paid or deemed paid to a non-U.S. holder with respect to a “specified equity-linked instrument” that references one or more dividend-paying U.S. equity securities or indices containing U.S. equity securities. The withholding tax can apply even if the instrument does not provide for payments that reference dividends. Treasury regulations provide that the withholding tax applies to all dividend equivalents paid or deemed paid on specified equity-linked instruments that have a delta of one (“delta-one specified equity-linked instruments”) issued after 2016 and to all dividend equivalents paid or deemed paid on all other specified equity-linked instruments issued after 2017. However, the IRS has issued guidance that states that the Treasury and the IRS intend to amend the effective dates of the Treasury regulations to provide that withholding on dividend equivalents paid or deemed paid will not apply to specified equity-linked instruments that are not delta-one specified equity-linked instruments and are issued before January 1, 2027.
+
+Based on the nature of the underlying asset and our determination that the Notes are not “delta-one” with respect to the underlying asset or any underlying constituents, our special U.S. tax counsel is of the opinion that the Notes should not be delta-one specified equity-linked instruments and thus should not be subject to withholding on dividend equivalents. Our determination is not binding on the IRS, and the IRS may disagree with this determination. Furthermore, the application of Section 871(m) of the Code will depend on our determinations on the date the terms of the Notes are set. If withholding is required, we will not make payments of any additional amounts.
+
+Nevertheless, after the date the terms are set, it is possible that your Notes could be deemed to be reissued for tax purposes upon the occurrence of certain events affecting the underlying asset, any underlying constituents, or your Notes, and following such occurrence your Notes could be treated as delta-one specified equity-linked instruments that are subject to withholding on dividend equivalents. It is also possible that withholding tax or other tax under Section 871(m) of the Code could apply to the Notes under these rules if a non-U.S. holder enters, or has entered, into certain other transactions in respect of the underlying asset, any underlying constituents, or the Notes. A non-U.S. holder that enters, or has entered, into other transactions in respect of the underlying asset, any underlying constituents, or the Notes should consult its tax advisor regarding the application of Section 871(m) of the Code to its Notes in the context of its other transactions.
+
+Because of the uncertainty regarding the application of the 30% withholding tax on dividend equivalents to the Notes, you are urged to consult your tax advisor regarding the potential application of Section 871(m) of the Code and the 30% withholding tax to an investment in the Notes.
+
+FATCA.
+The Foreign Account Tax Compliance Act (“FATCA”) was enacted on March 18, 2010, and imposes a 30% U.S. withholding tax on “withholdable payments” (i.e., certain U.S.-source payments, including interest (and original issue discount), dividends, other fixed or determinable annual or periodical gain, profits and income, and the gross proceeds from a disposition of property of a type which can produce U.S.-source interest or dividends) and “passthru payments” (i.e., certain payments attributable to withholdable payments) made to certain foreign financial institutions (and certain of their affiliates) unless the payee foreign financial institution agrees (or is required), among other things, to disclose the identity of any U.S. individual with an account at the institution (or the relevant affiliate) and to annually report certain information about such account. FATCA also requires withholding agents making withholdable payments to certain foreign entities that do not disclose the name, address, and taxpayer identification number of any substantial U.S. owners (or do not certify that they do not have any substantial U.S. owners) to withhold tax at a rate of 30%. Under certain circumstances, a holder may be eligible for refunds or credits of such taxes.
+
+Pursuant to final and temporary Treasury regulations and other IRS guidance, the withholding and reporting requirements under FATCA will generally apply to certain “withholdable payments”, will not apply to gross proceeds on a sale or disposition, and will apply to certain foreign passthru payments only to the extent that such payments are made after the date that is two years after final regulations defining the term “foreign passthru payment” are published. If withholding is required, we (or the applicable paying agent) will not be required to pay additional amounts with respect to the amounts so withheld. Foreign financial institutions and non-financial foreign entities located in jurisdictions that have an intergovernmental agreement with the U.S. governing FATCA may be subject to different rules.
+
+Investors should consult their tax advisors about the application of FATCA, in particular if they may be classified as financial institutions (or if they hold their Notes through a foreign entity) under the FATCA rules.
+
+Backup Withholding and Information Reporting.
+The proceeds received from a taxable disposition of the Notes will be subject to information reporting unless you are an “exempt recipient” and may also be subject to backup withholding at the rate specified in the Code if you fail to provide certain identifying information (such as an accurate taxpayer number, if you are a U.S. holder) or meet certain other conditions.
+
+Amounts withheld under the backup withholding rules are not additional taxes and may be refunded or credited against your U.S. federal income tax liability, provided the required information is furnished to the IRS.
+
+U.S. Federal Estate Tax Treatment of Non-U.S. Holders.
+A Note may be subject to U.S. federal estate tax if an individual non-U.S. holder holds the Note at the time of his or her death. The gross estate of a non-U.S. holder domiciled outside the U.S. includes only property situated in the U.S. Individual non-U.S. holders should consult their tax advisors regarding the U.S. federal estate tax consequences of holding the Notes at death.
+
+Proposed Legislation.
+In 2007, legislation was introduced in Congress that, if it had been enacted, would have required holders of Notes purchased after the bill was enacted to accrue interest income over the term of the Notes despite the fact that there may be no interest payments over the term of the Notes.
+
+Furthermore, in 2013, the House Ways and Means Committee released in draft form certain proposed legislation relating to financial instruments. If it had been enacted, the effect of this legislation generally would have been to require instruments such as the Notes to be marked to market on an annual basis with all gains and losses to be treated as ordinary, subject to certain exceptions.
+
+It is not possible to predict whether any similar or identical bills will be enacted in the future, or whether any such bill would affect the tax treatment of your Notes. You are urged to consult your tax advisor regarding the possible changes in law and their possible impact on the tax treatment of your Notes.
+
+Both U.S. and non-U.S. holders are urged to consult their tax advisors concerning the application of U.S. federal income tax laws to their particular situations, as well as any tax consequences of the purchase, beneficial ownership and disposition of the Notes arising under the laws of any state, local, non-U.S. or other taxing jurisdiction (including that of BNS and those of the underlying constituent issuers).
+
+P-
+13
+
+Material Canadian Income Tax Consequences
+
+See “Supplemental Discussion of Canadian Tax Consequences” in the accompanying product supplement for a discussion of the material Canadian income tax consequences of an investment in the Notes. In addition to the assumptions, limitations and conditions described therein, such discussion assumes that no amount paid or payable to a Non-Resident Holder will be the deduction component of a “hybrid mismatch arrangement” under which the payment arises within the meaning of paragraph 18.4(3)(b) of the Act.
+
+On January 29, 2026, the Department of Finance Canada released for consultation proposed amendments (the “January 29th Tax Proposals”) that would amend paragraph 18.4(3)(b) of the Act, and introduce other consequential amendments. Such discussion further assumes that these proposals will not apply to amounts payable to a holder in respect of the Notes. However, there can be no assurance in this regard. Investors should note that the January 29th Tax Proposals are highly complex, and there remains significant uncertainty as to their interpretation and application.
+
+P-
+14
+
+Additional Information Regarding Estimated Value of the Notes
+
+On the cover page of this pricing supplement, BNS has provided the initial estimated value for the Notes. The initial estimated value was determined by reference to BNS’ internal pricing models, which take into consideration certain factors, such as BNS’ internal funding rate on the trade date and BNS’ assumptions about market parameters. For more information about the initial estimated value, see “Key Risks — Risks Relating to Estimated Value and Liquidity” herein.
+
+The economic terms of the Notes (including the contingent coupon rate, coupon barrier and downside threshold) are based on BNS’ internal funding rate, which is the rate BNS would pay to borrow funds through the issuance of similar market-linked Notes, the underwriting discount and the economic terms of certain related hedging arrangements. Due to these factors, the original issue price you pay to purchase the Notes is greater than the initial estimated value of the Notes. BNS’ internal funding rate is typically lower than the rate BNS would pay when it issues conventional fixed rate debt securities as discussed further under “Key Risks — Risks Relating to Estimated Value and Liquidity — Neither BNS’ nor SCUSA’s estimated value of the Notes at any time is determined by reference to credit spreads or the borrowing rate BNS would pay for its conventional fixed-rate debt securities”. BNS’ use of its internal funding rate reduces the economic terms of the Notes to you.
+
+We urge you to read the “Key Risks — Risks Relating to Estimated Value and Liquidity” in this pricing supplement for additional information.
+
+P-
+15
+
+Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)
+
+SCUSA, our affiliate, has agreed to purchase the Notes at the principal amount and, as part of the distribution of the Notes, has agreed to sell the Notes to UBS at the discount specified on the cover hereof. UBS offered the Notes to the public at the issue price set forth on the cover hereof. In accordance with the terms of a distributor accession letter, UBS has been appointed as a distribution agent under the distribution agreement and has agreed to purchase Notes from BNS or its affiliates.
+
+In addition, SCUSA and our other affiliates may use the accompanying product supplement, underlier supplement, prospectus supplement and prospectus to which this pricing supplement relates in market-making transactions after the initial sale of the Notes. While SCUSA intends to make a market in the Notes, it is under no obligation to do so and may discontinue any market-making activities at any time without notice. See “Key Risks — Risks Relating to Estimated Value and Liquidity — The Notes have limited liquidity” herein and the sections titled “Supplemental Plan of Distribution (Conflicts of Interest)” in the accompanying product supplement and prospectus supplement for additional information.
+
+Conflicts of Interest
+—SCUSA is an affiliate of BNS and, as such, has a “conflict of interest” in this offering within the meaning of the Financial Industry Regulatory Authority, Inc. (“FINRA”) Rule 5121. In addition, BNS will receive the gross proceeds (excluding the underwriting discount) from the initial public offering of the Notes, thus creating an additional conflict of interest within the meaning of FINRA Rule 5121. Consequently, the offering is being conducted in compliance with the provisions of FINRA Rule 5121. SCUSA is not permitted to sell Notes in this offering to an account over which it exercises discretionary authority without the prior specific written approval of the account holder.
+
+In the ordinary course of their various business activities, SCUSA, UBS and their respective affiliates may make or hold a broad array of investments and actively trade debt and equity securities (or related derivative securities) and financial instruments (including bank loans) for their own account and for the accounts of their customers, and such investment and securities activities may involve securities and/or instruments of BNS. SCUSA, UBS and their respective affiliates may also make investment recommendations and/or publish or express independent research views in respect of such securities or instruments and may at any time hold, or recommend to clients that they acquire, long and/or short positions in such securities and instruments.
+
+SCUSA and its affiliates may offer to buy or sell the Notes in the secondary market (if any) at prices greater than BNS’ internal valuation
+— The value of the Notes at any time will vary based on many factors that cannot be predicted. However, the price (not including SCUSA’s or any affiliates’ customary bid-ask spreads) at which SCUSA or any affiliate would offer to buy or sell the Notes immediately after the trade date in the secondary market is expected to exceed the initial estimated value of the Notes as determined by reference to our internal pricing models. The amount of the excess will decline to zero on a straight-line basis over a period ending no later than 5 months after the trade date, provided that SCUSA may shorten the period based on various factors, including the magnitude of purchases and other negotiated provisions with selling agents. Notwithstanding the foregoing, SCUSA and its affiliates intend, but are not required, to make a market for the Notes and may stop making a market at any time. For more information about secondary market offers and the initial estimated value of the Notes, see “Key Risks — Risks Relating to Estimated Value and Liquidity” herein.
+
+Prohibition of Sales to EEA Retail Investors
+— The Notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the European Economic Area (“EEA”). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU, as amended (“MiFID II”); (ii) a customer within the meaning of Directive (EU) 2016/97, as amended, where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Regulation (EU) 2017/1129, as amended. Consequently no key information document required by Regulation (EU) No 1286/2014, as amended (the “PRIIPs Regulation”), for offering or selling the Notes or otherwise making them available to retail investors in the EEA has been prepared and therefore offering or selling the Notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+
+Prohibition of Sales to United Kingdom Retail Investors
+— The only categories of person in the United Kingdom to whom this document may be distributed are those persons who (i) have professional experience in matters relating to investments falling within the definition of investment professionals (as defined in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (as amended, the “Financial Promotion Order”)), (ii) are persons falling within Article 49(2)(a) to (d) (“high net worth companies, unincorporated associations etc.”) of the Financial Promotion Order, or (iii) are persons to whom an invitation or inducement to engage in investment activity (within the meaning of section 21 of the Financial Services and Markets Act 2000 (“FSMA”)) in connection with the issue or sale of any securities may otherwise lawfully be communicated or caused to be communicated (all such persons in (i)-(iii) above together being referred to as “Relevant Persons”). This document is directed only at Relevant Persons and must not be acted on or relied on by persons who are not Relevant Persons. Any investment or investment activity to which this document relates is available only to Relevant Persons and will be engaged in only with Relevant Persons. This document may only be provided to persons in the United Kingdom in circumstances where section 21(1) of FSMA does not apply to BNS. The Notes are not being offered to “retail investors” within the meaning of the Packaged Retail and Insurance-based Investment Products Regulations 2017 and accordingly no Key Information Document has been produced under these regulations.
+
+P-
+16
+
+Validity of the Notes
+
+In the opinion of Fried, Frank, Harris, Shriver & Jacobson LLP, as special counsel to BNS, when the Notes offered by this pricing supplement have been executed and issued by BNS and authenticated by the trustee pursuant to the indenture and delivered, paid for and sold as contemplated herein, the Notes will be valid and binding obligations of BNS, enforceable against BNS in accordance with their terms, subject to applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium, receivership or other laws relating to or affecting creditors’ rights generally, and to general principles of equity (regardless of whether enforcement is sought in a proceeding at law or in equity). This opinion is given as of the date hereof and is limited to the laws of the State of New York. Insofar as this opinion involves matters governed by Canadian law, Fried, Frank, Harris, Shriver & Jacobson LLP has assumed, without independent inquiry or investigation, the validity of the matters opined on by Osler, Hoskin & Harcourt LLP, Canadian legal counsel for BNS, in its opinion expressed below. In addition, this opinion is subject to customary assumptions about the trustee’s authorization, execution and delivery of the indenture and, with respect to the Notes, authentication of the Notes and the genuineness of signatures and certain factual matters, all as stated in the opinion of Fried, Frank, Harris, Shriver & Jacobson LLP dated October 9, 2024 filed with the SEC as Exhibit 5.3 to the Registration Statement on Form F-3 on October 9, 2024.
+
+In the opinion of Osler, Hoskin & Harcourt LLP, the issue and sale of the Notes has been duly authorized by all necessary corporate action of BNS in conformity with the Indenture, and when the Notes have been duly executed, authenticated and issued in accordance with the Indenture, and delivered against payment therefor, the Notes will be validly issued and, to the extent validity of the Notes is a matter governed by the laws of the Province of Ontario or the federal laws of Canada applicable therein, will be valid obligations of BNS, subject to the following limitations (i) the enforceability of the Indenture may be limited by the Canada Deposit Insurance Corporation Act (Canada), the Winding-up and Restructuring Act (Canada) and bankruptcy, insolvency, reorganization, receivership, preference, moratorium, arrangement or winding-up laws or other similar laws affecting the enforcement of creditors’ rights generally; (ii) the enforceability of the Indenture may be limited by equitable principles, including the principle that equitable remedies such as specific performance and injunction may only be granted in the discretion of a court of competent jurisdiction; (iii) pursuant to the Currency Act (Canada) a judgment by a Canadian court must be awarded in Canadian currency and that such judgment may be based on a rate of exchange in existence on a day other than the day of payment; and (iv) the enforceability of the Indenture will be subject to the limitations contained in the Limitations Act, 2002 (Ontario), and such counsel expresses no opinion as to whether a court may find any provision of the Indenture to be unenforceable as an attempt to vary or exclude a limitation period under that Act. This opinion is given as of the date hereof and is limited to the laws of the Province of Ontario and the federal laws of Canada applicable therein. In addition, this opinion is subject to customary assumptions about the Trustees’ authorization, execution and delivery of the Indenture and the genuineness of signatures and certain factual matters, all as stated in the letter of such counsel dated October 9, 2024, which has been filed as Exhibit 5.2 to BNS’ Form F-3 filed with the SEC on October 9, 2024.
+
+P-
+17

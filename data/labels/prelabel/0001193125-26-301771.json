@@ -1,0 +1,277 @@
+{
+  "accession": "0001193125-26-301771",
+  "source_file": "data/cleaned/0001193125-26-301771_gs-20260713.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "GS Finance Corp.",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-09",
+    "strike_date": null,
+    "issue_date": "2026-07-13",
+    "maturity_date": "2029-07-12",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2992.542
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7543.64
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-09",
+      "2027-01-11",
+      "2027-04-09",
+      "2027-07-09",
+      "2027-10-11",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10",
+      "2028-10-09",
+      "2029-01-09",
+      "2029-04-09",
+      "2029-07-09"
+    ],
+    "payment_dates": [
+      "2026-10-15",
+      "2027-01-14",
+      "2027-04-14",
+      "2027-07-14",
+      "2027-10-14",
+      "2028-01-13",
+      "2028-04-13",
+      "2028-07-13",
+      "2028-10-12",
+      "2029-01-12",
+      "2029-04-12",
+      "2029-07-12"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.0075,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.81
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Company (Issuer): | GS Finance Corp. |",
+      "lines": [
+        112,
+        112
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Authorized denominations : | $10 or any integral multiple of $10 in excess thereof |",
+      "lines": [
+        117,
+        117
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade date: | July 9, 2026 |",
+      "lines": [
+        136,
+        136
+      ]
+    },
+    "issue_date": {
+      "quote": "| Original issue date: | July 13, 2026 |",
+      "lines": [
+        137,
+        137
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Stated maturity date: | July 12, 2029, subject to adjustment",
+      "lines": [
+        139,
+        139
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index | RTY Index |",
+      "lines": [
+        36,
+        36
+      ],
+      "note": "Bloomberg symbol 'RTY Index' -> ticker RTY"
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Initial underlying index level: | 2,992.542 with respect to the Russell 2000 ® Index",
+      "lines": [
+        122,
+        122
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Index | SPX Index | $0.20075/qtr. (up to 8.03% per annum) | 7,543.64 |",
+      "lines": [
+        37,
+        37
+      ],
+      "note": "Bloomberg symbol 'SPX Index' -> ticker SPX"
+    },
+    "underlyings[1].initial_level": {
+      "quote": "7,543.64 with respect to the S&P 500 ® Index",
+      "lines": [
+        122,
+        122
+      ]
+    },
+    "performance_type": {
+      "quote": "| Lesser performing underlying index: | the underlying index with the lowest underlying index return |",
+      "lines": [
+        133,
+        133
+      ],
+      "note": "coupon and call require EACH index to meet the level; loss based on lesser performing index"
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        149,
+        162
+      ],
+      "note": "12 quarterly rows, last = determination date July 9, 2029"
+    },
+    "payment_dates": {
+      "quote": "| October 9, 2026 | October 15, 2026 |",
+      "lines": [
+        149,
+        162
+      ],
+      "note": "second column of the same table; last = stated maturity July 12, 2029"
+    },
+    "autocall.first_observation_index": {
+      "quote": "This is the first date on which your notes may be automatically called.",
+      "lines": [
+        152,
+        165
+      ],
+      "note": "dagger on row 2 (January 11, 2027) -> index 2"
+    },
+    "autocall.levels_pct": {
+      "quote": "each coupon observation date specified in the table under “ — Coupon payment dates” below, commencing January 2027",
+      "lines": [
+        140,
+        140
+      ],
+      "note": "call level = initial level (line 121) -> 100; call dates = obs 2..12 inclusive of the final date -> 11 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "$0.20075/qtr. (up to 8.03% per annum)",
+      "lines": [
+        36,
+        36
+      ],
+      "note": "$0.20075 / $10 = 2.0075%; check 8.03% / 4 = 2.0075"
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon barrier : | with respect to the Russell 2000 ® Index, 70.00% of its initial underlying index level",
+      "lines": [
+        135,
+        135
+      ]
+    },
+    "coupon.memory": {
+      "quote": "if the closing level of any underlying index on the related coupon observation date is less than its coupon barrier, $0.00",
+      "lines": [
+        134,
+        134
+      ],
+      "note": "no memory/previously-unpaid language anywhere in the filing"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside threshold: | with respect to the Russell 2000 ® Index, 70.00% of its initial underlying index level",
+      "lines": [
+        125,
+        125
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "Also, the application of the downside threshold applies only at maturity",
+      "lines": [
+        394,
+        394
+      ],
+      "note": "final level = closing level on the determination date (line 123)"
+    },
+    "downside_participation_pct": {
+      "quote": "the sum of (i) $10 plus (ii) the product of (a) the lesser performing underlying index return times (b) $10.",
+      "lines": [
+        119,
+        119
+      ],
+      "note": "1:1 loss of lesser performing index return below threshold -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "is equal to approximately $9.81 per $10 face amount, which is less than the original issue price",
+      "lines": [
+        66,
+        66
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade date: | July 9, 2026 |",
+      "lines": [
+        136,
+        136
+      ],
+      "note": "no separate strike date named; initial levels equal the 2026-07-09 closes exactly"
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Call observation dates are defined as 'each coupon observation date ... commencing January 2027' with no exclusion of the determination date, so the final date (July 9, 2029) is treated as callable -> 11 entries of 100 (obs 2..12). The interim-only exception of convention 5 does not appear to apply; economically a call on the final date (face + coupon if each index >= initial) coincides with the maturity payoff, so 10 vs 11 entries is price-neutral. Verify which count the gold convention expects."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted from cash amount $0.20075 per $10 = 2.0075% per quarter; consistent with 8.03% p.a. / 4 (8.03 is described as 'up to', rounded)."
+    },
+    {
+      "field": "coupon.barrier_pct / knock_in.barrier_pct",
+      "issue": "Thresholds are 70.00% of initial levels with rounding (RTY to nearest 0.001, SPX to nearest 0.01); absolute barrier levels are not printed."
+    },
+    {
+      "field": "underlyings[*].ticker",
+      "issue": "Tickers taken from Bloomberg symbols 'RTY Index' / 'SPX Index' with the ' Index' suffix dropped."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; January 11, 2027 and October 11, 2027 etc. are not on the 9th (business-day adjusted as filed). Read row by row from lines 151-162."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of on two equity indices (Russell 2000, S&P 500; price-return benchmark indices), quarterly discrete autocall at 100% from observation 2, non-memory contingent coupon with 70% barrier, European (determination-date-only) 70% downside threshold with 1:1 loss. Fits the pricing template."
+  }
+}

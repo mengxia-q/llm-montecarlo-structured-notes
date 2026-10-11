@@ -1,0 +1,299 @@
+{
+  "accession": "0001193125-26-303101",
+  "source_file": "data/cleaned/0001193125-26-303101_gs-20260714.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "GS Finance Corp.",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-10",
+    "strike_date": null,
+    "issue_date": "2026-07-15",
+    "maturity_date": "2031-07-15",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2977.805
+      },
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29825.11
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-12",
+      "2027-01-11",
+      "2027-04-12",
+      "2027-07-12",
+      "2027-10-11",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10",
+      "2028-10-10",
+      "2029-01-10",
+      "2029-04-10",
+      "2029-07-10",
+      "2029-10-10",
+      "2030-01-10",
+      "2030-04-10",
+      "2030-07-10",
+      "2030-10-10",
+      "2031-01-10",
+      "2031-04-10",
+      "2031-07-10"
+    ],
+    "payment_dates": [
+      "2026-10-15",
+      "2027-01-14",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-14",
+      "2028-01-13",
+      "2028-04-13",
+      "2028-07-13",
+      "2028-10-13",
+      "2029-01-16",
+      "2029-04-13",
+      "2029-07-13",
+      "2029-10-15",
+      "2030-01-15",
+      "2030-04-15",
+      "2030-07-15",
+      "2030-10-16",
+      "2031-01-15",
+      "2031-04-15",
+      "2031-07-15"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.35,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.86
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Company (Issuer): | GS Finance Corp. |",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "Authorized denominations : | $10 or any integral multiple of $10 in excess thereof",
+      "lines": [
+        111,
+        111
+      ],
+      "note": "face amount per note $10"
+    },
+    "pricing_date": {
+      "quote": "Trade date: | July 10, 2026",
+      "lines": [
+        129,
+        129
+      ]
+    },
+    "strike_date": {
+      "quote": "Trade date: | July 10, 2026",
+      "lines": [
+        129,
+        129
+      ],
+      "note": "no separate strike date named; initial levels set on trade date"
+    },
+    "issue_date": {
+      "quote": "Original issue date: | July 15, 2026",
+      "lines": [
+        130,
+        130
+      ]
+    },
+    "maturity_date": {
+      "quote": "Stated maturity date: | July 15, 2031",
+      "lines": [
+        132,
+        132
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "Russell 2000 ® Index | RTY Index",
+      "lines": [
+        34,
+        34
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "Initial underlying index level: | 2,977.805 with respect to the Russell 2000 ® Index",
+      "lines": [
+        116,
+        116
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "Nasdaq-100 Index ® | NDX Index",
+      "lines": [
+        35,
+        35
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "29,825.11 with respect to the Nasdaq-100 Index ®",
+      "lines": [
+        116,
+        116
+      ]
+    },
+    "performance_type": {
+      "quote": "if the final underlying index level of any underlying index is less than its downside threshold, the sum of (i) $10 plus (ii) the product of (a) the lesser performing underlying index return times (b) $10. |",
+      "lines": [
+        113,
+        113
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        138,
+        159
+      ],
+      "note": "20 quarterly rows; last = determination date July 10, 2031"
+    },
+    "payment_dates": {
+      "quote": "| October 12, 2026 | October 15, 2026 |",
+      "lines": [
+        138,
+        159
+      ],
+      "note": "payment dates read from the same table, row by row"
+    },
+    "autocall.first_observation_index": {
+      "quote": "This is the first date on which your notes may be automatically called.",
+      "lines": [
+        141,
+        162
+      ],
+      "note": "Ɨ marks January 11, 2027 = row 2"
+    },
+    "autocall.levels_pct": {
+      "quote": "Call observation dates: | each coupon observation date specified in the table under “ — Coupon payment dates” below, commencing January 2027",
+      "lines": [
+        115,
+        133
+      ],
+      "note": "call level = initial level (100%) on each coupon observation date from Jan 2027 incl. the determination date (last coupon observation date): obs 2..20 -> 19 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "$0.235/qtr. (up to 9.40% per annum)",
+      "lines": [
+        34,
+        34
+      ],
+      "note": "$0.235 / $10 = 2.35% per quarter (= 9.40% p.a. / 4)"
+    },
+    "coupon.barrier_pct": {
+      "quote": "with respect to the Russell 2000 ® Index, 70.00% of its initial underlying index level",
+      "lines": [
+        127,
+        127
+      ]
+    },
+    "coupon.memory": {
+      "quote": "if the closing level of any underlying index on the related coupon observation date is less than its coupon barrier, $0.00 |",
+      "lines": [
+        122,
+        122
+      ],
+      "note": "no catch-up / previously unpaid language; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "with respect to the Russell 2000 ® Index, 60.00% of its initial underlying index level",
+      "lines": [
+        119,
+        119
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "with respect to each underlying index, the closing level of such underlying index on the determination date |",
+      "lines": [
+        117,
+        117
+      ],
+      "note": "downside threshold tested against final level on determination date only"
+    },
+    "downside_participation_pct": {
+      "quote": "the product of (a) the lesser performing underlying index return times (b) $10. |",
+      "lines": [
+        113,
+        113
+      ],
+      "note": "1-to-1 loss from initial level (no buffer)"
+    },
+    "estimated_value_per_unit": {
+      "quote": "notes at the time the terms of your notes are set on the trade date is equal to approximately $9.86 per $10 face amount",
+      "lines": [
+        39,
+        39
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Call observation dates = 'each coupon observation date ... commencing January 2027' and the determination date is 'the last coupon observation date', so the final date is read literally as callable (19 levels, obs 2-20). Economically equivalent at the final date (call at 100% vs. par repayment above 60%), but verify against convention."
+    },
+    {
+      "field": "underlyings[*].initial_level",
+      "issue": "Filing says initial level 'is an intra-day level or the closing level ... on the trade date'; recorded exactly as printed (2,977.805; 29,825.11)."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted from cash amount $0.235 per $10 per quarter -> 2.35%; cover says 'up to 9.40% per annum'."
+    },
+    {
+      "field": "underlyings[*].ticker",
+      "issue": "Filing gives Bloomberg symbols 'RTY Index' / 'NDX Index'; recorded as RTY / NDX."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Payment-date offsets vary (3-6 days, e.g. Jan 10 2029 -> Jan 16 2029, Oct 10 2030 -> Oct 16 2030); taken from table as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity indices (RTY, NDX), quarterly non-memory contingent coupon with 70% barrier, discrete quarterly autocall at 100% from obs 2, European (determination-date) 60% knock-in with 1:1 downside; matches pricing template."
+  }
+}

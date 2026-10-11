@@ -1,0 +1,56 @@
+{
+  "accession": "0001839882-26-046657",
+  "source_file": "data/cleaned/0001839882-26-046657_bns_424b2-31608.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-21",
+    "strike_date": "2026-09-18",
+    "issue_date": "2026-09-23",
+    "maturity_date": "2029-09-26",
+    "underlyings": [
+      {"name": "iShares ® Russell 2000 ETF", "ticker": "IWM", "initial_level": 284.10}
+    ],
+    "performance_type": "single",
+    "observation_dates": ["2026-12-21","2027-03-22","2027-06-21","2027-09-27","2027-12-21","2028-03-21","2028-06-21","2028-09-21","2028-12-21","2029-03-21","2029-06-21","2029-09-21"],
+    "payment_dates": ["2026-12-23","2027-03-24","2027-06-23","2027-09-29","2027-12-23","2028-03-23","2028-06-23","2028-09-25","2028-12-26","2029-03-23","2029-06-25","2029-09-26"],
+    "autocall": {"first_observation_index": 4, "levels_pct": [100,100,100,100,100,100,100,100]},
+    "coupon": {"rate_per_period_pct": 1.75, "barrier_pct": 60.0, "memory": false},
+    "knock_in": {"barrier_pct": 60.0, "monitoring": "at_maturity"},
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.768
+  },
+  "evidence": {
+    "issuer": {"quote": "| Issuer | The Bank of Nova Scotia | The Bank of Nova Scotia |", "lines": [172, 172]},
+    "notional_per_unit": {"quote": "| Principal Amount | $10 per Note | $10 per Note |", "lines": [176, 176]},
+    "pricing_date": {"quote": "| Trade Date* | Trade Date* | September 21, 2026 | September 21, 2026 |", "lines": [36, 36]},
+    "strike_date": {"quote": "| Strike Date | Strike Date | September 18, 2026 | September 18, 2026 |", "lines": [34, 34], "note": "separate strike date, three days before trade date; initial level set on strike date (line 50)"},
+    "issue_date": {"quote": "| Settlement Date* | Settlement Date* | September 23, 2026 | September 23, 2026 |", "lines": [37, 37]},
+    "maturity_date": {"quote": "| Maturity Date** | Maturity Date** | September 26, 2029 | September 26, 2029 |", "lines": [40, 40]},
+    "underlyings[0].name": {"quote": "| Shares of the iShares ® Russell 2000 ETF | IWM |", "lines": [54, 54]},
+    "underlyings[0].initial_level": {"quote": "| Shares of the iShares ® Russell 2000 ETF | IWM | 7.00% per annum | $284.10 |", "lines": [54, 54]},
+    "performance_type": {"quote": "linked to the shares of the iShares", "lines": [20, 22], "note": "single underlying asset"},
+    "observation_dates": {"quote": "| Observation Dates | Coupon Payment Dates |", "lines": [225, 238], "note": "11 table rows plus final valuation date September 21, 2029 (line 39) = 12 dates"},
+    "payment_dates": {"quote": "| Observation Dates | Coupon Payment Dates |", "lines": [225, 238], "note": "11 table rows; final coupon payment date = maturity date September 26, 2029 per footnote (3) line 249"},
+    "autocall.first_observation_index": {"quote": "| * | The Notes are not callable until the first potential call settlement date, which is September 29, 2027. |", "lines": [240, 240], "note": "September 29, 2027 is the payment date of the 4th observation date (September 27, 2027)"},
+    "autocall.levels_pct": {"quote": "BNS will automatically call the Notes if the closing level of the underlying asset on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level.", "lines": [183, 183], "note": "callable obs 4..11 (prior to final valuation date) = 8 entries at 100%"},
+    "coupon.rate_per_period_pct": {"quote": "| | 7.00% | $0.175 |", "lines": [181, 181], "note": "7.00% p.a. / 4 = 1.75%; cross-check $0.175 / $10 = 1.75%"},
+    "coupon.barrier_pct": {"quote": "$170.46, which is 60.00% of the Initial Level", "lines": [54, 54]},
+    "coupon.memory": {"quote": "the contingent coupon applicable to such observation date will not accrue or be payable and BNS will not make any payment to you on the related coupon payment date.", "lines": [179, 179], "note": "no memory/previously unpaid language"},
+    "knock_in.barrier_pct": {"quote": "$170.46, which is 60.00% of the Initial Level | 06419Y552", "lines": [54, 54], "note": "second occurrence = Downside Threshold column"},
+    "knock_in.monitoring": {"quote": "If the Notes are not subject to an automatic call and the final level is less than the downside threshold", "lines": [187, 187], "note": "tested on final level only"},
+    "downside_participation_pct": {"quote": "$10 × (1 + Underlying Return)", "lines": [187, 187], "note": "1-to-1 loss"},
+    "estimated_value_per_unit": {"quote": "The initial estimated value of your Notes on the trade date was $9.768 per principal amount", "lines": [56, 56]}
+  },
+  "flags": [
+    {"field": "observation_dates", "issue": "4th observation date printed as September 27, 2027 (Monday), breaking the ~21st-of-month pattern (Sept 21, 2027 is a trading day). Used as printed; payment Sept 29, 2027 is consistent with T+2 from Sept 27. Verify against source/HTML."},
+    {"field": "autocall.first_observation_index", "issue": "Rows 1-4 observation dates carry '*' but row 4 payment date does not; footnote says first call settlement date is Sept 29, 2027 (row 4). Interpreted as first callable index = 4, consistent with 'callable after 12 months'."},
+    {"field": "strike_date", "issue": "Strike date (2026-09-18) differs from trade date (2026-09-21); initial level $284.10 is strike-date close."},
+    {"field": "underlyings[0].name", "issue": "Name in cleaned text has a space before ® ('iShares ® Russell 2000 ETF'); the filing refers to 'shares of' the ETF."},
+    {"field": "payment_dates", "issue": "Final payment date taken from maturity date per footnote (3); the table's last row only says 'Final Valuation Date | Maturity Date'."}
+  ],
+  "scope": {"in_scope": true, "reason": "Single equity ETF (IWM), quarterly discrete autocall at 100% from obs 4 (interim dates only), non-memory contingent coupon with 60% barrier, European (at-maturity) 60% downside threshold with 1:1 loss; no buffer, no daily monitoring."}
+}

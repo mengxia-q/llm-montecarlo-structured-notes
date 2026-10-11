@@ -1,0 +1,294 @@
+{
+  "accession": "0001213900-26-085094",
+  "source_file": "data/cleaned/0001213900-26-085094_ea0300568-01_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-31",
+    "strike_date": null,
+    "issue_date": "2026-08-05",
+    "maturity_date": "2029-08-03",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2931.339
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7489.72
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6358.01
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-11-02",
+      "2027-02-01",
+      "2027-04-30",
+      "2027-08-02",
+      "2027-11-01",
+      "2028-01-31",
+      "2028-05-02",
+      "2028-07-31",
+      "2028-10-31",
+      "2029-01-31",
+      "2029-04-30",
+      "2029-07-31"
+    ],
+    "payment_dates": [
+      "2026-11-05",
+      "2027-02-04",
+      "2027-05-05",
+      "2027-08-05",
+      "2027-11-04",
+      "2028-02-03",
+      "2028-05-05",
+      "2028-08-03",
+      "2028-11-03",
+      "2029-02-05",
+      "2029-05-03",
+      "2029-08-03"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.4375,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.614
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | | JPMorgan Chase Financial Company LLC, a direct, wholly owned finance subsidiary of JPMorgan Chase & Co. |",
+      "lines": [
+        212,
+        212
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | | $10 per Note (subject to a minimum purchase of 100 Notes or $1,000) |",
+      "lines": [
+        216,
+        216
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | July 31, 2026 |",
+      "lines": [
+        74,
+        74
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | July 31, 2026 |",
+      "lines": [
+        74,
+        74
+      ],
+      "note": "No separate strike date; Initial Value is the closing level on the Trade Date (line 229)."
+    },
+    "issue_date": {
+      "quote": "| Original Issue Date (Settlement Date) | August 5, 2026 |",
+      "lines": [
+        75,
+        75
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | August 3, 2029 |",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "Russell 2000 ® Index (Bloomberg ticker:",
+      "lines": [
+        105,
+        105
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "Russell 2000 ® Index (Bloomberg ticker: RTY) | 9.75% per annum | 2,931.339",
+      "lines": [
+        105,
+        105
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "S&P 500 ® Index (Bloomberg ticker:",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "S&P 500 ® Index (Bloomberg ticker: SPX) | 9.75% per annum | 7,489.72",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "underlyings[2].name": {
+      "quote": "EURO STOXX 50 ® Index (Bloomberg ticker:",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "underlyings[2].initial_level": {
+      "quote": "EURO STOXX 50 ® Index (Bloomberg ticker: SX5E) | | 6,358.01",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Return | | The lowest of the Underlying Returns of the Underlyings |",
+      "lines": [
+        228,
+        228
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        256,
+        269
+      ],
+      "note": "12 quarterly rows, lines 258-269; last row is the Final Valuation Date."
+    },
+    "payment_dates": {
+      "quote": "| July 31, 2029 (the Final Valuation Date) | August 3, 2029 (the Maturity Date) |",
+      "lines": [
+        269,
+        269
+      ],
+      "note": "Coupon Payment Dates column of the table at lines 256-269, read row by row; printed, not derived."
+    },
+    "autocall.first_observation_index": {
+      "quote": "Because the Notes could be called as early as the first Observation Date",
+      "lines": [
+        373,
+        373
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "| Automatic Call Feature | | The Notes will be called automatically if the closing level of each Underlying on any Observation Date is equal to or greater than its Initial Value.",
+      "lines": [
+        218,
+        218
+      ],
+      "note": "Call level = Initial Value (100%) on 'any Observation Date'; the Final Valuation Date is an Observation Date (line 269) and Example 2 (line 619) tests the call on the Twelfth Observation Date, so 12 entries of 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate | | 9.75% per annum |",
+      "lines": [
+        221,
+        221
+      ],
+      "note": "Equal quarterly installments: 9.75 / 4 = 2.4375% per period. Filing's cash amount $0.2438 per $10 (line 222) is this rounded (2.438%)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,051.937, which is 70% of the Initial Value | 2,051.937, which is 70% of the Initial Value",
+      "lines": [
+        105,
+        105
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon that would otherwise be payable will not be accrued and will be lost",
+      "lines": [
+        370,
+        370
+      ],
+      "note": "No memory: missed coupons are lost."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold | | With respect to each Underlying, a percentage of the Initial Value of that Underlying, as specified on the cover of this pricing supplement |",
+      "lines": [
+        231,
+        231
+      ],
+      "note": "Cover table (lines 105-107): Downside Threshold = 70% of Initial Value for each Underlying."
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not automatically called and the Final Value of any Underlying is less than its Downside Threshold",
+      "lines": [
+        225,
+        225
+      ],
+      "note": "Final Value = closing level on the Final Valuation Date (line 230): tested at maturity only."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Least Performing Underlying Return)",
+      "lines": [
+        225,
+        225
+      ],
+      "note": "1-to-1 loss: 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "the Notes were set, was $9.614 per $10 principal amount Note.",
+      "lines": [
+        131,
+        131
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Valuation Date treated as callable (12 levels, first index 1): wording is 'any Observation Date' and the Observation Date table includes the Final Valuation Date; Example 2 also applies the call test on the Twelfth Observation Date. Economically equivalent to non-callable at maturity since coupon barrier/threshold (70%) < call level (100%), but verify convention."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 9.75% p.a. / 4 = 2.4375%; filing states cash coupon $0.2438 per $10 (2.438%), a rounding of the same figure. Choose which to treat as gold."
+    },
+    {
+      "field": "underlyings[2].name",
+      "issue": "Cover table row for EURO STOXX 50 has blank Contingent Coupon Rate and CUSIP cells (merged-cell artifact of table conversion); values assumed shared with the other rows."
+    },
+    {
+      "field": "underlyings",
+      "issue": "Order follows the cover table (RTY, SPX, SX5E); the screening description lists S&P 500 first. Names include ' ® ' with spaces as in the cleaned text."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on three equity indices (RTY, SPX, SX5E; price-return benchmark indices), quarterly discrete autocall at 100%, non-memory coupon with 70% barrier, European (final valuation date only) 70% downside threshold with 1:1 loss, no buffer."
+  }
+}

@@ -1,0 +1,20 @@
+# Core
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13          # scrambled Sobol point sets (scipy.stats.qmc)
+pydantic>=2.7        # parameter schema and schema-constrained model output
+
+# Data acquisition
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+yfinance>=0.2.40     # index / ETF price and distribution history
+
+# Providers
+openai>=1.40         # DeepSeek, via its OpenAI-compatible API (the paper's model)
+google-genai>=0.3    # Gemini, used only by the pilot 02_vertical_slice.py
+
+# Figures, Word manuscript and tests
+matplotlib>=3.8
+pymupdf>=1.24        # rasterises figures for the Word manuscript (paper/acm/)
+pytest>=8.0

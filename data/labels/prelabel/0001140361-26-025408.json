@@ -1,0 +1,273 @@
+{
+  "accession": "0001140361-26-025408",
+  "source_file": "data/cleaned/0001140361-26-025408_ef20076218_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-12",
+    "strike_date": null,
+    "issue_date": "2026-06-17",
+    "maturity_date": "2029-06-15",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29635.95
+      },
+      {
+        "name": "S&P 500 ® Equal Weight Index",
+        "ticker": "SPW",
+        "initial_level": 8555.58
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-14",
+      "2026-12-14",
+      "2027-03-12",
+      "2027-06-14",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-12",
+      "2028-09-12",
+      "2028-12-12",
+      "2029-03-12",
+      "2029-06-12"
+    ],
+    "payment_dates": [
+      "2026-09-16",
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-14",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-14",
+      "2029-06-15"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.3,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.643
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank |",
+      "lines": [
+        241,
+        241
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        245,
+        245
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | June 12, 2026 |",
+      "lines": [
+        58,
+        58
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date* | June 12, 2026 |",
+      "lines": [
+        58,
+        58
+      ],
+      "note": "No separate strike date; initial level = closing level on the trade date (line 261)."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | June 17, 2026 |",
+      "lines": [
+        60,
+        60
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | June 15, 2029 |",
+      "lines": [
+        63,
+        63
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 9.20% per annum | 29,635.95 |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 9.20% per annum | 29,635.95 |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Equal Weight Index | SPW | 9.20% per annum | 8,555.58 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| S&P 500 ® Equal Weight Index | SPW | 9.20% per annum | 8,555.58 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "performance_type": {
+      "quote": "linked to the least performing of the Nasdaq-100 Index",
+      "lines": [
+        24,
+        24
+      ]
+    },
+    "observation_dates": {
+      "quote": "| September 14, 2026* | September 16, 2026* |",
+      "lines": [
+        295,
+        308
+      ],
+      "note": "11 tabulated interim dates + final valuation date June 12, 2029 (line 62)."
+    },
+    "payment_dates": {
+      "quote": "| September 14, 2026* | September 16, 2026* |",
+      "lines": [
+        295,
+        316
+      ],
+      "note": "Printed in table; final payment = maturity date June 15, 2029 (line 63)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the first potential call settlement date, which is December 16, 2026.",
+      "lines": [
+        310,
+        310
+      ],
+      "note": "Dec 16, 2026 is payment for obs #2 (Dec 14, 2026)."
+    },
+    "autocall.levels_pct": {
+      "quote": "on any observation date (beginning after 6 months) other than the final valuation date is equal to or greater than its call threshold level",
+      "lines": [
+        252,
+        252
+      ],
+      "note": "100.00% call threshold (lines 86-87) on obs 2..11 = 10 entries; final date excluded."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon Rate | 9.20% per annum |",
+      "lines": [
+        249,
+        250
+      ],
+      "note": "9.20% p.a. / 4 (quarterly) = 2.30%; matches $0.23 on $10."
+    },
+    "coupon.barrier_pct": {
+      "quote": "20,745.17, which is 70.00% of its Initial Level",
+      "lines": [
+        86,
+        87
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable and TD will not make any payment to you on the relevant coupon payment date",
+      "lines": [
+        248,
+        248
+      ],
+      "note": "No memory language."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "5,988.91, which is 70.00% of its Initial Level",
+      "lines": [
+        86,
+        87
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        254,
+        254
+      ],
+      "note": "Final level = close on final valuation date (line 262)."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        254,
+        254
+      ],
+      "note": "1-to-1 => 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your Notes at the time the terms of your Notes are set on the trade date was $9.643 per Note",
+      "lines": [
+        89,
+        89
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "underlyings[1]",
+      "issue": "06_check_prelabels hard rule underlying_resolvable fails: S&P 500 ® Equal Weight Index (SPW) is not in _INDEX_REGISTRY, so initial level 8,555.58 could not be checked against a market close. True property of the filing (equity price-return index); a registry entry is needed before pricing."
+    },
+    {
+      "field": "underlyings[1].name",
+      "issue": "Screening description says 'S&P 500' but the underlying is the S&P 500 ® Equal Weight Index (SPW), a price-return equity index; considered in scope."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Final valuation date / maturity date row in schedule printed as labels only; taken from Key Dates (lines 62-63). Dates subject to postponement."
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Asterisk on Dec 14, 2026 observation but footnote says first call settlement date is Dec 16, 2026 => obs #2 callable; confirm."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 9.20% p.a. / 4 = 2.30% (cash coupon $0.23 consistent)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two price-return equity indices, quarterly discrete autocall (100%), non-memory contingent coupon (70% barrier), European 70% knock-in with 1:1 downside."
+  }
+}

@@ -1,0 +1,1059 @@
+424B2
+
+1
+
+ea0299069-01_424b2.htm
+
+PRICING SUPPLEMENT
+
+| PRICING SUPPLEMENT Filed Pursuant to Rule 424(b)(2) Registration Statement Nos. 333-293684 and 333-293684-01 Dated July 22, 2026 |
+| --- |
+
+JPMorgan Chase Financial Company LLC Trigger Autocallable Contingent Yield
+Notes
+
+$14,449,800 Linked to the lesser performing of the Russell 2000
+®
+
+Index and the EURO STOXX 50
+®
+Index due July 26, 2029
+
+Fully and Unconditionally Guaranteed by JPMorgan
+Chase & Co.
+
+| Investment Description |
+| --- |
+
+Trigger Autocallable Contingent Yield Notes are unsecured and unsubordinated
+debt securities issued by JPMorgan Chase Financial Company LLC (“JPMorgan Financial”), the payment on which is fully and unconditionally
+guaranteed by JPMorgan Chase & Co. (each, a “Note” and collectively, the “Notes”), linked to the
+lesser performing of the Russell 2000
+®
+®
+Index (each, an “Underlying”
+and together, the “Underlyings”). If the closing level of each Underlying on a quarterly Observation Date is equal to or greater
+than its Coupon Barrier, JPMorgan Financial will make a Contingent Coupon payment with respect to that Observation Date. Otherwise, no
+coupon will be payable with respect to that Observation Date. JPMorgan Financial will automatically call the Notes early if the closing
+level of each Underlying on any quarterly Observation Date (after an initial six-month non-call period) is equal to or greater than its
+Initial Value. If the Notes are called, JPMorgan Financial will pay the principal amount
+plus
+the Contingent Coupon for that Observation
+Date and no further amounts will be owed to you. If the Notes are not called prior to maturity and the Final Value of each Underlying
+is equal to or greater than its Downside Threshold (which is the same level as its Coupon Barrier), JPMorgan Financial will make a cash
+payment at maturity equal to the principal amount of your Notes, in addition to the Contingent Coupon. If the Notes are not called prior
+to maturity and the Final Value of either Underlying is less than its Downside Threshold, JPMorgan Financial will pay you less than the
+full principal amount, if anything, at maturity, resulting in a loss of your principal amount that is proportionate to the decline in
+the closing level of the Underlying with the lower Underlying Return (the “Lesser Performing Underlying”) from its Initial
+Value to its Final Value.
+Investing in the Notes involves significant risks. You may lose a significant portion or all of your principal
+amount. You will be exposed to the market risk of each Underlying and any decline in the level of one Underlying may negatively affect
+your return and will not be offset or mitigated by a lesser decline or any potential increase in the level of the other Underlying. Generally,
+a higher Contingent Coupon Rate is associated with a greater risk of loss. The contingent repayment of principal applies only if you hold
+the Notes to maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of JPMorgan
+Financial, as issuer of the Notes, and the creditworthiness of JPMorgan Chase & Co., as guarantor of the Notes. If JPMorgan
+Financial and JPMorgan Chase & Co. were to default on their payment obligations, you may not receive any amounts owed to
+you under the Notes and you could lose your entire investment.
+
+JPMorgan Chase & Co. and/or its affiliates have made
+unconditional and irrevocable donations to Hope & Heroes Children’s Cancer Fund (“Hope & Heroes”), a nonprofit
+organization, to support research, treatment and care for children with cancer and blood disorders in the New York Tri-State area. These
+donations are not contingent on the sale of the Notes and will not impact the final terms of the Notes.
+Our affiliates expect to
+realize profits for assuming risks inherent in hedging our obligations under the Notes. Some of these projected profits, if any, may be
+used to offset a portion of the donations.
+See “Supplemental Donation Information” in this pricing supplement.
+
+The issuance of the Notes and the related use of proceeds
+are
+not
+intended to comply with the Social Bond Principles, June 2025. See “Supplemental Donation Information” in
+this pricing supplement.
+
+| Features |
+| --- |
+
+| q | Automatically Callable: JPMorgan Financial will automatically call the Notes and pay you the principal amount plus the Contingent Coupon otherwise due for a quarterly Observation Date (after an initial six-month non-call period) if the closing level of each Underlying on that quarterly Observation Date is equal to or greater than its Initial Value. No further payments will be made on the Notes. If the Notes are not called, investors will have the potential for downside equity market risk at maturity. |
+| --- | --- |
+| q | Contingent Coupon: If the closing level of each Underlying on a quarterly Observation Date (including the Final Valuation Date) is equal to or greater than its Coupon Barrier, JPMorgan Financial will make a Contingent Coupon payment with respect to that Observation Date. Otherwise, no coupon will be payable with respect to that Observation Date. |
+| q | Downside Exposure with Contingent Repayment of Principal Amount at Maturity: If by maturity the Notes have not been called and each Underlying closes at or above its Downside Threshold on the Final Valuation Date, JPMorgan Financial will pay you the principal amount per Note at maturity, in addition to the Contingent Coupon. If by maturity, the Notes have not been called and either Underlying closes below its Downside Threshold on the Final Valuation Date, JPMorgan Financial will repay less than the principal amount, if anything, at maturity, resulting in a loss on your principal amount that is proportionate to the decline in the closing level of the Lesser Performing Underlying from its Initial Value to its Final Value. The contingent repayment of principal applies only if you hold the Notes until maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of JPMorgan Financial and JPMorgan Chase & Co. |
+
+| Key Dates |
+| --- |
+
+| Trade Date | July 22, 2026 |
+| --- | --- |
+| Original Issue Date (Settlement Date) | July 27, 2026 |
+| Observation Dates 1 | Quarterly (callable beginning January 22, 2027) (see page 5) |
+| Final Valuation Date 1 | July 23, 2029 |
+| Maturity Date 1 | July 26, 2029 |
+
+| 1 | Subject to postponement in the event of a market disruption event and as described under “General Terms of Notes — Postponement of a Determination Date — Notes Linked to Multiple Underlyings” and “General Terms of Notes — Postponement of a Payment Date” in the accompanying product supplement or early acceleration in the event of an acceleration event as described under “General Terms of Notes — Consequences of an Acceleration Event” in the accompanying product supplement and “Key Risks — Risks Relating to the Notes Generally — We May Accelerate Your Notes If an Acceleration Event Occurs” in this pricing supplement |
+| --- | --- |
+
+THE NOTES ARE SIGNIFICANTLY RISKIER THAN CONVENTIONAL DEBT INSTRUMENTS.
+JPMORGAN FINANCIAL IS NOT NECESSARILY OBLIGATED TO REPAY THE FULL PRINCIPAL AMOUNT OF THE NOTES AT MATURITY, AND THE NOTES CAN HAVE DOWNSIDE
+MARKET RISK SIMILAR TO THE LESSER PERFORMING UNDERLYING. THIS MARKET RISK IS IN ADDITION TO THE CREDIT RISK INHERENT IN PURCHASING A DEBT
+OBLIGATION OF JPMORGAN FINANCIAL FULLY AND UNCONDITIONALLY GUARANTEED BY JPMORGAN CHASE & CO. YOU SHOULD NOT PURCHASE
+THE NOTES IF YOU DO NOT UNDERSTAND OR ARE NOT COMFORTABLE WITH THE SIGNIFICANT RISKS INVOLVED IN INVESTING IN THE NOTES.
+
+YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED UNDER “KEY RISKS”
+BEGINNING ON PAGE 7 OF THIS PRICING SUPPLEMENT, UNDER “RISK FACTORS” BEGINNING ON PAGE S-2 OF THE ACCOMPANYING PROSPECTUS
+SUPPLEMENT AND UNDER “RISK FACTORS” BEGINNING ON PAGE PS-12 OF THE ACCOMPANYING PRODUCT SUPPLEMENT BEFORE PURCHASING ANY NOTES.
+EVENTS RELATING TO ANY OF THOSE RISKS, OR OTHER RISKS AND UNCERTAINTIES, COULD ADVERSELY AFFECT THE MARKET VALUE OF, AND THE RETURN ON,
+YOUR NOTES. YOU MAY LOSE A SIGNIFICANT PORTION OR ALL OF YOUR INITIAL INVESTMENT IN THE NOTES. THE NOTES WILL NOT BE LISTED ON ANY SECURITIES
+EXCHANGE.
+
+| Note Offering |
+| --- |
+
+We are offering Trigger Autocallable Contingent Yield Notes linked
+to the lesser performing of the Russell 2000
+®
+®
+Index. The Notes are offered
+at a minimum investment of $1,000 in denominations of $10 and integral multiples thereof.
+
+| Underlying | Contingent Coupon Rate | Initial Value | Downside Threshold | Coupon Barrier | CUSIP / ISIN |
+| --- | --- | --- | --- | --- | --- |
+| Russell 2000 ® Index (Bloomberg ticker: RTY) | 11.05% per annum | 2,959.938 | 2,071.957, which is 70% of the Initial Value | 2,071.957, which is 70% of the Initial Value | 48135C589 / US48135C5893 |
+| EURO STOXX 50 ® Index (Bloomberg ticker: SX5E) | 11.05% per annum | 6,316.99 | 4,421.89, which is 70% of the Initial Value | 4,421.89, which is 70% of the Initial Value | 48135C589 / US48135C5893 |
+
+See “Additional Information about JPMorgan Financial, JPMorgan
+Chase & Co. and the Notes” in this pricing supplement. The Notes will have the terms specified in the prospectus and
+the prospectus supplement, each dated April 17, 2026, product supplement no. 3-I dated April 17, 2026, underlying supplement no. 1-I dated
+April 17, 2026 and this pricing supplement.
+The terms of the Notes as set forth in this pricing supplement, to the extent they differ
+or conflict with those set forth in the accompanying product supplement, will supersede the terms set forth in that product supplement.
+
+Neither the Securities and Exchange Commission (the “SEC”)
+nor any state securities commission has approved or disapproved of the Notes or passed upon the accuracy or the adequacy of this pricing
+supplement or the accompanying prospectus, the accompanying prospectus supplement, the accompanying product supplement and the accompanying
+underlying supplement. Any representation to the contrary is a criminal offense.
+
+| | Price to Public (1) | Price to Public (1) | Fees and Commissions (2) | Fees and Commissions (2) | Proceeds to Issuer | Proceeds to Issuer |
+| --- | --- | --- | --- | --- | --- | --- |
+| Offering of Notes | Total | Per Note | Total | Per Note | Total | Per Note |
+| Notes linked to the lesser performing of the Russell 2000 ® Index and the EURO STOXX 50 ® Index | $14,449,800 | $10.00 | — | — | $14,449,800 | $10.00 |
+
+| (1) | See “Supplemental Use of Proceeds” in this pricing supplement for information about the components of the price to public of the Notes. |
+| --- | --- |
+| (2) | All sales of the Notes will be made to certain fee-based advisory accounts for which UBS Financial Services Inc., which we refer to as UBS, is an investment adviser and UBS will act as placement agent. The purchase price will be $10.00 per Note and UBS will forgo any commissions related to these sales. See “Plan of Distribution (Conflicts of Interest)” in the accompanying product supplement, as supplemented by “Supplemental Plan of Distribution” in this pricing supplement. |
+
+The estimated value of the Notes, when the terms
+of the Notes were set, was $9.806 per $10 principal amount Note.
+See “The Estimated Value of the Notes” in this pricing
+supplement for additional information.
+
+The Notes are not bank deposits, are not insured by the Federal
+Deposit Insurance Corporation or any other governmental agency and are not obligations of, or guaranteed by, a bank.
+
+Additional
+Information about JPMorgan Financial, JPMorgan Chase & Co. and the Notes
+
+You should read this pricing supplement together with the accompanying
+prospectus, as supplemented by the accompanying prospectus supplement relating to our Series A medium-term notes of which these Notes
+are a part, and the more detailed information contained in the accompanying product supplement and the accompanying underlying supplement.
+
+This pricing supplement, together with the documents listed below, contains the terms of the Notes and supersedes all other prior or
+contemporaneous oral statements as well as any other written materials including preliminary or indicative pricing terms, correspondence,
+trade ideas, structures for implementation, sample structures, fact sheets, brochures or other educational materials of ours.
+You
+should carefully consider, among other things, the matters set forth in the “Risk Factors” sections of the accompanying prospectus
+supplement and the accompanying product supplement, as the Notes involve risks not associated with conventional debt securities.
+
+You may access these documents on the SEC website at www.sec.gov
+as follows (or if such address has changed, by reviewing our filings for the relevant date on the SEC website):
+
+| t | Product supplement no. 3-I dated April 17, 2026: http://www.sec.gov/Archives/edgar/data/19617/000121390026045198/ea0285802-20_424b2.pdf |
+| --- | --- |
+
+| t | Underlying supplement no. 1-I dated April 17, 2026: http://www.sec.gov/Archives/edgar/data/19617/000121390026045209/ea0285802-11_424b2.pdf |
+| --- | --- |
+
+| t | Prospectus supplement and prospectus, each dated April 17, 2026: http://www.sec.gov/Archives/edgar/data/19617/000095010326005889/crt_dp245141-424b2.pdf |
+| --- | --- |
+
+Our Central Index Key, or CIK, on the SEC website is 1665650,
+and JPMorgan Chase & Co.’s CIK is 19617. As used in this pricing supplement, the “Issuer,” “JPMorgan
+Financial,” “we,” “us” and “our” refer to JPMorgan Chase Financial Company LLC.
+
+Supplemental
+Terms of the Notes
+
+For purposes of the accompanying product supplement, each of
+the Russell 2000
+®
+®
+Index is an “Index.”
+
+Notwithstanding anything to the contrary in the accompanying
+product supplement, all values of an Underlying or values to which the value of that Underlying may be compared in the determination of
+any payment on the Notes will be rounded to the same number of decimal places as the closing value of that Underlying published by the
+Bloomberg Professional
+®
+service (“Bloomberg”).
+
+2
+
+Investor
+Suitability
+
+| The Notes may be suitable for you if, among other considerations: t You fully understand the risks inherent in an investment in the Notes, including the risk of loss of your entire initial investment. t You can tolerate a loss of all or a substantial portion of your investment and are willing to make an investment that may have the same downside market risk as an investment in the Lesser Performing Underlying. t You are willing to accept the individual market risk of each Underlying and understand that any decline in the level of one Underlying will not be offset or mitigated by a lesser decline or any potential increase in the level of the other Underlying. t You accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. t You believe each Underlying will close at or above its Coupon Barrier on the Observation Dates and its Downside Threshold on the Final Valuation Date. t You believe each Underlying will close at or above its Initial Value on one of the specified Observation Dates (after an initial six-month non-call period). t You understand and accept that you will not participate in any appreciation in the level of either Underlying and that your potential return is limited to the Contingent Coupons. t You can tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the Underlyings. t You are willing to invest in the Notes based on the Contingent Coupon Rate indicated on the cover hereof. t You do not seek guaranteed current income from this investment and are willing to forgo dividends paid on the stocks included in the Underlyings. t You are able and willing to invest in Notes that may be called early (after an initial six-month non-call period) and you are otherwise able and willing to hold the Notes to maturity. t You accept that there may be little or no secondary market for the Notes and that any secondary market will depend in large part on the price, if any, at which J.P. Morgan Securities LLC, which we refer to as JPMS, is willing to trade the Notes. t You understand and accept the risks associated with the Underlyings. t You are willing to assume the credit risks of JPMorgan Financial and JPMorgan Chase & Co. for all payments under the Notes, and understand that if JPMorgan Financial and JPMorgan Chase & Co. default on their obligations, you may not receive any amounts due to you including any repayment of principal. | The Notes may not be suitable for you if, among other considerations: t You do not fully understand the risks inherent in an investment in the Notes, including the risk of loss of your entire initial investment. t You cannot tolerate a loss of all or a substantial portion of your investment or are unwilling to make an investment that may have the same downside market risk as an investment in the Lesser Performing Underlying. t You are unwilling to accept the individual market risk of each Underlying or do not understand that any decline in the level of one Underlying will not be offset or mitigated by a lesser decline or any potential increase in the level of the other Underlying. t You require an investment designed to provide a full return of principal at maturity. t You do not accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. t You believe that either Underlying will decline during the term of the Notes and is likely to close below its Coupon Barrier on the Observation Dates and its Downside Threshold on the Final Valuation Date. t You seek an investment that participates in the full appreciation in the level of either or both of the Underlyings or that has unlimited return potential. t You cannot tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the Underlyings. t You are not willing to invest in the Notes based on the Contingent Coupon Rate indicated on the cover hereof. t You prefer the lower risk, and therefore accept the potentially lower returns, of fixed income investments with comparable maturities and credit ratings. t You seek guaranteed current income from this investment or prefer to receive the dividends paid on the stocks included in the Underlyings. t You are unable or unwilling to invest in Notes that may be called early (after an initial six-month non-call period), or you are otherwise unable or unwilling to hold the Notes to maturity or you seek an investment for which there will be an active secondary market. t You do not understand or accept the risks associated with the Underlyings. t You are not willing to assume the credit risks of JPMorgan Financial and JPMorgan Chase & Co. for all payments under the Notes, including any repayment of principal. |
+| --- | --- |
+
+The suitability considerations identified above are not exhaustive. Whether
+or not the Notes are a suitable investment for you will depend on your individual circumstances, and you should reach an investment decision
+only after you and your investment, legal, tax, accounting and other advisers have carefully considered the suitability of an investment
+in the Notes in light of your particular circumstances. You should also review carefully the “Key Risks” section of this pricing
+supplement and the “Risk Factors” sections of the accompanying prospectus supplement and the accompanying product supplement
+for risks related to an investment in the Notes. For more information on the Underlyings, please see the sections titled “The Russell
+2000
+®
+Index” and “The EURO STOXX 50
+®
+Index” below.
+
+3
+
+| Final Terms |
+| --- |
+
+| Issuer | JPMorgan Chase Financial Company LLC, a direct, wholly owned finance subsidiary of JPMorgan Chase & Co. |
+| --- | --- |
+| Guarantor | JPMorgan Chase & Co. |
+| Issue Price | $10 per Note |
+| Underlyings | Russell 2000 ® Index EURO STOXX 50 ® Index |
+| Principal Amount | $10 per Note (subject to a minimum purchase of 100 Notes or $1,000) |
+| Term | Approximately 3 years, unless called earlier |
+| Automatic Call Feature | The Notes will be called automatically if the closing level of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value. If the Notes are called, JPMorgan Financial will pay you on the applicable Call Settlement Date a cash payment per Note equal to the principal amount plus the Contingent Coupon otherwise due for the applicable Observation Date, and no further payments will be made on the Notes. |
+| Automatic Call Feature | The Notes will be called automatically if the closing level of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value. If the Notes are called, JPMorgan Financial will pay you on the applicable Call Settlement Date a cash payment per Note equal to the principal amount plus the Contingent Coupon otherwise due for the applicable Observation Date, and no further payments will be made on the Notes. |
+| Contingent Coupon | If the closing level of each Underlying is equal to or greater than its Coupon Barrier on any Observation Date, we will pay you the Contingent Coupon for that Observation Date on the relevant Coupon Payment Date. If the closing level of either Underlying is less than its Coupon Barrier on any Observation Date, the Contingent Coupon for that Observation Date will not accrue or be payable, and we will not make any payment to you on the relevant Coupon Payment Date. Each Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate, which is a per annum rate. Contingent Coupon payments on the Notes are not guaranteed. We will not pay you the Contingent Coupon for any Observation Date on which the closing level of either Underlying is less than its Coupon Barrier. |
+| Contingent Coupon | If the closing level of each Underlying is equal to or greater than its Coupon Barrier on any Observation Date, we will pay you the Contingent Coupon for that Observation Date on the relevant Coupon Payment Date. If the closing level of either Underlying is less than its Coupon Barrier on any Observation Date, the Contingent Coupon for that Observation Date will not accrue or be payable, and we will not make any payment to you on the relevant Coupon Payment Date. Each Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate, which is a per annum rate. Contingent Coupon payments on the Notes are not guaranteed. We will not pay you the Contingent Coupon for any Observation Date on which the closing level of either Underlying is less than its Coupon Barrier. |
+| Contingent Coupon Rate | 11.05% per annum |
+| Contingent Coupon Payments | $0.2763 per $10 principal amount Note |
+| Coupon Payment Dates 1 | As specified under the “Coupon Payment Dates” column of the table under “Observation Dates and Coupon Payment Dates” below |
+| Call Settlement Dates 1 | First Coupon Payment Date following the applicable Observation Date |
+| Payment at Maturity (per $10 Note) | If the Notes are not automatically called and the Final Value of each Underlying is equal to or greater than its Downside Threshold, we will pay you a cash payment at maturity per $10 principal amount Note equal to $10 plus the Contingent Coupon otherwise due on the Maturity Date. If the Notes are not automatically called and the Final Value of either Underlying is less than its Downside Threshold, we will pay you a cash payment at maturity that is less than $10 per $10 principal amount Note, equal to: $10 × (1 + Lesser Performing Underlying Return) In this scenario, you will be exposed to the decline in the level of the Lesser Performing Underlying and you will lose a significant portion or all of your principal at maturity in an amount proportionate to the negative Underlying Return of the Lesser Performing Underlying. |
+| Underlying Return | With respect to each Underlying: (Final Value – Initial Value) Initial Value |
+| Lesser Performing Underlying | The Underlying with the lower Underlying Return |
+| Lesser Performing Underlying Return | The lower of the Underlying Returns of the Underlyings |
+| Initial Value | With respect to each Underlying, the closing level of that Underlying on the Trade Date, as specified on the cover of this pricing supplement |
+| Final Value | With respect to each Underlying, the closing level of that Underlying on the Final Valuation Date |
+| Downside Threshold | With respect to each Underlying, a percentage of the Initial Value of that Underlying, as specified on the cover of this pricing supplement |
+| Coupon Barrier | With respect to each Underlying, a percentage of the Initial Value of that Underlying, as specified on the cover of this pricing supplement |
+
+| 1 | See footnote 1 under “Key Dates” on the front cover. |
+| --- | --- |
+
+| Investment Timeline |
+| --- |
+
+| Trade Date | The closing level of each Underlying (Initial Value) is observed, the Downside Threshold and the Coupon Barrier of each Underlying are determined and the Contingent Coupon Rate is finalized. |
+| --- | --- |
+| Quarterly (callable after an initial six-month non-call period) | If the closing level of each Underlying is equal to or greater than its Coupon Barrier on any Observation Date, JPMorgan Financial will pay you a Contingent Coupon on the Coupon Payment Date. The Notes will also be called if the closing level of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value. If the Notes are called, JPMorgan Financial will pay you a cash payment per Note equal to the principal amount plus the Contingent Coupon otherwise due for the applicable Observation Date, and no further payments will be made on the Notes. |
+| Maturity Date | The Final Value of each Underlying is determined as of the Final Valuation Date. If the Notes are not automatically called and the Final Value of each Underlying is equal to or greater than its Downside Threshold, we will pay you a cash payment at maturity per $10 principal amount Note equal to $10 plus the Contingent Coupon otherwise due on the Maturity Date. If the Notes are not automatically called and the Final Value of either Underlying is less than its Downside Threshold, we will pay you a cash payment at maturity that is less than $10 per $10 principal amount Note, equal to: $10 × (1 + Lesser Performing Underlying Return) In this scenario, you will be exposed to the decline in the level of the Lesser Performing Underlying and you will lose a significant portion or all of your principal at maturity in an amount proportionate to the negative Underlying Return of the Lesser Performing Underlying. |
+
+INVESTING IN THE NOTES INVOLVES SIGNIFICANT RISKS. YOU
+MAY LOSE A SIGNIFICANT PORTION OR ALL OF YOUR PRINCIPAL AMOUNT. YOU WILL BE EXPOSED TO THE MARKET RISK OF EACH UNDERLYING AND ANY DECLINE
+IN THE LEVEL OF ONE UNDERLYING MAY NEGATIVELY AFFECT YOUR RETURN AND WILL NOT BE OFFSET OR MITIGATED BY A LESSER DECLINE OR ANY POTENTIAL
+INCREASE IN THE LEVEL OF THE OTHER UNDERLYING. ANY PAYMENT ON THE NOTES, INCLUDING ANY REPAYMENT OF PRINCIPAL, IS SUBJECT TO THE CREDITWORTHINESS
+OF JPMORGAN FINANCIAL AND JPMORGAN CHASE & CO. IF JPMORGAN FINANCIAL AND JPMORGAN CHASE & CO. WERE TO DEFAULT
+ON THEIR PAYMENT OBLIGATIONS, YOU MAY NOT RECEIVE ANY AMOUNTS OWED TO YOU UNDER THE NOTES AND YOU COULD LOSE YOUR ENTIRE INVESTMENT.
+
+4
+
+Observation
+Dates and Coupon Payment Dates
+
+| Observation Dates † | Coupon Payment Dates † |
+| --- | --- |
+| October 22, 2026 | October 26, 2026 |
+| January 22, 2027 | January 26, 2027 |
+| April 22, 2027 | April 26, 2027 |
+| July 22, 2027 | July 26, 2027 |
+| October 22, 2027 | October 26, 2027 |
+| January 24, 2028 | January 26, 2028 |
+| April 24, 2028 | April 26, 2028 |
+| July 24, 2028 | July 26, 2028 |
+| October 23, 2028 | October 25, 2028 |
+| January 22, 2029 | January 24, 2029 |
+| April 23, 2029 | April 25, 2029 |
+| July 23, 2029 (the Final Valuation Date) | July 26, 2029 (the Maturity Date) |
+
+†
+The Notes are not callable until the second Observation
+Date, January 22, 2027.
+
+Each of the Observation
+Dates
+,
+and therefore the Coupon Payment Dates, is subject to postponement in the event of a market disruption event and as described under “General
+Terms of Notes — Postponement of a Determination Date — Notes Linked to Multiple Underlyings” and “General Terms
+of Notes — Postponement of a Payment Date” in the accompanying product supplement or early acceleration in the event of an
+acceleration event as described under “General Terms of Notes — Consequences of an Acceleration Event” in the accompanying
+product supplement and “Key Risks — Risks Relating to the Notes Generally — We May Accelerate Your Notes If an Acceleration
+Event Occurs” in this pricing supplement.
+
+5
+
+What
+Are the Tax Consequences of the Notes?
+
+You should review carefully the section entitled “United
+States Federal Taxation” in the accompanying prospectus supplement. In determining our reporting responsibilities we intend to treat
+(i) the Notes for U.S. federal income tax purposes as prepaid forward contracts with associated contingent coupons and (ii) any Contingent
+Coupons as ordinary income, as described in the section entitled “United States Federal Taxation — Tax Consequences to U.S.
+Holders — Program Securities Treated as Prepaid Financial Contracts with Associated Coupons” in the accompanying prospectus
+supplement. Based on the advice of Davis Polk & Wardwell LLP, our special tax counsel, we believe that this is a reasonable treatment,
+but that there are other reasonable treatments that the IRS or a court may adopt.
+
+Sale, Exchange or Redemption of a Note.
+Assuming the
+treatment described above is respected, upon a sale or exchange of the Notes (including redemption upon an automatic call or at maturity),
+you should recognize capital gain or loss equal to the difference between the amount realized on the sale or exchange and your tax basis
+in the Notes, which should equal the amount you paid to acquire the Notes (assuming Contingent Coupons are properly treated as ordinary
+income, consistent with the position referred to above). This gain or loss should be short-term capital gain or loss unless you hold the
+Notes for more than one year, in which case the gain or loss should be long-term capital gain or loss, whether or not you are an initial
+purchaser of the Notes at the issue price. The deductibility of capital losses is subject to limitations. If you sell your Notes between
+the time your right to a Contingent Coupon is fixed and the time it is paid, it is likely that you will be treated as receiving ordinary
+income equal to the Contingent Coupon. Although uncertain, it is possible that proceeds received from the sale or exchange of your Notes
+prior to an Observation Date but that can be attributed to an expected Contingent Coupon payment could be treated as ordinary income.
+You should consult your tax adviser regarding this issue.
+
+As described above, there are other reasonable treatments that
+the IRS or a court may adopt, in which case the timing and character of any income or loss on the Notes could be materially affected.
+In addition, in 2007 Treasury and the IRS released a notice requesting comments on the U.S. federal income tax treatment of “prepaid
+forward contracts” and similar instruments. The notice focuses in particular on whether to require investors in these instruments
+to accrue income over the term of their investment. It also asks for comments on a number of related topics, including the character of
+income or loss with respect to these instruments and the relevance of factors such as the nature of the underlying property to which the
+instruments are linked. While the notice requests comments on appropriate transition rules and effective dates, any Treasury regulations
+or other guidance promulgated after consideration of these issues could materially affect the tax consequences of an investment in the
+Notes, possibly with retroactive effect. The discussions above and in the accompanying prospectus supplement do not address the consequences
+to taxpayers subject to special tax accounting rules under Section 451(b) of the Code. You should consult your tax adviser regarding the
+U.S. federal income tax consequences of an investment in the Notes, including possible alternative treatments and the issues presented
+by the notice described above.
+
+Non-U.S. Holders — Tax Considerations.
+
+The U.S. federal income tax treatment of Contingent Coupons is uncertain, and although we believe it is reasonable to take a position
+that Contingent Coupons are not subject to U.S. withholding tax (at least if an applicable Form W-8 is provided), it is expected that
+withholding agents will (and we, if we are the withholding agent, intend to) withhold on any Contingent Coupon paid to a Non-U.S. Holder
+generally at a rate of 30% or at a reduced rate specified by an applicable income tax treaty under an “other income” or similar
+provision. We will not be required to pay any additional amounts with respect to amounts withheld. In order to claim an exemption from,
+or a reduction in, the 30% withholding tax, a Non-U.S. Holder of the Notes must comply with certification requirements to establish that
+it is not a U.S. person and is eligible for such an exemption or reduction under an applicable tax treaty. If you are a Non-U.S. Holder,
+you should consult your tax adviser regarding the tax treatment of the Notes, including the possibility of obtaining a refund of any withholding
+tax and the certification requirement described above.
+
+Section 871(m) of the Code and Treasury regulations
+promulgated thereunder (“Section 871(m)”) generally impose a 30% withholding tax (unless an income tax treaty applies) on
+dividend equivalents paid or deemed paid to Non-U.S. Holders with respect to certain financial instruments linked to U.S. equities or
+indices that include U.S. equities. Section 871(m) provides certain exceptions to this withholding regime, including for instruments linked
+to certain broad-based indices that meet requirements set forth in the applicable Treasury regulations. Additionally, a recent IRS notice
+excludes from the scope of Section 871(m) instruments issued prior to January 1, 2027 that do not have a delta of one with respect to
+underlying securities that could pay U.S.-source dividends for U.S. federal income tax purposes (each an “Underlying Security”).
+Based on certain determinations made by us, our special tax counsel is of the opinion that Section 871(m) should not apply to the Notes
+with regard to Non-U.S. Holders. Our determination is not binding on the IRS, and the IRS may disagree with this determination. Section
+871(m) is complex and its application may depend on your particular circumstances, including whether you enter into other transactions
+with respect to an Underlying Security. You should consult your tax adviser regarding the potential application of Section 871(m) to the
+Notes.
+
+In the event of any withholding on the Notes,
+we will not be required to pay any additional amounts with respect to amounts so withheld.
+
+6
+
+Key
+Risks
+
+An investment in the Notes involves significant risks. Investing in
+the Notes is not equivalent to investing directly in either or both of the Underlyings. These risks are explained in more detail in the
+“Risk Factors” sections of the accompanying prospectus supplement and the accompanying product supplement. We also urge you
+to consult your investment, legal, tax, accounting and other advisers before you invest in the Notes.
+
+Risks Relating to the Notes Generally
+
+| t | Your Investment in the Notes May Result in a Loss — The Notes differ from ordinary debt securities in that JPMorgan Financial will not necessarily repay the full principal amount of the Notes. If the Notes are not called and the closing level of either Underlying has declined below its Downside Threshold on the Final Valuation Date, you will be fully exposed to any depreciation of the Lesser Performing Underlying from its Initial Value to its Final Value. In this case, JPMorgan Financial will repay less than the full principal amount at maturity, resulting in a loss of principal that is proportionate to the negative Underlying Return of the Lesser Performing Underlying. Under these circumstances, you will lose 1% of your principal for every 1% that the Final Value of the Lesser Performing Underlying is less than its Initial Value and could lose your entire principal amount. As a result, your investment in the Notes may not perform as well as an investment in a security that does not have the potential for full downside exposure to either Underlying at maturity. |
+| --- | --- |
+
+| t | Credit Risks of JPMorgan Financial and JPMorgan Chase & Co. — The Notes are unsecured and unsubordinated debt obligations of the Issuer, JPMorgan Chase Financial Company LLC, the payment on which is fully and unconditionally guaranteed by JPMorgan Chase & Co. The Notes will rank pari passu with all of our other unsecured and unsubordinated obligations, and the related guarantee by JPMorgan Chase & Co. will rank pari passu with all of JPMorgan Chase & Co.’s other unsecured and unsubordinated obligations. The Notes and related guarantees are not, either directly or indirectly, an obligation of any third party. Any payment to be made on the Notes, including any repayment of principal, depends on the ability of JPMorgan Financial and JPMorgan Chase & Co. to satisfy their obligations as they come due. As a result, the actual and perceived creditworthiness of JPMorgan Financial and JPMorgan Chase & Co. may affect the market value of the Notes and, in the event JPMorgan Financial and JPMorgan Chase & Co. were to default on their obligations, you may not receive any amounts owed to you under the terms of the Notes and you could lose your entire investment. |
+| --- | --- |
+
+| t | As a Finance Subsidiary, JPMorgan Financial Has No Independent Activities and Limited Assets — As a finance subsidiary of JPMorgan Chase & Co., we have no independent activities beyond the issuance and administration of our securities and the collection of intercompany obligations. Aside from the initial capital contribution from JPMorgan Chase & Co., substantially all of our assets relate to obligations of JPMorgan Chase & Co. to make payments under loans made by us to JPMorgan Chase & Co. or under other intercompany agreements. As a result, we are dependent upon payments from JPMorgan Chase & Co. to meet our obligations under the Notes. We are not an operating subsidiary of JPMorgan Chase & Co. and in a bankruptcy or resolution of JPMorgan Chase & Co. we are not expected to have sufficient resources to meet our obligations in respect of the Notes as they come due. If JPMorgan Chase & Co. does not make payments to us and we are unable to make payments on the Notes, you may have to seek payment under the related guarantee by JPMorgan Chase & Co., and that guarantee will rank pari passu with all other unsecured and unsubordinated obligations of JPMorgan Chase & Co. For more information, see “Risk Factors — Holders of securities issued by JPMorgan Financial may be subject to losses if JPMorgan Chase & Co. were to enter into a resolution” in the accompanying prospectus supplement. |
+| --- | --- |
+
+| t | We May Accelerate Your Notes If an Acceleration Event Occurs — Upon the announcement or occurrence of an acceleration event, we may, in our sole and absolute discretion, accelerate the payment on your Notes and pay you an amount determined by the calculation agent in good faith and in a commercially reasonable manner by reference to the values of any fixed-income debt component and any derivatives underlying the economic terms of the Notes as of the date of the notice of acceleration. An acceleration event means there is an announcement or occurrence of legal or regulatory changes that the calculation agent determines are likely to interfere with your or our ability to transact in or hold the Notes or our ability to hedge or perform our obligations under the Notes. If the payment on your Notes is accelerated, your investment may result in a loss, and you may not be able to reinvest your money in a comparable investment. Please see “General Terms of Notes — Consequences of a Change-in-Law Event” in the accompanying product supplement for more information. |
+| --- | --- |
+
+| t | You Are Not Guaranteed Any Contingent Coupons — We will not necessarily make periodic coupon payments on the Notes. If the closing level of either Underlying on an Observation Date is less than its Coupon Barrier, we will not pay you the Contingent Coupon for that Observation Date even if the closing level of the other Underlying is greater than or equal to its Coupon Barrier on that Observation Date, and the Contingent Coupon that would otherwise be payable will not be accrued and will be lost. If the closing level of either Underlying is less than its Coupon Barrier on each of the Observation Dates, we will not pay you any Contingent Coupon during the term of, and you will not receive a positive return on, your Notes. Generally, this non-payment of the Contingent Coupon coincides with a period of greater risk of principal loss on your Notes. |
+| --- | --- |
+
+| t | Return on the Notes Is Limited to the Sum of Any Contingent Coupons and You Will Not Participate in Any Appreciation of Either Underlying — The return potential of the Notes is limited to the specified Contingent Coupon Rate, regardless of any appreciation of either Underlying, which may be significant. In addition, the total return on the Notes will vary based on the number of Observation Dates on which the requirements for a Contingent Coupon have been met prior to maturity or an automatic call. Further, if the Notes are called, you will not receive any Contingent Coupons or any other payments in respect of any Observation Dates after the Call Settlement Date. Because the Notes could be called as early as the second Observation Date, the total return on the Notes could be minimal. If the Notes are not called, you may be subject to the risk of decline in the level of each Underlying, even though you are not able to participate in any potential appreciation of either Underlying. Generally, the longer the Notes remain outstanding, the less likely it is that they will be automatically called, due to the decline in the level of one or both of the Underlyings and the shorter time remaining for the level of either Underlying to recover to or above its Initial Value on a subsequent Observation Date. As a result, the return on an investment in the Notes could be less than the return on a hypothetical direct investment in either Underlying. In addition, if the Notes are not called and the Final Value of either Underlying is below its Downside Threshold, you will have a loss on your principal amount and the overall return on the Notes may be less than the amount that would be paid on a conventional debt security of JPMorgan Financial of comparable maturity. |
+| --- | --- |
+
+7
+
+| t | Because the Notes Are Linked to the Lesser Performing Underlying, You Are Exposed to Greater Risks of No Contingent Coupons and Sustaining a Significant Loss on Your Investment at Maturity Than If the Notes Were Linked to a Single Underlying — The risk that you will not receive any Contingent Coupons and lose a significant portion or all of your initial investment in the Notes at maturity is greater if you invest in the Notes as opposed to substantially similar securities that are linked to the performance of a single Underlying. With two Underlyings, it is more likely that the closing level of either Underlying will be less than its Coupon Barrier on the Observation Dates or less than its Downside Threshold on the Final Valuation Date. Therefore, it is more likely that you will not receive any Contingent Coupons and that you will suffer a significant loss on your investment at maturity. In addition, the performance of the Underlyings may not be correlated or may be negatively correlated. |
+| --- | --- |
+
+The lower the correlation between two Underlyings,
+the greater the potential for one of those Underlyings to close below its Coupon Barrier or Downside Threshold on an Observation Date
+or the Final Valuation Date, respectively. Although the correlation of the Underlyings’ performance may change over the term of
+the Notes, the Contingent Coupon Rate is determined, in part, based on the correlation of the Underlyings’ performance, as calculated
+using internal models of our affiliates at the time when the terms of the Notes are finalized. A higher Contingent Coupon Rate is generally
+associated with lower correlation of the Underlyings, which reflects a greater potential for missed Contingent Coupons and for a loss
+of principal at maturity. The correlation referenced in setting the terms of the Notes is calculated using internal models of our affiliates
+and is not derived from the returns of the Underlyings over the period set forth under “Correlation of the Underlyings” below.
+In addition, other factors and inputs other than correlation may impact how the terms of the Notes are set and the performance of the
+Notes. Furthermore, because the closing level of each Underlying must be greater than or equal to its Initial Value on a quarterly Observation
+Date (after an initial six-month non-call period) in order for the notes to be automatically called prior to maturity, the Notes are less
+likely to be automatically called on any Observation Date than if the Notes were linked to a single Underlying.
+
+| t | You Are Exposed to the Risk of Decline in the Level of Each Underlying — Your return on the Notes and your payment at maturity, if any, is not linked to a basket consisting of the Underlyings. If the Notes have not been automatically called, your payment at maturity is contingent upon the performance of each individual Underlying such that you will be equally exposed to the risks related to each of the Underlyings. In addition, the performance of the Underlyings may not be correlated. Poor performance by either of the Underlyings over the term of the Notes may negatively affect whether you will receive a Contingent Coupon on any Coupon Payment Date and your payment at maturity and will not be offset or mitigated by positive performance by the other Underlying. Accordingly, your investment is subject to the risk of decline in the level of each Underlying. |
+| --- | --- |
+
+| t | Your Payment at Maturity Will Be Determined by the Lesser Performing Underlying — Because the payment at maturity will be determined based on the performance of the Lesser Performing Underlying, you will not benefit from the performance of the other Underlying. Accordingly, if the Notes have not been automatically called and the Final Value of either Underlying is less than its Downside Threshold, you will lose a significant portion or all of your principal amount at maturity, even if the Final Value of the other Underlying is greater than or equal to its Initial Value. |
+| --- | --- |
+
+| t | Contingent Repayment of Principal Applies Only If You Hold the Notes to Maturity — If you are able to sell your Notes in the secondary market, if any, prior to maturity, you may have to sell them at a loss relative to your initial investment even if the closing levels of both Underlyings are above their respective Downside Thresholds. If by maturity the Notes have not been called, either JPMorgan Financial will repay you the full principal amount per Note plus the Contingent Coupon, or, if either Underlying closes below its Downside Threshold on the Final Valuation Date, JPMorgan Financial will repay less than the principal amount, if anything, at maturity, resulting in a loss on your principal amount that is proportionate to the decline in the closing level of the Lesser Performing Underlying from its Initial Value to its Final Value. This contingent repayment of principal applies only if you hold your Notes to maturity. |
+| --- | --- |
+
+| t | A Higher Contingent Coupon Rate and/or a Lower Coupon Barrier and/or Downside Threshold May Reflect Greater Expected Volatility of the Underlyings, Which Is Generally Associated With a Greater Risk of Loss — Volatility is a measure of the degree of variation in the levels of the Underlyings over a period of time. The greater the expected volatilities of the Underlyings at the time the terms of the Notes are set, the greater the expectation is at that time that the level of an Underlying could close below its Coupon Barrier on any Observation Date, resulting in the loss of one or more, or all, Contingent Coupon payments, or below its Downside Threshold on the Final Valuation Date, resulting in the loss of a significant portion or all of your principal at maturity. In addition, the economic terms of the Notes, including the Contingent Coupon Rate, the Coupon Barrier and the Downside Threshold, are based, in part, on the expected volatilities of the Underlyings at the time the terms of the Notes are set, where higher expected volatilities will generally be reflected in a higher Contingent Coupon Rate than the fixed rate we would pay on conventional debt securities of the same maturity and/or on otherwise comparable securities and/or a lower Coupon Barrier and/or a lower Downside Threshold as compared to otherwise comparable securities. Accordingly, a higher Contingent Coupon Rate will generally be indicative of a greater risk of loss while a lower Coupon Barrier or Downside Threshold does not necessarily indicate that the Notes have a greater likelihood of paying Contingent Coupon payments or returning your principal at maturity. You should be willing to accept the downside market risk of each Underlying and the potential loss of a significant portion or all of your principal at maturity. |
+| --- | --- |
+
+| t | Reinvestment Risk — If your Notes are called early, the holding period over which you would have the opportunity to receive any Contingent Coupons could be as short as approximately six months. There is no guarantee that you would be able to reinvest the proceeds from an investment in the Notes at a comparable return and/or with a comparable interest rate for a similar level of risk in the event the Notes are called prior to the Maturity Date. |
+| --- | --- |
+
+| t | Each Contingent Coupon Is Based Solely on the Closing Levels of the Underlyings on the Applicable Observation Date — Whether a Contingent Coupon will be payable with respect to an Observation Date will be based solely on the closing levels of the Underlyings on that Observation Date. As a result, you will not know whether you will receive a Contingent Coupon until the related Observation Date. Moreover, because each Contingent Coupon is based solely on the closing levels of the Underlyings on the applicable Observation Date, if the closing level of either Underlying is less than its Coupon Barrier, you will not receive any Contingent Coupon with respect to that Observation Date, even if the closing level of the other Underlying is equal to or greater than its Coupon Barrier and even if the closing level of that Underlying was higher on other days during the period before that Observation Date. |
+| --- | --- |
+
+8
+
+| t | Investing in the Notes Is Not Equivalent to Investing in the Stocks Composing the Underlyings — Investing in the Notes is not equivalent to investing in the stocks included in the Underlyings. As an investor in the Notes, you will not have any ownership interest or rights in the stocks included in the Underlyings, such as voting rights, dividend payments or other distributions. |
+| --- | --- |
+
+| t | We Cannot Control Actions by the Sponsor of Either Underlying and That Sponsor Has No Obligation to Consider Your Interests — We and our affiliates are not affiliated with the sponsor of either Underlying and have no ability to control or predict its actions, including any errors in or discontinuation of public disclosure regarding methods or policies relating to the calculation of that Underlying. The sponsor of each Underlying is not involved in this Note offering in any way and has no obligation to consider your interest as an owner of the Notes in taking any actions that might affect the market value of your Notes. |
+| --- | --- |
+
+| t | Your Return on the Notes Will Not Reflect Dividends on the Stocks Composing the Underlyings — Your return on the Notes will not reflect the return you would realize if you actually owned the stocks included in the Underlyings and received the dividends on the stocks included in the Underlyings. This is because the calculation agent will determine whether the Notes will be called and whether a Contingent Coupon is payable and, if the Notes are not called, will calculate the amount payable to you at maturity of the Notes by reference to the closing level of each Underlying on the relevant Observation Date, without taking into consideration the value of dividends on the stocks included in that Underlying. |
+| --- | --- |
+
+| t | No Assurances That the Investment View Implicit in the Notes Will Be Successful — While the Notes are structured to provide for Contingent Coupons if each Underlying does not close below its Coupon Barrier on the Observation Dates, we cannot assure you of the economic environment during the term or at maturity of your Notes. |
+| --- | --- |
+
+| t | Lack of Liquidity — The Notes will not be listed on any securities exchange. JPMS intends to offer to purchase the Notes in the secondary market, but is not required to do so. Even if there is a secondary market, it may not provide enough liquidity to allow you to trade or sell the Notes easily. Because other dealers are not likely to make a secondary market for the Notes, the price at which you may be able to trade your Notes is likely to depend on the price, if any, at which JPMS is willing to buy the Notes. |
+| --- | --- |
+
+| t | Tax Treatment — Significant aspects of the tax treatment of the Notes are uncertain. You should consult your tax adviser about your tax situation. |
+| --- | --- |
+
+Risks Relating to Conflicts of Interest
+
+| t | Potential Conflicts — We and our affiliates play a variety of roles in connection with the issuance of the Notes, including acting as calculation agent and hedging our obligations under the Notes and making the assumptions used to determine the pricing of the Notes and the estimated value of the Notes when the terms of the Notes are set, which we refer to as the estimated value of the Notes. In performing these duties, our and JPMorgan Chase & Co.’s economic interests and the economic interests of the calculation agent and other affiliates of ours are potentially adverse to your interests as an investor in the Notes. In addition, our and JPMorgan Chase & Co.’s business activities, including hedging and trading activities, could cause our and JPMorgan Chase & Co.’s economic interests to be adverse to yours and could adversely affect any payment on the Notes and the value of the Notes. It is possible that hedging or trading activities of ours or our affiliates in connection with the Notes could result in substantial returns for us or our affiliates while the value of the Notes declines. Please refer to “Risk Factors — Risks Relating to Conflicts of Interest” in the accompanying product supplement for additional information about these risks. |
+| --- | --- |
+
+| t | Potentially Inconsistent Research, Opinions or Recommendations by JPMS, UBS or Their Affiliates — JPMS, UBS or their affiliates may publish research, express opinions or provide recommendations that are inconsistent with investing in or holding the Notes, and that may be revised at any time. Any such research, opinions or recommendations may or may not recommend that investors buy or hold investments linked to the Underlyings and could affect the level of an Underlying, and therefore the market value of the Notes. |
+| --- | --- |
+
+| t | Potential JPMorgan Financial Impact on the Level of an Underlying — Trading or transactions by JPMorgan Financial or its affiliates in an Underlying and/or over-the-counter options, futures or other instruments with returns linked to the performance of an Underlying may adversely affect the level of that Underlying and, therefore, the market value of the Notes. |
+| --- | --- |
+
+Risks Relating to the Estimated Value and Secondary Market Prices
+of the Notes
+
+| t | The Estimated Value of the Notes Is Lower Than the Original Issue Price (Price to Public) of the Notes — The estimated value of the Notes is only an estimate determined by reference to several factors. The original issue price of the Notes exceeds the estimated value of the Notes because costs associated with structuring and hedging the Notes are included in the original issue price of the Notes. These costs include the projected profits, if any, that our affiliates expect to realize for assuming risks inherent in hedging our obligations under the Notes, the estimated cost of hedging our obligations under the Notes and the fees, if any, paid for third-party data analytics and/or electronic platform services. See “The Estimated Value of the Notes” in this pricing supplement. |
+| --- | --- |
+
+| t | The Estimated Value of the Notes Does Not Represent Future Values of the Notes and May Differ from Others’ Estimates — The estimated value of the Notes is determined by reference to internal pricing models of our affiliates when the terms of the Notes are set. This estimated value of the Notes is based on market conditions and other relevant factors existing at that time and assumptions about market parameters, which can include volatility, dividend rates, interest rates and other factors. Different pricing models and assumptions could provide valuations for the Notes that are greater than or less than the estimated value of the Notes. In addition, market conditions and other relevant factors in the future may change, and any assumptions may prove to be incorrect. On future dates, the value of the Notes could change significantly based on, among other things, changes in market conditions, our or JPMorgan Chase & Co.’s creditworthiness, interest rate movements and other relevant factors, which may impact the price, if any, at which JPMS would be willing to buy Notes from you in secondary market transactions. See “The Estimated Value of the Notes” in this pricing supplement. |
+| --- | --- |
+
+| t | The Estimated Value of the Notes Is Derived by Reference to an Internal Funding Rate — The internal funding rate used in the determination of the estimated value of the Notes may differ from the market-implied funding rate for vanilla fixed income instruments of a similar maturity issued by JPMorgan Chase & Co. or its affiliates. Any difference may be based on, among other things, our and our affiliates’ view of the funding value of the Notes as well as the higher issuance, operational and ongoing liability management costs of the Notes in comparison to those costs for the conventional fixed income instruments of JPMorgan Chase & Co. This internal funding |
+| --- | --- |
+
+9
+
+rate is based on certain market inputs and
+assumptions, which may prove to be incorrect, and is intended to approximate the prevailing market replacement funding rate for the Notes.
+The use of an internal funding rate and any potential changes to that rate may have an adverse effect on the terms of the Notes and any
+secondary market prices of the Notes. See “The Estimated Value of the Notes” in this pricing supplement.
+
+| t | The Value of the Notes as Published by JPMS (and Which May Be Reflected on Customer Account Statements) May Be Higher Than the Then-Current Estimated Value of the Notes for a Limited Time Period — We generally expect that some of the costs included in the original issue price of the Notes will be partially paid back to you in connection with any repurchases of your Notes by JPMS in an amount that will decline to zero over an initial predetermined period. These costs can include projected hedging profits, if any, and, in some circumstances, estimated hedging costs, our internal secondary market funding rates for structured debt issuances and the fees paid for third-party data analytics and/or electronic platform services. See “Secondary Market Prices of the Notes” in this pricing supplement for additional information relating to this initial period. Accordingly, the estimated value of your Notes during this initial period may be lower than the value of the Notes as published by JPMS (and which may be shown on your customer account statements). |
+| --- | --- |
+
+| t | Secondary Market Prices of the Notes Will Likely Be Lower Than the Original Issue Price of the Notes — Any secondary market prices of the Notes will likely be lower than the original issue price of the Notes because, among other things, secondary market prices take into account our internal secondary market funding rates for structured debt issuances and, also, because secondary market prices may exclude projected hedging profits, if any, estimated hedging costs and fees, if any, paid for third-party data analytics and/or electronic platform services that are included in the original issue price of the Notes. As a result, the price, if any, at which JPMS will be willing to buy Notes from you in secondary market transactions, if at all, is likely to be lower than the original issue price. Furthermore, if you sell your Notes, you will likely be charged a commission for secondary market transactions, or the price will likely reflect a dealer discount and/or fees for use of an electronic platform to facilitate secondary market activity. Any sale by you prior to the Maturity Date could result in a substantial loss to you. See the immediately following risk factor for information about additional factors that will impact any secondary market prices of the Notes. |
+| --- | --- |
+
+The Notes are not designed to be short-term
+trading instruments. Accordingly, you should be able and willing to hold your Notes to maturity. See “— Risks Relating to
+the Notes Generally — Lack of Liquidity” above.
+
+| t | Many Economic and Market Factors Will Impact the Value of the Notes — As described under “The Estimated Value of the Notes” in this pricing supplement, the Notes can be thought of as securities that combine a fixed-income debt component with one or more derivatives. As a result, the factors that influence the values of fixed-income debt and derivative instruments will also influence the terms of the Notes at issuance and their value in the secondary market. Accordingly, the secondary market price of the Notes during their term will be impacted by a number of economic and market factors, which may either offset or magnify each other, aside from the projected hedging profits, if any, estimated hedging costs and the levels of the Underlyings, including: |
+| --- | --- |
+
+| t | any actual or potential change in our or JPMorgan Chase & Co.’s creditworthiness or credit spreads; |
+| --- | --- |
+
+| t | customary bid-ask spreads for similarly sized trades; |
+| --- | --- |
+
+| t | our internal secondary market funding rates for structured debt issuances; |
+| --- | --- |
+
+| t | the actual and expected volatility in the levels of the Underlyings; |
+| --- | --- |
+
+| t | the time to maturity of the Notes; |
+| --- | --- |
+
+| t | the likelihood of an automatic call being triggered; |
+| --- | --- |
+
+| t | whether the closing level of either Underlying has been, or is expected to be, less than its Coupon Barrier on any Observation Date and whether the Final Value of either Underlying is expected to be less than its Downside Threshold; |
+| --- | --- |
+
+| t | the dividend rates on the equity securities included in the Underlyings; |
+| --- | --- |
+
+| t | the actual and expected positive or negative correlation between the Underlyings, or the actual or expected absence of any such correlation; |
+| --- | --- |
+
+| t | interest and yield rates in the market generally; |
+| --- | --- |
+
+| t | the exchange rates and the volatility of the exchange rates between the U.S. dollar and each of the currencies in which the equity securities included in the EURO STOXX 50 ® Index trade and the correlation among those rates and the levels of the EURO STOXX 50 ® Index; and |
+| --- | --- |
+
+| t | a variety of other economic, financial, political, regulatory and judicial events. |
+| --- | --- |
+
+Additionally, independent pricing vendors
+and/or third party broker-dealers may publish a price for the Notes, which may also be reflected on customer account statements. This
+price may be different (higher or lower) than the price of the Notes, if any, at which JPMS may be willing to purchase your Notes in the
+secondary market.
+
+Risks Relating to the Underlyings
+
+| ¨ | An Investment in the Notes Is Subject to Risks Associated with Small Capitalization Stocks with Respect to the Russell 2000 ® Index — The equity securities included in the Russell 2000 ® Index are issued by companies with relatively small market capitalization. The stock prices of smaller companies may be more volatile than stock prices of large capitalization companies. Small capitalization companies may be less able to withstand adverse economic, market, trade and competitive conditions relative to larger companies. These companies tend to be less well-established than large market capitalization companies. Small capitalization companies are less likely to pay dividends on their stocks, and the presence of a dividend payment could be a factor that limits downward stock price pressure under adverse market conditions. |
+| --- | --- |
+
+10
+
+| ¨ | Non-U.S. Securities Risk with Respect to the EURO STOXX 50 ® Index — The equity securities included in the EURO STOXX 50 ® Index have been issued by non-U.S. companies. Investments in securities linked to the value of such non-U.S. equity securities involve risks associated with the home countries and/or the securities markets in the home countries of the issuers of those non-U.S. equity securities, including risks of volatility in those markets, governmental intervention in those markets and cross shareholdings in companies in certain countries. Also, there is generally less publicly available information about companies in some of these jurisdictions than there is about U.S. companies that are subject to the reporting requirements of the SEC. |
+| --- | --- |
+
+| ¨ | No Direct Exposure to Fluctuations in Foreign Exchange Rates with Respect to the EURO STOXX 50 ® Index — The value of your Notes will not be adjusted for exchange rate fluctuations between the U.S. dollar and the currencies upon which the equity securities included in the EURO STOXX 50 ® Index are based, although any currency fluctuations could affect the performance of the EURO STOXX 50 ® Index. Therefore, if the applicable currencies appreciate or depreciate relative to the U.S. dollar over the term of the Notes, you will not receive any additional payment or incur any reduction in any payment on the Notes. |
+| --- | --- |
+
+11
+
+Hypothetical
+Examples
+
+Hypothetical terms only. Actual terms
+may vary. See the cover page for actual offering terms.
+
+The examples below illustrate the hypothetical payments on
+a Coupon Payment Date, upon an automatic call or at maturity under different hypothetical scenarios for a $10.00 Note on an offering of
+the Notes, with the assumptions set forth below.* We cannot predict the closing level of either Underlying on any day during the term
+of the Notes, including on any Observation Date. You should not take these examples as an indication or assurance of the expected performance
+of the Notes. Numbers in the examples below have been rounded for ease of analysis. In these examples, we refer to the Russell 2000
+®
+
+®
+Index as the “RTY Index” and the “SX5E Index,” respectively.
+
+| Principal Amount: | $10.00 |
+| --- | --- |
+| Term: | Approximately 3 years (unless earlier called) |
+| Hypothetical Initial Value: | 100.000 for the RTY Index and 100.00 for the SX5E Index |
+| Contingent Coupon Rate: | 11.05% per annum (or 2.763% per quarter) |
+| Observation Dates: | Quarterly (callable after six months) |
+| Hypothetical Downside Threshold: | 70.000 for the RTY Index and 70.00 for the SX5E Index (which, with respect to each Underlying, is 70% of the hypothetical Initial Value of that Underlying) |
+| Hypothetical Coupon Barrier: | 70.000 for the RTY Index and 70.00 for the SX5E Index (which, with respect to each Underlying, is 70% of the hypothetical Initial Value of that Underlying) |
+
+| * | Terms used for purposes of these hypothetical examples do not represent the actual Initial Values, Coupon Barriers or Downside Thresholds. The hypothetical Initial Values of 100.000 for the RTY Index and 100.00 for the SX5E Index have been chosen for illustrative purposes only and do not represent the actual Initial Value for either Underlying. The actual Initial Value and resulting Downside Threshold and Coupon Barrier of each Underlying are based on the closing level of that Underlying on the Trade Date and are specified on the cover of this pricing supplement. For historical data regarding the actual closing levels of the Underlyings, please see the historical information set forth under the sections titled “The Russell 2000 ® Index” and “The EURO STOXX 50 ® Index” below. |
+| --- | --- |
+
+The examples below are purely hypothetical. These examples are intended
+to illustrate (a) under what circumstances the Notes will be subject to an automatic call, (b) how the payment of a Contingent Coupon
+with respect to any Observation Date will depend on whether the closing level of either Underlying on that Observation Date is less than
+its Coupon Barrier, (c) how the value of the payment at maturity on the Notes will depend on whether the Final Value of either Underlying
+is less than its Downside Threshold and (d) how the total return on the Notes may be less than the total return on a direct investment
+in either or both Underlyings in certain scenarios. The “total return” as used in this pricing supplement is the number, expressed
+as a percentage, that results from comparing the total payments per $10.00 principal amount Note over the term of the Notes to the $10.00
+initial issue price.
+
+Example 1 — Notes Are Automatically Called on the Second
+Observation Date
+
+| Date | | Closing Level | Payment (per Note) | Payment (per Note) |
+| --- | --- | --- | --- | --- |
+| First Observation Date | | RTY Index: 105.000 | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. |
+| First Observation Date | | SX5E Index: 110.00 | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. |
+| Second Observation Date | | RTY Index: 110.000 | Closing level of each Underlying at or above its Initial Value; Notes are automatically called; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Call Settlement Date. | Closing level of each Underlying at or above its Initial Value; Notes are automatically called; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Call Settlement Date. |
+| Second Observation Date | | SX5E Index: 115.00 | Closing level of each Underlying at or above its Initial Value; Notes are automatically called; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Call Settlement Date. | Closing level of each Underlying at or above its Initial Value; Notes are automatically called; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Call Settlement Date. |
+| Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Payment on Call Settlement Date: | $10.2763 ($10.00 + $0.2763) |
+| | | | Prior Contingent Coupons: | $0.2763 ($0.2763 × 1) |
+| | | | Total: | $10.5526 |
+| | | | Total Return: | 5.526% |
+
+Because the closing level of each Underlying is greater than or equal
+to its Initial Value on the second Observation Date (which is approximately six months after the Trade Date and is the first Observation
+Date on which the Notes are callable), the Notes are automatically called on that Observation Date. JPMorgan Financial will pay you on
+the Call Settlement Date $10.2763 per $10.00 principal amount Note, which is equal to your principal amount
+plus
+the Contingent
+Coupon due on the Coupon Payment Date that is also the Call Settlement Date. No further amounts will be owed to you under the Notes.
+
+In addition, because the closing level of each Underlying was greater
+than or equal to its Coupon Barrier on the first Observation Date, JPMorgan Financial will pay the Contingent Coupon of $0.2763 on the
+first Coupon Payment Date. Accordingly, JPMorgan Financial will have paid a total of $10.5526 per $10.00 principal amount Note for a 5.526%
+total return over the shortened term of the Notes as a result of the automatic call.
+
+12
+
+Example 2 — Notes Are NOT Automatically Called and the Final
+Value of Each Underlying Is Above Its Downside Threshold
+
+| Date | | Closing Level | Payment (per Note) | Payment (per Note) |
+| --- | --- | --- | --- | --- |
+| First Observation Date | | RTY Index: 115.000 | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. |
+| First Observation Date | | SX5E Index: 110.00 | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. | Closing level of each Underlying above its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on first Coupon Payment Date. |
+| Second Observation Date | | RTY Index: 80.000 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on second Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on second Coupon Payment Date. |
+| Second Observation Date | | SX5E Index: 75.00 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on second Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of each Underlying above its Coupon Barrier; Issuer pays Contingent Coupon of $0.2763 on second Coupon Payment Date. |
+| Third Observation Date | | RTY Index: 85.000 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Third Observation Date | | SX5E Index: 55.00 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Fourth to Eleventh Observation Dates | | Various (below Coupon Barrier) | Closing level of at least one Underlying below its Initial Value; Notes NOT automatically called. Closing level of at least one Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. | Closing level of at least one Underlying below its Initial Value; Notes NOT automatically called. Closing level of at least one Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. |
+| Twelfth Observation Date (the Final Valuation Date) | | RTY Index: 110.000 | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Final Value of each Underlying above its Downside Threshold; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Maturity Date. | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Final Value of each Underlying above its Downside Threshold; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Maturity Date. |
+| Twelfth Observation Date (the Final Valuation Date) | | SX5E Index: 80.00 | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Final Value of each Underlying above its Downside Threshold; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Maturity Date. | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Final Value of each Underlying above its Downside Threshold; Issuer repays principal plus pays Contingent Coupon of $0.2763 on Maturity Date. |
+| Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Payment at Maturity: | $10.2763 ($10.00 + $0.2763) |
+| | | | Prior Contingent Coupons: | $0.5526 ($0.2763 × 2) |
+| | | | Total: | $10.8289 |
+| | | | Total Return: | 8.289% |
+
+Because the closing level of at least one Underlying was less than its
+Initial Value on each Observation Date on and after the second Observation Date (which is approximately six months after the Trade Date
+and is the first Observation Date on which the Notes are callable), the Notes are not automatically called. Because the Final Value of
+each Underlying is greater than or equal to its Downside Threshold, JPMorgan Financial will pay you on the Maturity Date $10.2763 per
+$10.00 principal amount Note, which is equal to your principal amount
+plus
+the Contingent Coupon due on the Coupon Payment Date
+that is also the Maturity Date.
+
+In addition, because the closing level of each Underlying was greater than
+or equal to its Coupon Barrier on the first and second Observation Dates, JPMorgan Financial will pay the Contingent Coupon of $0.2763
+on each of the first and second Coupon Payment Dates. However, because the closing level of at least one Underlying was less than its
+Coupon Barrier on the third through eleventh Observation Dates, JPMorgan Financial will not pay any Contingent Coupon on the Coupon Payment
+Dates following those Observation Dates. Accordingly, JPMorgan Financial will have paid a total of $10.8289 per $10.00 principal amount
+Note for an 8.289% total return over the term of the Notes.
+
+13
+
+Example 3 — Notes Are NOT Automatically Called and the Final Value
+of Either Underlying Is Below Its Downside Threshold
+
+| Date | | Closing Level | Payment (per Note) | Payment (per Note) |
+| --- | --- | --- | --- | --- |
+| First Observation Date | | RTY Index: 55.000 | Closing level of each Underlying below its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on first Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on first Coupon Payment Date. |
+| First Observation Date | | SX5E Index: 50.00 | Closing level of each Underlying below its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on first Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically callable because Observation Date is prior to the second Observation Date. Closing level of each Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on first Coupon Payment Date. |
+| Second Observation Date | | RTY Index: 105.000 | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. |
+| Second Observation Date | | SX5E Index: 50.00 | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. | Closing level of SX5E Index below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. |
+| Third Observation Date | | RTY Index: 90.000 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Third Observation Date | | SX5E Index: 50.00 | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. | Closing level of each Underlying below its Initial Value; Notes NOT automatically called. Closing level of SX5E Index below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Fourth to Eleventh Observation Dates | | Various (below Coupon Barrier) | Closing level of at least one Underlying below its Initial Value; Notes NOT automatically called. Closing level of at least one Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. | Closing level of at least one Underlying below its Initial Value; Notes NOT automatically called. Closing level of at least one Underlying below its Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. |
+| Twelfth Observation Date (the Final Valuation Date) | | RTY Index: 45.000 | Closing level of RTY Index below its Initial Value; Notes NOT automatically called. Closing level of RTY Index below its Downside Threshold; Issuer DOES NOT pay Contingent Coupon on Maturity Date, and Issuer will repay less than the principal amount resulting in a loss proportionate to the decline in the level of the Lesser Performing Underlying. | Closing level of RTY Index below its Initial Value; Notes NOT automatically called. Closing level of RTY Index below its Downside Threshold; Issuer DOES NOT pay Contingent Coupon on Maturity Date, and Issuer will repay less than the principal amount resulting in a loss proportionate to the decline in the level of the Lesser Performing Underlying. |
+| Twelfth Observation Date (the Final Valuation Date) | | SX5E Index: 110.00 | Closing level of RTY Index below its Initial Value; Notes NOT automatically called. Closing level of RTY Index below its Downside Threshold; Issuer DOES NOT pay Contingent Coupon on Maturity Date, and Issuer will repay less than the principal amount resulting in a loss proportionate to the decline in the level of the Lesser Performing Underlying. | Closing level of RTY Index below its Initial Value; Notes NOT automatically called. Closing level of RTY Index below its Downside Threshold; Issuer DOES NOT pay Contingent Coupon on Maturity Date, and Issuer will repay less than the principal amount resulting in a loss proportionate to the decline in the level of the Lesser Performing Underlying. |
+| Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Total Payments (per $10.00 Note): | Payment at Maturity: | $4.50 |
+| | | | Prior Contingent Coupons: | $0.00 |
+| | | | Total: | $4.50 |
+| | | | Total Return: | -55.00% |
+
+Because the closing level of at least one Underlying is less than its
+Initial Value on each Observation Date on and after the second Observation Date (which is approximately six months after the Trade Date
+and is the first Observation Date on which the Notes are callable), the Notes are not automatically called. Because the Final Value of
+at least one Underlying is less than its Downside Threshold on the Final Valuation Date, at maturity, JPMorgan Financial will pay you
+a total of $4.50 per $10.00 principal amount Note, for a -55.00% total return on the Notes, calculated as follows:
+
+$10.00 × (1 + Lesser Performing Underlying
+Return)
+
+Step 1: Determine the Underlying Return of each Underlying:
+
+Underlying Return of the RTY Index:
+
+| (Final Value – Initial Value) | = | 45.000 – 100.000 | = -55.00% |
+| --- | --- | --- | --- |
+| Initial Value | = | 100.000 | = -55.00% |
+
+Underlying Return of the SX5E Index:
+
+| (Final Value – Initial Value) | = | 110.00 – 100.00 | = 10.00% |
+| --- | --- | --- | --- |
+| Initial Value | = | 100.00 | = 10.00% |
+
+Step 2: Determine the Lesser Performing Underlying.
+The RTY
+Index is the Underlying with the lower Underlying Return.
+
+Step 3: Calculate the Payment at Maturity:
+
+$10.00 × (1 + Lesser Performing Underlying
+Return) = $10.00 × (1 + -55.00%) = $4.50
+
+In addition, because the closing level of at least one Underlying is
+less than its Coupon Barrier on each Observation Date, JPMorgan Financial will not pay any Contingent Coupons over the term of the Notes.
+Accordingly, JPMorgan Financial will have paid a total of $4.50 per $10.00 principal amount Note for a -55.00% total return over the term
+of the Notes.
+
+The hypothetical returns and hypothetical payments on the Notes shown
+above apply
+only if you hold the Notes for their entire term or until automatically called
+. These hypotheticals do not reflect
+fees or expenses that would be associated with any sale in the secondary market. If these fees and expenses were included, the hypothetical
+returns and hypothetical payments shown above would likely be lower.
+
+14
+
+The
+Underlyings
+
+Included on the following pages is a brief description of the Underlyings.
+This information has been obtained from publicly available sources, without independent verification. We obtained the closing levels information
+set forth below from the Bloomberg Professional
+®
+service (“Bloomberg”),
+without independent verification. You should not take the historical levels of either Underlying as an indication of future performance.
+
+The
+Russell 2000
+®
+Index
+
+The Russell 2000
+®
+Index measures the capitalization-weighted
+price performance of 2,000 U.S. small-capitalization stocks listed on eligible U.S. exchanges and is designed to track the performance
+of the small-capitalization segment of the U.S. equity market. The companies included in the Russell 2000
+®
+Index are the
+middle 2,000 of the companies that form the Russell 3000E™ Index, which is composed of the 4,000 largest U.S. companies as determined
+by total market capitalization and represents approximately 99% of the U.S. equity market. For additional information about the Russell
+2000
+®
+Index, see “Equity Index Descriptions — The Russell Indices” in the accompanying underlying supplement.
+
+Historical Information Regarding the Russell 2000
+®
+
+Index
+
+The graph below illustrates the
+daily performance of the Russell 2000
+®
+Index from January 4, 2016 through July 22, 2026, based on information from Bloomberg,
+without independent verification. The closing level of the Russell 2000
+®
+Index on July 22, 2026 was 2,959.938. We obtained
+the closing levels of the Russell 2000
+®
+Index above and below from Bloomberg, without independent verification
+.
+
+The dotted line represents the Downside Threshold and Coupon Barrier of 2,071.957,
+equal to 70% of the closing level of the Russell 2000
+®
+Index on July 22, 2026.
+
+Past performance of the Russell 2000
+®
+
+Index is not indicative of the future performance of the Russell 2000
+®
+Index.
+
+15
+
+The
+EURO STOXX 50
+®
+Index
+
+The EURO STOXX 50
+®
+Index is a free-float market capitalization-weighted
+index composed of 50 of the largest stocks in terms of free-float market capitalization traded on the major exchanges of 11 Eurozone countries:
+Austria, Belgium, Finland, France, Germany, Ireland, Italy, Luxembourg, the Netherlands, Portugal and Spain. The EURO STOXX 50
+®
+
+Index and STOXX
+®
+are the intellectual property (including registered trademarks) of STOXX Limited and/or its licensors
+(the “Licensors”), which are used under license. The Notes based on the EURO STOXX 50
+®
+Index are in no way
+sponsored, endorsed, sold or promoted by STOXX Limited and its Licensors and neither STOXX Limited nor any of its Licensors shall have
+any liability with respect thereto. For additional information about the EURO STOXX 50
+®
+Index, see “Equity Index
+Descriptions — The STOXX Benchmark Indices” in the accompanying underlying supplement.
+
+Historical Information Regarding the EURO STOXX 50
+®
+
+Index
+
+The graph below illustrates the daily performance of the EURO STOXX
+50
+®
+Index from January 4, 2016 through
+July 22, 2026
+, based on information
+from Bloomberg, without independent verification. The closing level of the EURO STOXX 50
+®
+Index on
+July
+22, 2026
+was 6,316.99. We obtained the closing levels of the EURO STOXX 50
+®
+Index above and below from Bloomberg,
+without independent verification.
+
+The dotted line represents the Downside Threshold and Coupon Barrier
+of 4,421.89, equal to 70% of the closing level of the EURO STOXX 50
+®
+Index on
+July
+22, 2026
+.
+
+Past performance of the EURO STOXX 50
+®
+Index
+is not indicative of the future performance of the EURO STOXX 50
+®
+Index.
+
+16
+
+Correlation
+of the Underlyings
+
+The graph below illustrates the daily performance of the Russell
+2000
+®
+®
+Index from January 4, 2016 through July 22, 2026. For comparison purposes,
+each Underlying has been normalized to have a closing level of 100.00 on January 4, 2016 by dividing the closing level of that Underlying
+on each day by the closing level of that Underlying on January 4, 2016 and multiplying by 100.00. We obtained the closing levels used
+to determine the normalized closing levels set forth below from Bloomberg, without independent verification.
+
+Past performance of the Underlyings is not indicative
+of the future performance of the Underlyings.
+
+The correlation of a pair of Underlyings represents a statistical
+measurement of the degree to which the returns of those Underlyings were similar to each other over a given period in terms of timing
+and direction. The correlation between a pair of Underlyings is scaled from 1.0 to -1.0, with 1.0 indicating perfect positive correlation
+(
+i.e.
+, the value of both Underlyings are increasing together or decreasing together and the ratio of their returns has been constant),
+0 indicating no correlation (
+i.e.
+, there is no statistical relationship between the returns of that pair of Underlyings) and -1.0
+indicating perfect negative correlation (
+i.e.
+, as the value of one Underlying increases, the value of the other Underlying decreases
+and the ratio of their returns has been constant).
+
+The closer the relationship of the returns of a pair of Underlyings over
+a given period, the more positively correlated those Underlyings are. The graph above illustrates the historical performance of
+each Underlying relative to each other over the time period shown and provides an indication of how close the relative performance of
+each Underlying has historically been to the other Underlying.
+
+The lower (or more negative) the correlation between the Underlyings,
+the less likely it is that the Underlyings will move in the same direction and, therefore, the greater the potential for one of the Underlyings
+to close below its Coupon Barrier or Downside Threshold on any Observation Date or the Final Valuation Date, respectively. This
+is because the less positively correlated the Underlyings are, the greater the likelihood that at least one of the Underlyings will decrease
+in value. However, even if the Underlyings have a higher positive correlation, one or both of the Underlyings might close below
+its Coupon Barrier or Downside Threshold on any Observation Date or the Final Valuation Date, respectively, as both of the Underlyings
+may decrease in value together.
+
+Although the correlation of the Underlyings’ performance may change
+over the term of the Notes, the Contingent Coupon Rate is determined, in part, based on the correlation of the Underlyings’ performance
+calculated using internal models of our affiliates at the time when the terms of the Notes are finalized. A higher Contingent Coupon
+Rate is generally associated with lower correlation of the Underlyings, which reflects a greater potential for missed Contingent Coupons
+and for a loss of principal at maturity. The correlation referenced in setting the terms of the Notes is calculated using internal
+models of our affiliates and is not derived from the returns of the Underlyings over the period set forth above. In addition, other
+factors and inputs other than correlation may impact how the terms of the Notes are set and the performance of the Notes.
+
+17
+
+Supplemental
+Plan of Distribution
+
+We and JPMorgan Chase & Co. have agreed to indemnify
+UBS and JPMS against liabilities under the Securities Act of 1933, as amended, or to contribute to payments that UBS may be required to
+make relating to these liabilities as described in the prospectus supplement and the prospectus. We have agreed that UBS may sell all
+or a part of the Notes that it purchases from us to the public or its affiliates at the price to public indicated on the cover hereof.
+
+Subject to regulatory constraints, JPMS intends to offer to purchase
+the Notes in the secondary market, but it is not required to do so.
+
+We or our affiliates may enter into swap agreements or related hedge
+transactions with one of our other affiliates or unaffiliated counterparties in connection with the sale of the Notes, and JPMS and/or
+an affiliate may earn additional income as a result of payments pursuant to the swap or related hedge transactions. See “Supplemental
+Use of Proceeds” in this pricing supplement and “Use of Proceeds and Hedging” in the accompanying product supplement.
+
+All sales of the Notes will be made to certain fee-based advisory
+accounts for which UBS is an investment adviser and UBS will act as placement agent. The purchase price will be $10.00 per Note and UBS
+will forgo any selling commissions related to these sales
+
+The
+Estimated Value of the Notes
+
+The estimated value of the Notes set forth on the cover of this pricing
+supplement is equal to the sum of the values of the following hypothetical components: (1) a fixed-income debt component with the same
+maturity as the Notes, valued using the internal funding rate described below, and (2) the derivative or derivatives underlying the economic
+terms of the Notes. The estimated value of the Notes does not represent a minimum price at which JPMS would be willing to buy your Notes
+in any secondary market (if any exists) at any time. The internal funding rate used in the determination of the estimated value of the
+Notes may differ from the market-implied funding rate for vanilla fixed income instruments of a similar maturity issued by JPMorgan Chase & Co.
+or its affiliates. Any difference may be based on, among other things, our and our affiliates’ view of the funding values of the
+Notes as well as the higher issuance, operational and ongoing liability management costs of the Notes in comparison to those costs for
+the conventional fixed income instruments of JPMorgan Chase & Co. This internal funding rate is based on certain market
+inputs and assumptions, which may prove to be incorrect, and is intended to approximate the prevailing market replacement funding rate
+for the Notes. The use of an internal funding rate and any potential changes to that rate may have an adverse effect on the terms of the
+Notes and any secondary market prices of the Notes. For additional information, see “Key Risks — Risks Relating to the Estimated
+Value and Secondary Market Prices of the Notes — The Estimated Value of the Notes Is Derived by Reference to an Internal Funding
+Rate” in this pricing supplement. The value of the derivative or derivatives underlying the economic terms of the Notes is derived
+from internal pricing models of our affiliates. These models are dependent on inputs such as the traded market prices of comparable derivative
+instruments and on various other inputs, some of which are market-observable, and which can include volatility, dividend rates, interest
+rates and other factors, as well as assumptions about future market events and/or environments. Accordingly, the estimated value of the
+Notes is determined when the terms of the Notes are set based on market conditions and other relevant factors and assumptions existing
+at that time. See “Key Risks — Risks Relating to the Estimated Value and Secondary Market Prices of the Notes — The
+Estimated Value of the Notes Does Not Represent Future Values of the Notes and May Differ from Others’ Estimates” in this
+pricing supplement.
+
+The estimated value of the Notes is lower than the original issue
+price of the Notes because costs associated with structuring and hedging the Notes are included in the original issue price of the Notes.
+These costs include the projected profits, if any, that our affiliates expect to realize for assuming risks inherent in hedging our obligations
+under the Notes, the estimated cost of hedging our obligations under the Notes and the fees, if any, paid for third-party data analytics
+and/or electronic platform services. Because hedging our obligations entails risk and may be influenced by market forces beyond our control,
+this hedging may result in a profit that is more or less than expected, or it may result in a loss. We or one or more of our affiliates
+will retain any profits realized in hedging our obligations under the Notes. See “Key Risks — Risks Relating to the Estimated
+Value and Secondary Market Prices of the Notes — The Estimated Value of the Notes Is Lower Than the Original Issue Price (Price
+to Public) of the Notes” in this pricing supplement.
+
+Secondary
+Market Prices of the Notes
+
+For information about factors that will impact any secondary market prices
+of the Notes, see “Key Risks — Risks Relating to the Estimated Value and Secondary Market Prices of the Notes — Secondary
+Market Prices of the Notes Will Be Impacted by Many Economic and Market Factors” in this pricing supplement. In addition, we generally
+expect that some of the costs included in the original issue price of the Notes will be partially paid back to you in connection with
+any repurchases of your Notes by JPMS in an amount that will decline to zero over an initial predetermined period that is intended to
+be up to five months. The length of any such initial period reflects secondary market volumes for the Notes, the structure of the Notes,
+whether our affiliates expect to earn a profit in connection with our hedging activities, the estimated costs of hedging the Notes and
+when these costs are incurred, as determined by our affiliates. See “Key Risks — Risks Relating to the Estimated Value and
+Secondary Market Prices of the Notes — The Value of the Notes as Published by JPMS (and Which May Be Reflected on Customer Account
+Statements) May Be Higher Than the Then-Current Estimated Value of the Notes for a Limited Time Period” in this pricing supplement.
+
+Supplemental
+Use of Proceeds
+
+The Notes are offered to meet investor demand for products that reflect
+the risk-return profile and market exposure provided by the Notes. See “Hypothetical Examples” in this pricing supplement
+for an illustration of the risk-return profile of the Notes and “The Underlyings” in this pricing supplement for a description
+of the market exposure provided by the Notes.
+
+The original issue price of the Notes is equal to the estimated value
+of the Notes plus (minus) the projected profits (losses) that our affiliates expect to realize for assuming risks inherent in hedging
+our obligations under the Notes, plus the estimated cost of hedging our obligations under the Notes, plus the fees, if any, paid for third-party
+data analytics and/or electronic platform services.
+
+18
+
+| Supplemental Donation Information |
+| --- |
+
+JPMorgan Chase & Co. and/or its affiliates (“J.P.
+Morgan”) have made unconditional and irrevocable donations of $400,000, in the aggregate, to Hope & Heroes to support research,
+treatment and care for children with cancer and blood disorders in the New York Tri-State area. See Annex A in this pricing supplement
+for more information about Hope & Heroes. There is no assurance that Hope & Heroes’ stated mission will be achieved or that
+J.P. Morgan’s donations will have a positive impact on research, treatment and care for children with cancer and blood disorders.
+These donations and the amounts of these donations are not contingent on the sale of the Notes and will not impact the final terms of
+the Notes.
+
+Our affiliates expect to realize profits for assuming risks inherent
+in hedging our obligations under the Notes. Some of these projected profits, if any, may be used to offset a portion of the donations
+.
+
+The issuance of the Notes and the related use of proceeds described
+above
+are not
+intended to comply with the Social Bond Principles, June 2025 (the “Principles”).
+The Principles are voluntary process guidelines published by the International Capital Markets Association for the issuance of social
+bonds developed by a committee of issuers, investors and other market participants.
+We cannot assure you that the donations to Hope
+& Heroes meet your expectations concerning social investing, expectations for sustainable finance products or any criteria or guidelines
+with which you are required to comply.
+
+Validity
+of the Notes and the Guarantee
+
+In the opinion of Davis Polk & Wardwell LLP, as special products
+counsel to JPMorgan Financial and JPMorgan Chase & Co., when the Notes offered by this pricing supplement have been issued
+by JPMorgan Financial pursuant to the indenture, the trustee and/or paying agent has made, in accordance with the instructions from JPMorgan
+Financial, the appropriate entries or notations in its records relating to the master global note that represents such Notes (the “master
+note”), and such Notes have been delivered against payment as contemplated herein, such Notes will be valid and binding obligations
+of JPMorgan Financial and the related guarantee will constitute a valid and binding obligation of JPMorgan Chase & Co.,
+enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights
+generally, concepts of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good
+faith, fair dealing and the lack of bad faith),
+provided
+that such counsel expresses no opinion as to (x)(i) the effect of fraudulent
+conveyance, fraudulent transfer or similar provision of applicable law on the conclusions expressed above or (ii) any provision of the
+indenture that purports to avoid the effect of fraudulent conveyance, fraudulent transfer or similar provision of applicable law by limiting
+the amount of JPMorgan Chase & Co.’s obligation under the related guarantee or (y) the validity, legally binding effect
+or enforceability of any provision that permits holders to collect any portion of the stated principal amount upon acceleration of the
+Notes to the extent determined to constitute unearned interest. This opinion is given as of the date hereof and is limited to the laws
+of the State of New York, the General Corporation Law of the State of Delaware and the Delaware Limited Liability Company Act, except
+that such counsel expresses no opinion as to (i) any law, rule or regulation that is applicable to JPMorgan Financial or JPMorgan Chase & Co.,
+the indenture, the Notes, the related guarantee (together with the indenture and the Notes, the “Documents”) or such transactions
+solely because such law, rule or regulation is part of a regulatory regime applicable to any party to any of the Documents or any of its
+affiliates due to the specific assets or business of such party or such affiliate or (ii) any law, rule or regulation relating to national
+security. In addition, this opinion is subject to customary assumptions about the trustee’s authorization, execution and delivery
+of the indenture and its authentication of the master note and the validity, binding nature and enforceability of the indenture with respect
+to the trustee, all as stated in the letter of such counsel dated February 24, 2026, which was filed as an exhibit to the Registration
+Statement on Form S-3 by JPMorgan Financial and JPMorgan Chase & Co. on February 24, 2026.
+
+19
+
+| Annex A – Hope & Heroes |
+| --- |
+
+J.P. Morgan has made unconditional and irrevocable donations of
+$400,000, in the aggregate, to Hope & Heroes to support research, treatment and care for children with cancer and blood disorders
+in the New York Tri-State area. There is no assurance that Hope & Heroes’ stated mission will be achieved or that J.P. Morgan’s
+donations will have a positive impact on research, treatment, and care for children with cancer and blood disorders. These donations and
+the amounts of these donations are not contingent on the sale of the Notes and will not impact the final terms of the Notes.
+
+We have derived certain information about Hope & Heroes set forth
+below including, without limitation, the services offered by Hope & Heroes and Hope & Heroes’ mission from publicly available
+information, without independent verification.
+
+About Hope & Heroes
+
+Hope & Heroes has described its mission and approach (as of January
+2026) in the diagrams below:
+
+There is no assurance that Hope & Heroes’ stated mission
+will be achieved or that J.P. Morgan’s donations will have a positive impact on research, treatment and care for children with cancer
+and blood disorders.
+
+The issuance of the Notes and the related use of proceeds described
+above
+are not
+intended to comply with the Principles. These donations are not a commercial co-venture with Hope &
+Heroes.
+
+20

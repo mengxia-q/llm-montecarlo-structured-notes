@@ -1,0 +1,581 @@
+424B2
+
+1
+
+ms18090_424b2-27105.htm
+
+PRICING SUPPLEMENT NO. 18,090
+
+| Pricing Supplement No. 18,090 Registration Statement Nos. 333-293641;333-293641-01 Dated August 17, 2026 Filed Pursuant to Rule 424(b)(2) |
+| --- |
+
+Morgan Stanley Finance LLC $7,141,900 Trigger Autocallable Contingent Yield Notes
+
+Linked to the S&P 500
+®
+Index due August 16, 2029
+
+Fully and Unconditionally Guaranteed by Morgan Stanley
+Principal at Risk Securities
+
+| Investment Description |
+| --- |
+
+These Trigger Autocallable Contingent Yield Notes (the “Securities”) are unsecured and unsubordinated debt obligations of Morgan Stanley Finance LLC (“MSFL”) and are fully and unconditionally guaranteed by Morgan Stanley. The Securities provide returns based on the performance of the S&P 500
+®
+Index (the “Underlying”). If the closing level of the Underlying on a quarterly Observation Date (the “Observation Date Closing Level”) is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the closing level of the Underlying is less than the Coupon Barrier, no coupon will accrue or be payable with respect to that Observation Date. In addition, MSFL will automatically call the Securities early if the Observation Date Closing Level on any quarterly Observation Date beginning after approximately 6 months (February 16, 2027) is equal to or greater than the Initial Level. If the Securities are called, MSFL will pay the principal amount plus the Contingent Coupon for that Observation Date, and no further amounts will be owed to you. If the Securities are not called prior to maturity and the Final Level is equal to or greater than the Downside Threshold (which is the same as the Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities, in addition to the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will pay you significantly less than the full principal amount, if anything, at maturity, resulting in a loss on your principal amount that is proportionate to the decline in the value of the Underlying from the Strike Date to the Final Observation Date. The Securities may be appropriate for investors who seek an opportunity for potentially enhanced income in exchange for the risk of losing their principal at maturity and the risk of receiving no Contingent Coupons during the term of the Securities. Your return will be solely the Contingent Coupons, if any, and you will not participate in any appreciation in the Underlying.
+Investing in the Securities involves significant risks. The Issuer will not pay a quarterly Contingent Coupon if the Observation Date Closing Level for the Underlying is below the Coupon Barrier. The Issuer will not automatically call the Securities if the Observation Date Closing Level of the Underlying is below the Initial Level. You will lose a significant portion or all of your principal amount at maturity if the Securities are not called and the Final Level of the Underlying is below the Downside Threshold. Generally, the higher the Contingent Coupon Rate for the Securities, the greater risk of loss on those Securities. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale.
+
+All payments are subject to our credit risk. If we default on our obligations, you could lose a significant portion or all of your investment. These Securities are not secured obligations and you will not have any security interest in, or otherwise have any access to, any underlying reference asset or assets.
+
+| Features | Key Dates |
+| --- | --- |
+
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Strike Date | August 14, 2026 |
+| --- | --- | --- |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Trade Date | August 17, 2026 |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Settlement Date | August 19, 2026 (2 business days after the Trade Date) |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Observation Dates | Quarterly, callable beginning February 16, 2027. See “Observation Dates and Coupon Payment Dates” on page 6 for details. |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Final Observation Date* | August 14, 2029 |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Maturity Date* | August 16, 2029 |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Level on any quarterly Observation Date beginning February 16, 2027 is equal to or greater than the Initial Level, and no further payments will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk at maturity. ❑ Contingent Coupon: If the Observation Date Closing Level on any quarterly Observation Date is equal to or greater than the Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If by maturity the Securities have not been called and the Final Level is greater than or equal to the Downside Threshold (which is the same as the Coupon Barrier) on the Final Observation Date, MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Level is less than the Downside Threshold, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date. The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the level of the Underlying is greater than the Downside Threshold at the time of sale. Any payment on the Securities is subject to our creditworthiness. | | |
+
+NOTICE TO INVESTORS: THE SECURITIES ARE SIGNIFICANTLY RISKIER THAN CONVENTIONAL DEBT INSTRUMENTS. THE SECURITIES DO NOT GUARANTEE THE REPAYMENT OF THE FULL PRINCIPAL AMOUNT AT MATURITY, AND THE SECURITIES CAN HAVE DOWNSIDE MARKET RISK SIMILAR TO THE UNDERLYING. THIS MARKET RISK IS IN ADDITION TO THE CREDIT RISK INHERENT IN PURCHASING OUR DEBT OBLIGATIONS. YOU SHOULD NOT PURCHASE THE SECURITIES IF YOU DO NOT UNDERSTAND OR ARE NOT COMFORTABLE WITH THE SIGNIFICANT RISKS INVOLVED IN INVESTING IN THE SECURITIES. THE SECURITIES WILL NOT BE LISTED ON ANY SECURITIES EXCHANGE.
+
+YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED UNDER “KEY RISKS” BEGINNING ON PAGE 8 OF THE PRICING SUPPLEMENT IN CONNECTION WITH YOUR PURCHASE OF THE SECURITIES. EVENTS RELATING TO ANY OF THOSE RISKS, OR OTHER RISKS AND UNCERTAINTIES, COULD ADVERSELY AFFECT THE MARKET VALUE OF, AND THE RETURN ON, YOUR SECURITIES. YOU MAY LOSE A SIGNIFICANT PORTION OR ALL OF YOUR PRINCIPAL AMOUNT.
+
+| Security Offering |
+| --- |
+
+This pricing supplement relates to Trigger Autocallable Contingent Yield Notes linked to the S&P 500
+®
+Index.
+
+The Securities are offered at a minimum investment of $1,000 in denominations of $10 and integral multiples thereof.
+
+| Underlying | Underlying | Underlying | Underlying | Underlying | Contingent Coupon Rate* | Initial Level | Coupon Barrier/Downside Threshold | CUSIP | ISIN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S&P 500 ® Index | S&P 500 ® Index | S&P 500 ® Index | S&P 500 ® Index | S&P 500 ® Index | 8.55% per annum | 7,785.76 | 5,839.32, which is 75% of the Initial Level | 61780K335 | US61780K3352 |
+
+The closing level on any Index Business Day will be determined based on the level published by the Underlying publisher.
+
+*If payable, the Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate. See “Contingent Coupon” on page 4.
+
+See “Additional Information about Morgan Stanley, MSFL and the Securities” on page 2. The Securities will have the terms set forth in the accompanying prospectus, product supplement, index supplement, tax supplement and this pricing supplement.
+
+Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these Securities or passed upon the adequacy or accuracy of this pricing supplement or the accompanying product supplement, index supplement, tax supplement or prospectus. Any representation to the contrary is a criminal offense. The Securities are not deposits or savings accounts and are not insured by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality, nor are they obligations of, or guaranteed by, a bank.
+
+| Estimated value on the Trade Date | $9.930 per Security. See “Additional Information about Morgan Stanley, MSFL and the Securities” on page 2. | $9.930 per Security. See “Additional Information about Morgan Stanley, MSFL and the Securities” on page 2. | $9.930 per Security. See “Additional Information about Morgan Stanley, MSFL and the Securities” on page 2. |
+| --- | --- | --- | --- |
+| | Price to Public | Underwriting Discount (1) | Proceeds to Us (2) |
+| Per Security | $10 | $0 | $10 |
+| Total | $7,141,900 | $0 | $7,141,900 |
+
+(1) UBS Financial Services Inc. will act as placement agent at an issue price of $10 per Security. All sales of the Securities will be made to certain fee-based advisory accounts for which UBS Financial Services Inc. is an investment advisor and will not receive a sales commission. For more information, please see “Supplemental Plan of Distribution; Conflicts of Interest” on page 18 of this pricing supplement.
+
+(2) See “Use of Proceeds and Hedging” on page 18.
+
+The agent for this offering, Morgan Stanley & Co. LLC (“MS & Co.”), is our affiliate and a wholly owned subsidiary of Morgan Stanley. See “Supplemental Plan of Distribution; Conflicts of Interest” beginning on page 18 of this pricing supplement.
+
+Morgan Stanley
+
+UBS Financial Services Inc.
+
+| Additional Information about Morgan Stanley, MSFL and the Securities |
+| --- |
+
+Morgan Stanley and MSFL have filed a registration statement (including a prospectus, as supplemented by a product supplement, an index supplement and a tax supplement) with the SEC for the offering to which this communication relates. In connection with your investment, you should read the prospectus in that registration statement, the product supplement, the index supplement, tax supplement and any other documents relating to this offering that Morgan Stanley and MSFL have filed with the SEC for more complete information about Morgan Stanley, MSFL and this offering. You may get these documents for free by visiting EDGAR on the SEC website at
+.
+www.sec.gov. Alternatively, Morgan Stanley, MSFL, any underwriter or any dealer participating in this offering will arrange to send you the prospectus, the index supplement, the product supplement and the tax supplement if you so request by calling toll-free 1-(800)-584-6837.
+
+You may access the accompanying product supplement, index supplement, tax supplement and prospectus on the SEC website at
+.
+www.sec.gov as follows:
+
+♦
+Product supplement for auto-callable securities dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005464/dp244203_424b2-psautocallsec.htm
+
+♦
+Index supplement dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005457/dp244875_424b2-indexsupp.htm
+
+♦
+Tax supplement dated April 8, 2026:
+
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005451/dp244874_424b2-sats.htm
+
+♦
+Prospectus dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005450/dp244347_424b2-basepro.htm
+
+References to “MSFL” refer only to MSFL, references to “Morgan Stanley” refer only to Morgan Stanley and references to “we,” “our” and “us” refer to MSFL and Morgan Stanley collectively. In this document, the “Securities” refers to the Trigger Autocallable Contingent Yield Notes that are offered hereby. Also, references to the accompanying “prospectus,” “index supplement,” “product supplement” and “tax supplement” mean the prospectus filed by MSFL and Morgan Stanley dated April 8, 2026, the index supplement filed by MSFL and Morgan Stanley dated April 8, 2026, the product supplement for auto-callable securities filed by MSFL and Morgan Stanley dated April 8, 2026 and the tax supplement filed by MSFL and Morgan Stanley dated April 8, 2026, respectively.
+
+You should rely only on the information incorporated by reference or provided in this pricing supplement or the accompanying product supplement, index supplement, tax supplement and prospectus. We have not authorized anyone to provide you with different information. We are not making an offer of these Securities in any state where the offer is not permitted. You should not assume that the information in this pricing supplement or the accompanying product supplement, index supplement, tax supplement and prospectus is accurate as of any date other than the date on the front of this document.
+
+The Issue Price of each Security is $10. This price includes costs associated with issuing, selling, structuring and hedging the Securities, which are borne by you, and, consequently, the estimated value of the Securities on the Trade Date is less than $10. We estimate that the value of each Security on the Trade Date is $9.930.
+
+What goes into the estimated value on the Trade Date?
+
+In valuing the Securities on the Trade Date, we take into account that the Securities comprise both a debt component and a performance-based component linked to the Underlying. The estimated value of the Securities is determined using our own pricing and valuation models, market inputs and assumptions relating to the Underlying, instruments based on the Underlying, volatility and other factors including current and expected interest rates, as well as an interest rate related to our secondary market credit spread, which is the implied interest rate at which our conventional fixed rate debt trades in the secondary market.
+
+What determines the economic terms of the Securities?
+
+In determining the economic terms of the Securities, including the Contingent Coupon Rate, the Coupon Barrier and the Downside Threshold, we use an internal funding rate, which is likely to be lower than our secondary market credit spreads and therefore advantageous to us. If the issuing, selling, structuring and hedging costs borne by you were lower or if the internal funding rate were higher, one or more of the economic terms of the Securities would be more favorable to you.
+
+What is the relationship between the estimated value on the Trade Date and the secondary market price of the Securities?
+
+The price at which MS & Co. purchases the Securities in the secondary market, absent changes in market conditions, including those related to the Underlying, may vary from, and be lower than, the estimated value on the Trade Date, because the secondary market price takes into account our secondary market credit spread as well as the bid-offer spread that MS & Co. would charge in a secondary market transaction of this type and other factors. However, because the costs associated with issuing, selling, structuring and hedging the Securities are not fully deducted upon issuance, for a period of up to 6 months following the Settlement Date, to the extent that MS & Co. may buy or sell the Securities in the secondary market, absent changes in market conditions, including those related to the Underlying, and to our secondary market credit spreads, it would do so based on values higher than the estimated value. We expect that those higher values will also be reflected in your brokerage account statements.
+
+MS & Co. currently intends, but is not obligated, to make a market in the Securities, and, if it once chooses to make a market, may cease doing so at any time.
+
+2
+
+| Investor Suitability | Investor Suitability |
+| --- | --- |
+| The Securities may be suitable for you if: | The Securities may not be suitable for you if: |
+| ♦ You fully understand the risks inherent in an investment in the Securities, including the risk of loss of your entire initial investment. ♦ You can tolerate a loss of all or a substantial portion of your investment and are willing to make an investment that may have the same downside market risk as the Underlying. ♦ You understand and accept the risks associated with the Underlying. ♦ You accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. ♦ You believe the Underlying will close at or above the Coupon Barrier on the Observation Dates, including above the Downside Threshold on the Final Observation Date. ♦ You are willing to invest in the Securities based on the Contingent Coupon Rate specified on the cover hereof. ♦ You believe the Underlying will close at or above the Initial Level on one of the specified Observation Dates. ♦ You understand and accept that you will not participate in any appreciation in the level of the Underlying and that your potential return is limited to the Contingent Coupons, if any. ♦ You can tolerate fluctuations in the price of the Securities prior to maturity that may be similar to or exceed the downside price fluctuations of the Underlying. ♦ You do not seek guaranteed current income from this investment and are willing to forgo dividends paid on the stocks included in the Underlying. ♦ You are willing to invest in securities that may be called early or you are otherwise willing to hold such securities to maturity, as set forth on the cover of this pricing supplement. ♦ You accept that there may be little or no secondary market for the Securities and that any secondary market will depend in large part on the price, if any, at which MS & Co. is willing to trade the Securities. ♦ You are willing to assume our credit risk, and understand that if we default on our obligations you may not receive any amounts due to you and could lose your entire investment. | ♦ You do not fully understand the risks inherent in an investment in the Securities, including the risk of loss of your entire initial investment. ♦ You cannot tolerate a loss of all or a substantial portion of your investment, and are unwilling to make an investment that may have the same downside market risk as the Underlying. ♦ You require an investment designed to provide a full return of principal at maturity. ♦ You do not understand and accept the risks associated with the Underlying. ♦ You do not accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. ♦ You believe that the level of the Underlying will decline during the term of the Securities and is likely to close below the Coupon Barrier on the Observation Dates, including closing below the Downside Threshold on the Final Observation Date. ♦ You are unwilling to invest in the Securities based on the Contingent Coupon Rate specified on the cover hereof. ♦ You seek an investment that participates in the appreciation in the level of the Underlying or that has unlimited return potential. ♦ You cannot tolerate fluctuations in the price of the Securities prior to maturity that may be similar to or exceed the downside price fluctuations of the Underlying. ♦ You prefer the lower risk, and therefore accept the potentially lower returns, of fixed income investments with comparable maturities and credit ratings. ♦ You seek guaranteed current income from this investment or prefer to receive the dividends paid on the stocks included in the Underlying. ♦ You are unable or unwilling to hold securities that may be called early, or you are otherwise unable or unwilling to hold such securities to maturity, as set forth on the cover of this pricing supplement, or you seek an investment for which there will be an active secondary market. ♦ You are not willing to assume our credit risk for all payments under the Securities. |
+
+The investor suitability considerations identified above are not exhaustive. Whether or not the Securities are a suitable investment for you will depend on your individual circumstances, and you should reach an investment decision only after you and your investment, legal, tax, accounting and other advisors have carefully considered the suitability of an investment in the Securities in light of your particular circumstances. You should also review carefully the sections entitled “Key Risks” beginning on page 8 of this pricing supplement and “Risk Factors” beginning on page 6 of the accompanying prospectus, page S-38 of the accompanying product supplement and page TS-4 of the accompanying tax supplement for risks related to an investment in the Securities. For additional information about the Underlying, see the information set forth under “S&P 500
+®
+Index” on page 18.
+
+3
+
+| Final Terms | Final Terms |
+| --- | --- |
+| Issuer | Morgan Stanley Finance LLC |
+| Guarantor | Morgan Stanley |
+| Issue Price | $10.00 per Security. The Securities are offered at a minimum investment of 100 Securities. |
+| Underlying | S&P 500 ® Index |
+| Principal Amount | $10.00 per Security |
+| Term | Approximately 3 years, unless called earlier |
+| Automatic Call | Beginning February 16, 2027, the Securities will be called automatically if the Observation Date Closing Level on any Observation Date is equal to or greater than the Initial Level. If the Securities are called, MSFL will pay you the Principal Amount plus the Contingent Coupon otherwise due for that Observation Date on the Coupon Payment Date related to such Observation Date, and no further payments will be made on the Securities. The Securities will not be called if the Observation Date Closing Level of the Underlying is below the Initial Level. |
+| Contingent Coupon | If the Observation Date Closing Level is equal to or greater than the Coupon Barrier on any Observation Date, we will pay you the Contingent Coupon for that Observation Date on the relevant Coupon Payment Date. If the Observation Date Closing Level is less than the Coupon Barrier on any Observation Date, the Contingent Coupon for that Observation Date will not accrue or be payable and that Contingent Coupon payment will be lost. Each Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate, which is a per-annum rate. The Contingent Coupon amount of $0.21375 (8.55% per annum) would be applicable to each Observation Date on which the closing level of the Underlying is greater than or equal to the Coupon Barrier. Contingent Coupon payments on the Securities are not guaranteed. MSFL will not pay you the Contingent Coupon for any Observation Date on which the closing level of the Underlying is less than the Coupon Barrier. |
+
+| Contingent Coupon Rate | The Contingent Coupon Rate is 8.55% per annum. If payable, the Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate. |
+| --- | --- |
+| Strike Date | August 14, 2026 |
+| Trade Date | August 17, 2026 |
+| Settlement Date | August 19, 2026 |
+| Observation Dates | Quarterly, callable beginning February 16, 2027. See “Observation Dates and Coupon Payment Dates” on page 6 for details. |
+| Final Observation Date | August 14, 2029* |
+| Coupon Payment Dates | With respect to each Observation Date, as set forth under “Observation Dates and Coupon Payment Dates” on page 6. |
+| Maturity Date | August 16, 2029* |
+| Payment at Maturity (per Security) | MSFL will pay you a cash payment on the Maturity Date linked to the performance of the Underlying during the term of the Securities, as follows: If the Securities are not automatically called and the Final Level is equal to or greater than the Downside Threshold (which is the same as the Coupon Barrier), MSFL will pay you the $10 Principal Amount plus the Contingent Coupon with respect to the Final Observation Date. If the Securities are not automatically called and the Final Level is less than the Downside Threshold, MSFL will pay you an amount calculated as follows: $10 × (1 + Underlying Return) In this case, you will lose a significant portion and could lose all of the Principal Amount in an amount proportionate to the decline of the Underlying from the Strike Date to the Final Observation Date. |
+| Observation Date Closing Level | The closing level of the Underlying on any Observation Date. |
+| Underlying Return | Final Level – Initial Level Initial Level |
+| *Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. | *Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. |
+
+4
+
+| Initial Level | 7,785.76, which is the closing level of the Underlying on the Strike Date. |
+| --- | --- |
+| Final Level | The closing level of the Underlying on the Final Observation Date. |
+| Downside Threshold | 5,839.32, which is 75% of the Initial Level of the Underlying. |
+| Coupon Barrier | 5,839.32, which is 75% of the Initial Level of the Underlying. |
+| Record Date | The record date for each Contingent Coupon shall be the date one business day prior to such scheduled Coupon Payment Date; provided, however, that any Contingent Coupon payable at maturity or upon an Automatic Call shall be payable to the person to whom the Payment at Maturity or the payment upon an automatic call, as the case may be, shall be payable. |
+| Trustee | The Bank of New York Mellon |
+| Calculation Agent | MS & Co. |
+
+5
+
+Observation Dates
+(1)
+and Coupon Payment Dates
+(2)
+
+| Observation Dates | Coupon Payment Dates |
+| --- | --- |
+| 11/16/2026 | 11/18/2026 |
+| 2/16/2027 | 2/18/2027 |
+| 5/14/2027 | 5/18/2027 |
+| 8/16/2027 | 8/18/2027 |
+| 11/15/2027 | 11/17/2027 |
+| 2/14/2028 | 2/16/2028 |
+| 5/15/2028 | 5/17/2028 |
+| 8/14/2028 | 8/16/2028 |
+| 11/14/2028 | 11/16/2028 |
+| 2/14/2029 | 2/16/2029 |
+| 5/14/2029 | 5/16/2029 |
+| 8/14/2029 (Final Observation Date) | 8/16/2029 (Maturity Date) |
+
+(1) Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement.
+
+(2) If, due to a Market Disruption Event or otherwise, any Observation Date is postponed so that it falls less than two business days prior to the scheduled Coupon Payment Date, the Coupon Payment Date will be postponed to the second business day following that Observation Date as postponed,
+provided
+that the Coupon Payment Date with respect to the Final Observation Date will be the Maturity Date. No additional coupon will accrue on an account of any such postponement.
+
+6
+
+| Investment Timeline | Investment Timeline |
+| --- | --- |
+| | The Initial Level, Downside Threshold and Coupon Barrier were determined. |
+| | If the Observation Date Closing Level is equal to or greater than the Coupon Barrier on any Observation Date, MSFL will pay you a Contingent Coupon on the Coupon Payment Date. However, if the Observation Date Closing Level is below the Coupon Barrier, no Coupon will be payable on the related Coupon Payment Date. If the Observation Date Closing Level is equal to or greater than the Initial Level on any Observation Date beginning on February 16, 2027, the Securities will be called and MSFL will pay you a cash payment per Security equal to the principal amount plus the Contingent Coupon otherwise due for the Observation Date, and no further payments will be made on the Securities. |
+| | The Final Level is determined as of the Final Observation Date. If the Securities have not been called and the Final Level is equal to or greater than the Coupon Barrier and Downside Threshold , at maturity MSFL will pay you the $10 Principal Amount plus the Contingent Coupon otherwise due on the Maturity Date. If the Securities have not been called and the Final Level is less than the Downside Threshold , MSFL will pay you an amount calculated as follows: $10 × (1 + Underlying Return) per Security Under these circumstances, the Payment at Maturity will be significantly less than the $10 Principal Amount by an amount proportionate to the negative Underlying Return, and you could lose your entire investment. |
+
+Investing in the Securities involves significant risks. You may lose YOUR ENTIRE principal amount. Any payment on the Securities is subject to OUR creditworthiness. If we were to default on our payment obligations, you may not receive any amounts owed to you under the Securities and you could lose your entire investment.
+
+THE SECURITIES WILL NOT PAY A CONTINGENT COUPON IF THE OBSERVATION DATE CLOSING LEVEL OF THE UNDERLYING IS BELOW THE COUPON BARRIER ON THE APPLICABLE OBSERVATION DATE. THE SECURITIES WILL NOT BE SUBJECT TO AN AUTOMATIC CALL ON ANY OBSERVATION DATE IF THE OBSERVATION DATE CLOSING LEVEL OF THE UNDERLYING ON SUCH OBSERVATION DATE IS BELOW THE INITIAL LEVEL. IF THE SECURITIES ARE NOT CALLED, YOU WILL LOSE A SIGNIFICANT PORTION OR ALL OF YOUR INVESTMENT AT MATURITY IF THE FINAL LEVEL IS LESS THAN THE DOWNSIDE THRESHOLD.
+
+7
+
+| Key Risks |
+| --- |
+
+An investment in the Securities involves significant risks. Some of the risks that apply to the Securities are summarized here, but we urge you to also read the “Risk Factors” section of the accompanying prospectus, product supplement and tax supplement. You should also consult your investment, legal, tax, accounting and other advisers in connection with your investment in the Securities.
+
+♦
+The Securities do not guarantee the payment of regular interest or the return of any principal.
+The terms of the Securities differ from those of ordinary debt securities in that the Securities do not guarantee the payment of regular interest or the return of any of the principal amount at maturity. In addition, while the Securities will generally offer the possibility of a higher return if the Securities are automatically called than the potential return payable on our ordinary debt securities with a similar maturity, this higher return potential reflects the risk that you may not receive a positive return on the Securities and may lose a significant portion or all of your investment if the Securities have not been called prior to maturity and if the Final Level is less than the Downside Threshold. In this case, you will be exposed to the decline in the level of the Underlying, as compared to the Initial Level, on a 1-to-1 basis, and the Payment at Maturity will result in a significant loss of your initial investment that is proportionate to the decline of the Underlying over the term of the Securities.
+You could lose your entire principal amount.
+
+♦
+You will not receive any Contingent Coupon for any quarterly period where the Observation Date Closing Level is less than or equal to the Coupon Barrier.
+A Contingent Coupon will be made with respect to a quarterly period only if the Observation Date Closing Level is greater than or equal to the Coupon Barrier. If the Observation Date Closing Level remains below the Coupon Barrier on each Observation Date over the term of the Securities, you will not receive any Contingent Coupons.
+
+♦
+The Contingent Coupon is based solely on the Observation Date Closing Level.
+Whether the Contingent Coupon will be paid with respect to an Observation Date will be based on the Observation Date Closing Level. As a result, you will not know whether you will receive the Contingent Coupon with respect to any Coupon Payment Date until the applicable Observation Date. Moreover, because the Contingent Coupon is based solely on the Observation Date Closing Level on a specific Observation Date, if such Observation Date Closing Level is less than the Coupon Barrier, you will not receive any Contingent Coupon with respect to such Observation Date, even if the closing level of the Underlying was higher on other days during the term of the Securities.
+
+♦
+Investors will not participate in any appreciation in the level of the Underlying.
+Investors will not participate in any appreciation in the level of the Underlying from the Initial Level, and the return on the Securities will be limited to the Contingent Coupon, if any, that is paid with respect to each Observation Date on which the Observation Date Closing Level is greater than or equal to the Coupon Barrier prior to an automatic call or maturity, if any. The return on the Securities will be limited to the Contingent Coupons, if any, regardless of the appreciation of the Underlying, which could be significant. It is possible that the closing level of the Underlying could be below the Coupon Barrier on most or all of the Observation Dates so that you may receive few or no Contingent Coupons. In addition, if the Securities are not called prior to maturity, you may be exposed to the full downside market risk of the Underlying and lose a significant portion or all of your investment despite not being able to participate in any potential appreciation of the Underlying. If you do not earn sufficient Contingent Coupons over the term of the Securities, the overall return on the Securities may be less than the amount that would be paid on a conventional debt security of ours of comparable maturity.
+
+♦
+You may incur a loss on your investment if you sell your Securities prior to maturity.
+The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity. If you are able to sell your Securities in the secondary market prior to maturity, you may have to sell them at a loss relative to your initial investment even if the Underlying Share price is above the Downside Threshold at that time. If you hold the Securities to maturity and the Securities have not been called, MSFL will either repay you the full principal amount per Security plus the Contingent Coupon, or if the level of the Underlying closes below the Downside Threshold on the Final Observation Date, MSFL will repay significantly less than the principal amount, if anything, at maturity, resulting in a loss on your principal amount that is proportionate to the decline in the level of the Underlying from the Strike Date to the Final Observation Date.
+
+♦
+Early Redemption Risk.
+The term of your investment in the Securities may be limited to as short as approximately six months by the automatic call feature of the Securities. If the Securities are called prior to maturity, you will not be able to receive any further Contingent Coupon Payments for any future Observation Dates and you may be forced to invest in a lower interest rate environment and may not be able to reinvest at comparable terms or for similar returns. However, under no circumstances will the Securities be redeemed in the first six months of the term of the Securities. Generally, the longer the Securities have been outstanding, the less likely it is that they will be automatically called, because the level of the Underlying will necessarily have declined from the Initial Level if the Securities were not called following an Observation Date, and there will be less time remaining until maturity in which the level of the Underlying can recover.
+
+♦
+The Securities are subject to our credit risk, and any actual or anticipated changes to our credit ratings or our credit spreads may adversely affect the market value of the Securities.
+You are dependent on our ability to pay all amounts due on the Securities, including Contingent Coupons, if any, and any payments upon an automatic call or at maturity, and therefore you are subject to our credit risk. If we default on our obligations under the Securities, your investment would be at risk and you could lose some or all of your investment. As a result, the market value of the Securities prior to maturity will be affected by changes in the market’s view of our creditworthiness. Any actual or anticipated decline in our credit ratings or increase in the credit spreads charged by the market for taking our credit risk is likely to adversely affect the market value of the Securities.
+
+♦
+As a finance subsidiary, MSFL has no independent operations and will have no independent assets
+. As a finance subsidiary, MSFL has no independent operations beyond the issuance and administration of its securities and will have no
+
+8
+
+independent assets available for distributions to holders of MSFL securities if they make claims in respect of such securities in a bankruptcy, resolution or similar proceeding. Accordingly, any recoveries by such holders will be limited to those available under the related guarantee by Morgan Stanley and that guarantee will rank
+pari passu
+with all other unsecured, unsubordinated obligations of Morgan Stanley. Holders will have recourse only to a single claim against Morgan Stanley and its assets under the guarantee. Holders of securities issued by MSFL should accordingly assume that in any such proceedings they would not have any priority over and should be treated
+pari passu
+with the claims of other unsecured, unsubordinated creditors of Morgan Stanley, including holders of Morgan Stanley-issued securities.
+
+♦
+The market price of the Securities will be influenced by many unpredictable factors.
+Several factors, many of which are beyond our control, will influence the value of the Securities in the secondary market and the price at which MS & Co. may be willing to purchase or sell the Securities in the secondary market. Although we expect that generally the closing level of the Underlying on any day will affect the value of the Securities more than any other single factor, other factors that may influence the value of the Securities include:
+
+o
+the value and volatility (frequency and magnitude of changes in value) of the Underlying,
+
+o
+whether the Observation Date Closing Level has been below the Coupon Barrier on any Observation Date,
+
+o
+dividend rates on the stocks comprising the Underlying,
+
+o
+interest and yield rates in the market,
+
+o
+time remaining until the Securities mature,
+
+o
+geopolitical conditions and economic, financial, political, regulatory or judicial events that affect the Underlying or equities markets generally and which may affect the Final Level,
+
+o
+the occurrence of certain events affecting the Underlying that may or may not require an adjustment to its composition, and
+
+o
+any actual or anticipated changes in our credit ratings or credit spreads.
+
+Some or all of these factors will influence the terms of the Securities at the time of issuance and the price that you will receive if you are able to sell your Securities prior to maturity, as the Securities are comprised of both a debt component and a performance-based component linked to the Underlying, and these are the types of factors that also generally affect the values of debt securities and derivatives linked to the Underlying. The level of the Underlying may be, and has recently been, volatile, and we can give you no assurance that the volatility will lessen. See “S&P 500
+®
+Index” below. You may receive less, and possibly significantly less, than the Principal Amount per Security if you try to sell your Securities prior to maturity.
+
+♦
+A higher Contingent Coupon Rate and/or a lower Downside Threshold may reflect greater expected volatility of the Underlying, and greater expected volatility generally indicates an increased risk of declines in the level of the Underlying and, potentially, a significant loss at maturity.
+The economic terms for the Securities, including the Contingent Coupon Rate and the Downside Threshold, are based, in part, on the expected volatility of the Underlying at the time the terms of the Securities are set. “Volatility” refers to the frequency and magnitude of changes in the level of the Underlying. Higher expected volatility with respect to the Underlying as of the Trade Date generally indicates a greater expectation as of that date that the Final Level of the Underlying could ultimately be less than the Downside Threshold on the Final Observation Date, which would result in a loss of a significant portion or all of the Principal Amount. At the time the terms of the Securities are set, higher expected volatility will generally be reflected in a higher Contingent Coupon Rate and/or a lower Downside Threshold, as compared to otherwise comparable securities. Therefore, a relatively higher Contingent Coupon Rate, which would increase the upside return if the Observation Date Closing Level is greater than or equal to the Coupon Barrier on the quarterly Observation Dates, may indicate an increased risk that the level of the Underlying will decrease substantially, which would result in a significant loss at maturity. In addition, and as described above in "The Securities do not guarantee the payment of regular interest or the return of any principal," in general, the higher potential return on the Securities as compared to the return payable on our ordinary debt securities with a comparable maturity indicates the risk that you may not receive a positive return on the Securities and may lose a significant portion or all of your investment. Further, a relatively lower Downside Threshold may not indicate that the Securities have a greater likelihood of a return of principal at maturity. You should be willing to accept the downside market risk of the Underlying and the potential to lose a significant portion or all of your Principal Amount at maturity.
+
+♦
+The Securities will not be listed on any securities exchange and secondary trading may be limited.
+The Securities will not be listed on any securities exchange. Therefore, there may be little or no secondary market for the Securities and, if it once chooses to make a market, may cease doing so at any time. When it does make a market, it will generally do so for transactions of routine secondary market size at prices based on its estimate of the current value of the Securities, taking into account its bid/offer spread, our credit spreads, market volatility, the notional size of the proposed sale, the cost of unwinding any related hedging positions, the time remaining to maturity and the likelihood that it will be able to resell the Securities. MS & Co. currently intends, but is not obligated, to make a market in the Securities. Even if there is a secondary market, it may not provide enough liquidity to allow you to trade or sell the Securities easily. Because we do not expect that other broker-dealers will participate significantly in the secondary market for the Securities, the price at which you may be able to trade your Securities is likely to depend on the price, if any, at which MS & Co. is willing to transact. If, at any time, MS & Co. were to cease making a market in the Securities, it is likely that there would be no secondary market for the Securities. Accordingly, you should be willing to hold your Securities to maturity.
+
+9
+
+♦
+Investing in the Securities is not equivalent to investing in the Underlying or the stocks composing the Underlying
+. Investing in the Securities is not equivalent to investing in the Underlying or the stocks that constitute the Underlying. Investors in the Securities will not have voting rights or rights to receive dividends or other distributions or any other rights with respect to the stocks that constitute the Underlying. Further, you will not participate in any potential appreciation of the Underlying even though you may be exposed to its full decline at maturity. Additionally, the Underlying is not a “total return” index, which, in addition to reflecting the market prices of the stocks that constitute the Underlying, would also reflect dividends paid on such stocks. The return on the Securities will not include such a total return feature.
+
+♦
+The rate we are willing to pay for securities of this type, maturity and issuance size is likely to be lower than the rate implied by our secondary market credit spreads and advantageous to us. Both the lower rate and the inclusion of costs associated with issuing, selling, structuring and hedging the Securities in the Issue Price reduce the economic terms of the Securities, cause the estimated value of the Securities to be less than the Issue Price and will adversely affect secondary market prices.
+Assuming no change in market conditions or any other relevant factors, the prices, if any, at which dealers, including MS & Co., may be willing to purchase the Securities in secondary market transactions will likely be significantly lower than the Issue Price, because secondary market prices will exclude the issuing, selling, structuring and hedging-related costs that are included in the Issue Price and borne by you and because the secondary market prices will reflect our secondary market credit spreads and the bid-offer spread that any dealer would charge in a secondary market transaction of this type as well as other factors.
+
+The inclusion of the costs of issuing, selling, structuring and hedging the Securities in the Issue Price and the lower rate we are willing to pay as issuer make the economic terms of the Securities less favorable to you than they otherwise would be.
+
+However, because the costs associated with issuing, selling, structuring and hedging the Securities are not fully deducted upon issuance, for a period of up to 6 months following the Settlement Date, to the extent that MS & Co. may buy or sell the Securities in the secondary market, absent changes in market conditions, including those related to the Underlying, and to our secondary market credit spreads, it would do so based on values higher than the estimated value, and we expect that those higher values will also be reflected in your brokerage account statements.
+
+♦
+The estimated value of the Securities is determined by reference to our pricing and valuation models, which may differ from those of other dealers and is not a maximum or minimum secondary market price.
+These pricing and valuation models are proprietary and rely in part on subjective views of certain market inputs and certain assumptions about future events, which may prove to be incorrect. As a result, because there is no market-standard way to value these types of securities, our models may yield a higher estimated value of the Securities than those generated by others, including other dealers in the market, if they attempted to value the Securities. In addition, the estimated value on the Trade Date does not represent a minimum or maximum price at which dealers, including MS & Co., would be willing to purchase your Securities in the secondary market (if any exists) at any time. The value of your Securities at any time after the date of this pricing supplement will vary based on many factors that cannot be predicted with accuracy, including our creditworthiness and changes in market conditions. See also “The market price of the Securities will be influenced by many unpredictable factors” above.
+
+♦
+Adjustments to the Underlying could adversely affect the value of the Securities
+. The Underlying publisher of the Underlying is responsible for calculating and maintaining the Underlying. The Underlying publisher may add, delete or substitute the stocks constituting the Underlying or make other methodological changes required by certain corporate events relating to the stocks constituting the Underlying, such as stock dividends, stock splits, spin-offs, rights offerings and extraordinary dividends, that could change the value of the Underlying. The Underlying publisher may discontinue or suspend calculation or publication of the Underlying at any time. In these circumstances, the Calculation Agent will have the sole discretion to substitute a Successor Underlying that is comparable to the discontinued Underlying, and is permitted to consider indices that are calculated and published by the Calculation Agent or any of its affiliates. Any of these actions could adversely affect the value of the Underlying and, consequently, the value of the Securities.
+
+♦
+Hedging and trading activity by our affiliates could potentially affect the value of the Securities.
+One or more of our affiliates and/or third-party dealers expect to carry out hedging activities related to the Securities (and to other instruments linked to the Underlying), including trading in the stocks that constitute the Underlying as well as in other instruments related to the Underlying. As a result, these entities may be unwinding or adjusting hedge positions during the term of the Securities, and the hedging strategy may involve greater and more frequent dynamic adjustments to the hedge as the Final Observation Date approaches. Some of our subsidiaries also trade the stocks that constitute the Underlying and other financial instruments related to the Underlying on a regular basis as part of their general broker-dealer and other businesses. Any of these hedging or trading activities on or prior to the Strike Date could potentially increase the Initial Level, and, as a result, the Coupon Barrier and Downside Threshold, which is the level at or above which the Underlying must close on each Observation Date in order for you to earn a Contingent Coupon, or, if the Securities are not called prior to maturity, in order for you to avoid being exposed to the negative performance of the Underlying at maturity. Additionally, such hedging or trading activities during the term of the Securities could potentially affect the level of the Underlying on the Observation Dates, and, accordingly, whether the Contingent Coupon is payable or whether the Securities are automatically called prior to maturity, and, if the Securities are not called prior to maturity, the payout to you at maturity, if any.
+
+♦
+The Calculation Agent, which is our affiliate, will make determinations with respect to the Securities.
+As Calculation Agent, MS & Co. will determine the Initial Level, the Coupon Barrier, the Downside Threshold, the Final Level, whether the
+
+10
+
+Securities will be called following any Observation Date, whether a Contingent Coupon is payable with respect to each Observation Date, whether a market disruption event has occurred and the payment that you will receive upon a call, on each Coupon Payment Date, if any, and at maturity, if any. Moreover, certain determinations made by MS & Co., in its capacity as Calculation Agent, may require it to exercise discretion and make subjective judgments, such as with respect to the occurrence or nonoccurrence of market disruption events. These potentially subjective determinations may affect the payout to you upon a call, on each Coupon Payment Date, if any, or at maturity, if any. For further information regarding these types of determinations, see “Description of Auto-Callable Securities—Postponement of Determination Dates,” “—Discontinuance of Any Underlying Index; Alteration of Method of Calculation” and “—Calculation Agent and Calculations” in the accompanying product supplement. In addition, MS & Co. has determined the estimated value of the Securities on the Trade Date.
+
+♦
+Potentially inconsistent research, opinions or recommendations by Morgan Stanley, MSFL, UBS or our or their respective affiliates.
+Morgan Stanley, MSFL, UBS and our or their respective affiliates may publish research from time to time on financial markets and other matters that may influence the value of the Securities, or express opinions or provide recommendations that are inconsistent with purchasing or holding the Securities. Any research, opinions or recommendations expressed by Morgan Stanley, MSFL, UBS or our or their respective affiliates may not be consistent with each other and may be modified from time to time without notice. Investors should make their own independent investigation of the merits of investing in the Securities and the Underlying to which the Securities are linked.
+
+♦
+The U.S. federal income tax consequences of an investment in the securities offered by this pricing supplement are uncertain.
+There is no direct legal authority regarding the proper U.S. federal income tax treatment of the securities, and significant aspects of the tax treatment of the securities are uncertain. Moreover, non-U.S. investors should note that persons having withholding responsibility in respect of the securities are, absent an exception, expected to withhold on any coupon paid to a non-U.S. investor, generally at a rate of 30%. We will not pay any additional amounts in respect of such withholding. You should review carefully the section entitled “United States Federal Income Tax Considerations” herein, in combination with the section entitled “United States Federal Taxation” in the accompanying tax supplement, and consult your tax adviser regarding the U.S. federal income tax consequences of an investment in the securities.
+
+11
+
+| Hypothetical Payments on the Securities at Maturity |
+| --- |
+
+The examples below illustrate the payment upon a call, on the Coupon Payment Dates and at maturity for a $10 Security on a hypothetical offering of the Securities, with the following assumptions (the actual Initial Underlying Value, Coupon Barrier and Downside Threshold were determined on the Strike Date and are specified on the cover hereof; amounts may have been rounded for ease of reference):
+
+♦
+Principal Amount: $10.00
+
+♦
+Term: Approximately 3 years
+
+♦
+Hypothetical Initial Level: 6,000
+
+♦
+Contingent Coupon Rate: 8.55% per annum
+
+♦
+Contingent Coupon: $0.21375 per quarter
+
+♦
+Observation Dates: Quarterly, callable after approximately six months
+
+♦
+Hypothetical Coupon Barrier and Downside Threshold: 4,500, which is 75% of the hypothetical Initial Level
+
+Example 1 — Securities are Called on the Second Observation Date
+
+| Date | Closing Level | Payment (per Security) |
+| --- | --- | --- |
+| First Observation Date | 5,500 (at or above Coupon Barrier) | $0.21375 (Contingent Coupon — Not Called) |
+| Second Observation Date | 7,000 (at or above Initial Level) | $10.21375 (Settlement Amount) |
+| | Total Payment: | $10.4275 (4.275% return) |
+
+The Underlying closes above the Coupon Barrier on the first Observation Date, and therefore a Contingent Coupon is paid on the related Coupon Payment Date. Because the Underlying closes above the Initial Price on the second Observation Date (which is six months after the Trade Date and is the first Observation Date on which the Securities are callable), MSFL calls the Securities on such Observation Date. On the call settlement date, MSFL will pay you a total of $10.21375 per Security, reflecting your principal amount plus the Contingent Coupon with respect to the relevant Observation Date. When added to the Contingent Coupon Payment of $0.21375 received in respect of the prior Observation Date, MSFL will have paid you a total of $10.4275 per Security for a 4.275% total return on the Securities over a 6-month term. No further amount will be owed to you under the Securities, and you will not participate in any appreciation of the Underlying.
+
+Example 2 — Securities are Called on the Fourth Observation Date
+
+| Date | Closing Level | Payment (per Security) |
+| --- | --- | --- |
+| First Observation Date | 4,750 (at or above Coupon Barrier) | $0.21375 (Contingent Coupon — Not Called) |
+| Second Observation Date | 5,150 (at or above Coupon Barrier; below Initial Level) | $0.21375 (Contingent Coupon — Not Called) |
+| Third Observation Date | 5,500 (at or above Coupon Barrier; below Initial Level) | $0.21375 (Contingent Coupon — Not Called) |
+| Fourth Observation Date | 6,500 (at or above Initial Level) | $10.21375 (Settlement Amount) |
+| | Total Payment: | $10.855 (8.55% return) |
+
+Since the Securities are called on the fourth Observation Date (which is approximately one year after the Trade Date), MSFL will pay you on the call settlement date a total of $10.21375 per Security, reflecting your principal amount plus the Contingent Coupon. When added to the total Contingent Coupon payments of $0.64125 received in respect of prior Observation Dates, MSFL will have paid you a total of $10.855 per Security for an 8.55% total return on the Securities over a 1-year term. No further amount will be owed to you under the Securities, and you will not participate in any appreciation of the Underlying.
+
+Example 3 — Securities are NOT Called and the Final Level of the Underlying is at or above the Downside Threshold
+
+| Date | Closing Level | Payment (per Security) |
+| --- | --- | --- |
+| First Observation Date | 4,600 (at or above Coupon Barrier) | $0.21375 (Contingent Coupon — Not Called) |
+| Second Observation Date | 4,200 (below Coupon Barrier and Initial Level) | $0.00 (Not Called) |
+| Third to Eleventh Observation Dates | Various (all below Coupon Barrier and Initial Level) | $0.00 (Not Called) |
+| Final Observation Date | 5,000 (at or above Downside Threshold and Coupon Barrier; below Initial Level) | $10.21375 (Payment at Maturity) |
+| | Total Payment: | $10.4275 (4.275% return) |
+
+Since the Securities are not called and the Final Level is greater than or equal to the Downside Threshold, at maturity, MSFL will pay you a total of $10.21375 per Security, reflecting your principal amount plus the Contingent Coupon. When added to the Contingent Coupon payment of $0.21375 received in respect of prior Observation Dates, MSFL will have paid you a total of $10.4275 per Security for a 4.275% total return on the Securities over the 3-year term. You will not participate in any appreciation of the Underlying.
+
+Example 4 — Securities are NOT Called and the Final Level of the Underlying is below the Downside Threshold
+
+| Date | Closing Level | Payment (per Security) |
+| --- | --- | --- |
+| First Observation Date | 5,650 (at or above Coupon Barrier; below Initial Level) | $0.21375 (Contingent Coupon — Not Called) |
+| Second Observation Date | 5,500 (at or above Coupon Barrier; below Initial Level) | $0.21375 (Contingent Coupon — Not Called) |
+| Third to Eleventh Observation Dates | Various (all below Coupon Barrier; below Initial Level) | $0.00 (Not Called) |
+| Final Observation Date | 1,800 (below Downside Threshold and Coupon Barrier; below Initial Level) | $10 + [$10 × Underlying Return] = $10 + [$10 × -70%] = $3.00 (Payment at Maturity) |
+| | Total Payment: | $3.4275 (-65.725% return) |
+
+12
+
+Since the Securities are not called and the Final Level of the Underlying is below the Downside Threshold, at maturity MSFL will pay you $3.00 per Security. When added to the total Contingent Coupon payments of $0.4275 received in respect of prior Observation Dates, MSFL will have paid you $3.4275 per Security over the 3-year term, for a loss on the Securities of 65.725%.
+
+The Securities differ from ordinary debt securities in that, among other features, MSFL is not necessarily obligated to repay the full amount of your initial investment. If the Securities are not called on any Observation Date, you may lose a significant portion or all of your initial investment. Specifically, if the Securities are not called and the Final Level is less than the Downside Threshold, you will lose 1% (or a fraction thereof) of your principal amount for each 1% (or a fraction thereof) that the Underlying Return is less than zero. Any payment on the Securities, including any payment upon an automatic call, any Contingent Coupon or the Payment at Maturity, is dependent on our ability to satisfy our obligations when they come due. If we are unable to meet our obligations, you may not receive any amounts due to you under the Securities.
+
+13
+
+| United States Federal Income Tax Considerations |
+| --- |
+
+You should review carefully the section in the accompanying tax supplement entitled “United States Federal Taxation.” The following discussion, when read in combination with that section, constitutes the full opinion of our counsel, Davis Polk & Wardwell LLP, regarding the material U.S. federal income tax consequences of owning and disposing of the securities offered by this pricing supplement.
+
+Generally, this discussion assumes that you purchased a security for cash in the original issuance at the stated issue price and does not address other circumstances specific to you, including consequences that may arise due to any other investments relating to an underlier. Moreover, as discussed in the section entitled “United States Federal Taxation” in the accompanying tax supplement, we have not attempted to ascertain whether any issuer of any underlier to which the securities relate is a U.S. real property holding corporation or a passive foreign investment company. You should consult your tax adviser regarding these issues, including the effect any circumstances specific to you may have on the U.S. federal income tax consequences of your ownership of a security.
+
+In the opinion of our counsel, which is based on current market conditions, it is reasonable to treat the securities for U.S. federal income tax purposes as prepaid financial contracts with associated coupons, and any coupons as ordinary income, as described in the section entitled “United States Federal Taxation—Tax Consequences to U.S. Holders—Program Securities Treated as Prepaid Financial Contracts with Associated Coupons” in the accompanying tax supplement. There is uncertainty regarding this treatment, and the Internal Revenue Service (the “IRS”) or a court might not agree with it. A different tax treatment could be adverse to you.
+
+We do not plan to request a ruling from the IRS regarding the treatment of the securities. An alternative characterization of the securities could materially and adversely affect the tax consequences of ownership and disposition of the securities, including the timing and character of income recognized. In particular, due to the terms of the securities and current market conditions, there is a risk that the securities could be characterized as debt instruments for U.S. federal income tax purposes, in which case the timing and character of income recognized in respect of the securities could be different from those described herein and possibly adverse to certain investors. In addition, the U.S. Treasury Department and the IRS have requested comments on various issues regarding the U.S. federal income tax treatment of “prepaid forward contracts” and similar financial instruments and have indicated that such transactions may be the subject of future regulations or other guidance. Furthermore, members of Congress have proposed legislative changes to the tax treatment of derivative contracts. Any legislation, Treasury regulations or other guidance promulgated after consideration of these issues could materially and adversely affect the tax consequences of an investment in the securities, possibly with retroactive effect.
+
+Non-U.S. Holders.
+If you are a Non-U.S. Holder (as defined in the accompanying tax supplement), please also read the section entitled “United States Federal Taxation—Tax Consequences to Non-U.S. Holders—Program Securities Not Treated as Debt Instruments” in the accompanying tax supplement.
+
+The U.S. federal income tax treatment of the coupons is unclear. To the extent that we have withholding responsibility in respect of the securities, we would expect generally to treat the coupons paid to Non-U.S. Holders as subject to U.S. withholding tax. Moreover, you should expect that, if the applicable withholding agent determines that withholding tax should apply, it will be at a rate of 30% (or lower treaty rate). In order to claim an exemption from, or a reduction in, the 30% withholding under an applicable treaty, you may need to comply with certification requirements to establish that you are not a U.S. person and are eligible for such an exemption or reduction under an applicable tax treaty. You should consult your tax adviser regarding the tax treatment of the coupons.
+
+As discussed under “United States Federal Taxation—Tax Consequences to Non-U.S. Holders—Dividend Equivalents under Section 871(m) of the Code” in the accompanying tax supplement, Section 871(m) of the Internal Revenue Code and Treasury regulations promulgated thereunder (“Section 871(m)”) generally impose a 30% withholding tax on dividend equivalents paid or deemed paid to Non-U.S. Holders with respect to certain financial instruments linked to U.S. equities or indices that include U.S. equities. The Treasury regulations, as modified by an IRS notice, exempt financial instruments issued prior to January 1, 2027 that do not have a “delta” of one. Based on certain representations made by us, our counsel is of the opinion that Section 871(m) should not apply to the securities with regard to Non-U.S. Holders. Our determination is not binding on the IRS, and the IRS may disagree with this determination.
+
+We will not be required to pay any additional amounts with respect to U.S. federal withholding taxes.
+
+You should consult your tax adviser regarding the U.S. federal income tax consequences of an investment in the securities, including possible alternative treatments, as well as tax consequences arising under the laws of any state, local or non-U.S. taxing jurisdiction.
+
+14
+
+| The S&P 500 ® Index |
+| --- |
+
+The S&P 500
+®
+Index, which is calculated, maintained and published by S&P Dow Jones Indices LLC (“S&P”), consists of stocks of 500 component companies selected to provide a performance benchmark for the U.S. equity markets. The calculation of the S&P 500
+®
+Index is based on the relative value of the float adjusted aggregate market capitalization of the 500 component companies as of a particular time as compared to the aggregate average market capitalization of 500 similar companies during the base period of the years 1941 through 1943. For additional information about the S&P 500
+®
+Index, see the information set forth under “S&P 500
+®
+Index” in the accompanying index supplement.
+
+“Standard & Poor’s
+®
+,” “S&P
+®
+,” “S&P 500
+®
+,” “Standard & Poor’s 500” and “500” are trademarks of Standard and Poor’s Financial Services LLC. For more information, see “S&P 500
+®
+Index” in the accompanying index supplement.
+
+| Historical Information |
+| --- |
+
+The following table sets forth the published high and low closing levels, as well as the end-of-quarter closing levels, of the S&P 500
+®
+Index for each quarter in the period from January 1, 2021 through August 17, 2026. The closing level of the S&P 500
+®
+Index on August 17, 2026 was
+7,745.06
+. We obtained the information in the table below from Bloomberg Financial Markets, without independent verification. The historical closing levels of the S&P 500
+®
+Index should not be taken as an indication of future performance, and no assurance can be given as to the closing level of the S&P 500
+®
+Index on any Observation Date, including the Final Observation Date.
+
+| Quarter Begin | Quarter End | Quarterly High | Quarterly Low | Quarterly Close |
+| --- | --- | --- | --- | --- |
+| 1/1/2021 | 3/31/2021 | 3,974.54 | 3,700.65 | 3,972.89 |
+| 4/1/2021 | 6/30/2021 | 4,297.50 | 4,019.87 | 4,297.50 |
+| 7/1/2021 | 9/30/2021 | 4,536.95 | 4,258.49 | 4,307.54 |
+| 10/1/2021 | 12/31/2021 | 4,793.06 | 4,300.46 | 4,766.18 |
+| 1/1/2022 | 3/31/2022 | 4,796.56 | 4,170.70 | 4,530.41 |
+| 4/1/2022 | 6/30/2022 | 4,582.64 | 3,666.77 | 3,785.38 |
+| 7/1/2022 | 9/30/2022 | 4,305.20 | 3,585.62 | 3,585.62 |
+| 10/1/2022 | 12/31/2022 | 4,080.11 | 3,577.03 | 3,839.50 |
+| 1/1/2023 | 3/31/2023 | 4,179.76 | 3,808.10 | 4,109.31 |
+| 4/1/2023 | 6/30/2023 | 4,450.38 | 4,055.99 | 4,450.38 |
+| 7/1/2023 | 9/30/2023 | 4,588.96 | 4,273.53 | 4,288.05 |
+| 10/1/2023 | 12/31/2023 | 4,783.35 | 4,117.37 | 4,769.83 |
+| 1/1/2024 | 3/31/2024 | 5,254.35 | 4,688.68 | 5,254.35 |
+| 4/1/2024 | 6/30/2024 | 5,487.03 | 4,967.23 | 5,460.48 |
+| 7/1/2024 | 9/30/2024 | 5,762.48 | 5,186.33 | 5,762.48 |
+| 10/1/2024 | 12/31/2024 | 6,090.27 | 5,695.94 | 5,881.63 |
+| 1/1/2025 | 3/31/2025 | 6,144.15 | 5,521.52 | 5,611.85 |
+| 4/1/2025 | 6/30/2025 | 6,204.95 | 4,982.77 | 6,204.95 |
+| 7/1/2025 | 9/30/2025 | 6,693.75 | 6,198.01 | 6,688.46 |
+| 10/1/2025 | 12/31/2025 | 6,932.05 | 6,538.76 | 6,845.50 |
+| 1/1/2026 | 3/31/2026 | 6,978.60 | 6,343.72 | 6,528.52 |
+| 4/1/2026 | 6/30/2026 | 7,609.78 | 6,575.32 | 7,499.36 |
+| 7/1/2026 | 8/17/2026* | 7,798.99 | 7,316.15 | 7,745.06 |
+
+*
+
+Available information for the indicated period includes data for less than the entire calendar quarter, and accordingly, the “Quarterly High,” “Quarterly Low” and “Quarterly Close” data indicated are for this shortened period.
+
+15
+
+The graph below illustrates the performance of the S&P 500
+®
+Index from January 1, 2008 through August 17, 2026, based on information from Bloomberg.
+Past performance of the S&P 500
+®
+Index is not indicative of the future performance of the S&P 500
+®
+Index.
+
+* The dashed line indicates the Coupon Barrier and Downside Threshold of 5,839.32, which is 75% of the Initial Level.
+
+Past performance is not indicative of future results.
+
+16
+
+| Additional Terms of the Securities |
+| --- |
+
+If the terms described herein are inconsistent with those described in the accompanying product supplement, index supplement, tax supplement or prospectus, the terms described herein shall control.
+
+The accompanying product supplement refers to the Principal Amount as the “Stated Principal Amount,” the Initial Level as the “Initial Index Value,” the Trade Date as the “Pricing Date,” the Observation Dates as the “Determination Dates,” the Final Observation Date as the “Final Determination Date,” the Coupon Barrier/Downside Threshold” as the “Downside Threshold Level” and the day on which any automatic call occurs as the “Early Redemption Date.”
+
+Index Publisher
+
+S&P
+®
+Dow Jones Indices LLC or any successor thereto.
+
+Day-Count Convention
+
+Interest will be computed on the basis of a 360-day year of twelve 30-day months.
+
+Issuer Notice to Registered Security Holders, the Trustee and the Depositary
+
+In the event that the Maturity Date of the Securities is postponed due to a postponement of the Final Observation Date, the Issuer shall give notice of such postponement and, once it has been determined, of the date to which the Maturity Date has been rescheduled (i) to each registered holder of the Securities by mailing notice of such postponement by first class mail, postage prepaid, to such registered holder’s last address as it shall appear upon the registry books, (ii) to the Trustee by facsimile confirmed by mailing such notice to the Trustee by first class mail, postage prepaid, at its New York office and (iii) to The Depository Trust Company (the “Depositary”) by telephone or facsimile confirmed by mailing such notice to the Depositary by first class mail, postage prepaid. Any notice that is mailed to a registered holder of the Securities in the manner herein provided shall be conclusively presumed to have been duly given to such registered holder, whether or not such registered holder receives the notice. The Issuer shall give such notice as promptly as possible, and in no case later than (i) with respect to notice of postponement of the Maturity Date, the Business Day immediately preceding the scheduled Maturity Date and (ii) with respect to notice of the date to which the Maturity Date has been rescheduled, the Business Day immediately following the Final Observation Date as postponed.
+
+In the event that the Securities are subject to Automatic Call, the Issuer shall, (i) on the Business Day following the applicable Observation Date, give notice of the Automatic Call and the applicable automatic call payment, including specifying the payment date of the applicable amount due upon the Automatic Call, (x) to each registered holder of the Securities by mailing notice of such Automatic Call by first class mail, postage prepaid, to such registered holder’s last address as it shall appear upon the registry books, (y) to the Trustee by facsimile confirmed by mailing such notice to the Trustee by first class mail, postage prepaid, at its New York office and (z) to the Depositary by telephone or facsimile confirmed by mailing such notice to the Depositary by first class mail, postage prepaid and (ii) on or prior to the Automatic Call Date, deliver the aggregate cash amount due with respect to the Securities to the Trustee for delivery to the Depositary, as holder of the securities. Any notice that is mailed to a registered holder of the Securities in the manner herein provided shall be conclusively presumed to have been duly given to such registered holder, whether or not such registered holder receives the notice. This notice shall be given by the Issuer or, at the Issuer’s request, by the Trustee in the name and at the expense of the Issuer, with any such request to be accompanied by a copy of the notice to be given.
+
+The Issuer shall, or shall cause the Calculation Agent to, (i) provide written notice to the Trustee, on which notice the Trustee may conclusively rely, and to the Depositary of the amount of cash to be delivered as Contingent Coupon, if any, with respect to the Securities on or prior to 10:30 a.m. (New York City time) on the Business Day preceding each Coupon Payment Date, and (ii) deliver the aggregate cash amount due, if any, with respect to the Contingent Coupon to the Trustee for delivery to the Depositary, as holder of the Securities, on or prior to the applicable Coupon Payment Date.
+
+The Issuer shall, or shall cause the Calculation Agent to, (i) provide written notice to the Trustee and to the Depositary of the amount of cash, if any, to be delivered with respect to the Securities, on or prior to 10:30 a.m. (New York City time) on the Business Day preceding the Maturity Date, and (ii) deliver the aggregate cash amount due with respect to the Securities, if any, to the Trustee for delivery to the Depositary, as holder of the Securities, on or prior to the Maturity Date.
+
+17
+
+| Additional Information About the Securities |
+| --- |
+
+Use of Proceeds and Hedging
+
+The proceeds from the sale of the Securities will be used by us for general corporate purposes. We will receive, in aggregate, $10 per Security issued. The costs of the Securities borne by you and described on page 2 above comprise the cost of issuing, structuring and hedging the Securities. See also “Use of Proceeds” in the accompanying prospectus.
+
+On or prior to the Strike Date, we will hedge our anticipated exposure in connection with the Securities, by entering into hedging transactions with our affiliates and/or third-party dealers. We expect our hedging counterparties to take positions in the constituent stocks of the Underlying, in futures or options contracts on the Underlying or the constituent stocks of the Underlying, as well as in other instruments related to the Underlying that they may wish to use in connection with such hedging. Any of these hedging or trading activities on or prior to the Strike Date could potentially increase the Initial Level, and, as a result, the Coupon Barrier and Downside Threshold of the Underlying, which is the level at or above which such Underlying must close on each Observation Date in order for you to earn a Contingent Coupon, or, if the Securities are not called prior to maturity, is the level at or above which the Underlying must close on the Final Observation Date so that you do not suffer a significant loss on your initial investment in the Securities. In addition, through our affiliates, we are likely to modify our hedge position throughout the term of the Securities, including on the Final Observation Date, by purchasing and selling the stocks constituting the Underlying, futures or options contracts on the Underlying or the component stocks listed on major securities markets or positions in any other available securities or instruments that we may wish to use in connection with such hedging activities, including by purchasing or selling any such securities or instruments on the Final Observation Date. As a result, these entities may be unwinding or adjusting hedge positions during the term of the Securities, and the hedging strategy may involve greater and more frequent dynamic adjustments to the hedge as the Final Observation Date approaches. We cannot give any assurance that our hedging activities will not affect the value of the Underlying on the Observation Dates, and, therefore, adversely affect the value of the Securities, whether the Contingent Coupon is payable or whether the Securities are called prior to maturity and, if not, the payment you will receive at maturity, if any.

@@ -1,0 +1,944 @@
+{
+  "ranking": [
+    {
+      "field": "coupon.rate_per_period_pct",
+      "description": "per-annum rate used as per-period",
+      "median_abs": 364.2015432872903,
+      "mean_abs": 364.9689784403062,
+      "max_abs": 593.8719559093604,
+      "n": 50
+    },
+    {
+      "field": "coupon.barrier_pct",
+      "description": "+5 percentage points",
+      "median_abs": 10.20678950367892,
+      "mean_abs": 10.449395606951699,
+      "max_abs": 26.721687460314342,
+      "n": 50
+    },
+    {
+      "field": "autocall.levels_pct",
+      "description": "+5 percentage points",
+      "median_abs": 9.603785909323165,
+      "mean_abs": 9.622889368357248,
+      "max_abs": 24.989905719755143,
+      "n": 50
+    },
+    {
+      "field": "knock_in.monitoring",
+      "description": "European <-> observation-date monitoring",
+      "median_abs": 9.29114981231038,
+      "mean_abs": 8.731688719128927,
+      "max_abs": 18.31110022667508,
+      "n": 50
+    },
+    {
+      "field": "knock_in.barrier_pct",
+      "description": "-5 percentage points",
+      "median_abs": 7.232003372235283,
+      "mean_abs": 7.306058806403614,
+      "max_abs": 16.25858938382703,
+      "n": 50
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "description": "one period too early",
+      "median_abs": 6.071047384640565,
+      "mean_abs": 6.11431114695741,
+      "max_abs": 13.358702506285454,
+      "n": 42
+    },
+    {
+      "field": "coupon.memory",
+      "description": "flipped",
+      "median_abs": 5.526019931446967,
+      "mean_abs": 9.897800001375067,
+      "max_abs": 50.57435103713408,
+      "n": 50
+    },
+    {
+      "field": "underlyings.initial_level",
+      "description": "+1%",
+      "median_abs": 1.480224314308657,
+      "mean_abs": 1.8146241932212275,
+      "max_abs": 5.805122245292409,
+      "n": 50
+    },
+    {
+      "field": "observation_dates",
+      "description": "final observation dropped",
+      "median_abs": 0.46778460674124744,
+      "mean_abs": 0.6605155373349589,
+      "max_abs": 3.0979826562172548,
+      "n": 50
+    }
+  ],
+  "per_filing": [
+    {
+      "accession": "0000950103-26-008658",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -2.7415004394390508,
+        "knock_in.barrier_pct": 5.863781476506347,
+        "coupon.rate_per_period_pct": 97.40280501917277,
+        "coupon.memory": 0.49492946727968956,
+        "autocall.levels_pct": 10.889842068688267,
+        "underlyings.initial_level": 0.7330797741024071,
+        "observation_dates": -0.6442439225090766,
+        "knock_in.monitoring": -2.3316103597719575
+      },
+      "ref_price": 1039.9443921705163
+    },
+    {
+      "accession": "0000950103-26-008712",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -12.446905180873046,
+        "knock_in.barrier_pct": 9.626336054629746,
+        "coupon.rate_per_period_pct": 425.520984339272,
+        "coupon.memory": 6.7856534034594915,
+        "autocall.first_observation_index": -10.537762128973327,
+        "autocall.levels_pct": 15.945448016137561,
+        "underlyings.initial_level": 0.014138685485477254,
+        "observation_dates": 1.2161653829086845,
+        "knock_in.monitoring": -8.3571220109352
+      },
+      "ref_price": 1053.3278426799945
+    },
+    {
+      "accession": "0000950103-26-008849",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -3.298795300888969,
+        "knock_in.barrier_pct": 1.177380193710178,
+        "coupon.rate_per_period_pct": 296.1290128087446,
+        "coupon.memory": 0.7985043409532864,
+        "autocall.first_observation_index": -9.579950403926887,
+        "autocall.levels_pct": 15.292244489266977,
+        "underlyings.initial_level": 2.4680331594383915,
+        "observation_dates": -0.959422292009549,
+        "knock_in.monitoring": -0.6212105467081983
+      },
+      "ref_price": 1046.4197222466337
+    },
+    {
+      "accession": "0000950103-26-008922",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -8.38487430328587,
+        "knock_in.barrier_pct": 7.1731737330233045,
+        "coupon.rate_per_period_pct": 375.7834136761055,
+        "coupon.memory": 5.191372282202565,
+        "autocall.first_observation_index": -10.50358641749881,
+        "autocall.levels_pct": 14.548329416908928,
+        "underlyings.initial_level": -0.06544643718984844,
+        "observation_dates": -0.38064569081507216,
+        "knock_in.monitoring": -9.311100628772238
+      },
+      "ref_price": 1041.0218091029926
+    },
+    {
+      "accession": "0000950103-26-009445",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -4.232536500351102,
+        "knock_in.barrier_pct": 7.6104783331527415,
+        "coupon.rate_per_period_pct": 196.3455773035173,
+        "coupon.memory": -1.1889649497932169,
+        "autocall.levels_pct": 9.459399365881154,
+        "underlyings.initial_level": -0.7156372752914422,
+        "observation_dates": -0.4796765940811838,
+        "knock_in.monitoring": -3.3112570160078576
+      },
+      "ref_price": 1024.3172713112767
+    },
+    {
+      "accession": "0000950103-26-010235",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -5.330572579643558,
+        "knock_in.barrier_pct": 6.1336687456412164,
+        "coupon.rate_per_period_pct": 413.22522338833153,
+        "coupon.memory": -2.8916846314581335,
+        "autocall.first_observation_index": -1.2331209011074407,
+        "autocall.levels_pct": 2.77892559348561,
+        "underlyings.initial_level": -2.9229443328931666,
+        "observation_dates": -0.11835676378791504,
+        "knock_in.monitoring": -3.352644122712718
+      },
+      "ref_price": 1000.8206691724082
+    },
+    {
+      "accession": "0000950103-26-010350",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -1.8666212092055048,
+        "knock_in.barrier_pct": 4.057060787093178,
+        "coupon.rate_per_period_pct": 138.52957253308205,
+        "coupon.memory": -0.21029767629556773,
+        "autocall.levels_pct": 8.378789356225752,
+        "underlyings.initial_level": 0.3215688088666866,
+        "observation_dates": -0.6948862235802835,
+        "knock_in.monitoring": -1.1103785306900136
+      },
+      "ref_price": 1016.2192725752548
+    },
+    {
+      "accession": "0000950103-26-010910",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -17.769309893761374,
+        "knock_in.barrier_pct": 5.863605311415768,
+        "coupon.rate_per_period_pct": 506.5729894008771,
+        "coupon.memory": 19.16838625536252,
+        "autocall.first_observation_index": -11.835585709003453,
+        "autocall.levels_pct": 16.153104330622682,
+        "underlyings.initial_level": -0.8470651391273805,
+        "observation_dates": -0.4249281608451838,
+        "knock_in.monitoring": -9.900632389345674
+      },
+      "ref_price": 1049.2368835920659
+    },
+    {
+      "accession": "0000950103-26-011340",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -17.454388078524744,
+        "knock_in.barrier_pct": 7.841749593652139,
+        "coupon.rate_per_period_pct": 493.9195362332198,
+        "coupon.memory": 15.677684338783365,
+        "autocall.first_observation_index": -7.253989714741692,
+        "autocall.levels_pct": 13.862275768745803,
+        "underlyings.initial_level": -1.609675244510754,
+        "observation_dates": 0.055999465180093466,
+        "knock_in.monitoring": -12.205502835768812
+      },
+      "ref_price": 1030.6863276625613
+    },
+    {
+      "accession": "0000950103-26-011404",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -26.721687460314342,
+        "knock_in.barrier_pct": 2.951864142935733,
+        "coupon.rate_per_period_pct": 520.0371061399306,
+        "coupon.memory": 50.57435103713408,
+        "autocall.first_observation_index": -0.8605713686110903,
+        "autocall.levels_pct": -1.974975042443475,
+        "underlyings.initial_level": -5.608975294309175,
+        "observation_dates": 0.19112266468812322,
+        "knock_in.monitoring": -4.34573805134346
+      },
+      "ref_price": 967.7452721754684
+    },
+    {
+      "accession": "0000950103-26-012159",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -11.796816401935303,
+        "knock_in.barrier_pct": 6.982821648245817,
+        "coupon.rate_per_period_pct": 361.06317131685637,
+        "coupon.memory": 8.345323215087546,
+        "autocall.first_observation_index": -8.73959742372881,
+        "autocall.levels_pct": 11.932369803451138,
+        "underlyings.initial_level": -1.3260411744468001,
+        "observation_dates": -0.07195907160507886,
+        "knock_in.monitoring": -8.750511749657448
+      },
+      "ref_price": 1028.796354737326
+    },
+    {
+      "accession": "0000950103-26-012695",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -18.71382466023067,
+        "knock_in.barrier_pct": 9.765163131435315,
+        "coupon.rate_per_period_pct": 431.79735564256714,
+        "coupon.memory": 27.708055320762355,
+        "autocall.first_observation_index": 3.2581241035042012,
+        "autocall.levels_pct": -1.5759153172398328,
+        "underlyings.initial_level": -5.121374711343947,
+        "observation_dates": 2.6039653960913256,
+        "knock_in.monitoring": -17.651134463613403
+      },
+      "ref_price": 946.1186231637206
+    },
+    {
+      "accession": "0000950103-26-012866",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -9.949848604789281,
+        "knock_in.barrier_pct": 10.945913385009817,
+        "coupon.rate_per_period_pct": 335.7756198904244,
+        "coupon.memory": 5.307466345985631,
+        "autocall.levels_pct": 11.823364800542777,
+        "underlyings.initial_level": -1.4983886225734295,
+        "observation_dates": 1.1454316914094989,
+        "knock_in.monitoring": -11.762691724894466
+      },
+      "ref_price": 1010.9534744226955
+    },
+    {
+      "accession": "0000950103-26-013968",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -15.301666122408506,
+        "knock_in.barrier_pct": 8.129889869922295,
+        "coupon.rate_per_period_pct": 393.5070963015195,
+        "coupon.memory": 23.61338602308024,
+        "autocall.first_observation_index": 4.310268972450785,
+        "autocall.levels_pct": -4.6445045549994575,
+        "underlyings.initial_level": -5.197686770074711,
+        "observation_dates": 2.140852493451689,
+        "knock_in.monitoring": -15.812132412751566
+      },
+      "ref_price": 942.0427353348038
+    },
+    {
+      "accession": "0000950103-26-014050",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -1.5722228605966393,
+        "knock_in.barrier_pct": 4.276670017936112,
+        "coupon.rate_per_period_pct": 324.84935940749347,
+        "coupon.memory": 0.3525962253952457,
+        "autocall.first_observation_index": -3.5894683107721903,
+        "autocall.levels_pct": 3.4381992299229296,
+        "underlyings.initial_level": -0.20063488839468846,
+        "observation_dates": 0.5264476070096862,
+        "knock_in.monitoring": -2.880714049681842
+      },
+      "ref_price": 1026.673104108795
+    },
+    {
+      "accession": "0001140361-26-025408",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -6.833826930514078,
+        "knock_in.barrier_pct": 7.47289635900961,
+        "coupon.rate_per_period_pct": 354.2363273718547,
+        "coupon.memory": 3.105547062067899,
+        "autocall.first_observation_index": -8.517214362422237,
+        "autocall.levels_pct": 14.314477356270345,
+        "underlyings.initial_level": 0.19182582285338867,
+        "observation_dates": -0.3012772881136243,
+        "knock_in.monitoring": -8.108834592971107
+      },
+      "ref_price": 1038.8582526588132
+    },
+    {
+      "accession": "0001140361-26-025918",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -5.6835170644670825,
+        "knock_in.barrier_pct": 7.794842278180454,
+        "coupon.rate_per_period_pct": 285.25248463178093,
+        "coupon.memory": 2.866430912549049,
+        "autocall.levels_pct": 12.026696152552063,
+        "underlyings.initial_level": -0.021218307613139586,
+        "observation_dates": 0.3368546370168133,
+        "knock_in.monitoring": -9.080302780214879
+      },
+      "ref_price": 1019.3657489964452
+    },
+    {
+      "accession": "0001140361-26-026071",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -26.063270086264083,
+        "knock_in.barrier_pct": 2.968550429845095,
+        "coupon.rate_per_period_pct": 505.99317557519805,
+        "coupon.memory": 49.82464462146163,
+        "autocall.first_observation_index": -0.4243030854619292,
+        "autocall.levels_pct": -2.626547728459059,
+        "underlyings.initial_level": -5.805122245292409,
+        "observation_dates": 0.21987443689977226,
+        "knock_in.monitoring": -4.419810938194587
+      },
+      "ref_price": 963.9155541750064
+    },
+    {
+      "accession": "0001140361-26-026685",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -20.76084300253501,
+        "knock_in.barrier_pct": 8.134930576306033,
+        "coupon.rate_per_period_pct": 593.8719559093604,
+        "coupon.memory": 17.80596018918527,
+        "autocall.first_observation_index": -13.197468857886633,
+        "autocall.levels_pct": 24.989905719755143,
+        "underlyings.initial_level": 0.05604106217424487,
+        "observation_dates": -0.31775691579537124,
+        "knock_in.monitoring": -12.306028262654308
+      },
+      "ref_price": 1068.1488643044324
+    },
+    {
+      "accession": "0001140361-26-028280",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -3.4542076779325726,
+        "knock_in.barrier_pct": 6.525664208297712,
+        "coupon.rate_per_period_pct": 316.7834240787772,
+        "coupon.memory": 0.9099982472596366,
+        "autocall.first_observation_index": -10.442860592989518,
+        "autocall.levels_pct": 12.700865395160235,
+        "underlyings.initial_level": 0.7912922702525975,
+        "observation_dates": -0.5906055760872277,
+        "knock_in.monitoring": -4.37443733186592
+      },
+      "ref_price": 1045.4578036920584
+    },
+    {
+      "accession": "0001140361-26-038659",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -15.59272223663902,
+        "knock_in.barrier_pct": 7.725845769734406,
+        "coupon.rate_per_period_pct": 404.30087614447496,
+        "coupon.memory": 24.451676023162918,
+        "autocall.first_observation_index": 3.663946064371885,
+        "autocall.levels_pct": -4.258695258254761,
+        "underlyings.initial_level": -4.886186737541038,
+        "observation_dates": 2.0581432790521603,
+        "knock_in.monitoring": -15.359164890414036
+      },
+      "ref_price": 944.4859546097717
+    },
+    {
+      "accession": "0001193125-26-301771",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -6.268494896197694,
+        "knock_in.barrier_pct": 7.250650996041486,
+        "coupon.rate_per_period_pct": 279.4314010212579,
+        "coupon.memory": 3.8611973619487117,
+        "autocall.first_observation_index": -3.8065108576898865,
+        "autocall.levels_pct": 5.7784052617977295,
+        "underlyings.initial_level": -1.6083203000144977,
+        "observation_dates": 0.5624208746266959,
+        "knock_in.monitoring": -9.271198995848522
+      },
+      "ref_price": 1007.8185741091556
+    },
+    {
+      "accession": "0001193125-26-303101",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -13.51428844862994,
+        "knock_in.barrier_pct": 6.996698358267395,
+        "coupon.rate_per_period_pct": 388.5501689880077,
+        "coupon.memory": 14.586809064642239,
+        "autocall.first_observation_index": -6.543190585839056,
+        "autocall.levels_pct": 9.646827867909678,
+        "underlyings.initial_level": -1.2840537498493632,
+        "observation_dates": 0.4306374185813411,
+        "knock_in.monitoring": -12.066741850874678
+      },
+      "ref_price": 1022.8317182085893
+    },
+    {
+      "accession": "0001193125-26-307871",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -17.282647972107497,
+        "knock_in.barrier_pct": 8.118419397025264,
+        "coupon.rate_per_period_pct": 487.11060365604567,
+        "coupon.memory": 15.214971508839199,
+        "autocall.first_observation_index": -6.7479709177422365,
+        "autocall.levels_pct": 13.487416843383699,
+        "underlyings.initial_level": -1.937123516642032,
+        "observation_dates": 0.010536352637700475,
+        "knock_in.monitoring": -12.578430020502083
+      },
+      "ref_price": 1028.4880532416214
+    },
+    {
+      "accession": "0001193125-26-392100",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -11.134312286158092,
+        "knock_in.barrier_pct": 6.355540196443485,
+        "coupon.rate_per_period_pct": 327.46470067429914,
+        "coupon.memory": 12.191091683260197,
+        "autocall.first_observation_index": -2.7484150003149352,
+        "autocall.levels_pct": 3.3073659984463575,
+        "underlyings.initial_level": -2.0920973227875947,
+        "observation_dates": 0.7583007314564156,
+        "knock_in.monitoring": -11.266583620394613
+      },
+      "ref_price": 1001.2542785028991
+    },
+    {
+      "accession": "0001193125-26-407080",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -12.827104604486408,
+        "knock_in.barrier_pct": 8.802927938246398,
+        "coupon.rate_per_period_pct": 381.8292689322309,
+        "coupon.memory": -14.803908155868271,
+        "autocall.first_observation_index": -2.2239181946205235,
+        "autocall.levels_pct": 3.472435430615178,
+        "underlyings.initial_level": -4.220548873462235,
+        "observation_dates": -0.6821068787172635,
+        "knock_in.monitoring": -9.948123543727547
+      },
+      "ref_price": 992.5516905683121
+    },
+    {
+      "accession": "0001193125-26-407802",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -8.059501733121806,
+        "knock_in.barrier_pct": 5.586755293175884,
+        "coupon.rate_per_period_pct": 364.86129512178195,
+        "coupon.memory": 4.744357120815948,
+        "autocall.first_observation_index": -8.826879479091076,
+        "autocall.levels_pct": 13.558282590921863,
+        "underlyings.initial_level": 0.5754873367395703,
+        "observation_dates": 0.34647980007662227,
+        "knock_in.monitoring": -6.168401306959595
+      },
+      "ref_price": 1041.0162606350327
+    },
+    {
+      "accession": "0001213900-26-081428",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -12.691280486308187,
+        "knock_in.barrier_pct": 11.325008237429529,
+        "coupon.rate_per_period_pct": 443.88251884568217,
+        "coupon.memory": 6.755725258382199,
+        "autocall.first_observation_index": -8.47278490022336,
+        "autocall.levels_pct": 13.673063888153592,
+        "underlyings.initial_level": -1.4620600060438846,
+        "observation_dates": 0.17791097747772255,
+        "knock_in.monitoring": -12.712454484525324
+      },
+      "ref_price": 1037.056302367371
+    },
+    {
+      "accession": "0001213900-26-081481",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -10.394216144894813,
+        "knock_in.barrier_pct": 11.325008237429188,
+        "coupon.rate_per_period_pct": 363.54179145279863,
+        "coupon.memory": 5.5329695555075205,
+        "autocall.first_observation_index": -4.172504881574355,
+        "autocall.levels_pct": 7.5134095198135356,
+        "underlyings.initial_level": -2.448799521904448,
+        "observation_dates": 1.0890894572046363,
+        "knock_in.monitoring": -12.71245448452521
+      },
+      "ref_price": 1010.2760599030764
+    },
+    {
+      "accession": "0001213900-26-085094",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -10.53648378576338,
+        "knock_in.barrier_pct": 11.048312051688072,
+        "coupon.rate_per_period_pct": 354.8973786925485,
+        "coupon.memory": 5.569408339611186,
+        "autocall.levels_pct": 13.645002134157266,
+        "underlyings.initial_level": -1.2126894704254028,
+        "observation_dates": 0.966580775214311,
+        "knock_in.monitoring": -11.866091521849626
+      },
+      "ref_price": 1016.1429323960087
+    },
+    {
+      "accession": "0001213900-26-094790",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -15.378130724426114,
+        "knock_in.barrier_pct": 16.25858938382703,
+        "coupon.rate_per_period_pct": 415.822635135331,
+        "coupon.memory": 10.430271627056186,
+        "autocall.first_observation_index": -2.568871343467663,
+        "autocall.levels_pct": 6.604783573362397,
+        "underlyings.initial_level": -3.810372487169957,
+        "observation_dates": 3.0979826562172548,
+        "knock_in.monitoring": -18.31110022667508
+      },
+      "ref_price": 998.807971943435
+    },
+    {
+      "accession": "0001213900-26-098394",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -17.356606277210403,
+        "knock_in.barrier_pct": 7.4645594328501375,
+        "coupon.rate_per_period_pct": 492.95459761536335,
+        "coupon.memory": 16.29829558248889,
+        "autocall.first_observation_index": -7.3736637025812115,
+        "autocall.levels_pct": 13.100396280471614,
+        "underlyings.initial_level": -1.7335233632513791,
+        "observation_dates": -0.00581348975219953,
+        "knock_in.monitoring": -11.954535106512935
+      },
+      "ref_price": 1030.281653879512
+    },
+    {
+      "accession": "0001213900-26-098408",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -14.050586033932404,
+        "knock_in.barrier_pct": 7.46455943284991,
+        "coupon.rate_per_period_pct": 399.05848378386554,
+        "coupon.memory": 13.193858328681245,
+        "autocall.first_observation_index": -2.365477568863753,
+        "autocall.levels_pct": 4.241516288367279,
+        "underlyings.initial_level": -3.0661035811587,
+        "observation_dates": 0.4558926194013111,
+        "knock_in.monitoring": -11.954535106512935
+      },
+      "ref_price": 998.982949269013
+    },
+    {
+      "accession": "0001214659-26-011448",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -6.990462566291853,
+        "knock_in.barrier_pct": 6.819051172794616,
+        "coupon.rate_per_period_pct": 330.64993201592347,
+        "coupon.memory": 4.043048059284956,
+        "autocall.first_observation_index": -7.505714622185451,
+        "autocall.levels_pct": 10.089151363483325,
+        "underlyings.initial_level": -0.5935089317397342,
+        "observation_dates": -0.039219025721649814,
+        "knock_in.monitoring": -8.692177244990717
+      },
+      "ref_price": 1027.6217354389096
+    },
+    {
+      "accession": "0001214659-26-011449",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -5.518786236546134,
+        "knock_in.barrier_pct": 6.819051172794616,
+        "coupon.rate_per_period_pct": 261.039420012571,
+        "coupon.memory": 3.1918800468040445,
+        "autocall.first_observation_index": -2.905424397360548,
+        "autocall.levels_pct": 3.8547835084079907,
+        "underlyings.initial_level": -1.6418707063647844,
+        "observation_dates": 0.6275174504884262,
+        "knock_in.monitoring": -8.69217724499083
+      },
+      "ref_price": 1004.4182314377921
+    },
+    {
+      "accession": "0001214659-26-011786",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -7.110261186916318,
+        "knock_in.barrier_pct": 6.635962538803824,
+        "coupon.rate_per_period_pct": 339.9620164874748,
+        "coupon.memory": 4.132375989929642,
+        "autocall.first_observation_index": -7.64453024732893,
+        "autocall.levels_pct": 9.861314485180856,
+        "underlyings.initial_level": -0.5421718066079393,
+        "observation_dates": -0.05676055631693089,
+        "knock_in.monitoring": -8.55716183328343
+      },
+      "ref_price": 1028.0694613514463
+    },
+    {
+      "accession": "0001839882-26-028900",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -24.933985723747355,
+        "knock_in.barrier_pct": 7.2133557484290804,
+        "coupon.rate_per_period_pct": 511.49366274388365,
+        "coupon.memory": 26.5239083059804,
+        "autocall.first_observation_index": -5.77102966454413,
+        "autocall.levels_pct": 13.458822953172898,
+        "underlyings.initial_level": -3.2237572992521564,
+        "observation_dates": 0.38555014385883624,
+        "knock_in.monitoring": -10.080852716500544
+      },
+      "ref_price": 1016.3822980908457
+    },
+    {
+      "accession": "0001839882-26-031609",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -10.019362862463026,
+        "knock_in.barrier_pct": 11.282190179215263,
+        "coupon.rate_per_period_pct": 330.9016976126819,
+        "coupon.memory": 5.519070307386414,
+        "autocall.levels_pct": 11.147444940066976,
+        "underlyings.initial_level": -1.7865031912667746,
+        "observation_dates": 1.1130622299918969,
+        "knock_in.monitoring": -12.267628400710691
+      },
+      "ref_price": 1007.6291451173319
+    },
+    {
+      "accession": "0001839882-26-034030",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -2.9069378783315187,
+        "knock_in.barrier_pct": 6.065448250887812,
+        "coupon.rate_per_period_pct": 377.1678904866526,
+        "coupon.memory": 1.0270192742734707,
+        "autocall.first_observation_index": -6.371065104736999,
+        "autocall.levels_pct": 5.500427998254963,
+        "underlyings.initial_level": -0.14404622264032696,
+        "observation_dates": 0.11770559726187457,
+        "knock_in.monitoring": -5.668749121025712
+      },
+      "ref_price": 1043.8839446496245
+    },
+    {
+      "accession": "0001839882-26-034600",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -11.339914409738185,
+        "knock_in.barrier_pct": 8.319586896808232,
+        "coupon.rate_per_period_pct": 345.59402655754457,
+        "coupon.memory": 8.672924013151714,
+        "autocall.first_observation_index": -2.6109943571037775,
+        "autocall.levels_pct": 6.49558118344703,
+        "underlyings.initial_level": -1.7840252555325833,
+        "observation_dates": 1.5113969441664494,
+        "knock_in.monitoring": -10.10342893432437
+      },
+      "ref_price": 1006.1198733107344
+    },
+    {
+      "accession": "0001839882-26-036457",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -15.076702453688881,
+        "knock_in.barrier_pct": 9.592615093367158,
+        "coupon.rate_per_period_pct": 424.66062849109176,
+        "coupon.memory": -17.12995952729102,
+        "autocall.first_observation_index": -3.807910982032354,
+        "autocall.levels_pct": 7.370218986431496,
+        "underlyings.initial_level": -3.967511625069278,
+        "observation_dates": -0.6612502630179051,
+        "knock_in.monitoring": -10.03419939387959
+      },
+      "ref_price": 1003.0150581483692
+    },
+    {
+      "accession": "0001839882-26-040531",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -4.944697099632549,
+        "knock_in.barrier_pct": 4.172694068067358,
+        "coupon.rate_per_period_pct": 267.73697473960465,
+        "coupon.memory": 1.7790602724671771,
+        "autocall.first_observation_index": -8.430602979810374,
+        "autocall.levels_pct": 12.196340417217243,
+        "underlyings.initial_level": 0.6477702990441685,
+        "observation_dates": -0.05708602456752487,
+        "knock_in.monitoring": -4.245815058791777
+      },
+      "ref_price": 1032.9064946876733
+    },
+    {
+      "accession": "0001839882-26-041422",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -14.421661638761861,
+        "knock_in.barrier_pct": 9.58324366712543,
+        "coupon.rate_per_period_pct": 408.3066211373505,
+        "coupon.memory": -16.450880225107653,
+        "autocall.first_observation_index": -3.544987718116886,
+        "autocall.levels_pct": 6.487941788742887,
+        "underlyings.initial_level": -3.889756515757199,
+        "observation_dates": -0.48682270729000265,
+        "knock_in.monitoring": -9.968450453547916
+      },
+      "ref_price": 1000.1853742774658
+    },
+    {
+      "accession": "0001839882-26-046290",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -11.068269596595314,
+        "knock_in.barrier_pct": 8.447500605650703,
+        "coupon.rate_per_period_pct": 400.3046909865395,
+        "coupon.memory": 7.040911089041174,
+        "autocall.first_observation_index": -8.70162487035418,
+        "autocall.levels_pct": 9.56074395073665,
+        "underlyings.initial_level": -1.5222792764632231,
+        "observation_dates": -0.005022378503326763,
+        "knock_in.monitoring": -11.165515925431805
+      },
+      "ref_price": 1031.4478091782923
+    },
+    {
+      "accession": "0001839882-26-046657",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -2.181874124138858,
+        "knock_in.barrier_pct": 5.440058564127639,
+        "coupon.rate_per_period_pct": 313.62758052608024,
+        "coupon.memory": 0.7513386664880954,
+        "autocall.first_observation_index": -3.0646496025623264,
+        "autocall.levels_pct": 2.473642626619835,
+        "underlyings.initial_level": -0.5964997322698764,
+        "observation_dates": 1.0668183174195747,
+        "knock_in.monitoring": -4.8178599277284775
+      },
+      "ref_price": 1019.6449292067584
+    },
+    {
+      "accession": "0001918704-26-015862",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -7.04976284921986,
+        "knock_in.barrier_pct": 6.630269127924294,
+        "coupon.rate_per_period_pct": 422.1752396868874,
+        "coupon.memory": 2.6786361107569974,
+        "autocall.first_observation_index": -13.358702506285454,
+        "autocall.levels_pct": 22.80596453720159,
+        "underlyings.initial_level": 2.088503789526385,
+        "observation_dates": -1.2972816441974828,
+        "knock_in.monitoring": -6.720050080253031
+      },
+      "ref_price": 1067.6062034530291
+    },
+    {
+      "accession": "0001918704-26-015864",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -5.685292620338487,
+        "knock_in.barrier_pct": 6.630269127924294,
+        "coupon.rate_per_period_pct": 340.4639029732964,
+        "coupon.memory": 2.1601904119004303,
+        "autocall.first_observation_index": -8.529127612774346,
+        "autocall.levels_pct": 14.663668266882269,
+        "underlyings.initial_level": 0.6073980593553188,
+        "observation_dates": -0.3502798998099479,
+        "knock_in.monitoring": -6.720050080253259
+      },
+      "ref_price": 1040.3690912151653
+    },
+    {
+      "accession": "0001918704-26-018771",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -1.0429038188480035,
+        "knock_in.barrier_pct": 3.354462856173768,
+        "coupon.rate_per_period_pct": 216.19750738199446,
+        "coupon.memory": -0.1769774343476911,
+        "autocall.first_observation_index": -5.387483215631619,
+        "autocall.levels_pct": 7.466973427520998,
+        "underlyings.initial_level": 0.5459043001178543,
+        "observation_dates": -0.23450546292212948,
+        "knock_in.monitoring": -1.492581427443838
+      },
+      "ref_price": 1024.073153432428
+    },
+    {
+      "accession": "0001918704-26-019604",
+      "label_source": "gold",
+      "deltas": {
+        "coupon.barrier_pct": -1.0293110095217344,
+        "knock_in.barrier_pct": 3.242765743723112,
+        "coupon.rate_per_period_pct": 217.39453046323115,
+        "coupon.memory": -0.17444917425666517,
+        "autocall.first_observation_index": -5.369214441924896,
+        "autocall.levels_pct": 7.259755345491158,
+        "underlyings.initial_level": 0.5377591483249944,
+        "observation_dates": -0.43689933007703985,
+        "knock_in.monitoring": -1.4714460529899043
+      },
+      "ref_price": 1024.0674005056783
+    },
+    {
+      "accession": "0001918704-26-021949",
+      "label_source": "silver",
+      "deltas": {
+        "coupon.barrier_pct": -5.685984284968413,
+        "knock_in.barrier_pct": 8.035100505406717,
+        "coupon.rate_per_period_pct": 270.4706886807327,
+        "coupon.memory": 2.9815950044646797,
+        "autocall.levels_pct": 8.80791219659011,
+        "underlyings.initial_level": -0.7583872085045869,
+        "observation_dates": 0.5162313068360618,
+        "knock_in.monitoring": -9.722682102422596
+      },
+      "ref_price": 1011.028542382912
+    }
+  ],
+  "stability": [
+    {
+      "accession": "0001193125-26-407080",
+      "arm": "B1",
+      "delta_seed0": -114.54878067966922,
+      "mean": -114.60130382276107,
+      "std": 0.13255715824539166,
+      "min": -114.85279895956262,
+      "max": -114.39714304610868
+    },
+    {
+      "accession": "0001193125-26-407080",
+      "arm": "B2",
+      "delta_seed0": -114.54878067966922,
+      "mean": -114.60130382276107,
+      "std": 0.13255715824539166,
+      "min": -114.85279895956262,
+      "max": -114.39714304610868
+    },
+    {
+      "accession": "0001213900-26-081481",
+      "arm": "B1",
+      "delta_seed0": 0.026780242464269577,
+      "mean": 0.026794324238403534,
+      "std": 2.280505985134766e-05,
+      "min": 0.02676774427879991,
+      "max": 0.026842998094707582
+    },
+    {
+      "accession": "0001213900-26-081481",
+      "arm": "B2",
+      "delta_seed0": 0.026780242464269577,
+      "mean": 0.026794324238403534,
+      "std": 2.280505985134766e-05,
+      "min": 0.02676774427879991,
+      "max": 0.026842998094707582
+    },
+    {
+      "accession": "0001213900-26-081481",
+      "arm": "B3",
+      "delta_seed0": 0.026780242464269577,
+      "mean": 0.026794324238403534,
+      "std": 2.280505985134766e-05,
+      "min": 0.02676774427879991,
+      "max": 0.026842998094707582
+    },
+    {
+      "accession": "0001213900-26-081481",
+      "arm": "Ours",
+      "delta_seed0": 0.026780242464269577,
+      "mean": 0.026794324238403534,
+      "std": 2.280505985134766e-05,
+      "min": 0.02676774427879991,
+      "max": 0.026842998094707582
+    },
+    {
+      "accession": "0001213900-26-081428",
+      "arm": "B1",
+      "delta_seed0": 0.026780242464383264,
+      "mean": 0.02679432423842627,
+      "std": 2.2805059858775037e-05,
+      "min": 0.026767744278686223,
+      "max": 0.026842998094480208
+    },
+    {
+      "accession": "0001213900-26-081428",
+      "arm": "B2",
+      "delta_seed0": 0.026780242464383264,
+      "mean": 0.02679432423842627,
+      "std": 2.2805059858775037e-05,
+      "min": 0.026767744278686223,
+      "max": 0.026842998094480208
+    }
+  ]
+}

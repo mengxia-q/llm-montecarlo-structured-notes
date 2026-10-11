@@ -1,0 +1,280 @@
+{
+  "accession": "0001140361-26-028280",
+  "source_file": "data/cleaned/0001140361-26-028280_ef20077789_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-09",
+    "strike_date": "2026-07-08",
+    "issue_date": "2026-07-13",
+    "maturity_date": "2028-07-12",
+    "underlyings": [
+      {
+        "name": "Dow Jones Industrial Average ®",
+        "ticker": "INDU",
+        "initial_level": 52348.39
+      },
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29252.56
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7482.71
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-09",
+      "2027-01-11",
+      "2027-04-09",
+      "2027-07-09",
+      "2027-10-11",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10"
+    ],
+    "payment_dates": [
+      "2026-10-14",
+      "2027-01-13",
+      "2027-04-13",
+      "2027-07-13",
+      "2027-10-13",
+      "2028-01-12",
+      "2028-04-12",
+      "2028-07-12"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.5,
+      "barrier_pct": 68.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 68.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.799
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank |",
+      "lines": [
+        250,
+        250
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        254,
+        254
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | July 9, 2026 |",
+      "lines": [
+        62,
+        63
+      ],
+      "note": "Trade date used as pricing date; strike date (initial levels fixed) is July 8, 2026."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | July 13, 2026 |",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | July 12, 2028 |",
+      "lines": [
+        67,
+        67
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Dow Jones Industrial Average ® | INDU |",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Dow Jones Industrial Average ® | INDU | 10.00% per annum | 52,348.39 |",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX |",
+      "lines": [
+        95,
+        95
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 10.00% per annum | 29,252.56 |",
+      "lines": [
+        95,
+        95
+      ],
+      "note": "also stated at line 604"
+    },
+    "underlyings[2].name": {
+      "quote": "| S&P 500 ® Index | SPX |",
+      "lines": [
+        96,
+        96
+      ]
+    },
+    "underlyings[2].initial_level": {
+      "quote": "| S&P 500 ® Index | SPX | 10.00% per annum | 7,482.71 |",
+      "lines": [
+        96,
+        96
+      ],
+      "note": "also stated at line 634"
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |",
+      "lines": [
+        266,
+        266
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        304,
+        313
+      ],
+      "note": "7 dated rows + 'Final Valuation Date' row; final valuation date July 10, 2028 taken from Key Dates line 66."
+    },
+    "payment_dates": {
+      "quote": "| October 9, 2026* | October 14, 2026* |",
+      "lines": [
+        304,
+        313
+      ],
+      "note": "Final payment date = Maturity Date July 12, 2028 (line 67)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the first potential call settlement date, which is January 13, 2027.",
+      "lines": [
+        315,
+        315
+      ],
+      "note": "Jan 13, 2027 is the payment date for the 2nd observation (Jan 11, 2027) -> index 2; consistent with 'beginning after 6 months' and Example 1 (callable on second observation date)."
+    },
+    "autocall.levels_pct": {
+      "quote": "52,348.39, which is100.00% of its Initial Level",
+      "lines": [
+        94,
+        94
+      ],
+      "note": "100% for all three underlyings; callable on observations 2-7 (not final valuation date) -> 6 entries."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon | $0.25 |",
+      "lines": [
+        258,
+        259
+      ],
+      "note": "10.00% p.a. quarterly / 4 = 2.50%; $0.25 / $10 = 2.50%."
+    },
+    "coupon.barrier_pct": {
+      "quote": "35,596.91, which is 68.00% of its Initial Level",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable",
+      "lines": [
+        257,
+        257
+      ],
+      "note": "No memory/previously-unpaid language anywhere in filing."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Thresholds |",
+      "lines": [
+        92,
+        94
+      ],
+      "note": "Downside threshold 68.00% of initial level for each underlying (same as coupon barrier)."
+    },
+    "knock_in.monitoring": {
+      "quote": "final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        37,
+        38
+      ],
+      "note": "Final Level = closing level on final valuation date (line 271): European barrier."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        263,
+        263
+      ],
+      "note": "1:1 loss -> 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your Notes on the trade date was $9.799 per Note",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike Date | July 8, 2026 |",
+      "lines": [
+        62,
+        62
+      ],
+      "note": "added 2026-10-06 after the schema gained strike_date; initial levels are strike-date closes"
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Schedule footnote '*' is attached to BOTH Oct 9, 2026 and Jan 11, 2027 observation dates, yet the footnote says not callable until the first potential call settlement date Jan 13, 2027 (the payment date of the Jan 11 obs, which itself is unstarred). Interpreted as callable from obs #2 (Jan 11, 2027), supported by 'beginning after 6 months' and Example 1. Verify."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Last table row reads 'Final Valuation Date | Maturity Date' with no dates; final obs (2028-07-10) and final payment (2028-07-12) taken from Key Dates table."
+    },
+    {
+      "field": "pricing_date",
+      "issue": "Strike date July 8, 2026 (initial levels set) differs from trade date July 9, 2026; trade date used as pricing_date. Valuation as of strike date may be preferred. [2026-10-06: schema now has strike_date; set accordingly, initial levels verified against strike-date closes]"
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 10.00% p.a. quarterly to 2.50% per period; consistent with stated $0.25 contingent coupon."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of on three equity price-return indices (INDU, NDX, SPX), quarterly discrete autocall at 100% from obs 2, non-memory contingent coupon with 68% barrier, European (final valuation date) 68% downside threshold with 1:1 loss."
+  }
+}

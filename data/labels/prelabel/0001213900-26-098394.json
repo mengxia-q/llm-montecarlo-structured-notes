@@ -1,0 +1,292 @@
+{
+  "accession": "0001213900-26-098394",
+  "source_file": "data/cleaned/0001213900-26-098394_ea0304959-01_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-04",
+    "strike_date": null,
+    "issue_date": "2026-09-10",
+    "maturity_date": "2031-09-09",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index®",
+        "ticker": "NDX",
+        "initial_level": 29544.15
+      },
+      {
+        "name": "EURO STOXX 50® Index",
+        "ticker": "SX5E",
+        "initial_level": 6392.93
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-04",
+      "2027-03-04",
+      "2027-06-04",
+      "2027-09-07",
+      "2027-12-06",
+      "2028-03-06",
+      "2028-06-05",
+      "2028-09-05",
+      "2028-12-04",
+      "2029-03-05",
+      "2029-06-04",
+      "2029-09-04",
+      "2029-12-04",
+      "2030-03-04",
+      "2030-06-04",
+      "2030-09-04",
+      "2030-12-04",
+      "2031-03-04",
+      "2031-06-04",
+      "2031-09-04"
+    ],
+    "payment_dates": [
+      "2026-12-08",
+      "2027-03-08",
+      "2027-06-08",
+      "2027-09-09",
+      "2027-12-08",
+      "2028-03-08",
+      "2028-06-07",
+      "2028-09-07",
+      "2028-12-06",
+      "2029-03-07",
+      "2029-06-06",
+      "2029-09-06",
+      "2029-12-06",
+      "2030-03-06",
+      "2030-06-06",
+      "2030-09-06",
+      "2030-12-06",
+      "2031-03-06",
+      "2031-06-06",
+      "2031-09-09"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.625,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.745
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "Issuer | JPMorgan Chase Financial Company LLC, a direct, wholly owned finance subsidiary of JPMorgan Chase & Co.",
+      "lines": [
+        212,
+        212
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "Principal Amount | $10 per Note",
+      "lines": [
+        217,
+        217
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | September 4, 2026 |",
+      "lines": [
+        73,
+        73
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | September 4, 2026 |",
+      "lines": [
+        73,
+        73
+      ],
+      "note": "No separate strike date; Initial Value is the close on the Trade Date (line 229) -> null"
+    },
+    "issue_date": {
+      "quote": "| Original Issue Date (Settlement Date) | September 10, 2026 |",
+      "lines": [
+        75,
+        75
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | September 9, 2031 |",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "Nasdaq-100 Index ® (Bloomberg ticker: NDX)",
+      "lines": [
+        109,
+        109
+      ],
+      "note": "® separated by a space in cleaned text; name written as 'Nasdaq-100 Index®'"
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® (Bloomberg ticker: NDX) | 10.50% per annum | 29,544.15 |",
+      "lines": [
+        109,
+        109
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "EURO STOXX 50 ® Index (Bloomberg ticker: SX5E)",
+      "lines": [
+        110,
+        110
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index (Bloomberg ticker: SX5E) | 10.50% per annum | 6,392.93 |",
+      "lines": [
+        110,
+        110
+      ]
+    },
+    "performance_type": {
+      "quote": "Lesser Performing Underlying | The Underlying with the lower Underlying Return",
+      "lines": [
+        227,
+        227
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates † | Coupon Payment Dates † |",
+      "lines": [
+        261,
+        282
+      ],
+      "note": "20 rows, quarterly"
+    },
+    "payment_dates": {
+      "quote": "| September 4, 2031 (the Final Valuation Date) | September 9, 2031 (the Maturity Date) |",
+      "lines": [
+        261,
+        282
+      ],
+      "note": "Coupon Payment Dates column, row by row"
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the second Observation\nDate, March 4, 2027.",
+      "lines": [
+        285,
+        286
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Notes will be called automatically if the closing level of each Underlying on any Observation Date (after an initial six-month non-call period) is equal to or greater than its Initial Value.",
+      "lines": [
+        219,
+        219
+      ],
+      "note": "100% on observation dates 2..20 (19 entries); final valuation date treated as callable ('any Observation Date'; example tables at lines 637/676 say 'Notes NOT automatically called' on the Twentieth Observation Date)"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate | 10.50% per annum |",
+      "lines": [
+        221,
+        221
+      ],
+      "note": "10.50% p.a. / 4 = 2.625% per quarter; consistent with $0.2625 per $10 (line 222) and '2.625% per quarter' (line 575)"
+    },
+    "coupon.barrier_pct": {
+      "quote": "4,475.05, which is 70% of the Initial Value",
+      "lines": [
+        110,
+        110
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon that would otherwise be payable will not be accrued and will be lost",
+      "lines": [
+        389,
+        389
+      ]
+    },
+    "knock_in.barrier_pct": {
+      "quote": "20,680.91, which is 70% of the Initial Value",
+      "lines": [
+        109,
+        109
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not automatically called and the Final Value of either Underlying is less than its Downside Threshold",
+      "lines": [
+        225,
+        225
+      ],
+      "note": "Final Value = close on Final Valuation Date only (line 230)"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Lesser Performing Underlying Return)",
+      "lines": [
+        225,
+        225
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "was $9.745 per $10 principal amount Note.",
+      "lines": [
+        134,
+        134
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final valuation date counted as callable (19 levels for obs 2-20) because the call clause says 'any Observation Date' and the hypothetical examples test the call on the Twentieth Observation Date; economically equivalent to non-callable at final since call level 100% > 70% threshold, but verify the convention."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 10.50% p.a. / 4 = 2.625 (exact per-annum/n; cash $0.2625 per $10 agrees)."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text splits ® onto its own line / adds a space; names normalised to 'Nasdaq-100 Index®' and 'EURO STOXX 50® Index'."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Observation and payment dates subject to postponement; scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity indices (NDX, SX5E), quarterly discrete autocall at 100% from obs 2, non-memory contingent coupon with 70% barrier, European (final valuation date only) 70% knock-in with 1:1 downside; no buffer."
+  }
+}

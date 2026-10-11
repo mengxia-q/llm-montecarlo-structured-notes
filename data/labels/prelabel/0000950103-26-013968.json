@@ -1,0 +1,288 @@
+{
+  "accession": "0000950103-26-013968",
+  "source_file": "data/cleaned/0000950103-26-013968_dp253370_424b2-ubseln1765wof.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-11",
+    "strike_date": null,
+    "issue_date": "2026-09-16",
+    "maturity_date": "2031-09-16",
+    "underlyings": [
+      {
+        "name": "Nikkei 225 Index",
+        "ticker": "NKY",
+        "initial_level": 64011.34
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7656.98
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-11",
+      "2027-03-11",
+      "2027-06-11",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-12",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-12",
+      "2029-06-11",
+      "2029-09-11",
+      "2029-12-11",
+      "2030-03-11",
+      "2030-06-11",
+      "2030-09-11",
+      "2030-12-11",
+      "2031-03-11",
+      "2031-06-11",
+      "2031-09-11"
+    ],
+    "payment_dates": [
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-15",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-15",
+      "2029-06-14",
+      "2029-09-14",
+      "2029-12-14",
+      "2030-03-14",
+      "2030-06-14",
+      "2030-09-16",
+      "2030-12-16",
+      "2031-03-14",
+      "2031-06-16",
+      "2031-09-16"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.29,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.59
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Royal Bank of Canada |",
+      "lines": [
+        197,
+        197
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        199,
+        199
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | September 11, 2026 |",
+      "lines": [
+        62,
+        62
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | September 11, 2026 |",
+      "lines": [
+        62,
+        62
+      ],
+      "note": "No separate strike date; Initial Underlying Value = closing value on the Trade Date -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | September 16, 2026 |",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | September 16, 2031 |",
+      "lines": [
+        68,
+        68
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nikkei 225 Index (NKY) | 9.16% per annum | 64,011.34 |",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nikkei 225 Index (NKY) | 9.16% per annum | 64,011.34 |",
+      "lines": [
+        97,
+        97
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Index (SPX) | 9.16% per annum | 7,656.98 |",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| S&P 500 ® Index (SPX) | 9.16% per annum | 7,656.98 |",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying: | The Underlying with the lowest Underlying Return |",
+      "lines": [
+        206,
+        206
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        239,
+        260
+      ],
+      "note": "20 rows"
+    },
+    "payment_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        239,
+        260
+      ],
+      "note": "20 rows, read directly from table"
+    },
+    "autocall.first_observation_index": {
+      "quote": "Each Coupon Observation Date (other\nthan the Final Valuation Date), starting from the second Coupon Observation Date, which is March 11, 2027, is a Call Observation Date.",
+      "lines": [
+        266,
+        267
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "is greater than or equal to its Initial Underlying Value. If the Notes are called, we will pay you on the corresponding Coupon Payment Date",
+      "lines": [
+        204,
+        204
+      ],
+      "note": "100% of Initial on observations 2..19 (final valuation date excluded) = 18 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 9.16% per annum.",
+      "lines": [
+        203,
+        203
+      ],
+      "note": "9.16% p.a. / 4 (quarterly) = 2.29; matches 'or 2.29% per quarter' at line 435"
+    },
+    "coupon.barrier_pct": {
+      "quote": "5,359.89, which is 70% of its Initial Underlying Value",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "coupon.memory": {
+      "quote": "If the closing value of any Underlying is less than its Coupon Barrier on any Coupon Observation Date, the Contingent Coupon applicable to that Coupon Observation Date will not accrue or be payable",
+      "lines": [
+        202,
+        202
+      ],
+      "note": "no memory wording -> false"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "4,594.19, which is 60% of its Initial Underlying Value",
+      "lines": [
+        98,
+        98
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not called and the Final Underlying Value of the Least Performing Underlying is less than its Downside Threshold",
+      "lines": [
+        205,
+        205
+      ],
+      "note": "tested only on Final Valuation Date"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 + ($10 × Underlying Return of the Least Performing Underlying)",
+      "lines": [
+        205,
+        205
+      ],
+      "note": "1-to-1 -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "is $9.59 per Note",
+      "lines": [
+        128,
+        128
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Valuation Date explicitly excluded from Call Observation Dates (line 266-267); 18 levels for obs 2..19"
+    },
+    {
+      "field": "underlyings[1].name",
+      "issue": "Name printed 'S&P 500 ® Index' with spaced ® in table; elsewhere ® on separate line"
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used"
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of on two equity price-return indices (NKY, SPX), discrete quarterly autocall at 100%, non-memory contingent coupon, European knock-in at 60% with 1:1 loss."
+  }
+}

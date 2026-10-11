@@ -1,0 +1,288 @@
+{
+  "accession": "0001918704-26-021949",
+  "source_file": "data/cleaned/0001918704-26-021949_form424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-29",
+    "strike_date": null,
+    "issue_date": "2026-07-31",
+    "maturity_date": "2029-08-01",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 ® Index",
+        "ticker": "NDX",
+        "initial_level": 27192.31
+      },
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2906.31
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7316.15
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-29",
+      "2027-01-29",
+      "2027-04-29",
+      "2027-07-29",
+      "2027-10-29",
+      "2028-01-31",
+      "2028-05-01",
+      "2028-07-31",
+      "2028-10-30",
+      "2029-01-29",
+      "2029-04-30",
+      "2029-07-30"
+    ],
+    "payment_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02",
+      "2027-11-02",
+      "2028-02-02",
+      "2028-05-03",
+      "2028-08-02",
+      "2028-11-01",
+      "2029-01-31",
+      "2029-05-02",
+      "2029-08-01"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.125,
+      "barrier_pct": 65.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.729
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "BofA Finance LLC $5,600,000",
+      "lines": [
+        13,
+        13
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Stated Principal Amount | $10.00 per Note |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date 1 | July 29, 2026 |",
+      "lines": [
+        89,
+        89
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date 1 | July 29, 2026 |",
+      "lines": [
+        89,
+        89
+      ],
+      "note": "No separate strike date; Initial Value is closing level on the Trade Date (line 105)."
+    },
+    "issue_date": {
+      "quote": "| Issue Date 1 | July 31, 2026 |",
+      "lines": [
+        90,
+        90
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date | August 1, 2029 |",
+      "lines": [
+        92,
+        92
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "Nasdaq-100 ® Index (Ticker: NDX)",
+      "lines": [
+        42,
+        42
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 ® Index (Ticker: NDX) | 8.50% per annum | 27,192.31 |",
+      "lines": [
+        42,
+        42
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "Russell 2000 ® Index (Ticker: RTY)",
+      "lines": [
+        43,
+        43
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Russell 2000 ® Index (Ticker: RTY) | 8.50% per annum | 2,906.310 |",
+      "lines": [
+        43,
+        43
+      ],
+      "note": "Printed with three decimals."
+    },
+    "underlyings[2].name": {
+      "quote": "S&P 500 ® Index (Ticker: SPX)",
+      "lines": [
+        44,
+        44
+      ]
+    },
+    "underlyings[2].initial_level": {
+      "quote": "| S&P 500 ® Index (Ticker: SPX) | | 7,316.15 |",
+      "lines": [
+        44,
+        44
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying | On each Observation Date, including the Final Observation Date, the Underlying with the lowest Underlying Return as of that Observation Date. |",
+      "lines": [
+        101,
+        101
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates 1 | Coupon Payment Dates |",
+      "lines": [
+        131,
+        144
+      ],
+      "note": "12 rows."
+    },
+    "payment_dates": {
+      "quote": "| October 29, 2026 | November 2, 2026 |",
+      "lines": [
+        131,
+        144
+      ],
+      "note": "Taken from the table column, not derived."
+    },
+    "autocall.first_observation_index": {
+      "quote": "* The Notes are NOT automatically callable until the first Observation Date, which is October 29, 2026, and will NOT be automatically callable on the Final Observation Date (July 30, 2029).",
+      "lines": [
+        146,
+        146
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "on any Observation Date occurring on or after October 29, 2026 (other than the Final Observation Date) is greater than or equal to its Initial Value",
+      "lines": [
+        96,
+        96
+      ],
+      "note": "Call level = 100% of Initial Value on obs 1-11; final date excluded -> 11 levels."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "Each Contingent Coupon Payment will be in the amount of $0.2125 for each $10.00 Stated Principal Amount (based on the per annum Contingent Coupon Rate of 8.50%)",
+      "lines": [
+        99,
+        99
+      ],
+      "note": "8.50% p.a. / 4 = 2.125%; cash check 0.2125/10 = 2.125%."
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon Barrier | For any Underlying, 65% of its Initial Value, as specified on the cover page of this pricing supplement. |",
+      "lines": [
+        104,
+        104
+      ]
+    },
+    "coupon.memory": {
+      "quote": "no Contingent Coupon Payment will accrue or be payable on the related Coupon Payment Date",
+      "lines": [
+        99,
+        99
+      ],
+      "note": "No memory/previously-unpaid language anywhere."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold | For any Underlying, 65% of its Initial Value, as specified on the cover page of this pricing supplement. |",
+      "lines": [
+        103,
+        103
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The limited downside protection provided by the Downside Threshold applies only at maturity.",
+      "lines": [
+        168,
+        168
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10.00 × (1 + Underlying Return of the Least Performing Underlying on the Final Observation Date)",
+      "lines": [
+        100,
+        100
+      ],
+      "note": "1-to-1 loss -> 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "The initial estimated value of the Notes as of the Trade Date is $9.729 per $10.00 in Stated Principal Amount.",
+      "lines": [
+        51,
+        51
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Observation Date explicitly not callable (line 146), so 11 levels for 12 observation dates."
+    },
+    {
+      "field": "underlyings[1].initial_level",
+      "issue": "RTY printed to three decimals (2,906.310); stored as 2906.31."
+    },
+    {
+      "field": "issuer",
+      "issue": "Summary table says 'BofA Finance' (line 82); full legal name 'BofA Finance LLC' used from cover."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement (line 148); scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of three equity indices (NDX, RTY, SPX), quarterly discrete autocall at 100% (non-final dates), non-memory contingent coupon at 65%, European knock-in at 65% tested only on Final Observation Date, 1:1 downside; no buffer."
+  }
+}

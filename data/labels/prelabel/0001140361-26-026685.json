@@ -1,0 +1,288 @@
+{
+  "accession": "0001140361-26-026685",
+  "source_file": "data/cleaned/0001140361-26-026685_ef20077014_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-26",
+    "strike_date": null,
+    "issue_date": "2026-06-30",
+    "maturity_date": "2031-06-30",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29118.24
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6221.55
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-28",
+      "2026-12-28",
+      "2027-03-26",
+      "2027-06-28",
+      "2027-09-27",
+      "2027-12-27",
+      "2028-03-27",
+      "2028-06-26",
+      "2028-09-26",
+      "2028-12-26",
+      "2029-03-26",
+      "2029-06-26",
+      "2029-09-26",
+      "2029-12-26",
+      "2030-03-26",
+      "2030-06-26",
+      "2030-09-26",
+      "2030-12-26",
+      "2031-03-26",
+      "2031-06-26"
+    ],
+    "payment_dates": [
+      "2026-09-30",
+      "2026-12-30",
+      "2027-03-30",
+      "2027-06-30",
+      "2027-09-29",
+      "2027-12-29",
+      "2028-03-29",
+      "2028-06-28",
+      "2028-09-28",
+      "2028-12-28",
+      "2029-03-28",
+      "2029-06-28",
+      "2029-09-28",
+      "2029-12-28",
+      "2030-03-28",
+      "2030-06-28",
+      "2030-09-30",
+      "2030-12-30",
+      "2031-03-28",
+      "2031-06-30"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 3.07,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.883
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank |",
+      "lines": [
+        242,
+        242
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        246,
+        246
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | June 26, 2026 |",
+      "lines": [
+        59,
+        59
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date* | June 26, 2026 |",
+      "lines": [
+        59,
+        59
+      ],
+      "note": "No separate strike date; initial level is closing level on trade date (line 262)."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | June 30, 2026 |",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | June 30, 2031 |",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 12.28% per annum | 29,118.24 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 12.28% per annum | 29,118.24 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E | 12.28% per annum | 6,221.55 |",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E | 12.28% per annum | 6,221.55 |",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "performance_type": {
+      "quote": "Linked to the least performing of the Nasdaq-100 Index",
+      "lines": [
+        14,
+        14
+      ]
+    },
+    "observation_dates": {
+      "quote": "| September 28, 2026* | September 30, 2026 * |",
+      "lines": [
+        296,
+        317
+      ],
+      "note": "19 interim rows + 'Final Valuation Date' row = June 26, 2031 (line 63)."
+    },
+    "payment_dates": {
+      "quote": "| December 28, 2026* | December 30, 2026 |",
+      "lines": [
+        296,
+        325
+      ],
+      "note": "Final payment date = maturity date June 30, 2031 per footnote (2)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "| * | The Notes are not callable until the first potential call settlement date, which is December 30, 2026. |",
+      "lines": [
+        319,
+        319
+      ],
+      "note": "Dec 30, 2026 is payment date of obs #2 (Dec 28, 2026); Example 1 (line 511) confirms 2nd obs callable."
+    },
+    "autocall.levels_pct": {
+      "quote": "on any observation date (beginning after 6 months) other than the final valuation date is equal to or greater than its call threshold level",
+      "lines": [
+        253,
+        253
+      ],
+      "note": "Call threshold 100.00% (line 87-88); obs 2..19 callable, final excluded => 18 entries."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon Rate | 12.28% per annum |",
+      "lines": [
+        250,
+        251
+      ],
+      "note": "12.28% p.a. / 4 (quarterly) = 3.07; matches $0.307 / $10."
+    },
+    "coupon.barrier_pct": {
+      "quote": "20,382.77, which is 70.00% of its Initial Level",
+      "lines": [
+        87,
+        88
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable",
+      "lines": [
+        249,
+        249
+      ],
+      "note": "No memory language; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "4,355.09, which is 70.00% of its Initial Level",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        255,
+        255
+      ],
+      "note": "Final level only (closing level on final valuation date, line 263)."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        255,
+        255
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "was $9.883 per Note",
+      "lines": [
+        90,
+        90
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Asterisk marks both obs #1 and #2 in schedule; footnote says not callable until call settlement date Dec 30, 2026 (= obs #2 payment). Set to 2; verify."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text renders ® with a space ('Nasdaq-100 Index ®'); verify verbatim name formatting."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Final valuation date and maturity are given as row labels in the table; taken from Key Dates (lines 63-64)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two price-return equity indices, quarterly discrete autocall from obs 2, non-memory contingent coupon, European (final-only) 70% knock-in, 1:1 downside."
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "accession": "0001839882-26-028900",
+  "source_file": "data/cleaned/0001839882-26-028900_bns_424b2-18936.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-09",
+    "strike_date": null,
+    "issue_date": "2026-06-12",
+    "maturity_date": "2031-06-12",
+    "underlyings": [
+      {
+        "name": "Russell 2000® Index",
+        "ticker": "RTY",
+        "initial_level": 2867.023
+      },
+      {
+        "name": "S&P 500® Index",
+        "ticker": "SPX",
+        "initial_level": 7386.65
+      },
+      {
+        "name": "EURO STOXX 50® Index",
+        "ticker": "SX5E",
+        "initial_level": 6049.74
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-09",
+      "2026-12-09",
+      "2027-03-09",
+      "2027-06-09",
+      "2027-09-09",
+      "2027-12-09",
+      "2028-03-09",
+      "2028-06-09",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-09",
+      "2029-06-11",
+      "2029-09-10",
+      "2029-12-10",
+      "2030-03-11",
+      "2030-06-10",
+      "2030-09-09",
+      "2030-12-09",
+      "2031-03-10",
+      "2031-06-09"
+    ],
+    "payment_dates": [
+      "2026-09-11",
+      "2026-12-11",
+      "2027-03-11",
+      "2027-06-11",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-13",
+      "2028-09-13",
+      "2028-12-13",
+      "2029-03-13",
+      "2029-06-13",
+      "2029-09-12",
+      "2029-12-12",
+      "2030-03-13",
+      "2030-06-12",
+      "2030-09-11",
+      "2030-12-11",
+      "2031-03-12",
+      "2031-06-12"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.8125,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.548
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Bank of Nova Scotia |",
+      "lines": [
+        194,
+        194
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        198,
+        198
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | Trade Date* | June 9, 2026 |",
+      "lines": [
+        42,
+        42
+      ]
+    },
+    "strike_date": {
+      "quote": "| Initial Level (1) | The closing level of each underlying asset on the trade date, as specified on the cover hereof. |",
+      "lines": [
+        213,
+        213
+      ],
+      "note": "No separate strike date; initial levels set on trade date June 9, 2026 -> null."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | Settlement Date* | June 12, 2026 |",
+      "lines": [
+        44,
+        44
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | Maturity Date** | June 12, 2031 |",
+      "lines": [
+        47,
+        47
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index | RTY |",
+      "lines": [
+        61,
+        61
+      ],
+      "note": "Cleaned text has a space before ®; name recorded as 'Russell 2000® Index'."
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| RTY | 11.25% per annum | 2,867.023 |",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Index | SPX |",
+      "lines": [
+        62,
+        62
+      ],
+      "note": "Recorded as 'S&P 500® Index'."
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| SPX | 11.25% per annum | 7,386.65 |",
+      "lines": [
+        62,
+        62
+      ]
+    },
+    "underlyings[2].name": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E |",
+      "lines": [
+        63,
+        63
+      ],
+      "note": "Recorded as 'EURO STOXX 50® Index'."
+    },
+    "underlyings[2].initial_level": {
+      "quote": "| SX5E | 11.25% per annum | 6,049.74 |",
+      "lines": [
+        63,
+        63
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |",
+      "lines": [
+        209,
+        209
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        248,
+        269
+      ],
+      "note": "19 dated rows (Sep 9, 2026 .. Mar 10, 2031) + 'Final Valuation Date' row; final valuation date June 9, 2031 from Key Dates line 46. 20 observation dates total."
+    },
+    "payment_dates": {
+      "quote": "| Final Valuation Date | Maturity Date |",
+      "lines": [
+        248,
+        269
+      ],
+      "note": "Payment dates printed in table; final payment = maturity date June 12, 2031 (line 47)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "| * | The Notes are not callable until the first potential call settlement date, which is December 11, 2026. |",
+      "lines": [
+        271,
+        271
+      ],
+      "note": "Dec 11, 2026 is payment for obs #2 (Dec 9, 2026) -> index 2."
+    },
+    "autocall.levels_pct": {
+      "quote": "on any observation date (quarterly, callable after 6 months) prior to the final valuation date is equal to or greater than its initial level",
+      "lines": [
+        205,
+        205
+      ],
+      "note": "Callable obs 2..19 (final valuation date excluded) -> 18 entries of 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon Rate | 11.25% |",
+      "lines": [
+        202,
+        203
+      ],
+      "note": "11.25% p.a. quarterly / 4 = 2.8125%; printed cash coupon $0.2813 per $10 = 2.813% (rounded)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,150.267, which is 75.00% of its Initial Level",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to such observation date will not accrue or be payable and BNS will not make any payment to you on the related coupon payment date",
+      "lines": [
+        201,
+        201
+      ],
+      "note": "No memory language; unpaid coupons do not accrue -> false."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Thresholds |",
+      "lines": [
+        59,
+        61
+      ],
+      "note": "Downside threshold 75.00% of initial level for each underlying (cover table, 6th column)."
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        207,
+        207
+      ],
+      "note": "Tested on final level only -> at_maturity."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        207,
+        207
+      ],
+      "note": "1-to-1 loss -> 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "was $9.548 per principal amount",
+      "lines": [
+        65,
+        65
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 11.25% p.a. / 4 = 2.8125%; filing prints cash coupon $0.2813 (rounded, = 2.813%). Verifier to confirm which convention gold should use."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final valuation date excluded per 'prior to the final valuation date'; 18 callable dates (obs 2-19)."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Schedule table ends with a 'Final Valuation Date | Maturity Date' row (no date); filled from Key Dates (June 9, 2031 / June 12, 2031). Footnote '*' marks first two rows; dates subject to postponement, scheduled dates used."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text shows a space before ® (HTML artifact); names recorded without the space."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of three equity indices (RTY, SPX, SX5E), quarterly non-memory contingent coupon, discrete quarterly autocall at 100% from obs 2, European (final-level) 75% downside threshold with 1:1 loss; no buffer, no daily monitoring."
+  }
+}

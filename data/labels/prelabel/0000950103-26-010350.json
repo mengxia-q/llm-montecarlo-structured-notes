@@ -1,0 +1,231 @@
+{
+  "accession": "0000950103-26-010350",
+  "source_file": "data/cleaned/0000950103-26-010350_dp249798_424b2-us26n4141d.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Citigroup Global Markets Holdings Inc.",
+    "notional_per_unit": 1000.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-02",
+    "strike_date": "2026-07-01",
+    "issue_date": "2026-07-08",
+    "maturity_date": "2027-08-05",
+    "underlyings": [
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7483.23
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02"
+    ],
+    "payment_dates": [
+      "2026-11-05",
+      "2027-02-05",
+      "2027-05-06",
+      "2027-08-05"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.3125,
+      "barrier_pct": 80.0,
+      "memory": true
+    },
+    "knock_in": {
+      "barrier_pct": 80.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 985.2
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Citigroup Global Markets Holdings Inc., a wholly owned subsidiary of Citigroup Inc.",
+      "lines": [
+        25,
+        25
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Stated principal amount: | $1,000 per security",
+      "lines": [
+        29,
+        29
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Pricing date: | July 2, 2026",
+      "lines": [
+        31,
+        31
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike date: | July 1, 2026",
+      "lines": [
+        30,
+        30
+      ],
+      "note": "Separate strike date (one day before pricing date); initial level set on strike date."
+    },
+    "issue_date": {
+      "quote": "| Issue date: | July 8, 2026",
+      "lines": [
+        32,
+        32
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity date: | Unless earlier redeemed, August 5, 2027",
+      "lines": [
+        35,
+        35
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Underlying index: | The S&P 500 ® Index (ticker symbol: “SPX”)",
+      "lines": [
+        27,
+        27
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Initial index level: | 7,483.23, the closing level of the underlying index on the strike date",
+      "lines": [
+        40,
+        40
+      ]
+    },
+    "performance_type": {
+      "quote": "| Underlying index: | The S&P 500 ® Index",
+      "lines": [
+        27,
+        27
+      ],
+      "note": "Single underlying."
+    },
+    "observation_dates": {
+      "quote": "| Interim valuation dates: | November 2, 2026, February 2, 2027 and May 3, 2027, each subject to postponement",
+      "lines": [
+        33,
+        34
+      ],
+      "note": "No schedule table; 3 interim valuation dates (line 33) + final valuation date August 2, 2027 (line 34)."
+    },
+    "payment_dates": {
+      "quote": "| Contingent coupon payment dates: | For any interim valuation date, the third business day after such interim valuation date; and for the final valuation date, the maturity date",
+      "lines": [
+        36,
+        36
+      ],
+      "note": "derived: interim payment dates via src.market.calendar --plus 3 (2026-11-05, 2027-02-05, 2027-05-06); final = maturity date 2027-08-05."
+    },
+    "autocall.first_observation_index": {
+      "quote": "If, on any of the interim valuation dates, the closing level of the underlying index is greater than or equal to the initial index level, each security you then hold will be automatically redeemed",
+      "lines": [
+        38,
+        38
+      ],
+      "note": "Callable from the first interim valuation date."
+    },
+    "autocall.levels_pct": {
+      "quote": "If, on any of the interim valuation dates, the closing level of the underlying index is greater than or equal to the initial index level",
+      "lines": [
+        38,
+        38
+      ],
+      "note": "Interim-only call at 100% of initial; 3 interim dates => 3 levels; final date excluded."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "the securities will pay a contingent coupon equal to 2.3125% of the stated principal amount of the securities",
+      "lines": [
+        37,
+        37
+      ],
+      "note": "Stated per payment date already (9.25% total over 4 periods per example 3)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon barrier level: | 5,986.584, 80.00% of the initial index level",
+      "lines": [
+        43,
+        43
+      ]
+    },
+    "coupon.memory": {
+      "quote": "will include all previously unpaid contingent coupon payments (without interest on amounts previously unpaid)",
+      "lines": [
+        37,
+        37
+      ]
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Final barrier level: | 5,986.584, 80.00% of the initial index level",
+      "lines": [
+        44,
+        44
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the final index level is less than the final barrier level: $1,000 + ($1,000 × the index return)",
+      "lines": [
+        39,
+        39
+      ],
+      "note": "Final index level = closing level on final valuation date only (line 41)."
+    },
+    "downside_participation_pct": {
+      "quote": "$1,000 + ($1,000 × the index return)",
+      "lines": [
+        39,
+        39
+      ],
+      "note": "1-to-1 exposure => 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "the estimated value of the\nsecurities is $985.20 per security",
+      "lines": [
+        53,
+        54
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "payment_dates",
+      "issue": "Interim payment dates derived from rule 'third business day after' via NYSE calendar (not printed); final payment = maturity date."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "No schedule table; dates assembled from key-terms rows for interim valuation dates (line 33) and final valuation date (line 34). First period is ~4 months (Jul 1 strike to Nov 2), later ones ~3 months."
+    },
+    {
+      "field": "strike_date",
+      "issue": "Strike date July 1, 2026 differs from pricing date July 2, 2026; initial level 7,483.23 fixed on strike date."
+    },
+    {
+      "field": "underlyings[0].name",
+      "issue": "Cleaned text renders the name with a space before ® ('S&P 500 ® Index'); kept verbatim from the cleaned file."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Callable only on interim valuation dates (literal wording), so 3 levels for 4 observation dates; final date excluded."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Single equity index (S&P 500, price index), contingent-coupon memory autocallable, discrete interim autocall at 100%, European (final-valuation-date only) barrier at 80% with 1:1 downside; not buffered."
+  }
+}

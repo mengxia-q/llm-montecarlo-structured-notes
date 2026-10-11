@@ -1,0 +1,301 @@
+{
+  "accession": "0001839882-26-034600",
+  "source_file": "data/cleaned/0001839882-26-034600_ms17191_424b2-22799.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Morgan Stanley Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-10",
+    "strike_date": null,
+    "issue_date": "2026-07-15",
+    "maturity_date": "2031-07-15",
+    "underlyings": [
+      {
+        "name": "S&P MidCap 400 ® Index",
+        "ticker": null,
+        "initial_level": 3780.11
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": null,
+        "initial_level": 6269.97
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-12",
+      "2027-01-11",
+      "2027-04-12",
+      "2027-07-12",
+      "2027-10-11",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10",
+      "2028-10-10",
+      "2029-01-10",
+      "2029-04-10",
+      "2029-07-10",
+      "2029-10-10",
+      "2030-01-10",
+      "2030-04-10",
+      "2030-07-10",
+      "2030-10-10",
+      "2031-01-10",
+      "2031-04-10",
+      "2031-07-10"
+    ],
+    "payment_dates": [
+      "2026-10-14",
+      "2027-01-13",
+      "2027-04-14",
+      "2027-07-14",
+      "2027-10-13",
+      "2028-01-12",
+      "2028-04-12",
+      "2028-07-12",
+      "2028-10-12",
+      "2029-01-12",
+      "2029-04-12",
+      "2029-07-12",
+      "2029-10-12",
+      "2030-01-14",
+      "2030-04-12",
+      "2030-07-12",
+      "2030-10-15",
+      "2031-01-14",
+      "2031-04-14",
+      "2031-07-15"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.75,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.653
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | Morgan Stanley Finance LLC |",
+      "lines": [
+        166,
+        166
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10.00 per Security |",
+      "lines": [
+        170,
+        170
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | July 10, 2026 |",
+      "lines": [
+        178,
+        178
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | July 10, 2026 |",
+      "lines": [
+        178,
+        178
+      ],
+      "note": "No separate strike date named; initial values set on Trade Date -> null."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | July 15, 2026 |",
+      "lines": [
+        179,
+        179
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date | July 15, 2031* |",
+      "lines": [
+        181,
+        181
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| S&P MidCap 400 ® Index | 3,780.11 |",
+      "lines": [
+        74,
+        74
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "With respect to the MID Index, 3,780.11",
+      "lines": [
+        191,
+        191
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index | 6,269.97 |",
+      "lines": [
+        75,
+        75
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "With respect to the SX5E Index, 6,269.97",
+      "lines": [
+        191,
+        191
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying | The Underlying with the larger percentage decrease from the Initial Underlying Value to the Final Underlying Value. |",
+      "lines": [
+        185,
+        185
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        205,
+        226
+      ]
+    },
+    "payment_dates": {
+      "quote": "| 7/10/2031 (Final Observation Date) | Maturity Date |",
+      "lines": [
+        205,
+        226
+      ],
+      "note": "Final payment date = Maturity Date 2031-07-15 (line 181)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "* The Securities are not subject to an Automatic Call until the second Observation Date, which is January 11, 2027.",
+      "lines": [
+        228,
+        228
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Securities will be called automatically if the Observation Date Closing Values of both the MID Index and the SX5E Index on any Observation Date beginning January 11, 2027 are equal to or greater than their respective Initial Underlying Values.",
+      "lines": [
+        172,
+        172
+      ],
+      "note": "100% on each Observation Date from #2 through #20 (final included; wording says 'any Observation Date') -> 19 entries."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "The Contingent Coupon Rate is 7.00% per annum. If payable, the Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate.",
+      "lines": [
+        175,
+        175
+      ],
+      "note": "7.00% p.a. / 4 = 1.75% (= $0.175 / $10)."
+    },
+    "coupon.barrier_pct": {
+      "quote": "With respect to the MID Index, 2,646.08, which is approximately 70% of the Initial Underlying Value",
+      "lines": [
+        195,
+        195
+      ],
+      "note": "Both underlyings ~70%."
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon for that Observation Date will not accrue or be payable and that Contingent Coupon payment will be lost.",
+      "lines": [
+        173,
+        173
+      ],
+      "note": "No memory."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "With respect to the MID Index, 2,268.07, which is approximately 60% of the Initial Underlying Value",
+      "lines": [
+        194,
+        194
+      ],
+      "note": "Both underlyings ~60%."
+    },
+    "knock_in.monitoring": {
+      "quote": "The Downside Thresholds are considered only at maturity.",
+      "lines": [
+        281,
+        281
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying) In this case",
+      "lines": [
+        183,
+        183
+      ],
+      "note": "1:1 downside -> 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "We estimate that the value of each Security on the Trade Date is $9.653.",
+      "lines": [
+        133,
+        133
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Call wording 'any Observation Date beginning January 11, 2027' read literally as including the Final Observation Date (19 levels, obs #2-#20). Payoff on final is identical either way (100% call level > 70% coupon barrier); verify convention."
+    },
+    {
+      "field": "coupon.barrier_pct",
+      "issue": "Barriers stated as absolute levels 'approximately 70%' (2,646.08/3,780.11=69.9999%; 4,388.98/6,269.97=70.0000%); labelled 70."
+    },
+    {
+      "field": "knock_in.barrier_pct",
+      "issue": "Downside Thresholds 'approximately 60%' (2,268.07/3,780.11=60.0001%; 3,761.98/6,269.97=59.9999%); labelled 60."
+    },
+    {
+      "field": "underlyings",
+      "issue": "Names include ® separated by a space as printed in the table; no tickers given (only 'MID Index'/'SX5E Index' defined terms), ticker null."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Final coupon payment date given as 'Maturity Date' in table; mapped to 2031-07-15."
+    },
+    {
+      "field": "underlyings[0].name",
+      "issue": "Checker fails underlying_resolvable: verbatim name normalises to 'sandpmidcap400', which src/market/tickers.py does not alias (alias 'spmidcap400index' can never match since _normalise maps & to 'and' and strips 'index'). Tooling gap, not a filing property; name kept verbatim; ^SP400 initial-level close not verified."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity price indices (S&P MidCap 400, EURO STOXX 50), quarterly discrete autocall at 100%, non-memory contingent coupon at 70%, European (at-maturity) 60% knock-in with 1:1 loss; not buffered."
+  }
+}

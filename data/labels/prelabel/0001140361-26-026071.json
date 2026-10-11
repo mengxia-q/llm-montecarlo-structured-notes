@@ -1,0 +1,348 @@
+{
+  "accession": "0001140361-26-026071",
+  "source_file": "data/cleaned/0001140361-26-026071_ef20076553_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-18",
+    "strike_date": null,
+    "issue_date": "2026-06-24",
+    "maturity_date": "2036-06-24",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2979.765
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6323.27
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-18",
+      "2026-12-18",
+      "2027-03-18",
+      "2027-06-21",
+      "2027-09-20",
+      "2027-12-20",
+      "2028-03-20",
+      "2028-06-20",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-19",
+      "2029-06-18",
+      "2029-09-18",
+      "2029-12-18",
+      "2030-03-18",
+      "2030-06-18",
+      "2030-09-18",
+      "2030-12-18",
+      "2031-03-18",
+      "2031-06-18",
+      "2031-09-18",
+      "2031-12-18",
+      "2032-03-18",
+      "2032-06-21",
+      "2032-09-20",
+      "2032-12-20",
+      "2033-03-18",
+      "2033-06-21",
+      "2033-09-19",
+      "2033-12-19",
+      "2034-03-20",
+      "2034-06-20",
+      "2034-09-18",
+      "2034-12-18",
+      "2035-03-19",
+      "2035-06-18",
+      "2035-09-18",
+      "2035-12-18",
+      "2036-03-18",
+      "2036-06-18"
+    ],
+    "payment_dates": [
+      "2026-09-22",
+      "2026-12-22",
+      "2027-03-22",
+      "2027-06-23",
+      "2027-09-22",
+      "2027-12-22",
+      "2028-03-22",
+      "2028-06-22",
+      "2028-09-20",
+      "2028-12-20",
+      "2029-03-21",
+      "2029-06-21",
+      "2029-09-20",
+      "2029-12-20",
+      "2030-03-20",
+      "2030-06-21",
+      "2030-09-20",
+      "2030-12-20",
+      "2031-03-20",
+      "2031-06-23",
+      "2031-09-22",
+      "2031-12-22",
+      "2032-03-22",
+      "2032-06-23",
+      "2032-09-22",
+      "2032-12-22",
+      "2033-03-22",
+      "2033-06-23",
+      "2033-09-21",
+      "2033-12-21",
+      "2034-03-22",
+      "2034-06-22",
+      "2034-09-20",
+      "2034-12-20",
+      "2035-03-21",
+      "2035-06-21",
+      "2035-09-20",
+      "2035-12-20",
+      "2036-03-20",
+      "2036-06-24"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.075,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.324
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank |",
+      "lines": [
+        236,
+        236
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        240,
+        240
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | June 18, 2026 |",
+      "lines": [
+        59,
+        59
+      ]
+    },
+    "strike_date": {
+      "quote": "| Initial Level (1) | The closing level of each underlying asset on the trade date, as specified on the cover hereof. |",
+      "lines": [
+        256,
+        256
+      ],
+      "note": "No separate strike date; initial levels set on trade date June 18, 2026 -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | June 24, 2026 |",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | June 24, 2036 |",
+      "lines": [
+        64,
+        64
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Russell 2000 ® Index | RTY | 8.30% per annum | 2,979.765 |",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Russell 2000 ® Index | RTY | 8.30% per annum | 2,979.765 |",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E | 8.30% per annum | 6,323.27 |",
+      "lines": [
+        81,
+        81
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E | 8.30% per annum | 6,323.27 |",
+      "lines": [
+        81,
+        81
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |",
+      "lines": [
+        252,
+        252
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates | Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        290,
+        311
+      ],
+      "note": "Two-column-pair table: left 20 rows (2026-09-18..2031-06-18), right 19 rows (2031-09-18..2036-03-18) + final valuation date 2036-06-18 (line 63) = 40 dates"
+    },
+    "payment_dates": {
+      "quote": "| September 18, 2026* | September 22, 2026* | September 18, 2031 | September 22, 2031 |",
+      "lines": [
+        292,
+        311
+      ],
+      "note": "Read from table; last payment = maturity date 2036-06-24"
+    },
+    "autocall.first_observation_index": {
+      "quote": "| * | The Notes are not callable until the first potential call settlement date, which is June 23, 2027. |",
+      "lines": [
+        313,
+        313
+      ],
+      "note": "June 23, 2027 is the coupon payment date of obs #4 (June 21, 2027) -> index 4"
+    },
+    "autocall.levels_pct": {
+      "quote": "TD will automatically call the Notes if the closing level of each underlying asset on any observation date (beginning after 12 months) other than the final valuation date is equal to or greater than its call threshold level.",
+      "lines": [
+        247,
+        247
+      ],
+      "note": "100.00% constant; obs 4..39 (final excluded) = 36 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon | $0.2075 |",
+      "lines": [
+        245,
+        245
+      ],
+      "note": "8.30% p.a. / 4 = 2.075%; equals $0.2075/$10"
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,234.824, which is 75.00% of its Initial Level",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable",
+      "lines": [
+        243,
+        243
+      ],
+      "note": "No memory wording anywhere -> false"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| 2,234.824, which is 75.00% of its Initial Level | 89116V485 |",
+      "lines": [
+        80,
+        80
+      ],
+      "note": "Downside threshold column (75.00%) for both underlyings"
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        249,
+        249
+      ],
+      "note": "Tested on final level only"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        249,
+        249
+      ],
+      "note": "1:1 -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your Notes at the time the terms of your Notes were set on the trade date was $9.324 per Note",
+      "lines": [
+        83,
+        83
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Table marks June 21, 2027 observation with '*' (non-callable) but footnote says first potential call settlement date is June 23, 2027, which is that date's payment date (unstarred) and text says 'beginning after 12 months'. Chose index 4; verify (alternative 5)."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Schedule split in two side-by-side column pairs; final valuation date given in Key Dates (line 63), not in table row. 40 dates total."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 8.30% p.a. / 4 = 2.075 (consistent with $0.2075 per $10)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity indices (RTY, SX5E), quarterly discrete autocall, non-memory coupon, European (at-maturity) 75% downside threshold with full 1:1 loss below."
+  }
+}

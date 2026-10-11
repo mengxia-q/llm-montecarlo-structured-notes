@@ -1,0 +1,52 @@
+50 filings, 15 calls on disk, spent $0.0442
+  0000950103-26-010235 Citigroup Global Markets ours conf 1.00  spent $0.044
+  0001193125-26-301771 GS Finance Corp.         ours conf 1.00  spent $0.044
+  0001839882-26-046290 Bank of Nova Scotia      ours conf 1.00  spent $0.074
+  0001839882-26-034030 Bank of Nova Scotia      ours conf 1.00  spent $0.075
+  0000950103-26-010350 Citigroup Global Markets ours conf 1.00  spent $0.080
+  0000950103-26-009445 Citigroup Global Markets ours conf 1.00  spent $0.116
+  0001214659-26-011448 Bank of Montreal         ours conf 1.00  spent $0.121
+  0001140361-26-028280 Toronto-Dominion Bank    ours conf 1.00  spent $0.121
+  0001839882-26-046657 Bank of Nova Scotia      ours conf 1.00  spent $0.128
+  0001214659-26-011449 Bank of Montreal         ours conf 1.00  spent $0.132
+  0001193125-26-303101 GS Finance Corp.         ours conf 1.00  spent $0.149
+  0001214659-26-011786 Bank of Montreal         ours conf 1.00  spent $0.164
+  0001193125-26-407802 GS Finance Corp.         ours conf 1.00  spent $0.168
+  0001918704-26-018771 BofA Finance LLC         ours conf 1.00  spent $0.205
+  0000950103-26-008658 Barclays Bank PLC        ours conf 1.00  spent $0.244
+  0000950103-26-014050 Barclays Bank PLC        ours conf 1.00  spent $0.249
+  0000950103-26-012159 Barclays Bank PLC        ours conf 0.80  spent $0.264
+  0000950103-26-011404 Barclays Bank PLC        ours conf 0.80  spent $0.271
+  0001839882-26-041422 Bank of Nova Scotia      ours conf 1.00  spent $0.322
+  0001839882-26-036457 Bank of Nova Scotia      ours conf 1.00  spent $0.326
+  0001193125-26-392100 GS Finance Corp.         ours conf 1.00  spent $0.353
+  0001140361-26-026685 Toronto-Dominion Bank    ours conf 1.00  spent $0.364
+  0001839882-26-040531 Morgan Stanley Finance L ours conf 0.80  spent $0.382
+  0000950103-26-008849 Barclays Bank PLC        ours conf 1.00  spent $0.387
+  0001140361-26-025918 Toronto-Dominion Bank    ours conf 1.00  spent $0.396
+  0001193125-26-407080 GS Finance Corp.         ours conf 1.00  spent $0.445
+  0001140361-26-025408 Toronto-Dominion Bank    ours conf 0.00  spent $0.468
+  0001213900-26-098394 JPMorgan Chase Financial ours conf 0.60  spent $0.509
+  0001213900-26-085094 JPMorgan Chase Financial ours conf 0.80  spent $0.515
+  0001140361-26-026071 Toronto-Dominion Bank    ours conf 1.00  spent $0.526
+  0001213900-26-098408 JPMorgan Chase Financial ours conf 1.00  spent $0.540
+  0001918704-26-015862 BofA Finance LLC         ours conf 1.00  spent $0.560
+  0001918704-26-019604 BofA Finance LLC         ours conf 1.00  spent $0.583
+  0001918704-26-015864 BofA Finance LLC         ours conf 1.00  spent $0.587
+  0001918704-26-021949 BofA Finance LLC         ours conf 1.00  spent $0.601
+  0001213900-26-081428 JPMorgan Chase Financial ours conf 0.60  spent $0.613
+  0000950103-26-008922 Royal Bank of Canada     ours conf 1.00  spent $0.616
+  0000950103-26-012695 Royal Bank of Canada     ours conf 1.00  spent $0.633
+  0000950103-26-013968 Royal Bank of Canada     ours conf 1.00  spent $0.675
+  0000950103-26-012866 Royal Bank of Canada     ours conf 1.00  spent $0.681
+  0000950103-26-010910 Royal Bank of Canada     ours conf 1.00  spent $0.682
+  0001213900-26-081481 JPMorgan Chase Financial ours conf 0.60  spent $0.720
+  0001839882-26-028900 Bank of Nova Scotia      ours conf 1.00  spent $0.742
+  0001193125-26-307871 GS Finance Corp.         ours conf 1.00  spent $0.789
+  0000950103-26-011340 Royal Bank of Canada     ours conf 1.00  spent $0.830
+  0001213900-26-094790 JPMorgan Chase Financial ours conf 0.80  spent $0.854
+  0001839882-26-034600 Morgan Stanley Finance L ours conf 0.00  spent $0.859
+  0001140361-26-038659 Toronto-Dominion Bank    ours conf 1.00  spent $0.878
+  0000950103-26-008712 Barclays Bank PLC        ours conf 0.80  spent $0.885
+  0001839882-26-031609 Morgan Stanley Finance L ours conf 0.60  spent $0.908
+wrote 200 arm records; total spent $0.9076; 0 filings stopped by budget

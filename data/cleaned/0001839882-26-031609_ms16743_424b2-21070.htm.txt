@@ -1,0 +1,842 @@
+424B2
+
+1
+
+ms16743_424b2-21070.htm
+
+PRICING SUPPLEMENT NO. 16,743
+
+| Pricing Supplement No. 16,743 Registration Statement Nos. 333-293641; 333-293641-01 Dated June 26, 2026 Filed Pursuant to Rule 424(b)(2) |
+| --- |
+
+Morgan Stanley Finance LLC $4,065,000 Trigger Autocallable Contingent Yield Notes
+
+Linked to the Least Performing Underlying among the S&P 500
+®
+Index, the Russell 2000
+®
+Index and the EURO STOXX 50
+®
+Index due June 29, 2029
+
+Fully and Unconditionally Guaranteed by Morgan Stanley
+
+Principal at Risk Securities
+
+| Investment Description |
+| --- |
+
+These Trigger Autocallable Contingent Yield Notes (the “Securities”) are unsecured and unsubordinated debt obligations of Morgan Stanley Finance LLC (“MSFL”) and are fully and unconditionally guaranteed by Morgan Stanley. The Securities provide a return
+based on the least performing underlying
+among the S&P 500
+®
+Index (the “SPX Index”), the Russell 2000
+®
+Index (the “RTY Index”) and the EURO STOXX 50
+®
+Index (the “SX5E Index,” and together with the SPX Index and the RTY Index, the “Underlyings”). If the Index Closing Value of
+each of the SPX Index, the RTY Index and the SX5E Index
+(each, an “Underlying”) on a quarterly Observation Date (the “Observation Date Closing Values”) is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Index Closing Value of
+any of the Underlyings
+is below its respective Coupon Barrier, no coupon will accrue or be payable with respect to that Observation Date. In addition, MSFL will automatically call the Securities early if the Observation Date Closing Value for
+on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value. If the Securities are called, MSFL will pay the principal amount plus the Contingent Coupon for that Observation Date and no further amounts will be owed to you. If the Securities are not called prior to maturity and the Final Underlying Values of
+is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of
+any of the Underlyings
+is less than its respective Downside Threshold, MSFL will pay you significantly less than the full principal amount, if anything, at maturity, resulting in a loss on your principal amount that is proportionate to the decline in the value of the
+Underlying with the largest percentage decrease from its Initial Underlying Value to its Final Underlying Value (the “Least Performing Underlying”),
+even if the other Underlyings have appreciated or have not declined as much. The Securities may be appropriate for investors who seek an opportunity for potentially enhanced income in exchange for the risk of losing their principal at maturity and the risk of receiving no Contingent Coupons during the term of the Securities. Your return will be solely the Contingent Coupons, if any, and you will not participate in any appreciation of any of the Underlyings. Because all payments on the Securities are based on the least performing underlying among the SPX Index, the RTY Index and the SX5E Index, the fact that the Securities are linked to three Underlyings does not provide any asset diversification benefits and instead means that a decline in the value beyond the relevant Coupon Barrier and Downside Threshold of any of the SPX Index, the RTY Index, or the SX5E Index will result in no Contingent Coupon payments or a significant loss on your investment, even if the other Underlyings appreciate or do not decline as much.
+Investing in the Securities involves significant risks. The Issuer will not pay a quarterly Contingent Coupon if the Observation Date Closing Value for any of the Underlyings is below its respective Coupon Barrier. The Issuer will not automatically call the Securities if the Observation Date Closing Value of any of the Underlyings is below its respective Initial Underlying Value. You will lose a significant portion or all of your principal amount at maturity if the Securities are not called and the Final Underlying Value of any of the Underlyings is below its Downside Threshold.
+
+Generally, the higher the Contingent Coupon Rate for the Securities, the greater risk of loss on those Securities. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of each of the Underlyings are greater than their respective Downside Thresholds at the time of sale.
+
+All payments are subject to our credit risk. If we default on our obligations, you could lose a significant portion or all of your investment. These Securities are not secured obligations and you will not have any security interest in, or otherwise have any access to, any underlying reference asset or assets.
+
+| Features | Key Dates |
+| --- | --- |
+
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Trade Date | June 26, 2026 | |
+| --- | --- | --- | --- |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Settlement Date | June 30, 2026 (2 business days after the Trade Date) | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Observation Dates | Quarterly, callable beginning September 28, 2026. See “Observation Dates and Coupon Payment Dates” on page 7 for details. | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Final Observation Date* | June 26, 2029 | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | Maturity Date* | June 29, 2029 | |
+| ❑ Automatically Callable: MSFL will automatically call the Securities and pay you the principal amount plus the Contingent Coupon otherwise due for the quarterly Observation Date only if the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value, and no further payment will be made on the Securities. If the Securities are not called, investors will have the potential for downside equity market risk of the Least Performing Underlying at maturity. ❑ Contingent Coupon: If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index on any quarterly Observation Date is equal to or greater than its respective Coupon Barrier, MSFL will make a Contingent Coupon payment with respect to that Observation Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable with respect to that Observation Date. ❑ Contingent Downside Market Exposure at Maturity: If, at maturity, the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will make a cash payment to you at maturity equal to the principal amount of your Securities plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any Underlying is less than its respective Downside Threshold on the Final Observation Date, MSFL will repay less than the principal amount, if anything, at maturity, resulting in a significant loss on your principal amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date. If you sell the Securities prior to maturity, you may receive substantially less than the principal amount even if the values of all of the Underlyings are greater than their respective Downside Thresholds at the time of sale. Any payment on the Securities is subject to our creditworthiness. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. |
+
+NOTICE TO INVESTORS: THE SECURITIES ARE SIGNIFICANTLY RISKIER THAN CONVENTIONAL DEBT INSTRUMENTS. THE SECURITIES DO NOT GUARANTEE THE REPAYMENT OF THE FULL PRINCIPAL AMOUNT AT MATURITY, AND THE SECURITIES WILL HAVE DOWNSIDE MARKET RISK SIMILAR TO THE LEAST PERFORMING OF THE THREE UNDERLYINGS, SUBJECT TO THE RESPECTIVE DOWNSIDE THRESHOLDS AT MATURITY. THIS MARKET RISK IS IN ADDITION TO THE CREDIT RISK INHERENT IN PURCHASING OUR DEBT OBLIGATIONS. YOU SHOULD NOT PURCHASE THE SECURITIES IF YOU DO NOT UNDERSTAND OR ARE NOT COMFORTABLE WITH THE SIGNIFICANT RISKS INVOLVED IN INVESTING IN THE SECURITIES. THE SECURITIES WILL NOT BE LISTED ON ANY SECURITIES EXCHANGE.
+
+YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED UNDER “KEY RISKS” BEGINNING ON PAGE 8 OF THIS PRICING SUPPLEMENT IN CONNECTION WITH YOUR PURCHASE OF THE SECURITIES. EVENTS RELATING TO ANY OF THOSE RISKS, OR OTHER RISKS AND UNCERTAINTIES, COULD ADVERSELY AFFECT THE MARKET VALUE OF, AND THE RETURN ON, YOUR SECURITIES. YOU MAY LOSE A SIGNIFICANT PORTION OR ALL OF YOUR PRINCIPAL AMOUNT.
+
+| Security Offering |
+| --- |
+
+This pricing supplement relates to Securities linked to the least performing underlying among the S&P 500
+®
+®
+®
+Index. The Securities are offered at a minimum investment of $1,000 in denominations of $10 and integral multiples thereof.
+
+| Underlying | Initial Underlying Value | Coupon Barrier/Downside Threshold | Contingent Coupon Rate* | CUSIP | ISIN |
+| --- | --- | --- | --- | --- | --- |
+| S&P 500 ® Index | 7,354.02 | 5,147.81, which is approximately 70% of the Initial Underlying Value | 9.10% per annum | 61780N412 | US61780N4126 |
+| Russell 2000 ® Index | 3,010.084 | 2,107.059, which is approximately 70% of the Initial Underlying Value | 9.10% per annum | 61780N412 | US61780N4126 |
+| EURO STOXX 50 ® Index | 6,221.55 | 4,355.09, which is approximately 70% of the Initial Underlying Value | 9.10% per annum | 61780N412 | US61780N4126 |
+
+See “Additional Information about Morgan Stanley, MSFL and the Securities” on page 2. The Securities will have the terms set forth in the accompanying prospectus, product supplement, index supplement and tax supplement and this pricing supplement.
+
+Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these Securities or passed upon the adequacy or accuracy of this pricing supplement or the accompanying product supplement, index supplement, tax supplement or prospectus. Any representation to the contrary is a criminal offense. The Securities are not deposits or savings accounts and are not insured by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality, nor are they obligations of, or guaranteed by, a bank.
+
+| Estimated value on the Trade Date | $9.729 per Security. See “Additional Information about Morgan Stanley and the Securities” on page 2. | $9.729 per Security. See “Additional Information about Morgan Stanley and the Securities” on page 2. | $9.729 per Security. See “Additional Information about Morgan Stanley and the Securities” on page 2. | $9.729 per Security. See “Additional Information about Morgan Stanley and the Securities” on page 2. |
+| --- | --- | --- | --- | --- |
+| | Price to Public | Underwriting Discount (1) | Proceeds to Us (2) | |
+| Per Security | $10.00 | $0.20 | $9.80 | |
+| Total | $4,065,000 | $81,300 | $3,983,700 | |
+
+(1)
+
+UBS Financial Services Inc., acting as dealer, will receive from Morgan Stanley & Co. LLC, the agent, a fixed sales commission of $0.20 for each Security it sells. For more information, please see “Supplemental Plan of Distribution; Conflicts of Interest” on page 25 of this pricing supplement.
+
+(2)
+
+See “Use of Proceeds and Hedging” on page 25.
+
+The agent for this offering, Morgan Stanley & Co. LLC (“MS & Co.”), is our affiliate and a wholly owned subsidiary of Morgan Stanley. See “Supplemental Plan of Distribution; Conflicts of Interest” on page 25 of this pricing supplement.
+
+Morgan Stanley
+
+UBS Financial Services Inc.
+
+| Additional Information about Morgan Stanley, MSFL and the Securities |
+| --- |
+
+Morgan Stanley and MSFL have filed a registration statement (including a prospectus, as supplemented by a product supplement, an index supplement and a tax supplement) with the SEC for the offering to which this communication relates. In connection with your investment, you should read the prospectus in that registration statement, the product supplement, the index supplement, tax supplement and any other documents relating to this offering that Morgan Stanley and MSFL have filed with the SEC for more complete information about Morgan Stanley, MSFL and this offering. You may get these documents for free by visiting EDGAR on the SEC website at
+.
+www.sec.gov. Alternatively, Morgan Stanley, MSFL, any underwriter or any dealer participating in this offering will arrange to send you the prospectus, the index supplement, the product supplement and the tax supplement if you so request by calling toll-free 1-(800)-584-6837.
+
+You may access the accompanying product supplement, index supplement, tax supplement and prospectus on the SEC website at
+.
+www.sec.gov as follows:
+
+♦
+Product supplement for auto-callable securities dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005464/dp244203_424b2-psautocallsec.htm
+
+♦
+Index supplement dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005457/dp244875_424b2-indexsupp.htm
+
+♦
+Tax supplement dated April 8, 2026:
+
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005451/dp244874_424b2-sats.htm
+
+♦
+Prospectus dated April 8, 2026:
+https://www.sec.gov/Archives/edgar/data/895421/000095010326005450/dp244347_424b2-basepro.htm
+
+References to “MSFL” refer only to MSFL, references to “Morgan Stanley” refer only to Morgan Stanley and references to “we,” “our” and “us” refer to MSFL and Morgan Stanley collectively. In this document, the “Securities” refers to the Trigger Autocallable Contingent Yield Notes that are offered hereby. Also, references to the accompanying “prospectus,” “index supplement,” “product supplement” and “tax supplement” mean the prospectus filed by MSFL and Morgan Stanley dated April 8, 2026, the index supplement filed by MSFL and Morgan Stanley dated April 8, 2026, the product supplement for auto-callable securities filed by MSFL and Morgan Stanley dated April 8, 2026 and the tax supplement filed by MSFL and Morgan Stanley dated April 8, 2026, respectively.
+
+You should rely only on the information incorporated by reference or provided in this pricing supplement or the accompanying product supplement, index supplement, tax supplement and prospectus. We have not authorized anyone to provide you with different information. We are not making an offer of these Securities in any state where the offer is not permitted. You should not assume that the information in this pricing supplement or the accompanying product supplement, index supplement, tax supplement and prospectus is accurate as of any date other than the date on the front of this document.
+
+The Issue Price of each Security is $10. This price includes costs associated with issuing, selling, structuring and hedging the Securities, which are borne by you, and, consequently, the estimated value of the Securities on the Trade Date is less than $10. We estimate that the value of each Security on the Trade Date is $9.729.
+
+What goes into the estimated value on the Trade Date?
+
+In valuing the Securities on the Trade Date, we take into account that the Securities comprise both a debt component and a performance-based component linked to the Underlyings. The estimated value of the Securities is determined using our own pricing and valuation models, market inputs and assumptions relating to the Underlyings, instruments based on the Underlyings, volatility and other factors including current and expected interest rates, as well as an interest rate related to our secondary market credit spread, which is the implied interest rate at which our conventional fixed rate debt trades in the secondary market.
+
+What determines the economic terms of the Securities?
+
+In determining the economic terms of the Securities, including the Coupon Barriers, the Downside Thresholds and the Contingent Coupon Rate, we use an internal funding rate, which is likely to be lower than our secondary market credit spreads and therefore advantageous to us. If the issuing, selling, structuring and hedging costs borne by you were lower or if the internal funding rate were higher, one or more of the economic terms of the Securities would be more favorable to you.
+
+What is the relationship between the estimated value on the Trade Date and the secondary market price of the Securities?
+
+The price at which MS & Co. purchases the Securities in the secondary market, absent changes in market conditions, including those related to the Underlyings, may vary from, and be lower than, the estimated value on the Trade Date, because the secondary market price takes into account our secondary market credit spread as well as the bid-offer spread that MS & Co. would charge in a secondary market transaction of this type and other factors. However, because the costs associated with issuing, selling, structuring and hedging the Securities are not fully deducted upon issuance, for a period of up to 7 months following the Settlement Date, to the extent that MS & Co. may buy or sell the Securities in the secondary market, absent changes in market conditions, including those related to the Underlyings, and to our secondary market credit spreads, it would do so based on values higher than the estimated value. We expect that those higher values will also be reflected in your brokerage account statements.
+
+MS & Co. currently intends, but is not obligated, to make a market in the Securities, and, if it once chooses to make a market, may cease doing so at any time.
+
+2
+
+| Investor Suitability | Investor Suitability |
+| --- | --- |
+| The Securities may be suitable for you if: | The Securities may not be suitable for you if: |
+| ♦ You fully understand the risks inherent in an investment in the Securities, including the risk of loss of your entire initial investment. ♦ You can tolerate a loss of all or a substantial portion of your investment and are willing to make an investment that will have the same downside market risk, subject to the respective Downside Thresholds at maturity, as the Least Performing Underlying. ♦ You accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. ♦ You understand and accept the risks associated with the Underlyings. ♦ You believe each of the SPX Index, the RTY Index and the SX5E Index will close at or above its respective Coupon Barrier on the Observation Dates, and above its respective Downside Threshold on the Final Observation Date. ♦ You are willing to invest in the Securities based on the Contingent Coupon Rate specified on the cover hereof. ♦ You understand that the linkage to three Underlyings does not provide any portfolio diversification benefits and instead means that a decline in the value beyond the relevant Coupon Barrier or Downside Threshold of any of the SPX Index, the RTY Index or the SX5E Index will result in no Contingent Coupon payments or a significant loss on your investment, respectively, even if the other Underlyings appreciate or do not decline as much . ♦ You understand and accept that you will not participate in any appreciation in the values of the Underlyings and that your potential return is limited to the Contingent Coupons, if any. ♦ You can tolerate fluctuations in the value of the Securities prior to maturity that may be similar to or exceed the downside value fluctuations of the Least Performing Underlying. ♦ You do not seek guaranteed current income from this investment and are willing to forgo dividends paid on the stocks comprising the Underlyings. ♦ You are willing to invest in Securities that may be called early or you are otherwise willing to hold the Securities to maturity, as set forth on the cover of this pricing supplement. ♦ You accept that there may be little or no secondary market for the Securities and that any secondary market will depend in large part on the price, if any, at which MS & Co. is willing to trade the Securities. ♦ You are willing to assume our credit risk, and understand that if we default on our obligations you may not receive any amounts due to you and could lose your entire investment. | ♦ You do not fully understand the risks inherent in an investment in the Securities, including the risk of loss of your entire initial investment. ♦ You cannot tolerate a loss of all or a substantial portion of your investment, or are unwilling to make an investment that will have the same downside market risk, subject to the respective Downside Thresholds at maturity, as the Least Performing Underlying. ♦ You require an investment designed to provide a full return of principal at maturity. ♦ You do not understand and accept the risks associated with the Underlyings. ♦ You do not accept that you may not receive a Contingent Coupon on some or all of the Coupon Payment Dates. ♦ You believe that the value of one of the SPX Index, the RTY Index or the SX5E Index will decline during the term of the Securities and is likely to close below its respective Coupon Barrier on the Observation Dates or below its respective Downside Threshold on the Final Observation Date. ♦ You are not willing to invest in the Securities based on the Contingent Coupon Rate specified on the cover hereof. ♦ You are not comfortable with an investment linked to three Underlyings such that a decline in the value beyond the relevant Coupon Barrier or Downside Threshold of any of the SPX Index, the RTY Index or the SX5E Index will result in no Contingent Coupon payments or a significant loss on your investment, respectively, even if the other Underlyings appreciate or do not decline as much . ♦ You seek an investment that participates in the appreciation in the values of the Underlyings or that has unlimited return potential. ♦ You cannot tolerate fluctuations in the value of the Securities prior to maturity that may be similar to or exceed the downside value fluctuations of the Least Performing Underlying. ♦ You prefer the lower risk, and therefore accept the potentially lower returns, of fixed income investments with comparable maturities and credit ratings. ♦ You seek guaranteed current income from this investment or prefer to receive the dividends paid on the stocks comprising the Underlyings. ♦ You are unable or unwilling to invest in Securities that may be called early, or you are otherwise unable or unwilling to hold the Securities to maturity, as set forth on the cover of this pricing supplement, or you seek an investment for which there will be an active secondary market. ♦ You are not willing to assume our credit risk for all payments under the Securities, including any repayment of principal. |
+
+The investor suitability considerations identified above are not exhaustive. Whether or not the Securities are a suitable investment for you will depend on your individual circumstances, and you should reach an investment decision only after you and your investment, legal, tax, accounting and other advisors have carefully considered the suitability of an investment in the Securities in light of your particular circumstances. You should also review carefully the sections entitled “Key Risks” beginning on page 8 of this pricing supplement and “Risk Factors” beginning on page 7 of the accompanying prospectus and page S-38 of the accompanying product supplement and “Risk Factors” beginning on page TS-4 of the accompanying tax supplement for risks related to an investment in the Securities. For additional information about the Underlyings, see the information set forth under “S&P 500
+®
+Index” on page 17, “Russell 2000
+®
+Index” on page 19 and “EURO STOXX 50
+®
+Index” on page 21.
+
+3
+
+| Final Terms | Final Terms |
+| --- | --- |
+| Issuer | Morgan Stanley Finance LLC |
+| Guarantor | Morgan Stanley |
+| Issue Price | $10.00 per Security. The Securities are offered at a minimum investment of 100 Securities. |
+| Underlyings | The S&P 500 ® Index (the “SPX Index”), the Russell 2000 ® Index (the “RTY Index”) and the EURO STOXX 50 ® Index (the “SX5E Index”) |
+| Principal Amount | $10.00 per Security |
+| Term | Approximately 3 years, unless earlier called |
+| Automatic Call Feature | The Securities will be called automatically if the Observation Date Closing Values of each of the SPX Index, the RTY Index and the SX5E Index on any Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value. If the Securities are called, MSFL will pay you the Principal Amount plus the Contingent Coupon otherwise due for that Observation Date on the Coupon Payment Date related to such Observation Date, and no further payments will be made on the Securities. The Securities will not be called if the Observation Date Closing Value of any of the Underlyings is below its respective Initial Underlying Value. |
+| Contingent Coupon | If the Observation Date Closing Value of each of the SPX Index, RTY Index and the SX5E Index is equal to or greater than its respective Coupon Barrier on any Observation Date, we will pay you the Contingent Coupon for that Observation Date on the relevant Coupon Payment Date. If the Observation Date Closing Value of any of the SPX Index, the RTY Index or the SX5E Index is less than its Coupon Barrier on any Observation Date, the Contingent Coupon for that Observation Date will not accrue or be payable and that Contingent Coupon payment will be lost. Each Contingent Coupon will be a fixed amount based on equal quarterly installments at the Contingent Coupon Rate, which is a per-annum rate. The Contingent Coupon amount of $0.2275 for each Security (based on the per-annum rate of 9.10%) would be applicable to each Observation Date on which the Index Closing Value of each of the SPX Index, the RTY Index and the SX5E Index is greater than or equal to its respective Coupon Barrier. Contingent Coupon payments on the Securities are not guaranteed. MSFL will not pay you the Contingent Coupon for any Observation Date on which the Index Closing Value of any of the SPX Index, the RTY Index or the SX5E Index is less than its respective Coupon Barrier. |
+
+| Contingent Coupon Rate | The Contingent Coupon Rate is 9.10% per annum. |
+| --- | --- |
+| Observation Dates | Quarterly, callable beginning September 28, 2026. See “Observation Dates and Coupon Payment Dates” on page 7 for details. |
+| Trade Date | June 26, 2026 |
+| Settlement Date | June 30, 2026 |
+| Final Observation Date | June 26, 2029* |
+| Maturity Date | June 29, 2029* |
+| Coupon Payment Dates | With respect to each Observation Date, as set forth under “Observation Dates and Coupon Payment Dates” on page 7. |
+| Payment at Maturity (per Security) | MSFL will pay you a cash payment on the Maturity Date linked to the performance of the Least Performing Underlying during the term of the Securities, as follows: If the Securities have not been automatically called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will pay you the $10 Principal Amount plus the Contingent Coupon with respect to the Final Observation Date. If the Securities have not been automatically called and the Final Underlying Value of any of the SPX Index, the RTY Index or the SX5E Index is less than its respective Downside Threshold, MSFL will pay you an amount calculated as follows: $10 × (1 + Underlying Return of the Least Performing Underlying) In this case, you will lose a significant portion and could lose all of the Principal Amount in an amount proportionate to the decline of the Least Performing Underlying from the Trade Date to the Final Observation Date, even if the other Underlyings have appreciated or have not declined as much. |
+| Observation Date Closing Value | With respect to each of the Underlyings, the Index Closing Value of such Underlying on any Observation Date |
+| Least Performing Underlying | The Underlying with the largest percentage decrease from the Initial Underlying Value to the Final Underlying Value. |
+| Underlying Return | With respect to each Underlying, Final Underlying Value – Initial Underlying Value Initial Underlying Value |
+| * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. | * Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement. |
+
+4
+
+| Initial Underlying Value | With respect to the SPX Index, 7,354.02 With respect to the RTY Index, 3,010.084 With respect to the SX5E Index, 6,221.55 |
+| --- | --- |
+| Final Underlying Value | With respect to each Underlying, the Index Closing Value of such Underlying on the Final Observation Date |
+| Downside Threshold | With respect to the SPX Index, 5,147.81, which is approximately 70% of the Initial Underlying Value of such Underlying With respect to the RTY Index, 2,107.059, which is approximately 70% of the Initial Underlying Value of such Underlying With respect to the SX5E Index, 4,355.09, which is approximately 70% of the Initial Underlying Value of such Underlying |
+| Coupon Barrier | With respect to the SPX Index, 5,147.81, which is approximately 70% of the Initial Underlying Value of such Underlying With respect to the RTY Index, 2,107.059, which is approximately 70% of the Initial Underlying Value of such Underlying With respect to the SX5E Index, 4,355.09, which is approximately 70% of the Initial Underlying Value of such Underlying |
+| Record Date | The record date for each Contingent Coupon shall be the date one business day prior to such scheduled Coupon Payment Date; provided , however, that any Contingent Coupon payable at maturity or upon an automatic call shall be payable to the person to whom the Payment at Maturity or the payment upon an automatic call, as the case may be, shall be payable. |
+| Trustee | The Bank of New York Mellon |
+| Calculation Agent | MS & Co. |
+
+5
+
+| Investment Timeline | Investment Timeline |
+| --- | --- |
+| | The Initial Underlying Values, Downside Thresholds and Coupon Barriers of the SPX Index, the RTY Index and the SX5E Index were determined. The Contingent Coupon Rate was set. |
+| | If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Coupon Barrier on any Observation Date, MSFL will pay you a Contingent Coupon on the Coupon Payment Date. However, if the Observation Date Closing Value of any Underlying is below its Coupon Barrier, no coupon will be payable on the related Coupon Payment Date. If the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Initial Underlying Value on any Observation Date beginning on September 28, 2026, the Securities will be called and MSFL will pay you a cash payment per Security equal to the Principal Amount plus the Contingent Coupon otherwise due for that Observation Date, and no further payments will be made on the Securities. |
+| | T he Final Underlying Values are determined as of the Final Observation Date. If the Securities have not been called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is equal to or greater than its respective Downside Threshold (which is the same as its respective Coupon Barrier), MSFL will pay you the $10 Principal Amount plus the Contingent Coupon with respect to the Final Observation Date. However, if the Final Underlying Value of any of the RTY Index, the SPX Index or the SX5E Index is less than its respective Downside Threshold , MSFL will pay you an amount calculated as follows: $10 × (1 + Underlying Return of the Least Performing Underlying) per Security This amount will be significantly less than the $10 Principal Amount by an amount proportionate to the negative Underlying Return of the Least Performing Underlying, and you could lose your entire investment . |
+
+Investing in the Securities involves significant risks. You may lose YOUR ENTIRE principal amount. Any payment on the Securities is subject to OUR creditworthiness. If we were to default on our payment obligations, you may not receive any amounts owed to you under the Securities and you could lose your entire investment.
+
+The Issuer will not pay a quarterly Contingent Coupon if the Observation Date Closing Value for ANY of the Underlyings is below its respective Coupon Barrier. The Issuer will not automatically call the Securities if the Observation Date Closing Value of any of the Underlyings is below its respective Initial Underlying Value. You will lose a significant portion or all of your principal amount at maturity if the Securities are not called and the Final Underlying Value of Any of the Underlyings is below its RESPECTIVE Downside Threshold.
+
+6
+
+| Observation Dates (1) and Coupon Payment Dates (2) |
+| --- |
+
+| Observation Dates | Coupon Payment Dates |
+| --- | --- |
+| 9/28/2026 | 9/30/2026 |
+| 12/28/2026 | 12/30/2026 |
+| 3/30/2027 | 4/1/2027 |
+| 6/28/2027 | 6/30/2027 |
+| 9/27/2027 | 9/29/2027 |
+| 12/27/2027 | 12/29/2027 |
+| 3/27/2028 | 3/29/2028 |
+| 6/26/2028 | 6/28/2028 |
+| 9/26/2028 | 9/28/2028 |
+| 12/27/2028 | 12/29/2028 |
+| 3/26/2029 | 3/28/2029 |
+| 6/26/2029 (Final Observation Date) | 6/29/2029 (Maturity Date) |
+
+(1) Subject to postponement in the event of a Market Disruption Event or for non-Index Business Days. See “Postponement of Determination Dates” in the accompanying product supplement.
+
+(2) If, due to a Market Disruption Event or otherwise, any Observation Date is postponed so that it falls less than two business days prior to the scheduled Coupon Payment Date, the Coupon Payment Date will be postponed to the second business day following that Observation Date as postponed,
+provided
+that the Coupon Payment Date with respect to the Final Observation Date will be the Maturity Date. No additional coupon will accrue on an account of any such postponement.
+
+7
+
+| Key Risks |
+| --- |
+
+An investment in the Securities involves significant risks. The material risks that apply to the Securities are summarized here, but we urge you to also read the “Risk Factors” section of the accompanying prospectus, product supplement, and tax supplement. You should also consult your investment, legal, tax, accounting and other advisers in connection with your investment in the Securities.
+
+Risks Relating to an Investment in the Securities
+
+♦
+The Securities do not guarantee the payment of regular interest or the return of any principal.
+The terms of the Securities differ from those of ordinary debt securities in that the Securities do not guarantee the payment of regular interest or the return of any of the Principal Amount at maturity. Instead, if the Securities have not been called prior to maturity and if the Final Underlying Value of
+any of the SPX Index, the RTY Index or the SX5E Index
+is less than its respective Downside Threshold, you will be exposed to the decline in the value of the Least Performing Underlying from its Initial Underlying Value to its Final Underlying Value, on a 1-to-1 basis, resulting in a significant loss of your initial investment that is proportionate to the decline of the Least Performing Underlying over the term of the Securities, even if the other Underlyings have appreciated or have not declined as much.
+You could lose your entire Principal Amount.
+
+♦
+The Contingent Coupon is based solely on the Observation Date Closing Values.
+Whether the Contingent Coupon will be paid with respect to an Observation Date will be based on the Observation Date Closing Values of all three Underlyings. As a result, you will not know whether you will receive the Contingent Coupon with respect to any Coupon Payment Date until the related Observation Date. Moreover, because the Contingent Coupon is based solely on the Observation Date Closing Values on a specific Observation Date, if the Observation Date Closing Value of any of the SPX Index, the RTY Index or the SX5E Index is less than its respective Coupon Barrier, you will not receive any Contingent Coupon with respect to such Observation Date, even if the Index Closing Values of the Underlyings were higher on other days during the term of the Securities.
+
+♦
+You will not receive any Contingent Coupon for any quarterly period where the Observation Date Closing Value of any of the SPX Index, the RTY Index or the SX5E Index is less than or equal to its Coupon Barrier.
+A Contingent Coupon will be paid with respect to a quarterly period only if the Observation Date Closing Value of
+is greater than or equal to its respective Coupon Barrier. If the Observation Date Closing Values of
+any
+of the Underlyings is below its respective Coupon Barrier, the Issuer will not pay you a Contingent Coupon for that quarterly period. If, on each Observation Date over the term of the Securities, the SPX Index, the RTY Index or the SX5E Index closes below its respective Coupon Barrier, you will not receive any Contingent Coupons during the 3-year term of the Securities.
+
+♦
+Investors will not participate in any appreciation in the values of any of the Underlyings.
+Investors will not participate in any appreciation in the value of any of the Underlyings from its respective Initial Underlying Value, and the return on the Securities will be limited to the Contingent Coupon, if any, that is paid with respect to each Observation Date on which the Observation Date Closing Value of each of the SPX Index, the RTY Index and the SX5E Index is greater than or equal to their respective Coupon Barrier prior to maturity or an automatic call. The return on the Securities will be limited to the Contingent Coupons, if any, regardless of the appreciation of any of the Underlyings, which could be significant. It is possible that, on most or all of the Observation Dates, the Index Closing Values of one or more Underlyings could close below their respective Coupon Barriers so that you may receive few or no Contingent Coupons. In addition, if the Securities are not called prior to maturity, you may be exposed to the full downside market risk of the Least Performing Underlying and lose a significant portion or all of your investment despite not being able to participate in any potential appreciation of any of the Underlyings. If you do not earn sufficient Contingent Coupons over the term of the Securities, the overall return on the Securities may be less than the amount that would be paid on a conventional debt security of ours of comparable maturity.
+
+♦
+You may incur a loss on your investment if you are able to sell your Securities prior to maturity.
+The Downside Thresholds are considered only at maturity. If you are able to sell your Securities in the secondary market prior to maturity, you may have to sell them at a loss relative to your initial investment even if the Index Closing Values of all of the Underlyings are above their respective Downside Thresholds at that time. If you hold the Securities to maturity and the Securities have not been called, MSFL will either repay you the full principal amount per Security (possibly in addition to the Contingent Coupon for the Final Observation Date), if the Final Underlying Values of each of the SPX Index, the RTY Index and the SX5E Index are equal to or greater than their respective Downside Thresholds, or if any of the Underlyings closes below its respective Downside Threshold on the Final Observation Date, MSFL will repay significantly less than the Principal Amount, if anything, at maturity, resulting in a loss on your Principal Amount that is proportionate to the decline in the value of the Least Performing Underlying from the Trade Date to the Final Observation Date.
+
+♦
+Early redemption risk.
+The term of your investment in the Securities may be limited to as short as three months by the automatic call feature of the Securities. If the Securities are called prior to maturity, you will not be able to receive any further Contingent Coupons for any future Observation Dates, and you may be forced to invest in a lower interest rate environment and may not be able to reinvest at comparable terms or for similar returns. Generally, the longer the Securities have been outstanding, the less likely it is that they will be automatically called, because the level of at least one of the Underlyings will necessarily have declined from its respective Initial Underlying Value if the Securities were not called following an Observation Date, and there will be less time remaining until maturity in which the level(s) of such Underlying(s) can recover.
+
+♦
+A higher Contingent Coupon Rate and/or lower Coupon Barriers and Downside Thresholds may reflect greater expected volatility of the Underlyings, and greater expected volatility generally indicates an increased risk of declines in the levels of the Underlyings and, potentially, a significant loss at maturity.
+The economic terms for the Securities, including the Contingent Coupon Rate, the Coupon Barriers and the Downside Thresholds, are based, in part, on the expected volatility of the Underlyings at the time the terms of the Securities are set. “Volatility” refers to the frequency and magnitude of changes in the levels of the Underlyings. Higher expected volatility with respect to the Underlyings as of the Trade Date generally indicates a greater expectation as of that date that the Final Underlying Levels of any Underlying could ultimately be less than its Downside Threshold on the Final Observation Date, which
+
+8
+
+would result in a loss of a significant portion or all of the Principal Amount. At the time the terms of the Securities are set, higher expected volatility will generally be reflected in a higher Contingent Coupon Rate and/or lower Coupon Barriers and Downside Thresholds, as compared to otherwise comparable securities. Therefore, a relatively higher Contingent Coupon Rate, which would increase the upside return if the Observation Date Closing Values are greater than or equal to the Coupon Barriers on the quarterly Observation Dates, may indicate an increased risk that the levels of the Underlyings will decrease substantially, which would result in few or no Contingent Coupons and a significant loss at maturity. In addition, and as described above in "The Securities do not guarantee the payment of regular interest or the return of any principal," in general, the higher potential return on the Securities as compared to the return payable on our ordinary debt securities with a comparable maturity indicates the risk that you may not receive a positive return on the Securities and may lose a significant portion or all of your investment. Further, relatively lower Downside Thresholds may not indicate that the Securities have a greater likelihood of a return of principal at maturity. You should be willing to accept the downside market risk of the Underlyings and the potential to lose a significant portion or all of your Principal Amount at maturity.
+
+♦
+The Securities are subject to our credit risk, and any actual or anticipated changes to our credit ratings or our credit spreads may adversely affect the market value of the Securities.
+You are dependent on our ability to pay all amounts due on the Securities, including Contingent Coupons, if any, and any payments upon an automatic call or at maturity, and therefore you are subject to our credit risk. If we default on our obligations under the Securities, your investment would be at risk and you could lose some or all of your investment. As a result, the market value of the Securities prior to maturity will be affected by changes in the market’s view of our creditworthiness. Any actual or anticipated decline in our credit ratings or increase in the credit spreads charged by the market for taking our credit risk is likely to adversely affect the market value of the Securities.
+
+♦
+As a finance subsidiary, MSFL has no independent operations and will have no independent assets.
+As a finance subsidiary, MSFL has no independent operations beyond the issuance and administration of its securities and will have no independent assets available for distributions to holders of MSFL securities if they make claims in respect of such securities in a bankruptcy, resolution or similar proceeding. Accordingly, any recoveries by such holders will be limited to those available under the related guarantee by Morgan Stanley and that guarantee will rank
+pari passu
+with all other unsecured, unsubordinated obligations of Morgan Stanley. Holders will have recourse only to a single claim against Morgan Stanley and its assets under the guarantee. Holders of securities issued by MSFL should accordingly assume that in any such proceedings they would not have any priority over and should be treated
+pari passu
+with the claims of other unsecured, unsubordinated creditors of Morgan Stanley, including holders of Morgan Stanley-issued securities.
+
+♦
+The market price of the Securities will be influenced by many unpredictable factors.
+Several factors, many of which are beyond our control, will influence the value of the Securities in the secondary market and the price at which MS & Co. may be willing to purchase or sell the Securities in the secondary market. Although we expect that generally the Index Closing Values of the Underlyings on any day will affect the value of the Securities more than any other single factor, other factors that may influence the value of the Securities include:
+
+o
+the value and volatility (frequency and magnitude of changes in value) of the Underlyings,
+
+o
+whether the Observation Date Closing Value of any Underlying has been below its Coupon Barrier on any Observation Date,
+
+o
+dividend rates on the stocks comprising the Underlyings,
+
+o
+interest and yield rates in the market,
+
+o
+time remaining until the Securities mature,
+
+o
+geopolitical conditions and economic, financial, political, regulatory or judicial events that affect the Underlyings or equities markets generally and which may affect the Final Underlying Values,
+
+o
+the occurrence of certain events affecting any of the Underlyings that may or may not require an adjustment to its composition, and
+
+o
+any actual or anticipated changes in our credit ratings or credit spreads.
+
+Some or all of these factors will influence the terms of the Securities at the time of issuance and the price that you will receive if you sell your Securities prior to maturity, as the Securities are comprised of both a debt component and a performance-based component linked to the Underlyings, and these are the types of factors that also generally affect the values of debt securities and derivatives linked to the Underlyings. Generally, the longer the time remaining to maturity, the more the market price of the Securities will be affected by the other factors described above. The value of each of the Underlyings may be, and each has recently been, extremely volatile, and we can give you no assurance that the volatility will lessen. See “Historical Information” below. You may receive less, and possibly significantly less, than the Principal Amount per Security if you try to sell your Securities prior to maturity.
+
+♦
+Investing in the Securities is not equivalent to investing in the Underlyings.
+Investing in the Securities is not equivalent to investing in any Underlying or the component stocks of any Underlying. Investors in the Securities will not have voting rights or rights to receive dividends or other distributions or any other rights with respect to stocks that constitute the Underlyings. Further, you will not participate in any potential appreciation of any Underlying even though you may be exposed to its full decline at maturity. Additionally, the Underlyings are not “total return” indices, which, in addition to reflecting the market prices of the stocks that constitute the Underlyings, would also reflect dividends paid on such stocks. The return on the Securities will not reflect such a total return feature.
+
+♦
+The rate we are willing to pay for securities of this type, maturity and issuance size is likely to be lower than the rate implied by our secondary market credit spreads and advantageous to us. Both the lower rate and the inclusion of costs associated with issuing, selling, structuring and hedging the Securities in the Issue Price reduce the economic terms of the Securities, cause the estimated value of the Securities to be less than the Issue Price and will adversely affect secondary market prices.
+Assuming no change in market conditions or any other relevant factors, the prices, if any, at which dealers, including MS & Co., may be willing to purchase the Securities in secondary market transactions will likely be significantly lower than the Issue Price, because secondary market prices will exclude the issuing, selling, structuring and hedging-related costs that are included in the Issue Price and borne by you
+
+9
+
+and because the secondary market prices will reflect our secondary market credit spreads and the bid-offer spread that any dealer would charge in a secondary market transaction of this type as well as other factors.
+
+The inclusion of the costs of issuing, selling, structuring and hedging the Securities in the Issue Price and the lower rate we are willing to pay as issuer make the economic terms of the Securities less favorable to you than they otherwise would be.
+
+However, because the costs associated with issuing, selling, structuring and hedging the Securities are not fully deducted upon issuance, for a period of up to 7 months following the Settlement Date, to the extent that MS & Co. may buy or sell the Securities in the secondary market, absent changes in market conditions, including those related to the Underlyings, and to our secondary market credit spreads, it would do so based on values higher than the estimated value, and we expect that those higher values will also be reflected in your brokerage account statements.
+
+♦
+The estimated value of the Securities is determined by reference to our pricing and valuation models, which may differ from those of other dealers and is not a maximum or minimum secondary market price.
+These pricing and valuation models are proprietary and rely in part on subjective views of certain market inputs and certain assumptions about future events, which may prove to be incorrect. As a result, because there is no market-standard way to value these types of securities, our models may yield a higher estimated value of the Securities than those generated by others, including other dealers in the market, if they attempted to value the Securities. In addition, the estimated value on the Trade Date does not represent a minimum or maximum price at which dealers, including MS & Co., would be willing to purchase your Securities in the secondary market (if any exists) at any time. The value of your Securities at any time after the date of this pricing supplement will vary based on many factors that cannot be predicted with accuracy, including our creditworthiness and changes in market conditions. See also “The market price of the Securities will be influenced by many unpredictable factors” above.
+
+♦
+The Securities will not be listed on any securities exchange and secondary trading may be limited.
+The Securities will not be listed on any securities exchange. Therefore, there may be little or no secondary market for the Securities. MS & Co. currently intends, but is not obligated, to make a market in the Securities. Even if there is a secondary market, it may not provide enough liquidity to allow you to trade or sell the Securities easily. Because we do not expect that other broker-dealers will participate significantly in the secondary market for the Securities, the price at which you may be able to trade your Securities is likely to depend on the price, if any, at which MS & Co. is willing to transact. If, at any time, MS & Co. were to cease making a market in the Securities, it is likely that there would be no secondary market for the Securities. Accordingly, you should be willing to hold your Securities to maturity.
+
+♦
+Hedging and trading activity by our affiliates could potentially affect the value of the Securities.
+One or more of our affiliates and/or third-party dealers expect to carry out hedging activities related to the Securities (and to other instruments linked to the Underlyings), including trading in the stocks that constitute the Underlyings as well as in other instruments related to the Underlyings. As a result, these entities may be unwinding or adjusting hedge positions during the term of the Securities, and the hedging strategy may involve greater and more frequent dynamic adjustments to the hedge as the Final Observation Date approaches. Some of our subsidiaries also trade the stocks that constitute the Underlyings and other financial instruments related to the Underlyings on a regular basis as part of their general broker-dealer and other businesses. Any of these hedging or trading activities on or prior to the Trade Date could potentially increase the Initial Underlying Value and, as a result, the Coupon Barrier of any of the Underlyings, which is the level at or above which such Underlying must close on each Observation Date in order for you to earn a Contingent Coupon, and the Downside Threshold of any of the Underlyings, which if the Securities are not called prior to maturity, is the level at or above which such Underlying must close on the Final Observation Date in order for you to avoid being exposed to the negative performance of the Least Performing Underlying at maturity (in each case, depending also on the performance of the other Underlyings). Additionally, such hedging or trading activities during the term of the Securities could potentially affect the values of the Underlyings on the Observation Dates and, accordingly, whether the Contingent Coupon is payable or whether the Securities are automatically called prior to maturity and, if the Securities are not called prior to maturity, the payout to you at maturity, if any (in each case, depending also on the performance of the other Underlyings).
+
+♦
+The Calculation Agent, which is our affiliate, will make determinations with respect to the Securities.
+As Calculation Agent, MS & Co. will determine the Initial Underlying Values, the Coupon Barriers, the Downside Thresholds, the Observation Date Closing Levels and the Final Underlying Value of each Underlying, whether a Contingent Coupon is payable with respect to each Observation Date, whether a Market Disruption Event has occurred and the payment that you will receive upon a call or at maturity, if any. Moreover, certain determinations made by MS & Co., in its capacity as Calculation Agent, may require it to exercise discretion and make subjective judgments, such as with respect to the occurrence or nonoccurrence of Market Disruption Events. These potentially subjective determinations may affect the payout to you upon a call or at maturity, if any. For further information regarding these types of determinations, see “Description of Auto-Callable Securities—Postponement of Determination Dates,” “—Discontinuance of Any Underlying; Alteration of Method of Calculation” and “—Calculation Agent and Calculations” in the accompanying product supplement. In addition, MS & Co. has determined the estimated value of the Securities on the Trade Date.
+
+♦
+The U.S. federal income tax consequences of an investment in the securities offered by this pricing supplement are uncertain.
+There is no direct legal authority regarding the proper U.S. federal income tax treatment of the securities, and significant aspects of the tax treatment of the securities are uncertain. Moreover, non-U.S. investors should note that persons having withholding responsibility in respect of the securities are, absent an exception, expected to withhold on any coupon paid to a non-U.S. investor, generally at a rate of 30%. We will not pay any additional amounts in respect of such withholding. You should review carefully the section entitled “United States Federal Income Tax Considerations” herein, in combination with the section entitled “United States Federal Taxation” in the accompanying tax supplement, and consult your tax adviser regarding the U.S. federal income tax consequences of an investment in the securities.
+
+Risks Relating to the Underlyings
+
+10
+
+♦
+You are exposed to the market risk of all three Underlyings.
+Your return on the Securities is not linked to a basket consisting of the Underlyings. Rather, it will be contingent upon the independent performance of each of the SPX Index, the RTY Index and the SX5E Index. Unlike an instrument with a return linked to a basket of underlying assets, in which risk is mitigated and diversified among all of the components of the basket, you will be exposed to the risks related to each of the SPX Index, the RTY Index and the SX5E Index. Poor performance by any of the Underlyings over the term of the Securities may negatively affect your return and will not be offset or mitigated by positive performance by the other Underlyings. For the Securities to be automatically called or to receive any Contingent Coupon payment or contingent repayment of principal at maturity from MSFL, all three Underlyings must close at or above their respective Initial Underlying Values, Coupon Barriers or Downside Thresholds, respectively, on the applicable Observation Date or Final Observation Date, as applicable. In addition, if not called prior to maturity, you may incur a loss proportionate to the negative return of the Least Performing Underlying even if the other Underlyings appreciate or do not decline as much during the term of the Securities. Accordingly, your investment is subject to the market risk of all three Underlyings. Additionally, movements in the values of the Underlyings may be correlated or uncorrelated at different times during the term of the Securities, and such correlation (or lack thereof) could have an adverse effect on your return on the Securities. For example, the likelihood that one of the Underlyings will close below its Coupon Barrier on an Observation Date or below its Downside Threshold on the Final Observation Date will increase when the movements in the values of the Underlyings are uncorrelated. This results in a greater potential for a Contingent Coupon to not be paid during the term of the Securities and for a significant loss of principal at maturity if the Securities are not previously called. If the performance of the Underlyings is not correlated or is negatively correlated, the risk of not receiving a Contingent Coupon and of incurring a significant loss of principal at maturity is greater. In addition, correlation generally decreases for each additional Underlying to which the Securities are linked, resulting in a greater potential for a significant loss of principal at maturity.
+
+♦
+Because the Securities are linked to the performance of the least performing among the SPX Index, the RTY Index and the SX5E Index, you are exposed to greater risk of receiving no Contingent Coupon payments or sustaining a significant loss on your investment than if the Securities were linked to just the SPX Index, just the RTY Index or just the SX5E Index.
+The risk that you will not receive any Contingent Coupons and/or lose a significant portion or all of your initial investment in the Securities is greater if you invest in the Securities as opposed to substantially similar securities that are linked to the performance of just the SPX Index, just the RTY Index or just the SX5E Index. With three Underlyings, it is more likely that one or more Underlyings will close below their respective Coupon Barriers on the quarterly Observation Dates or below their respective Downside Thresholds on the Final Observation Date than if the Securities were linked to only one of the Underlyings, and therefore it is more likely that you will not receive any Contingent Coupons or will receive an amount in cash significantly less than the principal amount on the Maturity Date.
+
+♦
+The Securities are linked to the Russell 2000
+®
+Index and are subject to risks associated with small-capitalization companies.
+The Russell 2000
+®
+Index consists of stocks issued by companies with relatively small market capitalization. These companies often have greater stock price volatility, lower trading volume and less liquidity than large-capitalization companies and, therefore, the Russell 2000
+®
+Index may be more volatile than indices that consist of stocks issued by large-capitalization companies. Stock prices of small-capitalization companies are also more vulnerable than those of large-capitalization companies to adverse business and economic developments, and the stocks of small-capitalization companies may be thinly traded. In addition, small capitalization companies are typically less well-established and less stable financially than large-capitalization companies and may depend on a small number of key personnel, making them more vulnerable to loss of personnel. Such companies tend to have smaller revenues, less diverse product lines, smaller shares of their product or service markets, fewer financial resources and less competitive strengths than large-capitalization companies and are more susceptible to adverse developments related to their products.
+
+♦
+The Securities are linked to
+the EURO STOXX 50
+®
+Index and
+are subject to risks associated with investments in securities linked to the value of foreign equity securities.
+The Securities are linked to the value of foreign equity securities. Investments in securities linked to the value of foreign equity securities involve risks associated with the securities markets in those countries, including risks of volatility in those markets, governmental intervention in those markets and cross-shareholdings in companies in certain countries. Although the equity securities included in
+the EURO STOXX 50
+®
+Index
+are traded in foreign currencies, the value of your Securities (as measured in U.S. dollars) will not be adjusted for any exchange rate fluctuations. Also, there is generally less publicly available information about foreign companies than about U.S. companies that are subject to the reporting requirements of the United States Securities and Exchange Commission, and foreign companies are subject to accounting, auditing and financial reporting standards and requirements different from those applicable to U.S. reporting companies. The prices of securities issued in foreign markets may be affected by political, economic, financial and social factors in those countries, or global regions, including changes in government, economic and fiscal policies and currency exchange laws. Local securities markets may trade a small number of securities and may be unable to respond effectively to increases in trading volume, potentially making prompt liquidation of holdings difficult or impossible at times. Moreover, the economies in such countries may differ favorably or unfavorably from the economy in the United States in such respects as growth of gross national product, rate of inflation, capital reinvestment, resources, self-sufficiency and balance of payment positions.
+
+♦
+Governmental regulatory actions could result in material changes to the composition of the Underlying and could negatively affect your return on the Securities.
+Governmental regulatory actions, including but not limited to sanctions-related actions by the U.S. or foreign governments, could make it necessary or advisable for there to be material changes to the composition of the Underlying, depending on the nature of such governmental regulatory actions and the Underlying constituent stocks that are affected. If any governmental regulatory action results in the removal of Underlying constituent stocks that have (or historically have had) significant weights within the Underlying, such removal, or even any uncertainty relating to a possible removal, could have a material and negative effect on the level of the Underlying and, therefore, your return on the Securities.
+
+♦
+Adjustments to the S&P 500
+®
+®
+Index or the EURO STOXX 50
+®
+Index could adversely affect the value of the Securities.
+The Underlying Publisher of each of the S&P 500
+®
+Index
+,
+the Russell 2000
+®
+®
+Index is responsible for calculating and maintaining such Underlying. The Underlying Publisher may add, delete or substitute the stocks constituting the relevant Underlying or make other methodological changes required by certain corporate events relating to the stocks constituting such Underlying, such as stock dividends, stock splits, spin-offs, rights offerings and extraordinary dividends, that could change the value of the
+
+11
+
+Underlying. The Underlying Publisher may discontinue or suspend calculation or publication of the relevant Underlying at any time. In these circumstances, the Calculation Agent will have the sole discretion to substitute a Successor Underlying that is comparable to the discontinued Underlying, and is permitted to consider indices that are calculated and published by the Calculation Agent or any of its affiliates. Any of these actions could adversely affect the value of any of the Underlyings and, consequently, the value of the Securities.
+
+12
+
+| Hypothetical Payments on the Securities at Maturity |
+| --- |
+
+The examples below illustrate the payment upon a call or at maturity for a $10 Security on a hypothetical offering of the Securities, with the following assumptions (the actual terms for the Securities were determined on the Trade Date and specified on the cover hereof; amounts may have been rounded for ease of reference):
+
+♦
+Principal Amount: $10
+
+♦
+Term: Approximately 3 years
+
+♦
+Hypothetical Initial Underlying Value:
+
+o
+SPX Index: 6,000
+
+o
+RTY Index: 2,000
+
+o
+SX5E Index: 5,000
+
+♦
+Contingent Coupon Rate: 9.10% per annum (or 2.275% per quarter)
+
+♦
+Contingent Coupon: $0.2275 per quarter
+
+♦
+Observation Dates: Quarterly
+
+♦
+Hypothetical Coupon Barriers:
+
+o
+SPX Index: 4,200, which is 70% of the Hypothetical Initial Underlying Value of the SPX Index
+
+o
+RTY Index: 1,400, which is 70% of the Hypothetical Initial Underlying Value of the RTY Index
+
+o
+SX5E Index: 3,500, which is 70% of the Hypothetical Initial Underlying Value of the SX5E Index
+
+♦
+Hypothetical Downside Thresholds:
+
+o
+SPX Index: 4,200, which is 70% of the Hypothetical Initial Underlying Value of the SPX Index
+
+o
+RTY Index: 1,400, which is 70% of the Hypothetical Initial Underlying Value of the RTY Index
+
+o
+SX5E Index: 3,500, which is 70% of the Hypothetical Initial Underlying Value of the SX5E Index
+
+Example 1 — Securities are Called on the Second Observation Date
+
+| Date | Index Closing Value | Index Closing Value | Index Closing Value | Payment (per Security) |
+| --- | --- | --- | --- | --- |
+| Date | SPX Index | RTY Index | SX5E Index | Payment (per Security) |
+| First Observation Date | 6,000 ( at or above Coupon Barrier) | 1,600 ( at or above Coupon Barrier) | 4,300 ( at or above Coupon Barrier) | $0.2275 (Contingent Coupon — Not Called) |
+| Second Observation Date | 6,720 ( at or above Coupon Barrier and Initial Underlying Value) | 2,100 ( at or above Coupon Barrier and Initial Underlying Value) | 5,300 ( at or above Coupon Barrier and Initial Underlying Value) | $10.2275 (Settlement Amount) |
+| | | | Total Payment: | $10.455 (4.55% return) |
+
+Each of the SPX Index, the RTY Index and SX5E Index closes above its respective Coupon Barrier on the first Observation Date and therefore a Contingent Coupon is paid on the related Coupon Payment Date. Because each of the SPX Index, the RTY Index and the SX5E Index closes above its respective Initial Underlying Value on the second Observation Date, the Securities are called after such Observation Date. MSFL will pay you on the call settlement date a total of $10.2275 per Security, reflecting your principal amount plus the applicable Contingent Coupon. When added to the Contingent Coupon payments of $0.2275 received in respect of the prior Observation Dates, MSFL will have paid you a total of $10.455 per Security for a 4.55% total return on the Securities. No further amount will be owed to you under the Securities, and you do not participate in the appreciation of the Underlyings.
+
+Example 2 — Securities are NOT Called and the Final Underlying Value of each of the SPX Index, the RTY Index and the SX5E Index is at or above its respective Coupon Barrier and Downside Threshold.
+
+| Date | Index Closing Value | Index Closing Value | Index Closing Value | Payment (per Security) |
+| --- | --- | --- | --- | --- |
+| Date | SPX Index | RTY Index | SX5E Index | Payment (per Security) |
+| First Observation Date | 6,300 ( at or above Coupon Barrier) | 1,700 ( at or above Coupon Barrier) | 4,600 ( at or above Coupon Barrier) | $0.2275 (Contingent Coupon — Not Called) |
+| Second Observation Date | 5,900 ( at or above Coupon Barrier) | 1,700 ( at or above Coupon Barrier) | 4,500 ( at or above Coupon Barrier) | $0.2275 (Contingent Coupon — Not Called) |
+| Third Observation Date | 5,800 ( at or above Coupon Barrier) | 1,550 ( at or above Coupon Barrier) | 2,600 ( below Coupon Barrier) | $0 (Not Called) |
+| Fourth Observation Date | 5,700 ( at or above Coupon Barrier; below Initial Underlying Value) | 1,900 ( at or above Coupon Barrier; below Initial Underlying Value) | 2,800 ( below Coupon Barrier and Initial Underlying Value) | $0 (Not Called) |
+| Fifth to Eleventh Observation | Various ( all at or | Various ( all at or above | Various ( all below Coupon | $0 (Not Called) |
+
+13
+
+| Dates | above Coupon Barrier; all below Initial Underlying Value) | Coupon Barrier; all below Initial Underlying Value) | Barrier and Initial Underlying Value) | |
+| --- | --- | --- | --- | --- |
+| Final Observation Date | 7,000 ( at or above Coupon Barrier and Downside Threshold) | 2,300 ( at or above Coupon Barrier and Downside Threshold) | 4,100 ( at or above Coupon Barrier and Downside Threshold) | $10.2275 (Settlement Amount) |
+| | | | Total Payment: | $10.6825 (6.825% return) |
+
+Each of the SPX Index, the RTY Index and the SX5E Index closes above its respective Coupon Barrier on the first two Observation Dates and therefore a Contingent Coupon is paid on each related Coupon Payment Date. On each of the third and fourth Observation Dates, both the SPX Index and RTY Index close at or above their respective Coupon Barriers (but below their respective Initial Underlying Values), but the SX5E Index closes below its Coupon Barrier. Therefore, no Contingent Coupon is paid on either related Coupon Payment Date. On each of the fifth to eleventh Observation Dates, both the SPX Index and RTY Index close at or above their respective Coupon Barriers (but below their respective Initial Underlying Values) but the SX5E Index closes below its respective Coupon Barrier. Therefore, no Contingent Coupon is paid on any related Coupon Payment Date. On the Final Observation Date, each of the SPX Index, the RTY Index and the SX5E Index closes above its respective Coupon Barrier and Downside Threshold. Therefore, at maturity, MSFL will pay you a total of $10.2275 per Security, reflecting your principal amount plus the applicable Contingent Coupon. When added to the total Contingent Coupon payments of $0.455‬ received in respect of the prior Observation Dates, MSFL will have paid you a total of $10.6825‬ per Security for a 6.825‬% total return on the Securities over three years. You do not participate in any appreciation of the Underlyings.
+
+Example 3 — Securities are NOT Called and the Final Underlying Value of one of the Underlyings is below its respective Downside Threshold
+
+| Date | Index Closing Value | Index Closing Value | Index Closing Value | Payment (per Security) |
+| --- | --- | --- | --- | --- |
+| Date | SPX Index | RTY Index | SX5E Index | Payment (per Security) |
+| First Observation Date | 5,200 ( at or above Coupon Barrier) | 1,500 ( at or above Coupon Barrier) | 4,500 ( at or above Coupon Barrier) | $0.2275 (Contingent Coupon — Not Called) |
+| Second Observation Date | 5,680 ( at or above Coupon Barrier) | 1,800 ( at or above Coupon Barrier) | 4,600 ( at or above Coupon Barrier) | $0.2275 (Contingent Coupon — Not Called) |
+| Third Observation Date | 6,200 ( at or above Coupon Barrier) | 1,900 ( at or above Coupon Barrier) | 2,300 ( below Coupon Barrier) | $0 (Not Called) |
+| Fourth Observation Date | 5,900 ( at or above Coupon Barrier; below Initial Underlying Value) | 1,950 ( at or above Coupon Barrier; below Initial Underlying Value) | 2,500 ( below Coupon Barrier and Initial Underlying Value) | $0 (Not Called) |
+| Fifth to Eleventh Observation Dates | Various ( all below Coupon Barrier and Initial Underlying Value) | Various ( all below Coupon Barrier and Initial Underlying Value) | Various ( all below Coupon Barrier and Initial Underlying Value) | $0 (Not Called) |
+| Final Observation Date | 5,800 ( at or above Coupon Barrier and Downside Threshold) | 1,700 ( at or above Coupon Barrier and Downside Threshold) | 1,600 ( below Coupon Barrier and Downside Threshold) | $10 + [$10 × Underlying Return of the Least Performing Underlying] = $10 + [$10 × -60%] = $10 - $6 = $4 (Payment at Maturity) |
+| | | | Total Payment: | $4.455‬ (-55.45% return) |
+
+Each of the SPX Index, the RTY Index and the SX5E Index closes above its respective Coupon Barrier on the first two Observation Dates, and, therefore a Contingent Coupon is paid on each related Coupon Payment Date. On each of the third and fourth Observation Dates, both the SPX Index and the RTY Index close at or above their respective Coupon Barriers (but below their respective Initial Underlying Values), but the SX5E Index closes below its Coupon Barrier. Therefore, no Contingent Coupon is paid on either related Coupon Payment Date. On each of the fifth to the eleventh Observation Dates, each of the SPX Index, the RTY Index and the SX5E Index closes below its respective Coupon Barrier and thus no Contingent Coupon is paid on any related Coupon Payment Date. On the Final Observation Date, both the SPX Index and the RTY Index close above their respective Coupon Barriers and Downside Thresholds but the SX5E Index closes below its Coupon Barrier and Downside Threshold. Therefore, at maturity, investors are exposed to the downside performance of the Least Performing Underlying and MSFL will pay you $4 per Security, which reflects the percentage decrease of the Least Performing Underlying from the Trade Date to the Final Observation Date. When added to the total Contingent Coupon payments of $0.455 received in respect of the prior Observation Dates, MSFL will have paid you $4.455‬ per Security, for a loss on the Securities of 55.45%.
+
+The Securities differ from ordinary debt securities in that, among other features, MSFL is not necessarily obligated to repay the full amount of your initial investment. If the Securities are not called on any Observation Date, you may lose a significant portion or all of your initial investment. Specifically, if the Securities are not called and the Final Underlying Value of any Underlying is less than its respective Downside Threshold, you will lose 1% (or a fraction thereof) of your Principal Amount for each 1% (or a fraction thereof) that the Underlying Return of the Least Performing Underlying is less than zero. Any payment on the Securities, including any Contingent Coupon, payment upon an automatic call or the Payment at Maturity, is dependent on our ability to satisfy our obligations when they come due. If we are unable to meet our obligations, you may not receive any amounts due to you under the Securities.
+
+The Issuer will not pay a quarterly Contingent Coupon if the Observation Date Closing Value for any of the Underlyings is below its respective Coupon Barrier. The Issuer will not automatically call the Securities if the Observation Date Closing Value of any of the Underlyings is below its respective Initial Underlying Value. You will lose a significant portion or all of your principal amount at
+
+14
+
+maturity if the Securities are not called and the Final Underlying Value of any of the Underlyings is below its respective Downside Threshold.
+
+15
+
+| United States Federal Income Tax Considerations |
+| --- |
+
+You should review carefully the section in the accompanying tax supplement entitled “United States Federal Taxation.” The following discussion, when read in combination with that section, constitutes the full opinion of our counsel, Davis Polk & Wardwell LLP, regarding the material U.S. federal income tax consequences of owning and disposing of the securities offered by this pricing supplement.
+
+Generally, this discussion assumes that you purchased a security for cash in the original issuance at the stated issue price and does not address other circumstances specific to you, including consequences that may arise due to any other investments relating to an underlier. Moreover, as discussed in the section entitled “United States Federal Taxation” in the accompanying tax supplement, we have not attempted to ascertain whether any issuer of any underlier to which the securities relate is a U.S. real property holding corporation or a passive foreign investment company. You should consult your tax adviser regarding these issues, including the effect any circumstances specific to you may have on the U.S. federal income tax consequences of your ownership of a security.
+
+In the opinion of our counsel, which is based on current market conditions, it is reasonable to treat the securities for U.S. federal income tax purposes as prepaid financial contracts with associated coupons, and any coupons as ordinary income, as described in the section entitled “United States Federal Taxation—Tax Consequences to U.S. Holders—Program Securities Treated as Prepaid Financial Contracts with Associated Coupons” in the accompanying tax supplement. There is uncertainty regarding this treatment, and the Internal Revenue Service (the “IRS”) or a court might not agree with it. A different tax treatment could be adverse to you.
+
+We do not plan to request a ruling from the IRS regarding the treatment of the securities. An alternative characterization of the securities could materially and adversely affect the tax consequences of ownership and disposition of the securities, including the timing and character of income recognized. In particular, due to the terms of the securities and current market conditions, there is a risk that the securities could be characterized as debt instruments for U.S. federal income tax purposes, in which case the timing and character of income recognized in respect of the securities could be different from those described herein and possibly adverse to certain investors. In addition, the U.S. Treasury Department and the IRS have requested comments on various issues regarding the U.S. federal income tax treatment of “prepaid forward contracts” and similar financial instruments and have indicated that such transactions may be the subject of future regulations or other guidance. Furthermore, members of Congress have proposed legislative changes to the tax treatment of derivative contracts. Any legislation, Treasury regulations or other guidance promulgated after consideration of these issues could materially and adversely affect the tax consequences of an investment in the securities, possibly with retroactive effect.
+
+Non-U.S. Holders.
+If you are a Non-U.S. Holder (as defined in the accompanying tax supplement), please also read the section entitled “United States Federal Taxation—Tax Consequences to Non-U.S. Holders—Program Securities Not Treated as Debt Instruments” in the accompanying tax supplement.
+
+The U.S. federal income tax treatment of the coupons is unclear. To the extent that we have withholding responsibility in respect of the securities, we would expect generally to treat the coupons paid to Non-U.S. Holders as subject to U.S. withholding tax. Moreover, you should expect that, if the applicable withholding agent determines that withholding tax should apply, it will be at a rate of 30% (or lower treaty rate). In order to claim an exemption from, or a reduction in, the 30% withholding under an applicable treaty, you may need to comply with certification requirements to establish that you are not a U.S. person and are eligible for such an exemption or reduction under an applicable tax treaty. You should consult your tax adviser regarding the tax treatment of the coupons.
+
+As discussed under “United States Federal Taxation—Tax Consequences to Non-U.S. Holders—Dividend Equivalents under Section 871(m) of the Code” in the accompanying tax supplement, Section 871(m) of the Internal Revenue Code and Treasury regulations promulgated thereunder (“Section 871(m)”) generally impose a 30% withholding tax on dividend equivalents paid or deemed paid to Non-U.S. Holders with respect to certain financial instruments linked to U.S. equities or indices that include U.S. equities. The Treasury regulations, as modified by an IRS notice, exempt financial instruments issued prior to January 1, 2027 that do not have a “delta” of one. Based on certain representations made by us, our counsel is of the opinion that Section 871(m) should not apply to the securities with regard to Non-U.S. Holders. Our determination is not binding on the IRS, and the IRS may disagree with this determination.
+
+We will not be required to pay any additional amounts with respect to U.S. federal withholding taxes.
+
+You should consult your tax adviser regarding the U.S. federal income tax consequences of an investment in the securities, including possible alternative treatments, as well as tax consequences arising under the laws of any state, local or non-U.S. taxing jurisdiction.
+
+16
+
+| S&P 500 ® Index |
+| --- |
+
+The S&P 500
+®
+Index, which is calculated, maintained and published by S&P
+®
+Dow Jones Indices LLC (“S&P
+®
+”), is intended to provide a benchmark for performance measurement of the large capitalization segment of the U.S. equity markets by tracking the stock price movement of 500 companies with large market capitalizations. Component stocks of the S&P 500
+®
+Index are required to have a total company level market capitalization that reflects approximately the 85
+th
+percentile of the S&P
+®
+Total Market Index. The S&P 500
+®
+Index measures the relative performance of the common stocks of 500 companies as of a particular time as compared to the performance of the common stocks of 500 similar companies during the base period of the years 1941 through 1943. For additional information about the S&P 500
+®
+Index, see the information set forth under “S&P
+®
+U.S. Indices—S&P 500
+®
+Index” in the accompanying index supplement.
+
+“Standard & Poor’s
+®
+,” “S&P
+®
+,” “S&P 500
+®
+,” “Standard & Poor’s 500” and “500” are trademarks of Standard and Poor’s Financial Services LLC. For more information, see “S&P
+®
+U.S. Indices” in the accompanying index supplement.
+
+The following table sets forth the published high and low closing values, as well as the end-of-quarter closing values, of the
+S&P 500
+®
+Index
+for each quarter in the period from January 1, 2021 through
+June 26, 2026
+. The closing value of the
+S&P 500
+®
+Index
+on
+was 7,354.02.
+We obtained the information in the table below from Bloomberg Financial Markets, without independent verification. The historical closing values of the S&P 500
+®
+Index should not be taken as an indication of future performance, and no assurance can be given as to the level of the S&P 500
+®
+Index on any Observation Date, including the Final Observation Date.
+
+| Quarter Begin | Quarter End | Quarterly High | Quarterly Low | Quarterly Close |
+| --- | --- | --- | --- | --- |
+| 1/1/2021 | 3/31/2021 | 3,974.54 | 3,700.65 | 3,972.89 |
+| 4/1/2021 | 6/30/2021 | 4,297.50 | 4,019.87 | 4,297.50 |
+| 7/1/2021 | 9/30/2021 | 4,536.95 | 4,258.49 | 4,307.54 |
+| 10/1/2021 | 12/31/2021 | 4,793.06 | 4,300.46 | 4,766.18 |
+| 1/1/2022 | 3/31/2022 | 4,796.56 | 4,170.70 | 4,530.41 |
+| 4/1/2022 | 6/30/2022 | 4,582.64 | 3,666.77 | 3,785.38 |
+| 7/1/2022 | 9/30/2022 | 4,305.20 | 3,585.62 | 3,585.62 |
+| 10/1/2022 | 12/31/2022 | 4,080.11 | 3,577.03 | 3,839.50 |
+| 1/1/2023 | 3/31/2023 | 4,179.76 | 3,808.10 | 4,109.31 |
+| 4/1/2023 | 6/30/2023 | 4,450.38 | 4,055.99 | 4,450.38 |
+| 7/1/2023 | 9/30/2023 | 4,588.96 | 4,273.53 | 4,288.05 |
+| 10/1/2023 | 12/31/2023 | 4,783.35 | 4,117.37 | 4,769.83 |
+| 1/1/2024 | 3/31/2024 | 5,254.35 | 4,688.68 | 5,254.35 |
+| 4/1/2024 | 6/30/2024 | 5,487.03 | 4,967.23 | 5,460.48 |
+| 7/1/2024 | 9/30/2024 | 5,762.48 | 5,186.33 | 5,762.48 |
+| 10/1/2024 | 12/31/2024 | 6,090.27 | 5,695.94 | 5,881.63 |
+| 1/1/2025 | 3/31/2025 | 6,144.15 | 5,521.52 | 5,611.85 |
+| 4/1/2025 | 6/30/2025 | 6,204.95 | 4,982.77 | 6,204.95 |
+| 7/1/2025 | 9/30/2025 | 6,693.75 | 6,198.01 | 6,688.46 |
+| 10/1/2025 | 12/31/2025 | 6,932.05 | 6,538.76 | 6,845.50 |
+| 1/1/2026 | 3/31/2026 | 6,978.60 | 6,343.72 | 6,528.52 |
+| 4/1/2026 | 6/26/2026* | 7,609.78 | 6,575.32 | 7,354.02 |
+
+*Available information for the indicated period includes data for less than the entire calendar quarter and accordingly, the “Quarterly High,” “Quarterly Low” and “Quarterly Close” data indicated are for this shortened period only.
+
+17
+
+The graph below illustrates the performance of the S&P 500
+®
+Index from January 1, 2008 through June 26, 2026, based on information from Bloomberg.
+
+* The dotted line indicates both the Coupon Barrier and Downside Threshold of 5,147.81, which is approximately 70% of the Initial Underlying Value.
+
+Past performance is not indicative of future results.
+
+18
+
+| Russell 2000 ® Index |
+| --- |
+
+The Russell 2000
+®
+Index is an index calculated, published and disseminated by FTSE Russell, and measures the capitalization-weighted price performance of 2,000 U.S. small-capitalization stocks listed on eligible U.S. exchanges. The Russell 2000
+®
+Index is designed to track the performance of the small-capitalization segment of the U.S. equity market. The companies included in the Russell 2000
+®
+Index are the middle 2,000 (i.e., those ranked 1,001 through 3,000) of the companies that form the Russell 3000E™ Index. For additional information about the Russell 2000
+®
+Index, see the information set forth under “Russell Indices—Russell 2000
+®
+
+“Russell 2000
+®
+Index” and “Russell 3000E
+TM
+Index” are trademarks of FTSE Russell. For more information, see “Russell Indices” in the accompanying index supplement.
+
+The following table sets forth the published high and low closing values, as well as the end-of-quarter closing values, of the
+Russell 2000
+®
+Index
+for each quarter in the period from January 1, 2021 through
+. The closing value of the
+®
+Index
+on
+was 3,010.084. We obtained the information in the table below from Bloomberg Financial Markets, without independent verification. The historical closing values of the
+®
+Index
+should not be taken as an indication of future performance, and no assurance can be given as to the level of the
+®
+Index
+on any Observation Date, including the Final Observation Date.
+
+| Quarter Begin | Quarter End | Quarterly High | Quarterly Low | Quarterly Close |
+| --- | --- | --- | --- | --- |
+| 1/1/2021 | 3/31/2021 | 2,360.168 | 1,945.914 | 2,220.519 |
+| 4/1/2021 | 6/30/2021 | 2,343.758 | 2,135.139 | 2,310.549 |
+| 7/1/2021 | 9/30/2021 | 2,329.359 | 2,130.680 | 2,204.372 |
+| 10/1/2021 | 12/31/2021 | 2,442.742 | 2,139.875 | 2,245.313 |
+| 1/1/2022 | 3/31/2022 | 2,272.557 | 1,931.288 | 2,070.125 |
+| 4/1/2022 | 6/30/2022 | 2,095.440 | 1,649.836 | 1,707.990 |
+| 7/1/2022 | 9/30/2022 | 2,021.346 | 1,655.882 | 1,664.716 |
+| 10/1/2022 | 12/31/2022 | 1,892.839 | 1,682.403 | 1,761.246 |
+| 1/1/2023 | 3/31/2023 | 2,001.221 | 1,720.291 | 1,802.484 |
+| 4/1/2023 | 6/30/2023 | 1,896.333 | 1,718.811 | 1,888.734 |
+| 7/1/2023 | 9/30/2023 | 2,003.177 | 1,761.609 | 1,785.102 |
+| 10/1/2023 | 12/31/2023 | 2,066.214 | 1,636.938 | 2,027.074 |
+| 1/1/2024 | 3/31/2024 | 2,124.547 | 1,913.166 | 2,124.547 |
+| 4/1/2024 | 6/30/2024 | 2,109.459 | 1,942.958 | 2,047.691 |
+| 7/1/2024 | 9/30/2024 | 2,263.674 | 2,026.727 | 2,229.970 |
+| 10/1/2024 | 12/31/2024 | 2,442.031 | 2,180.146 | 2,230.158 |
+| 1/1/2025 | 3/31/2025 | 2,317.968 | 1,993.690 | 2,011.913 |
+| 4/1/2025 | 6/30/2025 | 2,175.035 | 1,760.710 | 2,175.035 |
+| 7/1/2025 | 9/30/2025 | 2,467.697 | 2,166.780 | 2,436.484 |
+| 10/1/2025 | 12/31/2025 | 2,590.605 | 2,305.112 | 2,481.907 |
+| 1/1/2026 | 3/31/2026 | 2,718.765 | 2,414.006 | 2,496.374 |
+| 4/1/2026 | 6/26/2026* | 3,010.084 | 2,512.368 | 3,010.084 |
+
+*
+
+Available information for the indicated period includes data for less than the entire calendar quarter and accordingly, the “Quarterly High,” “Quarterly Low” and “Quarterly Close” data indicated are for this shortened period only.
+
+19
+
+The graph below illustrates the performance of the Russell 2000
+®
+Index from January 1, 2008 through June 26, 2026, based on information from Bloomberg.
+
+* The dotted line indicates both the Coupon Barrier and Downside Threshold of 2,107.059, which is approximately 70% of the Initial Underlying Value.
+
+Past performance is not indicative of future results.
+
+20
+
+| EURO STOXX 50 ® Index |
+| --- |
+
+The EURO STOXX 50
+®
+Index was created by STOXX
+®
+Limited, a part of Qontigo, which is a wholly owned subsidiary of Deutsche Börse AG. Publication of the EURO STOXX 50
+®
+Index began on February 26, 1998 with a base value of 1,000 as of December 31, 1991. The EURO STOXX 50
+®
+Index is composed of 50 component stocks of market sector leaders, in terms of free float market capitalization, among the 20 STOXX
+®
+supersectors, which includes stocks selected from the Eurozone. The component stocks have a high degree of liquidity and represent the largest companies across all market sectors. For additional information about the EURO STOXX 50
+®
+Index, see the information set forth under “EURO STOXX 50
+®
+
+“EURO STOXX 50
+®
+” and “STOXX
+®
+” are registered trademarks of STOXX
+®
+Limited. For more information, see “EURO STOXX 50
+®
+
+The following table sets forth the published high and low closing values, as well as the end-of-quarter closing values, of the EURO STOXX 50
+®
+Index for each quarter in the period from January 1, 2021 through June 26, 2026. The closing value of the EURO STOXX 50
+®
+Index on June 26, 2026 was 6,221.55. We obtained the information in the table below from Bloomberg Financial Markets, without independent verification. The historical closing values of the EURO STOXX 50
+®
+Index should not be taken as an indication of future performance, and no assurance can be given as to the level of the EURO STOXX 50
+®
+Index on any Observation Date, including the Final Observation Date.
+
+| Quarter Begin | Quarter End | Quarterly High | Quarterly Low | Quarterly Close |
+| --- | --- | --- | --- | --- |
+| 1/1/2021 | 3/31/2021 | 3,926.20 | 3,481.44 | 3,919.21 |
+| 4/1/2021 | 6/30/2021 | 4,158.14 | 3,924.80 | 4,064.30 |
+| 7/1/2021 | 9/30/2021 | 4,246.13 | 3,928.53 | 4,048.08 |
+| 10/1/2021 | 12/31/2021 | 4,401.49 | 3,996.41 | 4,298.41 |
+| 1/1/2022 | 3/31/2022 | 4,392.15 | 3,505.29 | 3,902.52 |
+| 4/1/2022 | 6/30/2022 | 3,951.12 | 3,427.91 | 3,454.86 |
+| 7/1/2022 | 9/30/2022 | 3,805.22 | 3,279.04 | 3,318.20 |
+| 10/1/2022 | 12/31/2022 | 3,986.83 | 3,331.53 | 3,793.62 |
+| 1/1/2023 | 3/31/2023 | 4,315.05 | 3,856.09 | 4,315.05 |
+| 4/1/2023 | 6/30/2023 | 4,408.59 | 4,218.04 | 4,399.09 |
+| 7/1/2023 | 9/30/2023 | 4,471.31 | 4,129.18 | 4,174.66 |
+| 10/1/2023 | 12/31/2023 | 4,549.44 | 4,014.36 | 4,521.44 |
+| 1/1/2024 | 3/31/2024 | 5,083.42 | 4,403.08 | 5,083.42 |
+| 4/1/2024 | 6/30/2024 | 5,100.90 | 4,839.14 | 4,894.02 |
+| 7/1/2024 | 9/30/2024 | 5,067.45 | 4,571.60 | 5,000.45 |
+| 10/1/2024 | 12/31/2024 | 5,041.01 | 4,729.71 | 4,895.98 |
+| 1/1/2025 | 3/31/2025 | 5,540.69 | 4,871.45 | 5,248.39 |
+| 4/1/2025 | 6/30/2025 | 5,454.65 | 4,622.14 | 5,303.24 |
+| 7/1/2025 | 9/30/2025 | 5,529.96 | 5,165.60 | 5,529.96 |
+| 10/1/2025 | 12/31/2025 | 5,796.22 | 5,515.09 | 5,791.41 |
+| 1/1/2026 | 3/31/2026 | 6,173.32 | 5,501.28 | 5,569.73 |
+| 4/1/2026 | 6/26/2026* | 6,323.27 | 5,633.22 | 6,221.55 |
+
+*Available information for the indicated period includes data for less than the entire calendar quarter and accordingly, the “Quarterly High,” “Quarterly Low” and “Quarterly Close” data indicated are for this shortened period only.
+
+21
+
+The graph below illustrates the performance of the EURO STOXX 50
+®
+Index from January 1, 2008 through June 26, 2026, based on information from Bloomberg.
+
+* The dotted line indicates both the Coupon Barrier and Downside Threshold of 4,355.09, which is approximately 70% of the Initial Underlying Value.
+
+Past performance is not indicative of future results.
+
+22
+
+| Correlation of the Underlyings |
+| --- |
+
+The graph below illustrates the daily performance of the S&P 500
+®
+®
+®
+Index from January 1, 2008 through June 16, 2026. For comparison purposes, each Underlying has been “normalized” to have a closing value of 100 on January 1, 2008 by dividing the closing value of that Underlying on each Index Business Day by the closing value of that Underlying on January 1, 2008 and multiplying by 100. We obtained the closing values used to determine the normalized closing values set forth below from Bloomberg, without independent verification.
+
+A closer relationship between the daily returns of two or more underlying assets over a given period indicates that such underlying assets have been more positively correlated. Lower (or more-negative) correlation among two or more underlying assets over a given period may indicate that it is less likely that those underlying assets will subsequently move in the same direction. Therefore, lower correlation among the Underlyings may indicate a greater potential for one of the Underlyings to close below its respective Coupon Barrier or Downside Threshold on an Observation Date, including the Final Observation Date, as applicable, because there may be a greater likelihood that at least one of the Underlyings will decrease in value significantly. However, even if the Underlyings have a higher positive correlation, one or more of the Underlyings may close below the respective Coupon Barrier(s) or Downside Threshold(s) on an Observation Date or the Final Observation Date, as applicable, as the Underlyings may all decrease in value. Moreover, the actual correlation among the Underlyings may differ, perhaps significantly, from their historical correlation. A higher Contingent Coupon Rate is generally associated with lower correlation among the Underlyings, which may indicate a greater potential for missed Contingent Coupons and/or a significant loss on your investment at maturity. See “Key Risks — You are exposed to the market risk of all three Underlyings”, “— Because the Securities are linked to the performance of the least performing among the SPX Index, the RTY Index and the SX5E Index, you are exposed to greater risk of receiving no Contingent Coupon payments or sustaining a significant loss on your investment than if the Securities were linked to just the SPX Index, just the RTY Index or just the SX5E Index” and “—A higher Contingent Coupon Rate and/or lower Coupon Barriers and Downside Thresholds may reflect greater expected volatility of the Underlyings, and greater expected volatility generally indicates an increased risk of declines in the levels of the Underlyings and, potentially, a significant loss at maturity.” herein.
+
+Past performance and correlation of the Underlyings are not indicative of the future performance or correlation of the Underlyings.
+
+23
+
+| Additional Terms of the Securities |
+| --- |
+| If the terms contained in this pricing supplement differ from those discussed in the product supplement, index supplement, tax supplement or prospectus, the terms contained in this pricing supplement will control. The accompanying product supplement refers to the Principal Amount as the “Stated Principal Amount,” the Initial Level as the “Initial Index Value,” the Trade Date as the “Pricing Date,” the Observation Dates as the “Determination Dates,” the Final Observation Date as the “Final Determination Date,” the Coupon Barrier/Downside Threshold” as the “Downside Threshold Level” and the day on which any automatic call occurs as the “Early Redemption Date.” Index Publishers With respect to the SPX Index, S&P ® Dow Jones Indices LLC or any successor thereto. With respect to the RTY Index, FTSE Russell or any successor thereto. With respect to the SX5E Index, STOXX ® Limited, or any successor thereto. “Index Closing Value” on any Index Business Day means, (i) with respect to each of the SPX Index and the SX5E Index, the closing value of such Underlying, or any relevant Successor Index (as defined under “—Discontinuance of Any Underlying Index; Alteration of Method of Calculation” in the accompanying product supplement) published at the regular weekday close of trading on that Index Business Day by the relevant Index Publisher, and (ii) with respect to the RTY Index, the closing value of such Underlying or any Successor Index reported by Bloomberg Financial Services, or any successor reporting service the Calculation Agent may select, on that Index Business Day. In certain circumstances, the Index Closing Value for an Underlying will be based on the alternate calculation of such Underlying as described under “—Discontinuance of Any Underlying Index; Alteration of Method of Calculation” in the accompanying product supplement. Day-Count Convention Interest will be computed on the basis of a 360-day year of twelve 30-day months. Issuer Notice to Registered Security Holders, the Trustee and the Depositary In the event that the Maturity Date of the Securities is postponed due to a postponement of the Final Observation Date, the Issuer shall give notice of such postponement and, once it has been determined, of the date to which the Maturity Date has been rescheduled (i) to each registered holder of the Securities by mailing notice of such postponement by first class mail, postage prepaid, to such registered holder’s last address as it shall appear upon the registry books, (ii) to the Trustee by facsimile confirmed by mailing such notice to the Trustee by first class mail, postage prepaid, at its New York office and (iii) to The Depository Trust Company (the “Depositary”) by telephone or facsimile confirmed by mailing such notice to the Depositary by first class mail, postage prepaid. Any notice that is mailed to a registered holder of the Securities in the manner herein provided shall be conclusively presumed to have been duly given to such registered holder, whether or not such registered holder receives the notice. The Issuer shall give such notice as promptly as possible, and in no case later than (i) with respect to notice of postponement of the Maturity Date, the Business Day immediately preceding the scheduled Maturity Date, and (ii) with respect to notice of the date to which the Maturity Date has been rescheduled, the Business Day immediately following the Final Observation Date as postponed. In the event that the Securities are subject to Automatic Call, the Issuer shall, (i) on the Business Day following the applicable Observation Date, give notice of the Automatic Call and the applicable automatic call payment, including specifying the payment date of the applicable amount due upon the Automatic Call, (x) to each registered holder of the Securities by mailing notice of such Automatic Call by first class mail, postage prepaid, to such registered holder’s last address as it shall appear upon the registry books, (y) to the Trustee by facsimile confirmed by mailing such notice to the Trustee by first class mail, postage prepaid, at its New York office and (z) to the Depositary by telephone or facsimile confirmed by mailing such notice to the Depositary by first class mail, postage prepaid and (ii) on or prior to the Automatic Call Date, deliver the aggregate cash amount due with respect to the Securities to the Trustee for delivery to the Depositary, as holder of the securities. Any notice that is mailed to a registered holder of the Securities in the manner herein provided shall be conclusively presumed to have been duly given to such registered holder, whether or not such registered holder receives the notice. This notice shall be given by the Issuer or, at the Issuer’s request, by the Trustee in the name and at the expense of the Issuer, with any such request to be accompanied by a copy of the notice to be given. The Issuer shall, or shall cause the Calculation Agent to, (i) provide written notice to the Trustee, on which notice the Trustee may conclusively rely, and to the Depositary of the amount of cash to be delivered as Contingent Coupon, if any, with respect to the Securities on or prior to 10:30 a.m. (New York City time) on the Business Day preceding each Coupon Payment Date, and (ii) deliver the aggregate cash amount due, if any, with respect to the Contingent Coupon to the Trustee for delivery to the Depositary, as holder of the Securities, on or prior to the applicable Coupon Payment Date. The Issuer shall, or shall cause the Calculation Agent to, (i) provide written notice to the Trustee and to the Depositary of the amount of cash, if any, to be delivered with respect to the Securities, on or prior to 10:30 a.m. (New York City time) on the Business Day preceding the Maturity Date, and (ii) deliver the aggregate cash amount due with respect to the Securities, if any, to the Trustee for delivery to the Depositary, as holder of the Securities, on or prior to the Maturity Date. |
+
+24
+
+| Additional Information About the Securities |
+| --- |
+
+Use of Proceeds and Hedging
+
+The proceeds from the sale of the Securities will be used by us for general corporate purposes. We will receive, in aggregate, $10 per Security issued, because, when we enter into hedging transactions in order to meet our obligations under the Securities, our hedging counterparty will reimburse the cost of the Agent’s commissions. The costs of the Securities borne by you and described on page 2 above comprise the Agent’s commissions and the cost of issuing, structuring and hedging the Securities. See also “Use of Proceeds” in the accompanying prospectus.
+
+On or prior to the Trade Date, we will hedge our anticipated exposure in connection with the Securities, by entering into hedging transactions with our affiliates and/or third-party dealers. We expect our hedging counterparties to take positions in the constituent stocks of the Underlyings, in futures or options contracts on the Underlyings or the constituent stocks of the Underlyings, as well as in other instruments related to the Underlyings that they may wish to use in connection with such hedging. Any of these hedging or trading activities on or prior to the Trade Date could potentially increase the Initial Underlying Value, and, as a result, the Coupon Barrier of any of the Underlyings, which is the level at or above which such Underlying must close on each Observation Date in order for you to earn a Contingent Coupon, and the Downside Threshold of any of the Underlyings, which if the Securities are not called prior to maturity, is the level at or above which such Underlying must close on the Final Observation Date in order for you to avoid being exposed to the negative performance of the Least Performing Underlying at maturity (in each case, depending also on the performance of the other Underlyings). In addition, through our affiliates, we are likely to modify our hedge position throughout the term of the Securities, including on the Final Observation Date, by purchasing and selling the stocks constituting the Underlyings, futures or options contracts on the Underlyings or their component stocks listed on major securities markets or positions in any other available securities or instruments that we may wish to use in connection with such hedging activities., including by purchasing or selling any such securities or instruments on the Final Observation Date. As a result, these entities may be unwinding or adjusting hedge positions during the term of the Securities, and the hedging strategy may involve greater and more frequent dynamic adjustments to the hedge as the Final Observation Date approaches. We cannot give any assurance that our hedging activities will not affect the values of the Underlyings and, therefore, adversely affect the value of the Securities or the payment you will receive at maturity, if any, if not previously called.

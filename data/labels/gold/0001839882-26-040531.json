@@ -1,0 +1,91 @@
+{
+  "accession": "0001839882-26-040531",
+  "source_file": "data/cleaned/0001839882-26-040531_ms18090_424b2-27105.htm.txt",
+  "terms": {
+    "issuer": "Morgan Stanley Finance LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-08-17",
+    "strike_date": "2026-08-14",
+    "issue_date": "2026-08-19",
+    "maturity_date": "2029-08-16",
+    "underlyings": [
+      {
+        "name": "S&P 500 \u00ae Index",
+        "ticker": null,
+        "initial_level": 7785.76
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-11-16",
+      "2027-02-16",
+      "2027-05-14",
+      "2027-08-16",
+      "2027-11-15",
+      "2028-02-14",
+      "2028-05-15",
+      "2028-08-14",
+      "2028-11-14",
+      "2029-02-14",
+      "2029-05-14",
+      "2029-08-14"
+    ],
+    "payment_dates": [
+      "2026-11-18",
+      "2027-02-18",
+      "2027-05-18",
+      "2027-08-18",
+      "2027-11-17",
+      "2028-02-16",
+      "2028-05-17",
+      "2028-08-16",
+      "2028-11-16",
+      "2029-02-16",
+      "2029-05-16",
+      "2029-08-16"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.1375,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.93
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0001839882-26-040531.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": null,
+    "verification_minutes_range": [
+      18,
+      23
+    ],
+    "notes": "verifier reported no corrections",
+    "timing_note": "per-file times not recorded; verifier reported 18-23 minutes per file for all 7 files"
+  }
+}

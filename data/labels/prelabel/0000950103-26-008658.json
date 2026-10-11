@@ -1,0 +1,245 @@
+{
+  "accession": "0000950103-26-008658",
+  "source_file": "data/cleaned/0000950103-26-008658_dp248104_424b2-9035ubs.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-04",
+    "strike_date": "2026-06-03",
+    "issue_date": "2026-06-09",
+    "maturity_date": "2028-06-08",
+    "underlyings": [
+      {
+        "name": "Russell 2000® Index",
+        "ticker": "RTY",
+        "initial_level": 2893.514
+      },
+      {
+        "name": "S&P 500® Index",
+        "ticker": "SPX",
+        "initial_level": 7553.68
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-03",
+      "2027-06-03",
+      "2027-12-03",
+      "2028-06-05"
+    ],
+    "payment_dates": [
+      "2026-12-07",
+      "2027-06-07",
+      "2027-12-07",
+      "2028-06-08"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 4.6,
+      "barrier_pct": 65.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.954
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Barclays Bank PLC |",
+      "lines": [
+        365,
+        365
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        367,
+        367
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date: | June 4, 2026 |",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike Date: | June 3, 2026 |",
+      "lines": [
+        78,
+        78
+      ],
+      "note": "Separate Strike Date (June 3) distinct from Trade Date (June 4); initial levels set on Strike Date."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date: | June 9, 2026 |",
+      "lines": [
+        81,
+        81
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date: | June 8, 2028 |",
+      "lines": [
+        84,
+        84
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "The Russell 2000 ® Index (Bloomberg ticker symbol",
+      "lines": [
+        369,
+        369
+      ],
+      "note": "Name normalised to 'Russell 2000® Index' (cleaner inserts space before ®)."
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Russell 2000 ® Index (RTY) | 9.20% per annum | 2,893.514 |",
+      "lines": [
+        106,
+        106
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "the S&P 500 ® Index (Bloomberg ticker symbol",
+      "lines": [
+        369,
+        369
+      ],
+      "note": "Name normalised to 'S&P 500® Index'."
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| S&P 500 ® Index (SPX) | 9.20% per annum | 7,553.68 |",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "performance_type": {
+      "quote": "| Lesser Performing Underlying: | The Underlying with the lower Underlying Return |",
+      "lines": [
+        379,
+        379
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates / Call Settlement Dates |",
+      "lines": [
+        421,
+        426
+      ]
+    },
+    "payment_dates": {
+      "quote": "| December 3, 2026 | December 7, 2026 |",
+      "lines": [
+        421,
+        426
+      ]
+    },
+    "autocall.first_observation_index": {
+      "quote": "Because the Notes could be called as early as the first Observation Date",
+      "lines": [
+        448,
+        448
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Issuer will automatically call the Notes if the Closing Level of each Underlying on any semi-annual Observation Date is greater than or equal to its Initial Underlying Level.",
+      "lines": [
+        370,
+        370
+      ],
+      "note": "Callable on any Observation Date incl. Final Valuation Date (examples at lines 716/749 test call on the Final Valuation Date); 4 x 100."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "The Contingent Coupon Rate is 9.20% per annum. Accordingly, the Contingent Coupon with respect to each Observation Date is equal to $0.46 per Note.",
+      "lines": [
+        376,
+        376
+      ],
+      "note": "9.20% p.a. / 2 = 4.60%; also $0.46/$10 = 4.60%."
+    },
+    "coupon.barrier_pct": {
+      "quote": "4,909.89, which is 65.00% of the Initial Underlying Level",
+      "lines": [
+        107,
+        107
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Observation Date will not accrue or be payable and the Issuer will not make any payment to you on the related Coupon Payment Date",
+      "lines": [
+        373,
+        373
+      ],
+      "note": "No memory/previously-unpaid language."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold** |",
+      "lines": [
+        104,
+        107
+      ],
+      "note": "Downside Threshold 65.00% of Initial Underlying Level for both underlyings (cover table)."
+    },
+    "knock_in.monitoring": {
+      "quote": "The Final Underlying Level of each Underlying is observed relative to its Downside Threshold only on the Final Valuation Date",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Lesser Performing Underlying )",
+      "lines": [
+        377,
+        377
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "is $9.954 per Note",
+      "lines": [
+        144,
+        144
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Call wording is 'any semi-annual Observation Date' (not interim-only) and examples evaluate call on Final Valuation Date, so final date included: 4 levels. Economically equivalent either way (call 100% >= threshold 65%)."
+    },
+    {
+      "field": "strike_date",
+      "issue": "Strike Date June 3, 2026 differs from Trade Date June 4, 2026; initial levels are Strike Date closes."
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Callable from first Observation Date (no non-call period); short 4-date schedule."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "® position normalised from cleaned text 'Russell 2000 ® Index' / 'S&P 500 ® Index'."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity price-return indices (RTY, SPX), non-memory coupon, European (final-date-only) downside threshold with full 1:1 exposure below it; not buffered, no daily monitoring."
+  }
+}

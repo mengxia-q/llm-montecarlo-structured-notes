@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-06",
+  "excluded": {
+    "0000950103-26-012791": "buffered downside (not expressible by the template); MSCI EM index not in registry",
+    "0000950103-26-008823": "buffered downside (not expressible by the template)",
+    "0000950103-26-012538": "buffered downside (not expressible by the template)"
+  }
+}

@@ -1,0 +1,853 @@
+424B2
+
+1
+
+dp253451_424b2-9662ubs.htm
+
+FORM 424B2
+
+| Pricing Supplement dated September 15, 2026 | Filed Pursuant to Rule 424(b)(2) |
+| --- | --- |
+| | Registration Statement No. 333-287303 |
+
+| $5,000,000 Barclays Bank PLC Trigger Autocallable Contingent Yield Notes |
+| --- |
+
+Linked to the EURO STOXX 50
+®
+Index due September 18,
+2029
+
+| Investment Description |
+| --- |
+
+The Trigger Autocallable Contingent Yield Notes (the “Notes”)
+are unsecured and unsubordinated debt obligations issued by Barclays Bank PLC (the “Issuer”) linked to the performance of
+the EURO STOXX 50
+®
+Index (the “Underlying”). On a quarterly basis, unless the Notes have been previously called,
+the Issuer will pay you a coupon (the “Contingent Coupon”) if the Closing Level of the Underlying on the applicable Observation
+Date is greater than or equal to the specified Coupon Barrier. Otherwise, no Contingent Coupon will be paid for that quarter. The Issuer
+will automatically call the Notes if the Closing Level of the Underlying on any quarterly Observation Date, beginning on September 14,
+2027, is greater than or equal to the Closing Level of the Underlying on the Strike Date (the “Initial Underlying Level”).
+If the Notes are automatically called, the Issuer will pay the principal amount of your Notes
+plus
+the Contingent Coupon due on
+the Coupon Payment Date that is also the Call Settlement Date, and no further amounts will be owed to you under the Notes. If the Notes
+are not automatically called and the Closing Level of the Underlying on the Final Valuation Date (the “Final Underlying Level”)
+is greater than or equal to the specified Downside Threshold (which is set equal to the Coupon Barrier), the Issuer will pay you a cash
+payment at maturity equal to the principal amount of your Notes
+plus
+the Contingent Coupon due on the Coupon Payment Date that
+is also the Maturity Date. However, if the Final Underlying Level is less than the Downside Threshold, the Issuer will pay you a cash
+payment at maturity that is less than the principal amount, if anything, resulting in a percentage loss of principal equal to the negative
+Underlying Return. In this case, you will have full downside exposure to the Underlying from the Initial Underlying Level to the Final
+Underlying Level, and could lose all of your principal.
+Investing in the Notes
+involves significant risks. You may lose a significant portion or all of your principal. You may receive few or no Contingent Coupons
+during the term of the Notes. The Final Underlying Level is observed relative to the Downside Threshold only on the Final Valuation Date,
+and the contingent repayment of principal applies only if you hold the Notes to maturity. Generally, the higher the Contingent Coupon
+Rate on a Note, the greater the risk of loss on that Note. Your return potential on the Notes is limited to any Contingent Coupons paid
+on the Notes, and you will not participate in any appreciation of the Underlying. Any payment on the Notes, including any repayment of
+principal, is subject to the creditworthiness of Barclays Bank PLC and is not guaranteed by any third party. If Barclays Bank PLC were
+to default on its payment obligations or become subject to the exercise of any U.K. Bail-in Power (as described on page PS-4 of this
+pricing supplement) by the relevant U.K. resolution authority, you might not receive any amounts owed to you under the Notes. See “Consent
+to U.K. Bail-in Power” in this pricing supplement and “Risk Factors” in the accompanying prospectus supplement.
+
+| Features | Key Dates 1 |
+| --- | --- |
+
+| q | Contingent Coupon: Unless the Notes have been previously called, the Issuer will pay you a Contingent Coupon for each quarter if the Closing Level of the Underlying on the applicable Observation Date is greater than or equal to the Coupon Barrier. Otherwise, no Contingent Coupon will be paid for that quarter. |
+| --- | --- |
+| q | Automatic Call: The Issuer will automatically call the Notes if the Closing Level of the Underlying on any quarterly Observation Date, beginning on September 14, 2027, is greater than or equal to the Initial Underlying Level. If the Notes are automatically called, the Issuer will pay the principal amount of your Notes plus the Contingent Coupon due on the Coupon Payment Date that is also the Call Settlement Date, and no further amounts will be owed to you under the Notes. |
+| q | Downside Exposure with Contingent Repayment of Principal at Maturity: If the Notes are not automatically called and the Final Underlying Level is greater than or equal to the Downside Threshold, the Issuer will pay you a cash payment at maturity equal to the principal amount of your Notes plus the Contingent Coupon due on the Coupon Payment Date that is also the Maturity Date. However, if the Final Underlying Level is less than the Downside Threshold, the Issuer will repay less than your principal amount, if anything, resulting in a percentage loss of principal equal to the negative Underlying Return. The Final Underlying Level is observed relative to the Downside Threshold only on the Final Valuation Date, and the contingent repayment of principal applies only if you hold the Notes to maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of Barclays Bank PLC. |
+
+| Strike Date: | September 14, 2026 |
+| --- | --- |
+| Trade Date: | September 15, 2026 |
+| Settlement Date: | September 17, 2026 |
+| Observation Dates: | Quarterly (callable beginning September 14, 2027) |
+| Final Valuation Date: | September 14, 2029 |
+| Maturity Date: | September 18, 2029 |
+
+| 1 | The Initial Underlying Level is the Closing Level of the Underlying on the Strike Date and is not the Closing Level of the Underlying on the Trade Date. The Observation Dates, including the Final Valuation Date, and the Maturity Date are subject to postponement. See “Final Terms” on page PS-6 of this pricing supplement. |
+| --- | --- |
+
+| NOTICE TO INVESTORS: THE NOTES ARE SIGNIFICANTLY RISKIER THAN CONVENTIONAL DEBT INSTRUMENTS. THE ISSUER IS NOT NECESSARILY OBLIGATED TO REPAY THE FULL PRINCIPAL AMOUNT OF THE NOTES AT MATURITY, AND THE NOTES CAN HAVE THE FULL DOWNSIDE MARKET RISK OF THE UNDERLYING. THIS MARKET RISK IS IN ADDITION TO THE CREDIT RISK INHERENT IN PURCHASING A DEBT OBLIGATION OF BARCLAYS BANK PLC. YOU SHOULD NOT PURCHASE THE NOTES IF YOU DO NOT UNDERSTAND OR ARE NOT COMFORTABLE WITH THE SIGNIFICANT RISKS INVOLVED IN INVESTING IN THE NOTES. |
+| --- |
+
+YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED UNDER “KEY
+RISKS” BEGINNING ON PAGE PS-9 OF THIS PRICING SUPPLEMENT AND “RISK FACTORS” BEGINNING ON PAGE S-9 OF THE PROSPECTUS
+SUPPLEMENT BEFORE PURCHASING ANY NOTES. EVENTS RELATING TO ANY OF THOSE RISKS, OR OTHER RISKS AND UNCERTAINTIES, COULD ADVERSELY AFFECT
+THE MARKET VALUE OF, AND THE RETURN ON, YOUR NOTES. YOU MAY LOSE A SIGNIFICANT PORTION OR ALL OF YOUR PRINCIPAL AMOUNT. THE NOTES WILL
+NOT BE LISTED ON ANY SECURITIES EXCHANGE.
+
+NOTWITHSTANDING AND TO THE EXCLUSION OF ANY OTHER TERM OF THE NOTES
+OR ANY OTHER AGREEMENTS, ARRANGEMENTS OR UNDERSTANDINGS BETWEEN BARCLAYS BANK PLC AND ANY HOLDER OR BENEFICIAL OWNER OF THE NOTES (OR
+THE TRUSTEE ON BEHALF OF THE HOLDERS OF THE NOTES), BY ACQUIRING THE NOTES, EACH HOLDER OR BENEFICIAL OWNER OF THE NOTES ACKNOWLEDGES,
+ACCEPTS, AGREES TO BE BOUND BY AND CONSENTS TO THE EXERCISE OF, ANY U.K. BAIL-IN POWER BY THE RELEVANT U.K. RESOLUTION AUTHORITY. SEE
+“CONSENT TO U.K. BAIL-IN POWER” ON PAGE PS-4 OF THIS PRICING SUPPLEMENT.
+
+| Note Offering |
+| --- |
+
+We are offering Trigger Autocallable Contingent Yield Notes linked to
+the EURO STOXX 50
+®
+Index. The Notes are offered at a minimum investment of 100 Notes at $10 per Note (representing a $1,000
+investment), and integral multiples of $10 in excess thereof.
+
+| Underlying | Contingent Coupon Rate | Initial Underlying Level* | Coupon Barrier** | Downside Threshold** | CUSIP / ISIN |
+| --- | --- | --- | --- | --- | --- |
+| EURO STOXX 50 ® Index (SX5E) | 6.85% per annum | 6,260.38 | 3,756.23, which is 60.00% of the Initial Underlying Level | 3,756.23, which is 60.00% of the Initial Underlying Level | 06749E375 / US06749E3751 |
+
+* The Initial Underlying Level is the Closing Level of the Underlying
+on the Strike Date and is not the Closing Level of the Underlying on the Trade Date.
+
+** Rounded to two decimal places
+
+See “Additional Information about Barclays Bank PLC and the
+Notes” on page PS-2 of this pricing supplement. The Notes will have the terms specified in the prospectus dated May 15, 2025, the
+prospectus supplement dated May 15, 2025, the underlying supplement dated May 15, 2025 and this pricing supplement.
+
+Neither the U.S. Securities and Exchange Commission (the “SEC”)
+nor any state securities commission has approved or disapproved of the Notes or determined that this pricing supplement is truthful or
+complete. Any representation to the contrary is a criminal offense.
+
+We may use this pricing supplement in the initial sale of the Notes.
+In addition, Barclays Capital Inc. or any other of our affiliates may use this pricing supplement in market resale transactions in any
+of the Notes after their initial sale. Unless we or our agent informs you otherwise in the confirmation of sale, this pricing supplement
+is being used in a market resale transaction.
+
+The Notes constitute our unsecured and unsubordinated
+obligations. The Notes are not deposit liabilities of Barclays Bank PLC and are not covered by the U.K. Financial Services Compensation
+Scheme or insured by the U.S. Federal Deposit Insurance Corporation or any other governmental agency or deposit insurance agency of the
+United States, the United Kingdom or any other jurisdiction.
+
+| | Initial Issue Price 1 | Underwriting Discount | Proceeds to Barclays Bank PLC |
+| --- | --- | --- | --- |
+| Per Note | $10.00 | $0.125 | $9.875 |
+| Total | $5,000,000 | $62,500 | $4,937,500 |
+
+1
+Our estimated value of the Notes on the
+Trade Date, based on our internal pricing models, is $9.826 per Note. The estimated value is less than the initial issue price of the
+Notes. See “Additional Information Regarding Our Estimated Value of the Notes” on page PS-3 of this pricing supplement.
+
+| UBS Financial Services Inc. | Barclays Capital Inc. |
+| --- | --- |
+
+| Additional Information about Barclays Bank PLC and the Notes |
+| --- |
+
+You should read this pricing supplement together with the prospectus
+dated May 15, 2025, as supplemented by the prospectus supplement dated May 15, 2025 relating to our Global Medium-Term Notes, Series A,
+of which these Notes are a part, and the underlying supplement dated May 15, 2025. This pricing supplement, together with the documents
+listed below, contains the terms of the Notes and supersedes all prior or contemporaneous oral statements as well as any other written
+materials including preliminary or indicative pricing terms, correspondence, trade ideas, structures for implementation, sample structures,
+brochures or other educational materials of ours. You should carefully consider, among other things, the matters set forth under “Risk
+Factors” in the prospectus supplement and “Key Risks” in this pricing supplement, as the Notes involve risks not associated
+with conventional debt securities. We urge you to consult your investment, legal, tax, accounting and other advisors before you invest
+in the Notes.
+
+If the terms set forth in this pricing supplement differ from those
+set forth in the prospectus, prospectus supplement or underlying supplement, the terms set forth herein will control.
+
+You may access these documents on the SEC website at www.sec.gov as
+follows (or if such address has changed, by reviewing our filings for the relevant date on the SEC website):
+
+| ¨ | Prospectus dated May 15, 2025: http://www.sec.gov/Archives/edgar/data/312070/000119312525120720/d925982d424b2.htm |
+| --- | --- |
+
+| ¨ | Prospectus supplement dated May 15, 2025: http://www.sec.gov/Archives/edgar/data/312070/000095010325006051/dp228678_424b2-prosupp.htm |
+| --- | --- |
+
+| ¨ | Underlying supplement dated May 15, 2025: http://www.sec.gov/Archives/edgar/data/312070/000095010325006053/dp228705_424b2-underl.htm |
+| --- | --- |
+
+Our SEC file number is 1-10257. As used in this pricing supplement,
+“we,” “us” and “our” refer to Barclays Bank PLC. In this pricing supplement, “Notes” refers
+to the Trigger Autocallable Contingent Yield Notes that are offered hereby, unless the context otherwise requires.
+
+PS-
+2
+
+| Additional Information Regarding Our Estimated Value of the Notes |
+| --- |
+
+Our internal pricing models take into account a number of variables
+and are based on a number of subjective assumptions, which may or may not materialize, typically including volatility, interest rates
+and our internal funding rates. Our internal funding rates (which are our internally published borrowing rates based on variables, such
+as market benchmarks, our appetite for borrowing and our existing obligations coming to maturity) may vary from the levels at which our
+benchmark debt securities trade in the secondary market. Our estimated value on the Trade Date is based on our internal funding rates.
+Our estimated value of the Notes might be lower if such valuation were based on the levels at which our benchmark debt securities trade
+in the secondary market.
+
+Our estimated value of the Notes on the Trade Date is less than the
+initial issue price of the Notes. The difference between the initial issue price of the Notes and our estimated value of the Notes results
+from several factors, including any sales commissions to be paid to Barclays Capital Inc. or another affiliate of ours, any selling concessions,
+discounts, commissions or fees to be allowed or paid to non-affiliated intermediaries, the estimated profit that we or any of our affiliates
+expect to earn in connection with structuring the Notes, the estimated cost that we may incur in hedging our obligations under the Notes,
+and estimated development and other costs that we may incur in connection with the Notes.
+
+Our estimated value on the Trade Date is not a prediction of the price
+at which the Notes may trade in the secondary market, nor will it be the price at which Barclays Capital Inc. may buy or sell the Notes
+in the secondary market. Subject to normal market and funding conditions, Barclays Capital Inc. or another affiliate of ours intends to
+offer to purchase the Notes in the secondary market but it is not obligated to do so.
+
+Assuming that all relevant factors remain constant after the Trade Date,
+the price at which Barclays Capital Inc. may initially buy or sell the Notes in the secondary market, if any, and the value that we may
+initially use for customer account statements, if we provide any customer account statements at all, may exceed our estimated value on
+the Trade Date for a temporary period expected to be approximately four months after the initial issue date of the Notes because, in our
+discretion, we may elect to effectively reimburse to investors a portion of the estimated cost of hedging our obligations under the Notes
+and other costs in connection with the Notes that we will no longer expect to incur over the term of the Notes. We made such discretionary
+election and determined this temporary reimbursement period on the basis of a number of factors, which may include the tenor of the Notes
+and/or any agreement we may have with the distributors of the Notes. The amount of our estimated costs that we effectively reimburse to
+investors in this way may not be allocated ratably throughout the reimbursement period, and we may discontinue such reimbursement at any
+time or revise the duration of the reimbursement period after the initial issue date of the Notes based on changes in market conditions
+and other factors that cannot be predicted.
+
+We urge you to read the “Key Risks” beginning on page
+PS-9 of this pricing supplement.
+
+PS-
+3
+
+| Consent to U.K. Bail-in Power |
+| --- |
+
+Notwithstanding and to the exclusion of any other term of the Notes
+or any other agreements, arrangements or understandings between us and any holder or beneficial owner of the Notes (or the trustee on
+behalf of the holders of the Notes), by acquiring the Notes, each holder or beneficial owner of the Notes acknowledges, accepts, agrees
+to be bound by and consents to the exercise of, any U.K. Bail-in Power by the relevant U.K. resolution authority.
+
+Under the U.K. Banking Act 2009,
+as amended, the relevant U.K. resolution authority may exercise a U.K. Bail-in Power in circumstances in which the relevant U.K. resolution
+authority is satisfied that the resolution conditions are met. These conditions include that a U.K. bank or investment firm is failing
+or is likely to fail to satisfy the Financial Services and Markets Act 2000 (the “FSMA”) threshold conditions for authorization
+to carry on certain regulated activities (within the meaning of section 55B FSMA) or, in the case of a U.K. banking group company that
+is a European Economic Area (“EEA”) or third country institution or investment firm, that the relevant EEA or third country
+relevant authority is satisfied that the resolution conditions are met in respect of that entity.
+
+The U.K. Bail-in Power includes
+any write-down, conversion, transfer, modification and/or suspension power, which allows for (i) the reduction or cancellation of all,
+or a portion, of the principal amount of, or interest on, or any other amounts payable on, the Notes; (ii) the conversion of all, or a
+portion, of the principal amount of, or interest on, or any other amounts payable on, the Notes into shares or other securities or other
+obligations of Barclays Bank PLC or another person (and the issue to, or conferral on, the holder or beneficial owner of the Notes of
+such shares, securities or obligations); (iii) the cancellation of the Notes and/or (iv) the amendment or alteration of the maturity of
+the Notes, or the amendment of the amount of interest or any other amounts due on the Notes, or the dates on which interest or any other
+amounts become payable, including by suspending payment for a temporary period; which U.K. Bail-in Power may be exercised by means of
+a variation of the terms of the Notes solely to give effect to the exercise by the relevant U.K. resolution authority of such U.K. Bail-in
+Power. Each holder and beneficial owner of the Notes further acknowledges and agrees that the rights of the holders or beneficial owners
+of the Notes are subject to, and will be varied, if necessary, solely to give effect to, the exercise of any U.K. Bail-in Power by the
+relevant U.K. resolution authority. For the avoidance of doubt, this consent and acknowledgment is not a waiver of any rights holders
+or beneficial owners of the Notes may have at law if and to the extent that any U.K. Bail-in Power is exercised by the relevant U.K. resolution
+authority in breach of laws applicable in England.
+
+For more information, please see
+“Key Risks—Risks Relating to the Issuer—You may lose some or all of your investment if any U.K. bail-in power is exercised
+by the relevant U.K. resolution authority” in this pricing supplement as well as “U.K. Bail-in Power,” “Risk Factors—Risks
+Relating to the Securities Generally—Regulatory action in the event a bank or investment firm in the Group is failing or likely
+to fail, including the exercise by the relevant U.K. resolution authority of a variety of statutory resolution powers, could materially
+adversely affect the value of any securities” and “Risk Factors—Risks Relating to the Securities Generally—Under
+the terms of the securities, you have agreed to be bound by the exercise of any U.K. Bail-in Power by the relevant U.K. resolution authority”
+in the accompanying prospectus supplement.
+
+PS-
+4
+
+| Selected Purchase Considerations |
+| --- |
+
+The Notes may be appropriate for you if:
+
+| ¨ | You fully understand the risks inherent in an investment in the Notes, including the risk of loss of your entire principal amount. |
+| --- | --- |
+
+| ¨ | You can tolerate a loss of a significant portion or all of your principal amount and are willing to make an investment that may have the full downside market risk of an investment in the Underlying. |
+| --- | --- |
+
+| ¨ | You believe the Underlying is likely to close at or above the Coupon Barrier on the specified Observation Dates, and, if it does not, you can tolerate receiving few or no Contingent Coupons over the term of the Notes. |
+| --- | --- |
+
+| ¨ | You believe the Final Underlying Level is not likely to be less than the Downside Threshold and, if it is, you can tolerate a loss of a significant portion or all of your principal amount. |
+| --- | --- |
+
+| ¨ | You understand and accept that you will not participate in any appreciation of the Underlying, which may be significant, and that your return potential on the Notes is limited to any Contingent Coupons paid on the Notes. |
+| --- | --- |
+
+| ¨ | You can tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the level of the Underlying. |
+| --- | --- |
+
+| ¨ | You are willing and able to hold Notes that will be called on the earliest quarterly Observation Date, beginning on September 14, 2027, on which the Closing Level of the Underlying is greater than or equal to the Initial Underlying Level, and you are otherwise willing and able to hold the Notes to maturity and accept that there may be little or no secondary market for the Notes. |
+| --- | --- |
+
+| ¨ | You do not seek guaranteed current income from this investment, you are willing to accept the risk of contingent yield and you are willing to forgo any dividends paid on the securities composing the Underlying. |
+| --- | --- |
+
+| ¨ | You understand and are willing to accept the risks associated with the Underlying. |
+| --- | --- |
+
+| ¨ | You are willing and able to assume the credit risk of Barclays Bank PLC, as issuer of the Notes, for all payments under the Notes and understand that if Barclays Bank PLC were to default on its payment obligations or become subject to the exercise of any U.K. Bail-in Power, you might not receive any amounts due to you under the Notes, including any repayment of principal. |
+| --- | --- |
+
+The Notes may not be appropriate for you if:
+
+| ¨ | You do not fully understand the risks inherent in an investment in the Notes, including the risk of loss of your entire principal amount. |
+| --- | --- |
+
+| ¨ | You require an investment designed to provide a full return of principal at maturity, you cannot tolerate a loss of a significant portion or all of your principal amount or you are not willing to make an investment that may have the full downside market risk of an investment in the Underlying. |
+| --- | --- |
+
+| ¨ | You do not believe the Underlying is likely to close at or above the Coupon Barrier on the specified Observation Dates, or you cannot tolerate receiving few or no Contingent Coupons over the term of the Notes. |
+| --- | --- |
+
+| ¨ | You believe the Final Underlying Level is likely to be less than the Downside Threshold, which could result in a total loss of your principal amount. |
+| --- | --- |
+
+| ¨ | You seek an investment that participates in the full appreciation of the Underlying and whose return is not limited to any Contingent Coupons paid on the Notes. |
+| --- | --- |
+
+| ¨ | You cannot tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the level of the Underlying. |
+| --- | --- |
+
+| ¨ | You are unable or unwilling to hold Notes that will be called on the earliest quarterly Observation Date, beginning on September 14, 2027, on which the Closing Level of the Underlying is greater than or equal to the Initial Underlying Level, or you are unable or unwilling to hold the Notes to maturity and seek an investment for which there will be an active secondary market. |
+| --- | --- |
+
+| ¨ | You seek guaranteed current income from your investment, you are unwilling to accept the risk of contingent yield or you prefer to receive any dividends paid on the securities composing the Underlying. |
+| --- | --- |
+
+| ¨ | You do not understand or are not willing to accept the risks associated with the Underlying. |
+| --- | --- |
+
+| ¨ | You prefer the lower risk, and therefore accept the potentially lower returns, of fixed income investments with comparable maturities and credit ratings. |
+| --- | --- |
+
+| ¨ | You are not willing or are unable to assume the credit risk of Barclays Bank PLC, as issuer of the Notes, for all payments due to you under the Notes, including any repayment of principal. |
+| --- | --- |
+
+| The considerations identified above are not exhaustive. Whether or not the Notes are an appropriate investment for you will depend on your individual circumstances, and you should reach an investment decision only after you and your investment, legal, tax, accounting and other advisors have carefully considered the appropriateness of an investment in the Notes in light of your particular circumstances. You should also review carefully the “Key Risks” beginning on page PS-9 of this pricing supplement and the “Risk Factors” beginning on page S-9 of the prospectus supplement for risks related to an investment in the Notes. For more information about the Underlying, please see the section titled “EURO STOXX 50 ® Index” below. |
+| --- |
+
+PS-
+5
+
+| Final Term s 1 |
+| --- |
+
+| Issuer: | Barclays Bank PLC |
+| --- | --- |
+| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |
+| Term 2 : | Approximately three years, unless called earlier. See “Key Dates” on the cover of this pricing supplement. 2 |
+| Reference Asset: | EURO STOXX 50 ® Index (Bloomberg ticker symbol “SX5E<Index>”) (the “Underlying”) |
+| Automatic Call Feature: | The Issuer will automatically call the Notes if the Closing Level of the Underlying on any quarterly Observation Date, beginning on September 14, 2027, is greater than or equal to the Initial Underlying Level. If the Notes are automatically called, the Issuer will pay the principal amount of your Notes plus the Contingent Coupon due on the Coupon Payment Date that is also the Call Settlement Date, and no further amounts will be owed to you under the Notes. |
+| Observation Dates 2 : | As set forth under the “Observation Dates” column of the table under “Observation Dates/Coupon Payment Dates/Call Settlement Dates” below. The final Observation Date, September 14, 2029, is the “Final Valuation Date.” |
+| Call Settlement Dates 2 : | As set forth under the “Coupon Payment Dates/Call Settlement Dates” column of the table under “Observation Dates/Coupon Payment Dates/Call Settlement Dates” below |
+| Contingent Coupon: | If the Closing Level of the Underlying is greater than or equal to the Coupon Barrier on any Observation Date, the Issuer will pay you the Contingent Coupon applicable to that Observation Date. If the Closing Level of the Underlying is less than the Coupon Barrier on any Observation Date, the Contingent Coupon applicable to that Observation Date will not accrue or be payable and the Issuer will not make any payment to you on the related Coupon Payment Date. The Contingent Coupon is a fixed amount potentially payable quarterly based on the per annum Contingent Coupon Rate. |
+| Coupon Barrier: | A percentage of the Initial Underlying Level, as specified on the cover of this pricing supplement |
+| Coupon Payment Dates 2 : | As set forth under the “Coupon Payment Dates/Call Settlement Dates” column of the table under “Observation Dates/Coupon Payment Dates/Call Settlement Dates” below |
+| Contingent Coupon Rate: | The Contingent Coupon Rate is 6.85% per annum. Accordingly, the Contingent Coupon per Note with respect to each Observation Date is $0.1713. Whether Contingent Coupons will be paid on the Notes will depend on the performance of the Underlying. |
+| Payment at Maturity (per Note): | If the Notes are not automatically called and the Final Underlying Level is greater than or equal to the Downside Threshold (which equals the Coupon Barrier), the Issuer will pay you a cash payment on the Maturity Date equal to $10 per Note plus the Contingent Coupon due on the Coupon Payment Date that is also the Maturity Date. If the Notes are not automatically called and the Final Underlying Level is less than the Downside Threshold, the Issuer will pay you a cash payment on the Maturity Date per Note that is less than your principal amount, if anything, resulting in a percentage loss of principal equal to the negative Underlying Return, calculated as follows: $10 × (1 + Underlying Return) Accordingly, you may lose a significant portion or all of your principal at maturity, depending on how much the Underlying declines. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of Barclays Bank PLC and is not guaranteed by any third party. |
+| Underlying Return: | Final Underlying Level – Initial Underlying Level Initial Underlying Level |
+| Downside Threshold: | A percentage of the Initial Underlying Level, as specified on the cover of this pricing supplement |
+| Initial Underlying Level: | The Closing Level of the Underlying on the Strike Date, as specified on the cover of this pricing supplement. The Initial Underlying Level is not the Closing Level of the Underlying on the Trade Date. |
+| Final Underlying Level: | The Closing Level of the Underlying on the Final Valuation Date |
+| Closing Level: | Closing Level has the meaning set forth under “Reference Assets—Indices—Special Calculation Provisions” in the prospectus supplement. |
+| Calculation Agent: | Barclays Bank PLC |
+
+| 1 | Terms used in this pricing supplement, but not defined herein, shall have the meanings ascribed to them in the prospectus supplement. The Underlying and the terms of the Notes are subject to adjustment by the Calculation Agent and the Maturity Date may be accelerated, in each case under certain circumstances as set forth in the accompanying prospectus supplement. See “Key Risks—Risks Relating to the Underlying” below. |
+| --- | --- |
+
+| 2 | Subject to postponement in certain circumstances, as described under “Reference Assets—Indices—Market Disruption Events for Securities with an Equity Index as a Reference Asset” and “Terms of the Notes—Payment Dates” in the accompanying prospectus supplement |
+| --- | --- |
+
+PS-
+6
+
+| Investment Timeline |
+| --- |
+
+| Strike Date: | The Closing Level of the Underlying (the Initial Underlying Level) is observed and the Coupon Barrier and Downside Threshold are determined. |
+| --- | --- |
+| Quarterly (callable beginning September 14, 2027): | If the Closing Level of the Underlying is greater than or equal to the Coupon Barrier on any Observation Date, the Issuer will pay you the Contingent Coupon applicable to that Observation Date. However, if the Closing Level of the Underlying is less than the Coupon Barrier on any Observation Date, no Contingent Coupon payment will be made with respect to that Observation Date. The Issuer will automatically call the Notes if the Closing Level of the Underlying on any quarterly Observation Date, beginning on September 14, 2027, is greater than or equal to the Initial Underlying Level. If the Notes are automatically called, the Issuer will pay the principal amount of your Notes plus the Contingent Coupon due on the Coupon Payment Date that is also the Call Settlement Date, and no further amounts will be owed to you under the Notes. |
+| Maturity Date: | The Final Underlying Level is determined as of the Final Valuation Date. If the Notes are not automatically called and the Final Underlying Level is greater than or equal to the Downside Threshold (which equals the Coupon Barrier), the Issuer will pay you a cash payment on the Maturity Date equal to $10 per Note plus the Contingent Coupon due on the Coupon Payment Date that is also the Maturity Date. If the Notes are not automatically called and the Final Underlying Level is less than the Downside Threshold, the Issuer will pay you a cash payment on the Maturity Date per Note that is less than your principal amount, if anything, resulting in a percentage loss of principal equal to the negative Underlying Return, calculated as follows: $10 × (1 + Underlying Return) Accordingly, you may lose a significant portion or all of your principal at maturity, depending on how much the Underlying declines. |
+
+Investing in the Notes involves significant
+risks. You may lose a significant portion or all of your principal amount. You may receive few or no Contingent Coupons during the term
+of the Notes. The Final Underlying Level is observed relative to the Downside Threshold only on the Final Valuation Date, and the contingent
+repayment of principal applies only if you hold the Notes to maturity. Generally, the higher the Contingent Coupon Rate on a Note, the
+greater the risk of loss on that Note. Your return potential on the Notes is limited to any Contingent Coupons paid on the Notes, and
+you will not participate in any appreciation of the Underlying. Any payment on the Notes, including any repayment of principal, is subject
+to the creditworthiness of Barclays Bank PLC and is not guaranteed by any third party. If Barclays Bank PLC were to default on its payment
+obligations or become subject to the exercise of any U.K. Bail-in Power by the relevant U.K. resolution authority, you might not receive
+any amounts owed to you under the Notes.
+
+PS-
+7
+
+| Observation Dates/Coupon Payment Dates/Call Settlement Dates |
+| --- |
+
+| Observation Dates | Coupon Payment Dates / Call Settlement Dates |
+| --- | --- |
+| December 14, 2026* | December 16, 2026* |
+| March 15, 2027* | March 17, 2027* |
+| June 14, 2027* | June 16, 2027* |
+| September 14, 2027 | September 16, 2027 |
+| December 14, 2027 | December 16, 2027 |
+| March 14, 2028 | March 16, 2028 |
+| June 14, 2028 | June 16, 2028 |
+| September 14, 2028 | September 18, 2028 |
+| December 14, 2028 | December 18, 2028 |
+| March 14, 2029 | March 16, 2029 |
+| June 14, 2029 | June 18, 2029 |
+| September 14, 2029 | September 18, 2029 |
+
+| *The Notes are NOT automatically callable until the fourth Observation Date, which is September 14, 2027. Thus, the first Call Settlement Date will be on or about September 16, 2027. |
+| --- |
+
+PS-
+8
+
+| Key Risks |
+| --- |
+
+An investment in the Notes involves significant risks. Investing in
+the Notes is not equivalent to investing directly in the Underlying or the securities composing the Underlying. Some of the risks that
+apply to an investment in the Notes are summarized below, but we urge you to read the more detailed explanation of risks relating to the
+Notes generally in the “Risk Factors” section of the prospectus supplement. You should not purchase the Notes unless you understand
+and can bear the risks of investing in the Notes.
+
+Risks Relating to the Notes Generally
+
+| ¨ | You may lose a significant portion or all of your principal — The Notes differ from ordinary debt securities in that the Issuer will not necessarily pay the full principal amount of the Notes at maturity. If the Notes are not automatically called, at maturity, the Issuer will pay you the principal amount of your Notes only if the Final Underlying Level is greater than or equal to the Downside Threshold and will make such payment only at maturity. If the Notes are not automatically called and the Final Underlying Level is less than the Downside Threshold, you will be exposed to the full decline in the Underlying and the Issuer will repay less than the full principal amount of the Notes at maturity, if anything, resulting in a percentage loss of principal equal to the negative Underlying Return. Accordingly, you may lose a significant portion or all of your principal. |
+| --- | --- |
+
+| ¨ | You may not receive any Contingent Coupons — The Issuer will not necessarily make periodic coupon payments on the Notes. If the Closing Level of the Underlying on an Observation Date is less than the Coupon Barrier, the Issuer will not pay you the Contingent Coupon applicable to that Observation Date. If the Closing Level of the Underlying is less than the Coupon Barrier on each of the Observation Dates, the Issuer will not pay you any Contingent Coupons during the term of the Notes, and you will not receive a positive return on your Notes. Generally, this non-payment of the Contingent Coupon coincides with a period of greater risk of principal loss on your Notes. |
+| --- | --- |
+
+| ¨ | Your return potential on the Notes is limited to any Contingent Coupons paid on the Notes, and you will not participate in any appreciation of the Underlying — The return potential of the Notes is limited to the pre-specified per annum Contingent Coupon Rate, regardless of any appreciation of the Underlying. In addition, the total return on the Notes will vary based on the number of Observation Dates on which the Closing Level of the Underlying has been greater than or equal to the Coupon Barrier prior to maturity or an automatic call. Further, if the Notes are automatically called pursuant to the Automatic Call Feature, you will not receive Contingent Coupons or any other payment in respect of any Observation Dates after the applicable Call Settlement Date. Because the Notes could be called as early as the fourth Observation Date, the total return on the Notes could be minimal. If the Notes are not automatically called, you may be subject to the decline in the level of the Underlying even though you will not participate in any of the Underlying’s appreciation. As a result, the return on an investment in the Notes could be less than the return on a direct investment in the Underlying or the securities composing the Underlying. |
+| --- | --- |
+
+| ¨ | Reinvestment risk — If your Notes are automatically called early, the holding period over which you would receive the per annum Contingent Coupon Rate could be as short as approximately one year. There is no guarantee that you would be able to reinvest the proceeds from an investment in the Notes in a comparable investment with a similar level of risk in the event the Notes are automatically called prior to the Maturity Date. The likelihood that the Notes will be automatically called prior to the Maturity Date is highest earlier in their term. Generally, the longer the Notes remain outstanding, the less likely it is that the Notes will be automatically called, due to the decline in the level of the Underlying that has caused the Notes not to be automatically called on an earlier Observation Date and the shorter time remaining for the level of the Underlying to increase to or above the Initial Underlying Level on a subsequent Observation Date. If the Notes are not automatically called, you might be exposed to the full decline in the Underlying. |
+| --- | --- |
+
+| ¨ | Any payment on the Notes will be determined based on the Closing Levels of the Underlying on the dates specified — Any payment on the Notes will be determined based on the Closing Levels of the Underlying on the dates specified. You will not benefit from any more favorable value of the Underlying determined at any other time. |
+| --- | --- |
+
+| ¨ | Contingent repayment of principal applies only at maturity or upon any automatic call — You should be willing to hold your Notes to maturity or any automatic call. The market value of the Notes may fluctuate between the date you purchase them and the Final Valuation Date. If you are able to sell your Notes prior to maturity in the secondary market, if any, you may have to sell them at a loss relative to your principal amount even if at that time the level of the Underlying is greater than or equal to the Downside Threshold. |
+| --- | --- |
+
+| ¨ | A higher Contingent Coupon Rate and/or a lower Coupon Barrier and/or Downside Threshold may reflect greater expected volatility of the Underlying, which is generally associated with a greater risk of loss — Volatility is a measure of the degree of variation in the level of the Underlying over a period of time. The greater the expected volatility of the Underlying at the time the terms of the Notes are set, the greater the expectation is at that time that you may not receive one or more, or all, Contingent Coupon payments and that you may lose a significant portion or all of your principal at maturity. In addition, the economic terms of the Notes, including the Contingent Coupon Rate, the Coupon Barrier and the Downside Threshold, are based, in part, on the expected volatility of the Underlying at the time the terms of the Notes are set, where higher expected volatility will generally be reflected in a higher Contingent Coupon Rate than the fixed rate we would pay on conventional debt securities of the same maturity and/or on otherwise comparable securities and/or a lower Coupon Barrier and/or a lower Downside Threshold as compared to otherwise comparable securities. Accordingly, a higher Contingent Coupon Rate will generally be indicative of a greater risk of loss while a lower Coupon Barrier or Downside Threshold does not necessarily indicate that the Notes have a greater likelihood of paying Contingent Coupon payments or returning your principal at maturity. You should be willing to accept the downside market risk of the Underlying and the potential loss of a significant portion or all of your principal at maturity. |
+| --- | --- |
+
+PS-
+9
+
+| ¨ | Owning the Notes is not the same as owning the securities composing the Underlying — The return on your Notes may not reflect the return you would realize if you actually owned the securities composing the Underlying. As a holder of the Notes, you will not have voting rights or rights to receive dividends or other distributions or other rights that holders of the securities composing the Underlying would have. |
+| --- | --- |
+
+| ¨ | No assurance that the investment view implicit in the Notes will be successful — It is impossible to predict whether and the extent to which the level of the Underlying will rise or fall. There can be no assurance that the level of the Underlying will not close below the Downside Threshold on the Final Valuation Date. The level of the Underlying will be influenced by complex and interrelated political, economic, financial and other factors that affect the Underlying. You should be willing to accept the downside risks associated with equities in general and the Underlying in particular, and the risk of losing a significant portion or all of your principal amount. |
+| --- | --- |
+
+| ¨ | Tax treatment — Significant aspects of the tax treatment of the Notes are uncertain. You should consult your tax advisor about your tax situation. See “What Are the Tax Consequences of an Investment in the Notes?” on page PS-17 of this pricing supplement. |
+| --- | --- |
+
+Risks Relating to the Issuer
+
+| ¨ | Credit of Issuer — The Notes are unsecured and unsubordinated debt obligations of the Issuer, Barclays Bank PLC, and are not, either directly or indirectly, an obligation of any third party. Any payment to be made on the Notes, including any repayment of principal, is subject to the ability of Barclays Bank PLC to satisfy its obligations as they come due and is not guaranteed by any third party. As a result, the actual and perceived creditworthiness of Barclays Bank PLC may affect the market value of the Notes and, in the event Barclays Bank PLC were to default on its obligations, you might not receive any amount owed to you under the terms of the Notes. |
+| --- | --- |
+
+| ¨ | You may lose some or all of your investment if any U.K. Bail-in Power is exercised by the relevant U.K. resolution authority — Notwithstanding and to the exclusion of any other term of the Notes or any other agreements, arrangements or understandings between Barclays Bank PLC and any holder or beneficial owner of the Notes (or the trustee on behalf of the holders of the Notes), by acquiring the Notes, each holder or beneficial owner of the Notes acknowledges, accepts, agrees to be bound by, and consents to the exercise of, any U.K. Bail-in Power by the relevant U.K. resolution authority as set forth under “Consent to U.K. Bail-in Power” in this pricing supplement. Accordingly, any U.K. Bail-in Power may be exercised in such a manner as to result in you and other holders and beneficial owners of the Notes losing all or a part of the value of your investment in the Notes or receiving a different security from the Notes, which may be worth significantly less than the Notes and which may have significantly fewer protections than those typically afforded to debt securities. Moreover, the relevant U.K. resolution authority may exercise the U.K. Bail-in Power without providing any advance notice to, or requiring the consent of, the holders and beneficial owners of the Notes. The exercise of any U.K. Bail-in Power by the relevant U.K. resolution authority with respect to the Notes will not be a default or an Event of Default (as each term is defined in the senior debt securities indenture) and the trustee will not be liable for any action that the trustee takes, or abstains from taking, in either case, in accordance with the exercise of the U.K. Bail-in Power by the relevant U.K. resolution authority with respect to the Notes. See “Consent to U.K. Bail-in Power” in this pricing supplement as well as “U.K. Bail-in Power,” “Risk Factors—Risks Relating to the Securities Generally—Regulatory action in the event a bank or investment firm in the Group is failing or likely to fail, including the exercise by the relevant U.K. resolution authority of a variety of statutory resolution powers, could materially adversely affect the value of any securities” and “Risk Factors—Risks Relating to the Securities Generally—Under the terms of the securities, you have agreed to be bound by the exercise of any U.K. Bail-in Power by the relevant U.K. resolution authority” in the accompanying prospectus supplement. |
+| --- | --- |
+
+Risks Relating to the Underlying
+
+| ¨ | The Underlying reflects the price return of the securities composing the Underlying, not the total return — The return on the Notes is based on the performance of the Underlying, which reflects changes in the market prices of the securities composing the Underlying. The Underlying is not a “total return” index that, in addition to reflecting those price returns, would also reflect dividends paid on the securities composing the Underlying. Accordingly, the return on the Notes will not include such a total return feature. |
+| --- | --- |
+
+| ¨ | Adjustments to the Underlying could adversely affect the value of the Notes — The sponsor of the Underlying may add, delete, substitute or adjust the securities composing the Underlying or make other methodological changes to the Underlying that could affect its performance. The Calculation Agent will calculate the value to be used as the Closing Level of the Underlying in the event of certain material changes in or modifications to the Underlying. In addition, the sponsor of the Underlying may also discontinue or suspend calculation or publication of the Underlying at any time. Under these circumstances, the Calculation Agent may select a successor index that the Calculation Agent determines to be comparable to the Underlying or, if no successor index is available, the Calculation Agent will determine the value to be used as the Closing Level of the Underlying. Any of these actions could adversely affect the value of the Underlying and, consequently, the value of the Notes. See “Reference Assets—Indices—Adjustments Relating to Securities with an Index as a Reference Asset” in the accompanying prospectus supplement . |
+| --- | --- |
+
+| ¨ | Non-U.S. securities markets risks — The equity securities composing the Underlying are issued by non-U.S. companies in non-U.S. securities markets. Investments in securities linked to the value of such non-U.S. equity securities, such as the Notes, involve risks associated with the securities markets in the home countries of the issuers of those non-U.S. equity securities, including risks of volatility in those markets, governmental intervention in those markets and cross shareholdings in companies in certain countries. Also, there is generally less publicly available information about companies in some of these jurisdictions than there is about U.S. companies that are subject to the reporting requirements of the SEC, and generally non-U.S. companies are subject to accounting, auditing and financial reporting standards and requirements and securities trading rules different from those applicable to U.S. reporting companies. The prices of securities in non-U.S. markets may be affected by political, economic, financial and social factors in those countries, or global regions, including changes in government, economic and fiscal policies and currency exchange laws. |
+| --- | --- |
+
+PS-
+10
+
+| ¨ | No direct exposure to fluctuations in exchange rates between the U.S. dollar and the euro — The Underlying is composed of non-U.S. securities denominated in euros. Because the level of the Underlying is also calculated in euros (and not in U.S. dollars), the performance of the Underlying will not be adjusted for exchange rate fluctuations between the U.S. dollar and the euro. In addition, any payments on the Notes determined based on the performance of the Underlying will not be adjusted for exchange rate fluctuations between the U.S. dollar and the euro. Therefore, holders of the Notes will not benefit from any appreciation of the euro relative to the U.S. dollar. |
+| --- | --- |
+
+| ¨ | We may accelerate the Notes if a change-in-law event occurs — Upon the occurrence of legal or regulatory changes that may, among other things, prohibit or otherwise materially restrict persons from holding the Notes or the Underlying or its components, or engaging in transactions in them, the Calculation Agent may determine that a change-in-law event has occurred and accelerate the Maturity Date for a payment determined by the Calculation Agent in its sole discretion. Any amount payable upon acceleration could be significantly less than any amount that would be due on the Notes if they were not accelerated. However, if the Calculation Agent elects not to accelerate the Notes, the value of, and any amount payable on, the Notes could be adversely affected, perhaps significantly, by the occurrence of those legal or regulatory changes. See “Terms of the Notes—Change-in-Law Events” in the accompanying prospectus supplement. |
+| --- | --- |
+
+Risks Relating to Conflicts of Interest
+
+| ¨ | Dealer incentives — We, the Agents and affiliates of the Agents act in various capacities with respect to the Notes. The Agents and various affiliates may act as a principal, agent or dealer in connection with the Notes. Such Agents, including the sales representatives of UBS Financial Services Inc., will derive compensation from the distribution of the Notes and such compensation may serve as an incentive to sell these Notes instead of other investments. We will pay compensation as specified on the cover of this pricing supplement to the Agents in connection with the distribution of the Notes, and such compensation may be passed on to affiliates of the Agents or other third party distributors. |
+| --- | --- |
+
+| ¨ | Potentially inconsistent research, opinions or recommendations by Barclays Capital Inc., UBS Financial Services Inc. or their respective affiliates — Barclays Capital Inc., UBS Financial Services Inc. or their respective affiliates and agents may publish research from time to time on financial markets and other matters that may influence the value of the Notes, or express opinions or provide recommendations that are inconsistent with purchasing or holding the Notes. Any research, opinions or recommendations expressed by Barclays Capital Inc., UBS Financial Services Inc. or their respective affiliates or agents may not be consistent with each other and may be modified from time to time without notice. You should make your own independent investigation of the merits of investing in the Notes and the Underlying. |
+| --- | --- |
+
+| ¨ | Potential Barclays Bank PLC impact on the level of the Underlying — Trading or transactions by Barclays Bank PLC or its affiliates in the securities composing the Underlying and/or over-the-counter options, futures or other instruments with returns linked to the performance of the Underlying or the securities composing the Underlying may adversely affect the level of the Underlying and, therefore, the market value of the Notes. |
+| --- | --- |
+
+| ¨ | We and our affiliates may engage in various activities or make determinations that could materially affect your Notes in various ways and create conflicts of interest — We and our affiliates play a variety of roles in connection with the issuance of the Notes, as described below. In performing these roles, our and our affiliates’ economic interests are potentially adverse to your interests as an investor in the Notes. |
+| --- | --- |
+
+In connection with our normal business activities
+and in connection with hedging our obligations under the Notes, we and our affiliates make markets in and trade various financial instruments
+or products for our accounts and for the account of our clients and otherwise provide investment banking and other financial services
+with respect to these financial instruments and products. These financial instruments and products may include securities, derivative
+instruments or assets that may relate to the Underlying or its components. In any such market making, trading and hedging activity, investment
+banking and other financial services, we or our affiliates may take positions or take actions that are inconsistent with, or adverse to,
+the investment objectives of the holders of the Notes. We and our affiliates have no obligation to take the needs of any buyer, seller
+or holder of the Notes into account in conducting these activities. Such market making, trading and hedging activity, investment banking
+and other financial services may negatively impact the value of the Notes.
+
+In addition, the role played by Barclays
+Capital Inc., as the agent for the Notes, could present significant conflicts of interest with the role of Barclays Bank PLC, as issuer
+of the Notes. For example, Barclays Capital Inc. or its representatives may derive compensation or financial benefit from the distribution
+of the Notes and such compensation or financial benefit may serve as an incentive to sell the Notes instead of other investments. Furthermore,
+we and our affiliates establish the offering price of the Notes for initial sale to the public, and the offering price is not based upon
+any independent verification or valuation.
+
+In addition to the activities described
+above, we will also act as the Calculation Agent for the Notes. As Calculation Agent, we will determine any values of the Underlying and
+make any other determinations necessary to calculate any payments on the Notes. In making these determinations, we may be required to
+make discretionary judgments, including those described in the accompanying prospectus supplement and under “—Risks Relating
+to the Underlying” above. In making these discretionary judgments, our economic interests are potentially adverse to your interests
+as an investor in the Notes, and any of these determinations may adversely affect any payments on the Notes.
+
+PS-
+11
+
+Risks Relating to the Estimated Value of the Notes
+and the Secondary Market
+
+| ¨ | There may be little or no secondary market for the Notes — The Notes will not be listed on any securities exchange. Barclays Capital Inc. and other affiliates of Barclays Bank PLC intend to make a secondary market for the Notes but are not required to do so, and may discontinue any such secondary market making at any time, without notice. Even if there is a secondary market, it may not provide enough liquidity to allow you to trade or sell the Notes easily. Because other dealers are not likely to make a secondary market for the Notes, the price at which you may be able to trade your Notes is likely to depend on the price, if any, at which Barclays Capital Inc. and other affiliates of Barclays Bank PLC are willing to buy the Notes. The Notes are not designed to be short-term trading instruments. Accordingly, you should be able and willing to hold your Notes to maturity. |
+| --- | --- |
+
+| ¨ | Many economic and market factors will impact the value of the Notes — Structured notes, including the Notes, can be thought of as securities that combine a debt instrument with one or more options or other derivative instruments. As a result, the factors that influence the values of debt instruments and options or other derivative instruments will also influence the terms and features of the Notes at issuance and their value in the secondary market. Accordingly, in addition to the level of the Underlying on any day, the value of the Notes will be affected by a number of economic and market factors that may either offset or magnify each other, including: |
+| --- | --- |
+
+| ¨ | the expected volatility of the Underlying; |
+| --- | --- |
+
+| ¨ | the time to maturity of the Notes; |
+| --- | --- |
+
+| ¨ | the market prices of, and dividend rates on, the securities composing the Underlying; |
+| --- | --- |
+
+| ¨ | interest and yield rates in the market generally; |
+| --- | --- |
+
+| ¨ | supply and demand for the Notes; |
+| --- | --- |
+
+| ¨ | a variety of economic, financial, political, regulatory and judicial events; |
+| --- | --- |
+
+| ¨ | the exchange rate of the U.S. dollar relative to the euro; and |
+| --- | --- |
+
+| ¨ | our creditworthiness, including actual or anticipated downgrades in our credit ratings. |
+| --- | --- |
+
+| ¨ | The estimated value of your Notes is lower than the initial issue price of your Notes — The estimated value of your Notes on the Trade Date is lower than the initial issue price of your Notes. The difference between the initial issue price of your Notes and the estimated value of the Notes is a result of certain factors, such as any sales commissions to be paid to Barclays Capital Inc. or another affiliate of ours, any selling concessions, discounts, commissions or fees to be allowed or paid to non-affiliated intermediaries, the estimated profit that we or any of our affiliates expect to earn in connection with structuring the Notes, the estimated cost that we may incur in hedging our obligations under the Notes, and estimated development and other costs that we may incur in connection with the Notes. |
+| --- | --- |
+
+| ¨ | The estimated value of your Notes might be lower if such estimated value were based on the levels at which our debt securities trade in the secondary market — The estimated value of your Notes on the Trade Date is based on a number of variables, including our internal funding rates. Our internal funding rates may vary from the levels at which our benchmark debt securities trade in the secondary market. As a result of this difference, the estimated value referenced above might be lower if such estimated value were based on the levels at which our benchmark debt securities trade in the secondary market. Also, this difference in funding rate as well as certain factors, such as sales commissions, selling concessions, estimated costs and profits mentioned below, reduces the economic terms of the Notes to you. |
+| --- | --- |
+
+| ¨ | The estimated value of the Notes is based on our internal pricing models, which may prove to be inaccurate and may be different from the pricing models of other financial institutions — The estimated value of your Notes on the Trade Date is based on our internal pricing models, which take into account a number of variables and are based on a number of subjective assumptions, which may or may not materialize. These variables and assumptions are not evaluated or verified on an independent basis. Further, our pricing models may be different from other financial institutions’ pricing models and the methodologies used by us to estimate the value of the Notes may not be consistent with those of other financial institutions that may be purchasers or sellers of Notes in the secondary market. As a result, the secondary market price of your Notes may be materially different from the estimated value of the Notes determined by reference to our internal pricing models. |
+| --- | --- |
+
+| ¨ | The estimated value of your Notes is not a prediction of the prices at which you may sell your Notes in the secondary market, if any, and such secondary market prices, if any, will likely be lower than the initial issue price of your Notes and may be lower than the estimated value of your Notes — The estimated value of the Notes will not be a prediction of the prices at which Barclays Capital Inc., other affiliates of ours or third parties may be willing to purchase the Notes from you in secondary market transactions (if they are willing to purchase, which they are not obligated to do). The price at which you may be able to sell your Notes in the secondary market at any time will be influenced by many factors that cannot be predicted, such as market conditions, and any bid and ask spread for similar sized trades, and may be substantially less than our estimated value of the Notes. Further, as secondary market prices of your Notes take into account the levels at which our debt securities trade in the secondary market, and do not take into account our various costs related to the Notes such as fees, commissions, discounts, and the costs of hedging our obligations under the Notes, secondary market prices of your Notes will likely be lower than the initial issue price of your Notes. As a result, the price at which Barclays Capital Inc., other affiliates of ours or third parties may be willing to purchase the Notes from you in secondary market |
+| --- | --- |
+
+PS-
+12
+
+transactions, if any, will likely be lower
+than the price you paid for your Notes, and any sale prior to the Maturity Date could result in a substantial loss to you.
+
+| ¨ | The temporary price at which we may initially buy the Notes in the secondary market and the value we may initially use for customer account statements, if we provide any customer account statements at all, may not be indicative of future prices of your Notes — Assuming that all relevant factors remain constant after the Trade Date, the price at which Barclays Capital Inc. may initially buy or sell the Notes in the secondary market (if Barclays Capital Inc. makes a market in the Notes, which it is not obligated to do) and the value that we may initially use for customer account statements, if we provide any customer account statements at all, may exceed our estimated value of the Notes on the Trade Date, as well as the secondary market value of the Notes, for a temporary period after the initial issue date of the Notes. The price at which Barclays Capital Inc. may initially buy or sell the Notes in the secondary market and the value that we may initially use for customer account statements may not be indicative of future prices of your Notes. Please see “Additional Information Regarding Our Estimated Value of the Notes” on page PS-3 for further information. |
+| --- | --- |
+
+PS-
+13
+
+| Hypothetical Examples |
+| --- |
+
+Hypothetical terms only. Actual terms may vary.
+See the cover page for actual offering terms.
+
+The examples below illustrate the payment upon a call or at maturity
+for a $10 principal amount Note on a hypothetical offering of the Notes under various scenarios, with the assumptions set forth below.*
+You should not take these examples as an indication or assurance of the expected performance of the Notes. The examples below do not take
+into account any tax consequences from investing in the Notes. Numbers appearing in the examples below have been rounded for ease of analysis.
+
+| Term: | Approximately three years (unless called earlier) |
+| --- | --- |
+| Contingent Coupon Rate: | 6.85% per annum (or 1.7125% per quarter) |
+| Contingent Coupon: | $0.1713 per quarter |
+| Hypothetical Initial Underlying Level: | 100.00 |
+| Hypothetical Coupon Barrier: | 60.00 (which is 60.00% of the hypothetical Initial Underlying Level) |
+| Hypothetical Downside Threshold: | 60.00 (which is 60.00% of the hypothetical Initial Underlying Level) |
+| Observation Dates: | Quarterly, as set forth under “Final Terms” and “Observation Dates/Coupon Payment Dates/Call Settlement Dates” in this pricing supplement. The Notes will be automatically callable beginning on the fourth Observation Date. |
+
+| * | Terms used for purposes of these hypothetical examples do not represent the actual Initial Underlying Level, Coupon Barrier or Downside Threshold. The hypothetical Initial Underlying Level of 100.00 has been chosen for illustrative purposes only and does not represent the actual Initial Underlying Level. The actual Initial Underlying Level, Coupon Barrier and Downside Threshold are set forth on the cover of this pricing supplement. For historical Closing Levels of the Underlying, please see the historical information set forth under the section titled “EURO STOXX 50 ® Index” below. We cannot predict the Closing Level of the Underlying on any day during the term of the Notes, including on any Observation Date. |
+| --- | --- |
+
+The examples below are purely hypothetical. These examples are intended
+to illustrate (a) under what circumstances the Notes will be subject to an automatic call, (b) how the payment of a Contingent Coupon
+with respect to any Observation Date will depend on whether the Closing Level of the Underlying on that Observation Date is less than
+the Coupon Barrier, (c) how the value of the payment at maturity on the Notes will depend on whether the Final Underlying Level is less
+than the Downside Threshold and (d) how the total return on the Notes may be less than the total return on a direct investment in the
+Underlying in certain scenarios. The “total return” as used in this pricing supplement is the number, expressed as a percentage,
+that results from comparing the total payments per Note over the term of the Notes to the $10 principal amount.
+
+Example 1 — Notes Are Automatically Called on the Fourth Observation
+Date
+
+| Observation Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 105.00 | Closing Level of Underlying at or above Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying at or above Coupon Barrier; Issuer pays Contingent Coupon of $0.1713 on first Coupon Payment Date. |
+| Second Observation Date | 45.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. |
+| Third Observation Date | 45.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Fourth Observation Date | 105.00 | Closing Level of Underlying at or above Initial Underlying Level; Notes are automatically called; Issuer pays principal plus Contingent Coupon of $0.1713 on Call Settlement Date. |
+
+| Total Payments (per Note): | Payment on Call Settlement Date: | $10.1713 ($10.00 + $0.1713) |
+| --- | --- | --- |
+| | Prior Contingent Coupons: | $0.1713 ($0.1713 × 1) |
+| | Total: | $10.3426 |
+| | Total Return: | 3.426% |
+
+Because the Closing Level of the Underlying is greater than or equal
+to the Initial Underlying Level on the fourth Observation Date (which is approximately one year after the Trade Date and is the first
+Observation Date on which the Notes are callable), the Notes are automatically called on that Observation Date. The Issuer will pay you
+on the Call Settlement Date $10.1713 per Note, which is equal to your principal amount
+plus
+the Contingent Coupon due on the Coupon
+Payment Date that is also the Call Settlement Date. No further amounts will be owed to you under the Notes.
+
+In addition, because the Closing Level of the Underlying was greater
+than or equal to the Coupon Barrier on the first Observation Date, the Issuer will pay the Contingent Coupon of $0.1713 on the first Coupon
+Payment Date. However, because the Closing Level of the Underlying was less than the Coupon Barrier on the second and third Observation
+Dates, the Issuer will not pay any Contingent Coupon on the Coupon
+
+PS-
+14
+
+Payment Dates following those Observation Dates. Accordingly, the Issuer
+will have paid a total of $10.3426 per Note for a total return of 3.426% on the Notes.
+
+Example 2 — Notes Are NOT Automatically Called and the Final
+Underlying Level Is At or Above the Downside Threshold
+
+| Observation Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 95.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying at or above Coupon Barrier; Issuer pays Contingent Coupon of $0.1713 on first Coupon Payment Date. |
+| Second Observation Date | 75.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying at or above Coupon Barrier; Issuer pays Contingent Coupon of $0.1713 on second Coupon Payment Date. |
+| Third Observation Date | 50.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Fourth to Eleventh Observation Dates | Various (below Coupon Barrier) | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically called. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. |
+| Twelfth Observation Date (the Final Valuation Date) | 70.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically called. Final Underlying Level at or above Downside Threshold and Coupon Barrier; Issuer pays principal plus Contingent Coupon of $0.1713 on Maturity Date. |
+
+| Total Payments (per Note): | Payment at Maturity: | $10.1713 ($10.00 + $0.1713) |
+| --- | --- | --- |
+| | Prior Contingent Coupons: | $0.3426 ($0.1713 × 2) |
+| | Total: | $10.5139 |
+| | Total Return: | 5.139% |
+
+Because the Closing Level of the Underlying was less than the Initial
+Underlying Level on each Observation Date on and after the fourth Observation Date (which is approximately one year after the Trade Date
+and is the first Observation Date on which the Notes are callable), the Notes are not automatically called. Because the Final Underlying
+Level is greater than or equal to the Downside Threshold and Coupon Barrier, the Issuer will pay you on the Maturity Date $10.1713 per
+Note, which is equal to your principal amount
+plus
+the Contingent Coupon due on the Coupon Payment Date that is also the Maturity
+Date.
+
+In addition, because the Closing Level of the Underlying was greater
+than or equal to the Coupon Barrier on the first and second Observation Dates, the Issuer will pay the Contingent Coupon of $0.1713 on
+each of the first and second Coupon Payment Dates. However, because the Closing Level of the Underlying was less than the Coupon Barrier
+on the third through eleventh Observation Dates, the Issuer will not pay any Contingent Coupon on the Coupon Payment Dates following those
+Observation Dates. Accordingly, the Issuer will have paid a total of $10.5139 per Note for a total return of 5.139% on the Notes.
+
+PS-
+15
+
+Example 3 — Notes Are NOT Automatically Called and the Final
+Underlying Level Is Below the Downside Threshold
+
+| Observation Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | 40.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on first Coupon Payment Date. |
+| Second Observation Date | 50.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on second Coupon Payment Date. |
+| Third Observation Date | 40.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically callable because Observation Date is prior to the fourth Observation Date. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on third Coupon Payment Date. |
+| Fourth to Eleventh Observation Dates | Various (below Coupon Barrier) | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically called. Closing Level of Underlying below Coupon Barrier; Issuer DOES NOT pay Contingent Coupon on any of the fourth to eleventh Coupon Payment Dates. |
+| Twelfth Observation Date (the Final Valuation Date) | 45.00 | Closing Level of Underlying below Initial Underlying Level; Notes NOT automatically called. Closing Level of Underlying below Coupon Barrier and Downside Threshold; Issuer DOES NOT pay Contingent Coupon on Maturity Date; Issuer repays less than the principal amount resulting in a percentage loss of principal equal to the decline of the Underlying. |
+
+| Total Payments (per Note): | Payment at Maturity: | $4.50 |
+| --- | --- | --- |
+| | Prior Contingent Coupons: | $0.00 |
+| | Total: | $4.50 |
+| | Total Return: | -55.00% |
+
+Because the Closing Level of the Underlying is less than the Initial
+Underlying Level on each Observation Date on and after the fourth Observation Date (which is approximately one year after the Trade Date
+and is the first Observation Date on which the Notes are callable), the Notes are not automatically called. Because the Final Underlying
+Level is less than the Downside Threshold on the Final Valuation Date, at maturity, the Issuer will pay you a total of $4.50 per
+Note
+,
+for a total return of -55.00% on the Notes, calculated as follows:
+
+$10 × (1 + Underlying Return) = $10 ×
+(1 + -55.00%) = $4.50
+
+In addition, because the Closing Level of the Underlying is less than
+the Coupon Barrier on each Observation Date, the Issuer will not pay any Contingent Coupons over the term of the Notes.
+
+PS-
+16
+
+| What Are the Tax Consequences of an Investment in the Notes? |
+| --- |
+
+You should review carefully the sections in the accompanying prospectus
+supplement entitled “Material U.S. Federal Income Tax Consequences—Tax Consequences to U.S. Holders—Notes Treated as
+Prepaid Forward or Derivative Contracts with Associated Coupons” and, if you are a non-U.S. holder, “—Tax Consequences
+to Non-U.S. Holders.”
+
+In determining our reporting responsibilities, if any, we intend to
+treat (i) the Notes for U.S. federal income tax purposes as prepaid forward contracts with associated contingent coupons and (ii) any
+Contingent Coupons as ordinary income, as described in the section entitled “Material U.S. Federal Income Tax Consequences—Tax
+Consequences to U.S. Holders—Notes Treated as Prepaid Forward or Derivative Contracts with Associated Coupons” in the accompanying
+prospectus supplement. Our special tax counsel, Davis Polk & Wardwell LLP, has advised that it believes this treatment to be reasonable,
+but that there are other reasonable treatments that the Internal Revenue Service (the “IRS”) or a court may adopt.
+
+Sale, exchange or redemption of a Note.
+Assuming the treatment
+described above is respected, upon a sale or exchange of the Notes (including upon early redemption or redemption at maturity), you should
+recognize capital gain or loss equal to the difference between the amount realized on the sale or exchange and your tax basis in the Notes,
+which should equal the amount you paid to acquire the Notes (assuming Contingent Coupons are properly treated as ordinary income, consistent
+with the position referred to above). This gain or loss should be short-term capital gain or loss unless you hold the Notes for more than
+one year, in which case the gain or loss should be long-term capital gain or loss, whether or not you are an initial purchaser of the
+Notes at the issue price. The deductibility of capital losses is subject to limitations. If you sell your Notes between the time your
+right to a Contingent Coupon is fixed and the time it is paid, it is likely that you will be treated as receiving ordinary income equal
+to the Contingent Coupon. Although uncertain, it is possible that proceeds received from the sale or exchange of your Notes prior to an
+Observation Date but that can be attributed to an expected Contingent Coupon payment could be treated as ordinary income. You should consult
+your tax advisor regarding this issue.
+
+As noted above, there are other reasonable treatments that the IRS or
+a court may adopt, in which case the timing and character of any income or loss on the Notes could be materially affected. In addition,
+in 2007 the U.S. Treasury Department and the IRS released a notice requesting comments on the U.S. federal income tax treatment of “prepaid
+forward contracts” and similar instruments. The notice focuses in particular on whether to require investors in these instruments
+to accrue income over the term of their investment. It also asks for comments on a number of related topics, including the character of
+income or loss with respect to these instruments and the relevance of factors such as the nature of the underlying property to which the
+instruments are linked. While the notice requests comments on appropriate transition rules and effective dates, any Treasury regulations
+or other guidance promulgated after consideration of these issues could materially affect the tax consequences of an investment in the
+Notes, possibly with retroactive effect. You should consult your tax advisor regarding the U.S. federal income tax consequences of an
+investment in the Notes, including possible alternative treatments and the issues presented by this notice.
+
+Non-U.S. holders.
+Insofar as we have responsibility as a withholding
+agent, we do not currently intend to treat Contingent Coupon payments to non-U.S. holders as subject to U.S. withholding tax. However,
+non-U.S. holders should in any event expect to be required to provide appropriate Forms W-8 or other documentation in order to establish
+an exemption from backup withholding, as described under the heading “—Information Reporting and Backup Withholding”
+in the accompanying prospectus supplement. If any withholding is required, we will not be required to pay any additional amounts with
+respect to amounts withheld.
+
+Treasury regulations under Section 871(m) generally impose a withholding
+tax on certain “dividend equivalents” under certain “equity linked instruments.” A recent IRS notice excludes
+from the scope of Section 871(m) instruments issued prior to January 1, 2027 that do not have a “delta of one” with respect
+to underlying securities that could pay U.S.-source dividends for U.S. federal income tax purposes (each an “Underlying Security”).
+Based on our determination that the Notes do not have a “delta of one” within the meaning of the regulations, our special
+tax counsel is of the opinion that these regulations should not apply to the Notes with regard to non-U.S. holders. Our determination
+is not binding on the IRS, and the IRS may disagree with this determination. Section 871(m) is complex and its application may depend
+on your particular circumstances, including whether you enter into other transactions with respect to an Underlying Security. You should
+consult your tax advisor regarding the potential application of Section 871(m) to the Notes.
+
+PS-
+17
+
+| EURO STOXX 50 ® Index |
+| --- |
+
+The Underlying is a free float market capitalization-weighted index
+composed of 50 of the largest stocks in terms of free float market capitalization traded on major Eurozone exchanges. For more information
+about the Underlying, see “Indices—The STOXX Benchmark Indices” in the accompanying underlying supplement.
+
+Historical Information
+
+The following graph sets forth the historical performance of the Underlying
+from January 4, 2016 through September 14, 2026, based on the daily Closing Levels of the Underlying. The Closing Level of the Underlying
+on September 14, 2026 was 6,260.38. The dotted line represents the Coupon Barrier and the Downside Threshold of 3,756.23, which is equal
+to 60.00% of the Initial Underlying Level.
+
+We obtained the Closing Levels of the Underlying from Bloomberg Professional
+®
+
+service, without independent verification. Historical performance of the Underlying should not be taken as an indication of future performance.
+Future performance of the Underlying may differ significantly from historical performance, and no assurance can be given as to the Closing
+Level of the Underlying during the term of the Notes, including on any Observation Date. We cannot give you assurance that the performance
+of the Underlying will not result in a loss of your principal amount.
+
+PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE
+RESULTS.
+
+PS-
+18
+
+| Supplemental Plan of Distribution |
+| --- |
+
+We have agreed to sell to Barclays Capital Inc. and UBS Financial Services
+Inc., together the “Agents,” and the Agents have agreed to purchase, all of the Notes at the initial issue price less the
+underwriting discount indicated on the cover of this pricing supplement. UBS Financial Services Inc. may allow a concession not in excess
+of the underwriting discount set forth on the cover of this pricing supplement to its affiliates.
+
+We or our affiliates have entered or will enter into swap agreements
+or related hedge transactions with one of our other affiliates or unaffiliated counterparties in connection with the sale of the Notes
+and the Agents and/or an affiliate may earn additional income as a result of payments pursuant to the swap, or related hedge transactions.
+
+We have agreed to indemnify the Agents against liabilities, including
+certain liabilities under the Securities Act of 1933, as amended, or to contribute to payments that the Agents may be required to make
+relating to these liabilities as described in the prospectus and the prospectus supplement. We have agreed that UBS Financial Services
+Inc. may sell all or a part of the Notes that it purchases from us to its affiliates at the price that is indicated on the cover of this
+pricing supplement.
+
+| Validity of the Notes |
+| --- |
+
+In the opinion of Davis Polk & Wardwell LLP, as special United States
+products counsel to Barclays Bank PLC, when the Notes offered by this pricing supplement have been issued by Barclays Bank PLC pursuant
+to the indenture, the trustee has made, in accordance with instructions from Barclays Bank PLC, appropriate entries or notations in its
+records relating to the master global note that represents such Notes (the “master note”), and such Notes have been delivered
+against payment as contemplated herein, such Notes will be valid and binding obligations of Barclays Bank PLC, enforceable in accordance
+with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally, concepts
+of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good faith, fair dealing
+and the lack of bad faith) and possible judicial or regulatory actions or application giving effect to governmental actions or foreign
+laws affecting creditors’ rights,
+provided
+that such counsel expresses no opinion as to (i) the effect of fraudulent conveyance,
+fraudulent transfer or similar provision of applicable law on the conclusions expressed above or (ii) the validity, legally binding effect
+or enforceability of any provision that permits holders to collect any portion of the stated principal amount upon acceleration of the
+Notes to the extent determined to constitute unearned interest. This opinion is given as of the date hereof and is limited to the laws
+of the State of New York, except that such counsel expresses no opinion as to (i) any law, rule or regulation that is applicable to Barclays
+Bank PLC, the indenture or the Notes (together with the indenture, the “Documents”) or such transactions solely because such
+law, rule or regulation is part of a regulatory regime applicable to any party to any of the Documents or any of its affiliates due to
+the specific assets or business of such party or such affiliate or (ii) any law, rule or regulation relating to national security. Insofar
+as this opinion involves matters governed by English law, Davis Polk & Wardwell LLP has relied, with Barclays Bank PLC’s permission,
+on the opinion of Davis Polk & Wardwell London LLP, dated as of June 11, 2026, filed as an exhibit to a report on Form 6-K by Barclays
+Bank PLC on June 11, 2026, and this opinion is subject to the same assumptions, qualifications and limitations as set forth in such opinion
+of Davis Polk & Wardwell London LLP. In addition, this opinion is subject to customary assumptions about the trustee’s authorization,
+execution and delivery of the indenture and its authentication of the master note and the validity, binding nature and enforceability
+of the indenture with respect to the trustee, all as stated in the opinion of Davis Polk & Wardwell LLP, dated June 11, 2026, which
+has been filed as an exhibit to the report on Form 6-K referred to above.
+
+PS-
+19

@@ -1,0 +1,255 @@
+{
+  "accession": "0001839882-26-034030",
+  "source_file": "data/cleaned/0001839882-26-034030_bns_424b2-22398.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-08",
+    "strike_date": "2026-07-06",
+    "issue_date": "2026-07-09",
+    "maturity_date": "2029-07-12",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29697.87
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-10-08",
+      "2027-01-08",
+      "2027-04-08",
+      "2027-07-14",
+      "2027-10-08",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10",
+      "2028-10-09",
+      "2029-01-08",
+      "2029-04-09",
+      "2029-07-09"
+    ],
+    "payment_dates": [
+      "2026-10-13",
+      "2027-01-12",
+      "2027-04-12",
+      "2027-07-16",
+      "2027-10-13",
+      "2028-01-12",
+      "2028-04-12",
+      "2028-07-12",
+      "2028-10-11",
+      "2029-01-10",
+      "2029-04-11",
+      "2029-07-12"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.025,
+      "barrier_pct": 60.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.71
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Bank of Nova Scotia |",
+      "lines": [
+        171,
+        171
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        175,
+        175
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | Trade Date | July 8, 2026 |",
+      "lines": [
+        36,
+        36
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike Date | Strike Date | July 6, 2026 |",
+      "lines": [
+        34,
+        34
+      ],
+      "note": "separate strike date before trade date; initial level is the strike-date close (line 49)"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | Settlement Date | July 9, 2026 |",
+      "lines": [
+        37,
+        37
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date* | Maturity Date* | July 12, 2029 |",
+      "lines": [
+        40,
+        40
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 8.10% per annum | 29,697.87 |",
+      "lines": [
+        53,
+        53
+      ],
+      "note": "cleaned text shows '®' separated by a space"
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 8.10% per annum | 29,697.87 |",
+      "lines": [
+        53,
+        53
+      ]
+    },
+    "performance_type": {
+      "quote": "linked to the Nasdaq-100 Index",
+      "lines": [
+        20,
+        20
+      ],
+      "note": "single underlying"
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        224,
+        237
+      ],
+      "note": "11 dated rows + final row 'Final Valuation Date' = July 9, 2029 (line 39)"
+    },
+    "payment_dates": {
+      "quote": "| October 8, 2026* | October 13, 2026* |",
+      "lines": [
+        224,
+        237
+      ],
+      "note": "final payment = Maturity Date July 12, 2029 (line 40)"
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the first potential call settlement date, which is July 16, 2027.",
+      "lines": [
+        239,
+        239
+      ],
+      "note": "July 16, 2027 is the payment date of observation #4 (July 14, 2027)"
+    },
+    "autocall.levels_pct": {
+      "quote": "on any observation date (quarterly, callable after 12 months) prior to the final valuation date is equal to or greater than the initial level",
+      "lines": [
+        182,
+        182
+      ],
+      "note": "callable on obs 4..11 (interim only) at 100% -> 8 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | 8.10% | $0.2025 |",
+      "lines": [
+        180,
+        180
+      ],
+      "note": "8.10% p.a. / 4 = 2.025%; $0.2025/$10 = 2.025%"
+    },
+    "coupon.barrier_pct": {
+      "quote": "17,818.72, which is 60.00% of the Initial Level",
+      "lines": [
+        53,
+        53
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to such observation date will not accrue or be payable",
+      "lines": [
+        178,
+        178
+      ],
+      "note": "no memory language"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "17,818.72, which is 60.00% of the Initial Level",
+      "lines": [
+        53,
+        53
+      ],
+      "note": "Downside Threshold column"
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level is less than the downside threshold",
+      "lines": [
+        186,
+        186
+      ],
+      "note": "final level only"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return)",
+      "lines": [
+        186,
+        186
+      ],
+      "note": "1-to-1 loss"
+    },
+    "estimated_value_per_unit": {
+      "quote": "The initial estimated value of your Notes on the trade date was $9.71 per principal amount",
+      "lines": [
+        55,
+        55
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "strike_date",
+      "issue": "Strike date July 6, 2026 differs from trade date July 8, 2026; initial level fixed on strike date."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Final valuation date not dated inside the schedule table (row reads 'Final Valuation Date | Maturity Date'); taken from Key Dates line 39. Obs #4 is July 14, 2027 (irregular vs. the ~8th pattern) - verify."
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "July 14, 2027 observation row carries '*' (not callable) while its payment date July 16, 2027 is the first call settlement date; interpreted as callable from obs #4 (consistent with 'callable after 12 months' and Example 1)."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Taken from table as printed; rule says two business days after obs, but Oct 8, 2026 -> Oct 13, 2026 (Columbus Day business-day effect) - table used, not derived."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted per-annum 8.10% to quarterly 2.025% (matches $0.2025 per $10)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Single equity index (Nasdaq-100, price return), quarterly contingent coupon without memory, discrete quarterly autocall at 100%, European (final-level) 60% downside threshold with 1:1 loss."
+  }
+}

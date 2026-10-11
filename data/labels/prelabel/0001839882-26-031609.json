@@ -1,0 +1,63 @@
+{
+  "accession": "0001839882-26-031609",
+  "source_file": "data/cleaned/0001839882-26-031609_ms16743_424b2-21070.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Morgan Stanley Finance LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-26",
+    "strike_date": null,
+    "issue_date": "2026-06-30",
+    "maturity_date": "2029-06-29",
+    "underlyings": [
+      {"name": "S&P 500® Index", "ticker": "SPX", "initial_level": 7354.02},
+      {"name": "Russell 2000® Index", "ticker": "RTY", "initial_level": 3010.084},
+      {"name": "EURO STOXX 50® Index", "ticker": "SX5E", "initial_level": 6221.55}
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": ["2026-09-28","2026-12-28","2027-03-30","2027-06-28","2027-09-27","2027-12-27","2028-03-27","2028-06-26","2028-09-26","2028-12-27","2029-03-26","2029-06-26"],
+    "payment_dates": ["2026-09-30","2026-12-30","2027-04-01","2027-06-30","2027-09-29","2027-12-29","2028-03-29","2028-06-28","2028-09-28","2028-12-29","2029-03-28","2029-06-29"],
+    "autocall": {"first_observation_index": 1, "levels_pct": [100,100,100,100,100,100,100,100,100,100,100,100]},
+    "coupon": {"rate_per_period_pct": 2.275, "barrier_pct": 70, "memory": false},
+    "knock_in": {"barrier_pct": 70, "monitoring": "at_maturity"},
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.729
+  },
+  "evidence": {
+    "issuer": {"quote": "| Issuer | Morgan Stanley Finance LLC |", "lines": [175, 175]},
+    "notional_per_unit": {"quote": "| Principal Amount | $10.00 per Security |", "lines": [179, 179]},
+    "pricing_date": {"quote": "| Trade Date | June 26, 2026 |", "lines": [187, 187]},
+    "strike_date": {"quote": "| Trade Date | June 26, 2026 |", "lines": [187, 187], "note": "No separate strike date named; initial values set on Trade Date."},
+    "issue_date": {"quote": "| Settlement Date | June 30, 2026 |", "lines": [188, 188]},
+    "maturity_date": {"quote": "| Maturity Date | June 29, 2029* |", "lines": [190, 190]},
+    "underlyings[0].name": {"quote": "| S&P 500 ® Index | 7,354.02 |", "lines": [80, 80]},
+    "underlyings[0].initial_level": {"quote": "With respect to the SPX Index, 7,354.02", "lines": [200, 200]},
+    "underlyings[1].name": {"quote": "| Russell 2000 ® Index | 3,010.084 |", "lines": [81, 81]},
+    "underlyings[1].initial_level": {"quote": "With respect to the RTY Index, 3,010.084", "lines": [200, 200]},
+    "underlyings[2].name": {"quote": "| EURO STOXX 50 ® Index | 6,221.55 |", "lines": [82, 82]},
+    "underlyings[2].initial_level": {"quote": "With respect to the SX5E Index, 6,221.55", "lines": [200, 200]},
+    "performance_type": {"quote": "| Least Performing Underlying | The Underlying with the largest percentage decrease from the Initial Underlying Value to the Final Underlying Value. |", "lines": [194, 194]},
+    "observation_dates": {"quote": "| Observation Dates | Coupon Payment Dates |", "lines": [226, 239], "note": "12 quarterly rows, M/D/YYYY converted to ISO."},
+    "payment_dates": {"quote": "| 6/26/2029 (Final Observation Date) | 6/29/2029 (Maturity Date) |", "lines": [226, 239], "note": "Taken row by row from the table (not derived)."},
+    "autocall.first_observation_index": {"quote": "on any Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value", "lines": [181, 181], "note": "9/28/2026 is row 1 of the schedule."},
+    "autocall.levels_pct": {"quote": "The Securities will be called automatically if the Observation Date Closing Values of each of the SPX Index, the RTY Index and the SX5E Index on any Observation Date beginning September 28, 2026 is equal to or greater than its respective Initial Underlying Value.", "lines": [181, 181], "note": "Call level = Initial Underlying Value = 100%, constant; 'any Observation Date' includes the Final Observation Date, so 12 entries."},
+    "coupon.rate_per_period_pct": {"quote": "The Contingent Coupon Rate is 9.10% per annum.", "lines": [184, 184], "note": "9.10% p.a. / 4 = 2.275% per quarter (matches $0.2275 per $10 Security, line 182)."},
+    "coupon.barrier_pct": {"quote": "With respect to the SPX Index, 5,147.81, which is approximately 70% of the Initial Underlying Value of such Underlying", "lines": [204, 204], "note": "All three Coupon Barriers approximately 70%."},
+    "coupon.memory": {"quote": "the Contingent Coupon for that Observation Date will not accrue or be payable and that Contingent Coupon payment will be lost.", "lines": [182, 182], "note": "No memory feature."},
+    "knock_in.barrier_pct": {"quote": "| Downside Threshold | With respect to the SPX Index, 5,147.81, which is approximately 70% of the Initial Underlying Value of such Underlying", "lines": [203, 203]},
+    "knock_in.monitoring": {"quote": "The Downside Thresholds are considered only at maturity.", "lines": [280, 280]},
+    "downside_participation_pct": {"quote": "$10 × (1 + Underlying Return of the Least Performing Underlying)", "lines": [192, 192], "note": "1-to-1 exposure."},
+    "estimated_value_per_unit": {"quote": "We estimate that the value of each Security on the Trade Date is $9.729.", "lines": [140, 140]}
+  },
+  "flags": [
+    {"field": "autocall.levels_pct", "issue": "Wording 'any Observation Date beginning September 28, 2026' read literally includes the Final Observation Date (12 levels); Example 2 also shows a $10.2275 'Settlement Amount' at final. Economically equivalent to maturity payout, but verify inclusion."},
+    {"field": "coupon.rate_per_period_pct", "issue": "Converted 9.10% p.a. / 4 = 2.275 (exact; cash $0.2275 consistent)."},
+    {"field": "coupon.barrier_pct", "issue": "Barriers are stated as 'approximately 70%'; exact ratios differ slightly (e.g. 5,147.81/7,354.02 = 69.99997%). Used 70."},
+    {"field": "knock_in.barrier_pct", "issue": "Same 'approximately 70%' rounding as coupon barrier."},
+    {"field": "underlyings[*].ticker", "issue": "Tickers SPX/RTY/SX5E taken from the filing's defined short names ('SPX Index' etc.), not an explicit ticker field."},
+    {"field": "observation_dates", "issue": "Dates subject to postponement; scheduled dates used as printed."}
+  ],
+  "scope": {"in_scope": true, "reason": "Worst-of autocallable contingent-coupon note on three equity indices (SPX, RTY, SX5E price-return); quarterly discrete autocall at 100%, non-memory coupon at 70%, European (final-date-only) 70% knock-in with 1:1 downside. Note: SX5E is a EUR index, no quanto adjustment in payoff."}
+}

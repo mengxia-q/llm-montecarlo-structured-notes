@@ -1,0 +1,83 @@
+{
+  "accession": "0001918704-26-018771",
+  "source_file": "data/cleaned/0001918704-26-018771_bofa-424b2.htm.txt",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-29",
+    "strike_date": null,
+    "issue_date": "2026-07-07",
+    "maturity_date": "2028-07-07",
+    "underlyings": [
+      {
+        "name": "SPDR \u00ae Dow Jones \u00ae Industrial Average ETF",
+        "ticker": "DIA",
+        "initial_level": 521.68
+      },
+      {
+        "name": "SPDR \u00ae S&P 500 \u00ae ETF Trust",
+        "ticker": "SPY",
+        "initial_level": 741.0
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-29",
+      "2026-12-29",
+      "2027-03-29",
+      "2027-06-29",
+      "2027-09-29",
+      "2027-12-29",
+      "2028-03-29",
+      "2028-06-29"
+    ],
+    "payment_dates": [
+      "2026-10-06",
+      "2027-01-06",
+      "2027-04-05",
+      "2027-07-07",
+      "2027-10-06",
+      "2028-01-05",
+      "2028-04-05",
+      "2028-07-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.75,
+      "barrier_pct": 70.0,
+      "memory": true
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.827
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing",
+    "prelabel_file": "data/labels/prelabel/0001918704-26-018771.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": null,
+    "verification_minutes_range": [
+      18,
+      23
+    ],
+    "notes": "verifier reported no corrections",
+    "timing_note": "per-file times not recorded; verifier reported 18-23 minutes per file for all 7 files"
+  }
+}

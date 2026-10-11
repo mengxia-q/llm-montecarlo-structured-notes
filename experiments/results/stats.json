@@ -1,0 +1,284 @@
+{
+  "dataset": {
+    "n_filings": 50,
+    "n_gold": 23,
+    "n_silver": 27,
+    "issuers": {
+      "Barclays Bank PLC": 6,
+      "Royal Bank of Canada": 6,
+      "Toronto-Dominion Bank": 6,
+      "GS Finance Corp.": 6,
+      "JPMorgan Chase Financial Co. LLC": 6,
+      "Bank of Nova Scotia": 6,
+      "BofA Finance LLC": 5,
+      "Citigroup Global Markets Holdings Inc.": 3,
+      "Bank of Montreal": 3,
+      "Morgan Stanley Finance LLC": 3
+    },
+    "filing_date_range": [
+      "2026-06-05",
+      "2026-10-05"
+    ],
+    "single": 7,
+    "worst_of": 43,
+    "n_underlyings_dist": {
+      "2": 32,
+      "1": 7,
+      "3": 11
+    },
+    "memory": 8,
+    "step_down": 0,
+    "strike_date_separate": 10,
+    "payment_dates_derived": 17,
+    "obs_mean": 14.48,
+    "obs_min": 4,
+    "obs_max": 40,
+    "tenor_years_median": 3.0,
+    "tenor_years_range": [
+      1.0,
+      10.0
+    ],
+    "notional": {
+      "10": 47,
+      "1000": 3
+    },
+    "final_date_callable": 20,
+    "tokens_raw_mean": 27544.44,
+    "tokens_clean_mean": 27371.08,
+    "tokens_clean_median": 26926.5,
+    "tokens_clean_range": [
+      16265,
+      44442
+    ],
+    "tables_mean": 68.84,
+    "gold_verification_minutes": {
+      "0000950103-26-008658": 18.0,
+      "0001214659-26-011786": 18.0,
+      "0000950103-26-014050": null,
+      "0000950103-26-010910": null,
+      "0000950103-26-010235": 30,
+      "0001193125-26-392100": 17.0,
+      "0000950103-26-009445": 21.0,
+      "0001918704-26-015862": 20.0,
+      "0001839882-26-041422": 17.0,
+      "0001193125-26-301771": 20,
+      "0001839882-26-040531": null,
+      "0000950103-26-008922": 18.0,
+      "0001214659-26-011448": 16.0,
+      "0001213900-26-085094": null,
+      "0001140361-26-028280": 20,
+      "0001214659-26-011449": null,
+      "0001918704-26-018771": null,
+      "0001839882-26-031609": 22.0,
+      "0001839882-26-028900": null,
+      "0001213900-26-081481": 20.0,
+      "0001918704-26-019604": 27.0,
+      "0001140361-26-026685": 26.0,
+      "0001839882-26-034030": 20.0
+    },
+    "gold_verification_minutes_range": {
+      "0000950103-26-008658": [
+        18.0,
+        18.0
+      ],
+      "0001214659-26-011786": [
+        18.0,
+        18.0
+      ],
+      "0000950103-26-014050": [
+        18,
+        23
+      ],
+      "0000950103-26-010910": [
+        18,
+        23
+      ],
+      "0000950103-26-010235": [
+        30,
+        30
+      ],
+      "0001193125-26-392100": [
+        17.0,
+        17.0
+      ],
+      "0000950103-26-009445": [
+        21.0,
+        21.0
+      ],
+      "0001918704-26-015862": [
+        20.0,
+        20.0
+      ],
+      "0001839882-26-041422": [
+        17.0,
+        17.0
+      ],
+      "0001193125-26-301771": [
+        20,
+        20
+      ],
+      "0001839882-26-040531": [
+        18,
+        23
+      ],
+      "0000950103-26-008922": [
+        18.0,
+        18.0
+      ],
+      "0001214659-26-011448": [
+        16.0,
+        16.0
+      ],
+      "0001213900-26-085094": [
+        18,
+        23
+      ],
+      "0001140361-26-028280": [
+        20,
+        20
+      ],
+      "0001214659-26-011449": [
+        18,
+        23
+      ],
+      "0001918704-26-018771": [
+        18,
+        23
+      ],
+      "0001839882-26-031609": [
+        22.0,
+        22.0
+      ],
+      "0001839882-26-028900": [
+        18,
+        23
+      ],
+      "0001213900-26-081481": [
+        20.0,
+        20.0
+      ],
+      "0001918704-26-019604": [
+        27.0,
+        27.0
+      ],
+      "0001140361-26-026685": [
+        26.0,
+        26.0
+      ],
+      "0001839882-26-034030": [
+        20.0,
+        20.0
+      ]
+    },
+    "gold_verified_by": {
+      "0000950103-26-008658": "author",
+      "0001214659-26-011786": "author",
+      "0000950103-26-014050": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0000950103-26-010910": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0000950103-26-010235": "author",
+      "0001193125-26-392100": "author",
+      "0000950103-26-009445": "author",
+      "0001918704-26-015862": "author",
+      "0001839882-26-041422": "author",
+      "0001193125-26-301771": "author",
+      "0001839882-26-040531": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0000950103-26-008922": "author",
+      "0001214659-26-011448": "author",
+      "0001213900-26-085094": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001140361-26-028280": "author",
+      "0001214659-26-011449": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001918704-26-018771": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001839882-26-031609": "author",
+      "0001839882-26-028900": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001213900-26-081481": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001918704-26-019604": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001140361-26-026685": "second verifier (no derivatives / quantitative-finance background), recruited by the author",
+      "0001839882-26-034030": "author"
+    },
+    "gold_fields_changed": {
+      "0000950103-26-008658": [],
+      "0001214659-26-011786": [],
+      "0000950103-26-014050": [],
+      "0000950103-26-010910": [],
+      "0000950103-26-010235": [],
+      "0001193125-26-392100": [],
+      "0000950103-26-009445": [],
+      "0001918704-26-015862": [],
+      "0001839882-26-041422": [],
+      "0001193125-26-301771": [],
+      "0001839882-26-040531": [],
+      "0000950103-26-008922": [],
+      "0001214659-26-011448": [],
+      "0001213900-26-085094": [],
+      "0001140361-26-028280": [],
+      "0001214659-26-011449": [],
+      "0001918704-26-018771": [],
+      "0001839882-26-031609": [],
+      "0001839882-26-028900": [],
+      "0001213900-26-081481": [],
+      "0001918704-26-019604": [],
+      "0001140361-26-026685": [],
+      "0001839882-26-034030": []
+    }
+  },
+  "runs": {
+    "stage2": {
+      "config": {
+        "model": "deepseek-flash",
+        "mode": "strict_tool",
+        "endpoint": "https://api.deepseek.com/beta",
+        "thinking": "on",
+        "reasoning_effort": null,
+        "temperature": 0.7,
+        "k": 5,
+        "b1_is_sample_0": true,
+        "prompt_sha256": "03c29fe86b262c779a9f86e2d9cd3f12e4825ec8bf80cb343d6f3b429cc0285a",
+        "request_template_sha256": "d0eed221a5f3430715612e310bbb1ed98b855412167a1d6c256ca6c58aa68305",
+        "n_filings": 50,
+        "started_at": "2026-10-06T19:32:39+00:00"
+      },
+      "n_calls": 256,
+      "n_calls_all_attempts": 256,
+      "api_failures": 0,
+      "api_retries": 0,
+      "schema_errors": 0,
+      "input_tokens_mean": 25517.24609375,
+      "cache_hit_share": 0.8170521927954669,
+      "visible_output_mean": 729.0078125,
+      "thinking_mean": 3908.43359375,
+      "thinking_multiplier": 5.361305498697931,
+      "latency_mean_s": 16.996970720552326,
+      "latency_median_s": 8.755032874993049,
+      "total_cost_usd": 0.9075866220000002
+    },
+    "stage2_nothink": {
+      "config": {
+        "model": "deepseek-flash",
+        "mode": "strict_tool",
+        "endpoint": "https://api.deepseek.com/beta",
+        "thinking": "off",
+        "reasoning_effort": null,
+        "temperature": 0.7,
+        "k": 5,
+        "b1_is_sample_0": true,
+        "prompt_sha256": "03c29fe86b262c779a9f86e2d9cd3f12e4825ec8bf80cb343d6f3b429cc0285a",
+        "request_template_sha256": "70a0acf14e2c7837c5be262ac4ea01db590c8887a818468312dbc3c436e0dad8",
+        "n_filings": 50,
+        "started_at": "2026-10-06T19:43:29+00:00"
+      },
+      "n_calls": 252,
+      "n_calls_all_attempts": 252,
+      "api_failures": 0,
+      "api_retries": 0,
+      "schema_errors": 0,
+      "input_tokens_mean": 25567.01984126984,
+      "cache_hit_share": 0.8109622872596439,
+      "visible_output_mean": 723.6904761904761,
+      "thinking_mean": 0.0,
+      "thinking_multiplier": 0.0,
+      "latency_mean_s": 2.8458094202956308,
+      "latency_median_s": 2.8029806044942234,
+      "total_cost_usd": 0.3077891699999999
+    }
+  }
+}

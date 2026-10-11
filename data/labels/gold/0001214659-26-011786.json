@@ -1,0 +1,93 @@
+{
+  "accession": "0001214659-26-011786",
+  "source_file": "data/cleaned/0001214659-26-011786_o917261424b2.htm.txt",
+  "terms": {
+    "issuer": "Bank of Montreal",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-16",
+    "strike_date": null,
+    "issue_date": "2026-09-21",
+    "maturity_date": "2029-09-20",
+    "underlyings": [
+      {
+        "name": "Russell 2000 \u00ae Index",
+        "ticker": "RTY",
+        "initial_level": 2858.811
+      },
+      {
+        "name": "S&P 500 \u00ae Index",
+        "ticker": "SPX",
+        "initial_level": 7551.81
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-16",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-16",
+      "2029-06-18",
+      "2029-09-17"
+    ],
+    "payment_dates": [
+      "2026-12-18",
+      "2027-03-18",
+      "2027-06-18",
+      "2027-09-20",
+      "2027-12-20",
+      "2028-03-20",
+      "2028-06-21",
+      "2028-09-20",
+      "2028-12-20",
+      "2029-03-20",
+      "2029-06-21",
+      "2029-09-20"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.463,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.95
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing (round 2, timed, with seeded-error check)",
+    "prelabel_file": "data/labels/prelabel/0001214659-26-011786.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 18.0,
+    "round": 2,
+    "overlap_with_other_verifier": true,
+    "seeded_error": null,
+    "seeded_error_detected": null
+  }
+}

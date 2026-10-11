@@ -1,0 +1,93 @@
+{
+  "accession": "0000950103-26-008922",
+  "source_file": "data/cleaned/0000950103-26-008922_dp248363_424b2-ubseln1743.htm.txt",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-10",
+    "strike_date": null,
+    "issue_date": "2026-06-15",
+    "maturity_date": "2029-06-14",
+    "underlyings": [
+      {
+        "name": "Russell 2000 \u00ae Index",
+        "ticker": "RTY",
+        "initial_level": 2835.462
+      },
+      {
+        "name": "S&P 500 \u00ae Index",
+        "ticker": "SPX",
+        "initial_level": 7266.99
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-10",
+      "2026-12-10",
+      "2027-03-10",
+      "2027-06-10",
+      "2027-09-10",
+      "2027-12-10",
+      "2028-03-10",
+      "2028-06-12",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-12",
+      "2029-06-11"
+    ],
+    "payment_dates": [
+      "2026-09-14",
+      "2026-12-14",
+      "2027-03-12",
+      "2027-06-14",
+      "2027-09-14",
+      "2027-12-14",
+      "2028-03-14",
+      "2028-06-14",
+      "2028-09-13",
+      "2028-12-13",
+      "2029-03-14",
+      "2029-06-14"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.7,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.89
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing (round 2, timed, with seeded-error check)",
+    "prelabel_file": "data/labels/prelabel/0000950103-26-008922.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 18.0,
+    "round": 2,
+    "overlap_with_other_verifier": false,
+    "seeded_error": null,
+    "seeded_error_detected": null
+  }
+}

@@ -1,0 +1,603 @@
+424B2
+
+1
+
+bofa-424b2.htm
+
+424B2
+
+| Filed Pursuant to Rule 424(b)(2) Registration Statement Nos. 333-290665 and 333-290665-01 (To Prospectus dated December 8, 2025, Prospectus Supplement dated December 8, 2025 and Product Supplement EQUITY MLI-1 dated December 8, 2025) |
+| --- |
+
+| 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | Pricing Date Settlement Date Maturity Date | Pricing Date Settlement Date Maturity Date | June 29, 2026 July 7, 2026 July 7, 2028 |
+| --- | --- | --- | --- | --- | --- |
+| 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | 515,000 Units $10 principal amount per unit CUSIP No. 09712A701 | | | |
+| BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing | BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing | BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing | BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing | BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing | BofA Finance LLC Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust Fully and Unconditionally Guaranteed by Bank of America Corporation ■ Contingent Coupon Payments (with Memory) payable on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure, which will be either the SPDR ® Dow Jones ® Industrial Average ETF or the SPDR ® S&P 500 ® ETF Trust (each an “Underlying Fund” and collectively the “Underlying Funds”), on the applicable quarterly Coupon Observation Date is greater than or equal to 70% of its Starting Value. ■ The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). ■ Automatically callable if the Observation Value of the Worst-Performing Market Measure on any quarterly Call Observation Date, beginning approximately six months after the pricing date, is at or above its Starting Value. If the notes are called, on the applicable Call Payment Date you will receive the principal amount of your notes plus the Contingent Coupon Payment (with Memory) otherwise due. No further amounts will be payable following an automatic call. ■ If not called, a maturity of approximately two years. ■ If not called, at maturity, if the price of the Worst-Performing Market Measure has not decreased by more than 30%, a return of principal plus the final Contingent Coupon Payment (with Memory); otherwise, 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. ■ The notes are not linked to a basket composed of the Underlying Funds. Any depreciation in the price of an Underlying Fund will not be offset by any appreciation in the price of the other Underlying Fund. ■ All payments are subject to the credit risk of BofA Finance LLC, as issuer of the notes, and the credit risk of Bank of America Corporation, as guarantor of the notes ■ Limited secondary market liquidity, with no exchange listing |
+
+The notes are being issued by BofA Finance LLC (“BofA Finance”) and are fully and unconditionally guaranteed by Bank of America Corporation (“BAC”). Investing in the notes involves a number of risks. There are important differences between the notes and a conventional debt security, including different investment risks and certain additional costs. See “Risk Factors” beginning on page TS-8 of this term sheet, page PS-10 of the accompanying product supplement, page S-6 of the accompanying Series A MTN prospectus supplement and page 7 of the accompanying prospectus.
+
+The initial estimated value of the notes as of the pricing date is $9.827
+per unit, which is less than the
+public offering price
+listed below.
+See “Summary” on the following page, “Risk Factors” beginning on page TS-8 of this term sheet and “Structuring the Notes” on page TS-16 of this term sheet for additional information. The actual value of your notes at any time will reflect many factors and cannot be predicted with accuracy.
+
+_________________________
+
+None of the Securities and Exchange Commission (the “SEC”), any state securities commission, or any other regulatory body has approved or disapproved of these securities or determined if this Note Prospectus (as defined below) is truthful or complete. Any representation to the contrary is a criminal offense.
+
+_________________________
+
+| | Per Unit | Total |
+| --- | --- | --- |
+| Public offering price | $ 10.00 | $5,150,000 |
+| Underwriting discount (1) | $ 0.07 | $36,050 |
+| | $ 0.05 | $25,750 |
+| Proceeds, before expenses, to BofA Finance | $ 9.88 | $5,088,200 |
+
+(1)
+The underwriting discount reflects a sales commission of $0.07 per unit and a structuring fee of $0.05 per unit.
+
+The notes and the related guarantee:
+
+| Are Not FDIC Insured | Are Not Bank Guaranteed | May Lose Value |
+| --- | --- | --- |
+
+BofA Securities
+
+June 29, 2026
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Summary
+
+The Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to the Worst-Performing of the SPDR
+®
+Dow Jones
+®
+Industrial Average ETF and the SPDR
+®
+S&P 500
+®
+ETF Trust, due July 7, 2028 (the “notes”) are our senior unsecured debt securities. Payments on the notes are fully and unconditionally guaranteed by BAC. The notes and the related guarantee are not insured by the Federal Deposit Insurance Corporation or secured by collateral.
+The notes will rank equally in right of payment with all of BofA Finance’s other unsecured and unsubordinated obligations, except obligations that are subject to any priorities or preferences by law, and the related guarantee will rank equally in right of payment with all of BAC’s other unsecured and unsubordinated obligations, except obligations that are subject to any priorities or preferences by law, and senior to its subordinated obligations. Any payments due on the notes, including any repayment of principal, will be subject to the credit risk of BofA Finance, as issuer, and BAC, as guarantor.
+The notes will pay a Contingent Coupon Payment (with Memory) on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure (as described in "Terms of the Notes" below) on the applicable quarterly Coupon Observation Date is greater than or equal to its Coupon Barrier. The Contingent Coupon Payment (with Memory) payable on any Coupon Payment Date will be calculated according to the formula described below in “Terms of the Notes—Contingent Coupon Payments (with Memory).” The notes will be automatically called if the Observation Value of the Worst-Performing Market Measure on any Call Observation Date is equal to or greater than its Call Value. If your notes are called, you will receive the Call Payment on the applicable Call Payment Date, and no further amounts will be payable on the notes. If your notes are not called, at maturity, if the Ending Value of the Worst-Performing Market Measure is greater than or equal to its Threshold Value, you will receive the principal amount plus the final Contingent Coupon Payment (with Memory); otherwise, your notes are subject to 1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value, with up to 100.00% of the principal amount at risk. All payments on the notes will be calculated based on the $10 principal amount per unit and will depend on the performance of the Worst-Performing Market Measure, subject to our and BAC’s credit risk. See “Terms of the Notes” below.
+
+The economic terms of the notes are based on BAC’s internal funding rate, which is the rate it would pay to borrow funds through the issuance of market-linked notes and the economic terms of certain related hedging arrangements. BAC’s internal funding rate is typically lower than the rate it would pay when it issues conventional fixed or floating rate debt securities. This difference in funding rate, as well as the underwriting discount and costs associated with hedging the notes, reduced the economic terms of the notes to you and the initial estimated value of the notes on the pricing date. Due to these factors, the public offering price you are paying to purchase the notes is greater than the initial estimated value of the notes.
+
+On the cover page of this term sheet, we have provided the initial estimated value range for the notes. This initial estimated value was determined based on our, BAC’s and our other affiliates’ pricing models, which take into consideration BAC’s internal funding rate and the market prices for the hedging arrangements related to the notes. For more information about the initial estimated value and the structuring of the notes, see “Structuring the Notes” on page TS-16.
+
+| Terms of the Notes | Terms of the Notes |
+| --- | --- |
+| Issuer: | BofA Finance LLC (“BofA Finance”) |
+| Guarantor: | Bank of America Corporation (“BAC”) |
+| Principal Amount: | $10.00 per unit |
+| Term: | Approximately two years, if not previously called |
+| Market Measures: | The SPDR ® Dow Jones ® Industrial Average ETF (Bloomberg symbol: “DIA”) and the SPDR ® S&P 500 ® ETF Trust (Bloomberg symbol: “SPY”). |
+| Worst-Performing Market Measure: | The Underlying Fund with the lowest Observation Value or Ending Value, as applicable, as compared to its Starting Value, calculated as follows: With respect to each Underlying Fund on any Coupon Observation Date or Call Observation Date: With respect to each Underlying Fund on the Final Calculation Day: |
+| Coupon Barrier: | DIA: $365.18 (70.00% of its Starting Value, rounded to two decimal places). SPY: $518.70 (70.00% of its Starting Value, rounded to two decimal places). |
+| Threshold Value: | DIA: $365.18 (70.00% of its Starting Value, rounded to two decimal places). SPY: $518.70 (70.00% of its Starting Value, rounded to two decimal places). |
+| Call Value: | DIA: $521.68 (100.00% of its Starting Value). SPY: $741.00 (100.00% of its Starting Value). |
+| Contingent Coupon Payments (with Memory): | The notes will pay a Contingent Coupon Payment (with Memory) on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure on the applicable quarterly Coupon Observation Date is greater than or equal to its Coupon Barrier. The Contingent Coupon Payment (with Memory) per unit payable on any Coupon Payment Date will be calculated according to the following formula: (i) the product of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date times the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date) minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid. The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.1750 per unit (equal to a rate of approximately 7.00% per annum). |
+| Call Payment: | The principal amount plus the Contingent Coupon Payment (with Memory) otherwise due on the applicable Call Payment Date. |
+| Starting Value: | DIA: $521.68 SPY: $741.00 |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 2 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+| Ending Value: | With respect to each Underlying Fund, its Closing Market Price on the Final Calculation Day multiplied by its Price Multiplier on that day. The scheduled Final Calculation Day is subject to postponement in the event of Market Disruption Events and non-Market Measure Business Days, as described beginning on page PS-37 of the accompanying product supplement. |
+| --- | --- |
+| Observation Value: | With respect to each Underlying Fund, its Closing Market Price on the applicable Coupon Observation Date or Call Observation Date multiplied by its Price Multiplier on that day. |
+| Coupon Observation Dates: | September 29, 2026, December 29, 2026, March 29, 2027, June 29, 2027, September 29, 2027, December 29, 2027, March 29, 2028 and June 29, 2028 (the final Coupon Observation Date), which occur quarterly through the final Coupon Observation Date. The scheduled Coupon Observation Dates are subject to postponement in the event of Market Disruption Events and non-Market Measure Business Days, as described on page PS-35 (or with respect to the final Coupon Observation Date, beginning on page PS-37) of the accompanying product supplement. |
+| Call Observation Dates: | The Coupon Observation Dates beginning on December 29, 2026 and ending on March 29, 2028. |
+| Final Calculation Day/Maturity Valuation Period: | June 29, 2028 (which is also the final Coupon Observation Date). |
+| Coupon Payment Dates: | Approximately the fifth business day following the applicable Coupon Observation Date, subject to postponement as described on page PS-35 of the accompanying product supplement; provided however, that the Coupon Payment Date related to the final Coupon Observation Date will be the maturity date. |
+| Call Payment Dates: | The Coupon Payment Dates applicable to the relevant Call Observation Dates |
+| Price Multiplier: | With respect to each Underlying Fund, 1, subject to adjustments for certain events relating to such Underlying Fund described beginning on PS-41 of the accompanying product supplement. |
+| Fees and Charges: | The underwriting discount of $0.12 per unit listed on the cover page. |
+| Event of Default: | Events of default are defined in the senior indenture. Subject to the below paragraph, if such event occurs and is continuing, the amount payable to a holder of the notes upon any acceleration permitted under the senior indenture will be equal to the Redemption Amount described under the caption “Determining Payment on the Notes — Redemption Amount Determination” determined as if the date of acceleration were the maturity date of the notes and as if the Final Calculation Day were the fifth Market Measure Business Day prior to the date of acceleration. |
+| Calculation Agent: | BofA Securities, Inc. (“BofAS”), an affiliate of BofA Finance. |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 3 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Determining Payments on the Notes
+
+Contingent Coupon Payments (with Memory)
+
+The notes will pay a Contingent Coupon Payment (with Memory) on the applicable Coupon Payment Date if the Observation Value of the Worst-Performing Market Measure on the applicable quarterly Coupon Observation Date is greater than or equal to its Coupon Barrier.
+
+Automatic Call Provision
+
+The notes will be called automatically if the Observation Value of the Worst-Performing Market Measure on a Call Observation Date is equal to or greater than its Call Value. If the notes are called, you will receive $10 per unit plus the Contingent Coupon Payment (with Memory) otherwise due on the applicable Call Payment Date.
+
+Redemption Amount Determination
+
+If the notes are not automatically called, on the maturity date, you will receive a cash payment per unit determined as follows:
+
+You will lose all or a significant portion of the principal amount of the notes if the Ending Value
+
+of the Worst Performing Market Measure is less than its Threshold Value. Even with any Contingent Coupon Payments (with Memory), the return on the notes could be negative.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 4 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+The terms and risks of the notes are contained in this term sheet and in the following:
+
+●
+Product supplement EQUITY MLI-1 dated December 8, 2025:
+https://www.sec.gov/Archives/edgar/data/70858/000119312525311325/d19794d424b2.htm
+
+●
+Series A MTN prospectus supplement dated December 8, 2025 and prospectus dated December 8, 2025:
+https://www.sec.gov/Archives/edgar/data/70858/000119312525310920/d51586d424b3.htm
+
+These documents (together, the “Note Prospectus”) have been filed as part of a registration statement with the SEC, which may, without cost, be accessed on the SEC website at www.sec.gov or obtained from Merrill Lynch, Pierce, Fenner & Smith Incorporated (“MLPF&S”) or BofAS by calling 1-800-294-1322. Before you invest, you should read the Note Prospectus, including this term sheet, for information about us, BAC and this offering. Any prior or contemporaneous oral statements and any other written materials you may have received are superseded by the Note Prospectus. Certain terms used but not defined in this term sheet have the meanings set forth in the accompanying product supplement. Unless otherwise indicated or unless the context requires otherwise, all references in this document to “we,” “us,” “our,” or similar references are to BofA Finance, and not to BAC.
+
+Investor Considerations
+
+| You may wish to consider an investment in the notes if: | The notes may not be an appropriate investment for you if: |
+| --- | --- |
+| ■ You understand that any payment on the notes will be based solely on the performance of the Worst-Performing Market Measure. ■ You anticipate that the Observation Value of the Worst-Performing Market Measure will be greater than or equal to its Coupon Barrier on most or all of the Coupon Observation Dates. ■ You anticipate that the notes will be automatically called, in which case you accept an early exit from your investment, or if not automatically called, that the Worst-Performing Market Measure will not decrease from its Starting Value to an Ending Value that is below its Threshold Value. ■ You accept that the return on the notes will be limited to the return represented by the Contingent Coupon Payments (with Memory) even if the percentage change in the price of the Worst-Performing Market Measure is significantly greater than such return. ■ You are willing to lose up to 100% of the principal amount if the notes are not called. ■ You are willing to forgo dividends or other benefits of owning shares or units of the Underlying Funds or the assets held by the Underlying Funds. ■ You are willing to accept a limited or no market for sales for the notes prior to maturity, and understand that the market prices for the notes, if any, will be affected by various factors, including our and BAC’s actual and perceived creditworthiness, BAC’s internal funding rate and fees and charges on the notes. ■ You are willing to assume our credit risk, as issuer of the notes, and BAC’s credit risk, as guarantor of the notes, for all payments under the notes, including the Redemption Amount. | ■ You are unwilling to accept that any payment on the notes will be based solely on the performance of the Worst-Performing Market Measure, regardless of the performance of the other Underlying Fund. ■ You anticipate that the Observation Value of the Worst-Performing Market Measure will be less than its Coupon Barrier on each Coupon Observation Date. ■ You wish to make an investment that cannot be automatically called prior to maturity. ■ You seek an uncapped return on your investment. ■ You seek principal repayment or preservation of capital. ■ You want to receive dividends or other distributions paid on the Underlying Funds or the assets held by the Underlying Funds. ■ You seek an investment for which there will be a liquid secondary market. ■ You are unwilling or are unable to take market risk on the notes, to take our credit risk, as issuer of the notes, or to take BAC’s credit risk, as guarantor of the notes. |
+
+We urge you to consult your investment, legal, tax, accounting, and other advisors before you invest in the notes.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 5 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Examples of Hypothetical Payments
+
+The following examples are for purposes of illustration only. They are based on
+hypothetical
+values and show
+returns on the notes. They illustrate the calculation of the Contingent Coupon Payment (with Memory), the Call Payment or the Redemption Amount, as applicable, based on the hypothetical terms set forth below.
+The actual amount you receive and the resulting return will depend on the actual Starting Values, Coupon Barriers, Threshold Values, Call Values and Observation Values of the Underlying Funds, whether the notes are automatically called and the term of your investment.
+The following examples do not take into account any tax consequences from investing in the notes. These examples are based on the following
+terms:
+
+1)
+a Starting Value of 100.00 for the Worst-Performing Market Measure;
+
+2)
+a Coupon Barrier of 70.00 for the Worst-Performing Market Measure;
+
+3)
+a Threshold Value of 70.00 for the Worst-Performing Market Measure;
+
+4)
+a Call Value of 100.00 for the Worst-Performing Market Measure;
+
+5)
+an expected term of the notes of approximately two years if the notes are not called on any Call Observation Date;
+
+6)
+the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date of $0.1750 per unit;
+
+7)
+the Coupon Observation Dates occurring quarterly beginning approximately three months after the pricing date; and
+
+8)
+the Call Observation Dates occurring quarterly beginning approximately six months after the pricing date.
+
+The
+Starting Value of 100.00 for the Worst-Performing Market Measure used in these examples has been chosen for illustrative purposes only, and does not represent the actual Starting Value of any Underlying Fund. The actual Starting Value for each Underlying Fund is set forth on page TS-2. For recent actual prices of the Underlying Funds, see “The Underlying Funds” section below. The Ending Values of the Underlying Funds will not include any income generated by dividends paid on the Underlying Funds, which you would otherwise be entitled to receive if you invested in the Underlying Funds directly. In addition, all payments on the notes are subject to issuer and guarantor credit risk.
+
+Example 1
+- The Observation Value of the Worst-Performing Market Measure on the first Coupon Observation Date is 50.00. Therefore, no Contingent Coupon Payment (with Memory) is paid on the applicable Coupon Payment Date.
+
+Example 2
+- The Observation Value of the Worst-Performing Market Measure on the first Coupon Observation Date is below its Coupon Barrier. Therefore, no Contingent Coupon Payment (with Memory) is paid on the applicable Coupon Payment Date. The Observation Value of the Worst-Performing Market Measure on the second Coupon Observation Date (which is also the first Call Observation Date) is 105.00. Therefore, the notes will be automatically called at $10.00 plus the Contingent Coupon Payment (with Memory) otherwise due on the applicable Call Payment Date, calculated as follows:
+
+the
+product
+of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date
+times
+the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date)
+minus
+(ii) the
+sum
+of all Contingent Coupon Payments (with Memory) previously paid.
+
+= (i) $0.1750 x
+
+2
+-
+(ii) $0.00 = $0.35 per unit
+
+Call Payment on the second Call Payment Date = $10.35 per unit. No further amounts will be payable after the automatic call.
+
+Example 3
+- The Observation Value of the Worst-Performing Market Measure on the first Coupon Observation Date is below its Coupon Barrier. Therefore, no Contingent Coupon Payment (with Memory) is paid on the applicable Coupon Payment Date. The Observation Value of the Worst-Performing Market Measure on the second Coupon Observation Date (which is also the first Call Observation Date) is above its Coupon Barrier but below its Call Value. Therefore, a Contingent Coupon Payment (with Memory) of $0.35 ($0.1750 x 2 - $0) is paid and the notes are not called. The Observation Value of the Worst-Performing Market Measure on the third Coupon Observation Date is 85.00. Therefore, the notes are not automatically called but a Contingent Coupon Payment (with Memory) will be paid on the applicable Coupon Payment Date, calculated as follows:
+
+the
+product
+of the Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date
+times
+the number of Coupon Payment Dates that have occurred up to the relevant Coupon Payment Date (inclusive of the relevant Coupon Payment Date)
+minus
+(ii) the
+sum
+of all Contingent Coupon Payments (with Memory) previously paid.
+
+= (i) $0.1750 x
+
+3
+-
+(ii) $0.35 = $0.1750 per unit
+
+Contingent Coupon Payment (with Memory) paid on the third Coupon Payment Date = $0.1750 per unit.
+
+Example 4
+- The Observation Value of the Worst-Performing Market Measure on each of the first seven Coupon Observation Dates (which also include the Call Observation Dates) is above its Coupon Barrier but below its Call Value. Therefore, the notes are not automatically called prior to maturity, but a Contingent Coupon Payment (with Memory) of $0.1750 per unit is paid on each of the first seven Coupon Payment Dates. The Ending Value of the Worst-Performing Market Measure is 95.00, which is greater than its Coupon Barrier and its Threshold Value. The Redemption Amount will equal $10.00 plus the final Contingent Coupon Payment (with Memory) of $0.1750 = $10.1750 per unit.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 6 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Example 5
+- The Observation Value of the Worst-Performing Market Measure on each of the first seven Coupon Observation Dates (which also include the Call Observation Dates) is below its Coupon Barrier and its Call Value. Therefore, the notes are not automatically called prior to maturity and no Contingent Coupon Payment (with Memory) is paid on any of the first seven Coupon Payment Dates. If the Ending Value of the Worst-Performing Market Measure is less than its Threshold Value (which would also be less than its Coupon Barrier), the Redemption Amount will be less, and possibly significantly less, than the principal amount and no final Contingent Coupon Payment (with Memory) will be payable at maturity. For example, if the Ending Value of the Worst-Performing Market Measure is 50.00, the Redemption Amount per unit will be:
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 7 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Risk Factors
+
+There are important differences between the notes and a conventional debt security. An investment in the notes involves significant risks, including those listed below. You should carefully review the more detailed explanation of risks relating to the notes in the “Risk Factors” sections beginning on page PS-10 of the accompanying product supplement, page S-6 of the Series A MTN prospectus supplement, and page 7 of the prospectus identified above. The notes are not an appropriate investment for you if you are not knowledgeable about significant elements of the notes or financial matters in general. We also urge you to consult your investment, legal, tax, accounting, and other advisors before you invest in the notes.
+
+Structure-related Risks
+
+■
+There is no fixed principal repayment amount on the notes at maturity. If the notes are not called and the Ending Value of the Worst-Performing Market Measure is less than its Threshold Value, you will lose up to 100% of the principal amount.
+
+■
+Your investment return is limited to the return represented by the Contingent Coupon Payments (with Memory), if any, and may be less than a comparable investment directly in the Underlying Funds or the assets held by the Underlying Funds. You will not receive a payment on the notes greater than the principal amount plus the Contingent Coupon Payments (with Memory) that may be payable over the term of the notes, regardless of the extent of any increase in the value of the Underlying Funds.
+
+■
+Payments on the notes will not reflect changes in the values of the Underlying Funds other than on the Coupon Observation Dates, the Call Observation Dates or the Final Calculation Day. As a result, even if the value of the Underlying Funds increase during the term of the notes, you will not receive the Contingent Coupon Payments (with Memory) over the term of the notes if the Observation Value of the Worst-Performing Market Measure on each Coupon Observation Date is less than its Coupon Barrier. Similarly, you will receive a Redemption Amount that is less than the principal amount if the Ending Value of the Worst-Performing Market Measure is less than its Threshold Value on the Final Calculation Day, even if the value of the Worst-Performing Market Measure was always greater than its Threshold Value prior to such Final Calculation Day.
+
+■
+You may not receive any Contingent Coupon Payments (with Memory).
+If the Observation Value
+of the Worst-Performing Market Measure
+is less than its Coupon Barrier on each Coupon Observation Date, you will not receive any Contingent Coupon Payments (with Memory) over the term of the notes and will not receive a positive return on the notes.
+
+■
+If the notes are called, you will be subject to reinvestment risk, and you will lose the opportunity to receive Contingent Coupon Payments (with Memory), if any, that otherwise might have been payable after the date of the call.
+
+■
+The notes are subject to the risks of each Underlying Fund, not a basket composed of the Underlying Funds, and will be negatively affected if the price of either Underlying Fund decreases below its Coupon Barrier as of any Coupon Observation Date or below its Threshold Value on the Final Calculation Day, even if the level of the other Underlying Fund is above its Coupon Barrier or Threshold Value as of those days.
+
+■
+You will not benefit in any way from the performance of the better performing Underlying Fund.
+
+■
+Because the notes are linked to two Underlying Funds, as opposed to only one, it is more likely that a Contingent Coupon Payment will not be payable on any given Coupon Payment Date or that the Ending Value of an Underlying Fund will be less than its Threshold Value on the Final Calculation Day, and consequently, you will not receive a positive return on the notes and will lose some or all of your investment.
+
+■
+You will be subject to risks relating to the relationship between the Underlying Funds.
+
+The less correlated the Underlying Funds, the more likely it is that the Observation Value of one of the Underlying Funds will be below its Coupon Barrier as of each Coupon Observation Date or below its Threshold Value on the Final Calculation Day.
+
+■
+Your return on the notes may be less than the yield you could earn by owning a conventional fixed or floating rate debt security of comparable maturity.
+
+■
+Payments on the notes are subject to our credit risk, and the credit risk of BAC, and any actual or perceived changes in our or BAC’s creditworthiness are expected to affect the value of the notes. If we and BAC become insolvent or are unable to pay our respective obligations, you may lose your entire investment.
+
+■
+We are a finance subsidiary and, as such, have no independent assets, operations or revenues.
+
+■
+BAC’s obligations under its guarantee of the notes will be structurally subordinated to liabilities of its subsidiaries.
+
+■
+The notes issued by us will not have the benefit of any cross-default or cross-acceleration with other indebtedness of BofA Finance or BAC; events of bankruptcy or insolvency or resolution proceedings relating to BAC and covenant breach by BAC will not constitute an event of default with respect to the notes.
+
+Valuation- and Market-related Risks
+
+■
+The initial estimated value of the notes considers certain assumptions and variables and relies in part on certain forecasts about future events, which may prove to be incorrect. The initial estimated value of the notes is an estimate only, determined as of the pricing date by reference to our and our affiliates’ pricing models. These pricing models consider certain assumptions and variables, including our credit spreads and those of BAC, BAC’s internal funding rate on the pricing date, mid-market
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 8 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+terms on hedging transactions, expectations on interest rates and volatility, price-sensitivity analysis, and the expected term of the notes. These pricing models rely in part on certain forecasts about future events, which may prove to be incorrect.
+
+■
+The public offering price you are paying for the notes exceeds the initial estimated value. If you attempt to sell the notes prior to maturity, their market value may be lower than the price you paid for them and lower than the initial estimated value. This is due to, among other things, changes in the prices of the Underlying Funds, changes in BAC’s internal funding rate, and the inclusion in the public offering price of the underwriting discount and costs associated with hedging the notes, all as further described in “Structuring the Notes” on page TS-16. These factors, together with various credit, market and economic factors over the term of the notes, are expected to reduce the price at which you may be able to sell the notes in any secondary market and will affect the value of the notes in complex and unpredictable ways.
+
+■
+The initial estimated value does not represent a minimum or maximum price at which we, BAC, MLPF&S, BofAS or any of our other affiliates would be willing to purchase your notes in any secondary market (if any exists) at any time. The value of your notes at any time after issuance will vary based on many factors that cannot be predicted with accuracy, including the performance of the Underlying Funds, our and BAC’s creditworthiness and changes in market conditions.
+
+■
+A trading market is not expected to develop for the notes. None of us, BAC, MLPF&S or BofAS is obligated to make a market for, or to repurchase, the notes. There is no assurance that any party will be willing to purchase your notes at any price in any secondary market.
+
+Conflict-related Risks
+
+■
+BAC and its affiliates’ hedging and trading activities (including trades in shares or units of the Underlying Funds or the assets held by the Underlying Funds) and any hedging and trading activities BAC or its affiliates engage in that are not for your account or on your behalf, may affect the market value and return of the notes and may create conflicts of interest with you.
+
+■
+There may be potential conflicts of interest involving the calculation agent, which is an affiliate of ours. We have the right to appoint and remove the calculation agent.
+
+Market Measure-related Risks
+
+■
+The sponsor and the trustee of an Underlying Fund may adjust such Underlying Fund in a way that could adversely impact the value of the notes and the amount payable on the notes, and these entities have no obligation to consider your interests.
+
+■
+You will have no rights of a holder of the Underlying Funds or the assets held by the Underlying Funds, and you will not be entitled to receive the assets held by or dividends or other distributions on the Underlying Funds.
+
+■
+There are liquidity and management risks associated with the Underlying Funds.
+
+■
+The performance of each Underlying Fund may not correlate with the performance of each respective underlying index as well as the net asset value per share or unit of the Underlying Funds, especially during periods of market volatility when the liquidity and the market price of shares or units of the Underlying Funds and/or the assets held by the Underlying Funds may be adversely affected, sometimes materially.
+
+■
+If the liquidity of the assets held by the Underlying Funds is limited, the prices of the Underlying Funds, and therefore, the return on the notes, may be adversely affected.
+
+■
+The payments on the notes will not be adjusted for all events that could affect the Underlying Funds. See “Description of the Notes—Anti-Dilution and Discontinuance Adjustments Relating to Underlying Funds” beginning on PS-41 of the accompanying product supplement.
+
+Tax-related Risks
+
+■
+The U.S. federal income tax consequences of the notes are uncertain, and may be adverse to a holder of the notes. See “Summary Tax Consequences” below and “U.S. Federal Income Tax Summary” beginning on page PS-48 of the accompanying product supplement.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 9 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+The Underlying Funds
+
+All disclosures contained in this term sheet regarding the Underlying Funds, including, without limitation, their make-up, method of calculation, and changes in their components, have been derived from publicly available sources. The information reflects the policies of, and is subject to change by, SSGA Funds Management, Inc. (“SSGA”), the sponsor of each of the DIA and the SPY. The consequences of the sponsor discontinuing publication of the Underlying Funds are discussed in the section entitled “Description of the Notes – Anti-Dilution and Discontinuance Adjustments Relating to Underlying Funds—Discontinuance of or Material Change to an Underlying Fund” beginning on page PS-44 of the accompanying product supplement. None of us, BAC, the calculation agent, MLPF&S or BofAS accepts any responsibility for the calculation, maintenance, or publication of the Underlying Funds or any successor fund.
+
+The SPDR
+®
+Dow Jones
+®
+Industrial Average ETF
+
+The DIA is a unit investment trust that issues securities called "trust units" or "units". The DIA is organized under New York law and is governed by a trust agreement between State Street Bank and Trust Company (the "Trustee"), and PDR Services LLC (the "Sponsor"), dated as of January 1, 1998 and effective as of January 13, 1998, as amended. The DIA is an investment company registered under the Investment Company Act of 1940, as amended. The units of the SPDR Dow Jones Industrial Average ETF trade on the NYSE Arca under the symbol "DIA".
+
+A trust unit represents an undivided ownership interest in a portfolio of the common stocks included in the Dow Jones Industrial Average, which is the underlying index of the DIA, with the weight of each such stock held by the DIA substantially corresponding to the weight of such stock in the Dow Jones Industrial Average. The DIA seeks to provide investment results that, before expenses, generally correspond to the price and yield performance of the Dow Jones Industrial Average, its underlying index. The Trustee on a nondiscretionary basis adjusts the composition of the portfolio of stocks held by the DIA to conform to changes in the composition and/or weighting structure of the Dow Jones Industrial Average
+®
+. Although the DIA may at any time fail to own certain securities included within the Dow Jones Industrial Average
+®
+at any particular time, the DIA generally will be substantially invested in the constituent stocks of the Dow Jones Industrial Average
+®
+. The expenses of the DIA are accrued daily and reflected in the net asset value of the DIA. As of June 30, 2025, the DIA was accruing ordinary operating expenses at an annual rate of 0.16%.
+
+The units of the DIA are registered under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Accordingly, information filed with the SEC relating to the DIA, including its periodic financial reports, may be found on the SEC website.
+
+The Dow Jones Industrial Average
+®
+
+Unless otherwise stated, all information on the Dow Jones Industrial Average
+®
+(the “INDU”) provided in this pricing supplement is derived from Dow Jones Indexes, the marketing name and a licensed trademark of S&P Dow Jones Indices LLC (“SPDJI”). The INDU is a price-weighted index, which means an underlying stock’s weight in the INDU is based on its price per share rather than the total market capitalization of the issuer. The INDU is designed to provide an indication of the composite performance of 30 common stocks of corporations representing a broad cross-section of U.S. industry. The corporations represented in the INDU tend to be market leaders in their respective industries and their stocks are typically widely held by individuals and institutional investors.
+
+The INDU is maintained by an Averages Committee comprised of three representatives of SPDJI and two representatives of
+The Wall Street Journal
+(the “WSJ”). Generally, composition changes occur only after mergers, corporate acquisitions or other dramatic shifts in a component's core business. When such an event necessitates that one component be replaced, the entire INDU is reviewed. As a result, when changes are made they typically involve more than one component. While there are no rules for component selection, a stock typically is added only if it has an excellent reputation, demonstrates sustained growth, is of interest to a large number of investors and accurately represents the sector(s) covered by the average.
+
+Changes in the composition of the INDU are made entirely by the Averages Committee without consultation with the corporations represented in the INDU, any stock exchange, any official agency or us. Unlike most other indices, which are reconstituted according to a fixed review schedule, constituents of the INDU are reviewed on an as-needed basis. Changes to the common stocks included in the INDU tend to be made infrequently, and the underlying stocks of the INDU may be changed at any time for any reason. The companies currently represented in the INDU are incorporated in the United States and its territories and their stocks are listed on the New York Stock Exchange and The Nasdaq Stock Market.
+
+The INDU initially consisted of 12 common stocks and was first published in the WSJ in 1896. The INDU was increased to include 20 common stocks in 1916 and to include 30 common stocks in 1928. The number of common stocks in the INDU has remained at 30 since 1928, and, in an effort to maintain continuity, the constituent corporations represented in the INDU have been changed on a relatively infrequent basis. The INDU includes companies from nine main groups: Basic Materials; Consumer Goods; Consumer Services; Financials; Healthcare; Industrials; Oil & Gas; Technology; and Telecommunications.
+
+Computation of the INDU
+
+The level of the INDU is the sum of the primary exchange prices of each of the 30 component stocks included in the INDU, divided by a divisor that is designed to provide a meaningful continuity in the level of the INDU. Because the INDU is price-weighted, stock splits or changes in the component stocks could result in distortions in the INDU level. In order to prevent these distortions related to extrinsic factors, the divisor is periodically changed in accordance with a mathematical formula that reflects adjusted proportions within the INDU.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 10 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+The current divisor of the INDU is published daily in the WSJ and other publications. In addition, other statistics based on the INDU may be found in a variety of publicly available sources.
+
+The following graph shows the daily historical performance of the DIA in the period from January 1, 2016 through June 29, 2026. We obtained this historical data from Bloomberg L.P. We have not independently verified the accuracy or completeness of the information obtained from Bloomberg L.P. On the pricing date, the Closing Market Price of the DIA was $521.68.
+
+Historical Performance of the DIA
+
+This historical data on the DIA is not necessarily indicative of the future performance of the DIA or what the value of the notes may be. Any historical upward or downward trend in the price of the DIA during any period set forth above is not an indication that the price of the DIA is more or less likely to increase or decrease at any time over the term of the notes.
+
+Before investing in the notes, you should consult publicly available sources for the prices and trading pattern of the DIA.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 11 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+The SPDR
+®
+S&P 500
+®
+ETF Trust
+
+The SPDR
+®
+S&P 500
+®
+ETF Trust is a unit investment trust that issues securities called “trust units” or “units.” The SPY is organized under New York law and is governed by an amended and restated trust agreement between State Street Bank and Trust Company (the “Trustee”) and PDR Services LLC (the “Sponsor”), dated as of January 1, 2004 and effective as of January 27, 2004, as amended (the “Trust Agreement”). The SPY is an investment company registered under the Investment Company Act of 1940, as amended. The SPY commenced operations on January 22, 1993. The units of the SPDR
+®
+S&P 500
+®
+ETF Trust trade on the NYSE Arca under the symbol “SPY.”
+
+A trust unit represents an undivided ownership interest in a portfolio consisting of all of the common stocks of its underlying index, the S&P 500
+®
+Index. The SPY intends to provide investment results that, before expenses, generally correspond to the price and yield performance of the S&P 500
+®
+Index. The expenses of the SPY are accrued daily and reflected in the net asset value of the SPY. After reflecting waivers (including earnings credits as a result of uninvested cash balances of the SPY), the SPY currently is accruing ordinary operating expenses at an annual rate of 0.0945%.
+
+The units of the SPY are registered under the Exchange Act. Accordingly, information filed with the SEC relating to the SPY, including its periodic financial reports, may be found on the SEC website.
+
+The S&P 500
+®
+Index
+
+The SPX includes a representative sample of 500 companies in leading industries of the U.S. economy. The SPX is intended to provide an indication of the pattern of common stock price movement. The calculation of the level of the SPX is based on the relative value of the aggregate market value of the common stocks of 500 companies as of a particular time compared to the aggregate average market value of the common stocks of 500 similar companies during the base period of the years 1941 through 1943.
+
+The SPX includes companies from eleven main groups: Communication Services; Consumer Discretionary; Consumer Staples; Energy; Financials; Health Care; Industrials; Information Technology; Real Estate; Materials; and Utilities. SPDJI, the sponsor of the SPX, may from time to time, in its sole discretion, add companies to, or delete companies from, the SPX to achieve the objectives stated above.
+
+SPDJI calculates the SPX by reference to the prices of the constituent stocks of the SPX without taking account of the value of dividends paid on those stocks. As a result, the return on the notes will not reflect the return you would realize if you actually owned the SPX constituent stocks and received the dividends paid on those stocks.
+
+Computation of the SPX
+
+While SPDJI currently employs the following methodology to calculate the SPX, no assurance can be given that SPDJI will not modify or change this methodology in a manner that may affect payments on the notes.
+
+Historically, the market value of any component stock of the SPX was calculated as the product of the market price per share and the number of then outstanding shares of such component stock. In March 2005, SPDJI began shifting the SPX halfway from a market capitalization weighted formula to a float-adjusted formula, before moving the SPX to full float adjustment on September 16, 2005. SPDJI’s criteria for selecting stocks for the SPX did not change with the shift to float adjustment. However, the adjustment affects each company’s weight in the SPX.
+
+Under float adjustment, the share counts used in calculating the SPX reflect only those shares that are available to investors, not all of a company’s outstanding shares. Float adjustment excludes shares that are closely held by control groups, other publicly traded companies or government agencies.
+
+In September 2012, all shareholdings representing more than 5% of a stock’s outstanding shares, other than holdings by “block owners,” were removed from the float for purposes of calculating the SPX. Generally, these “control holders” will include officers and directors, private equity, venture capital and special equity firms, other publicly traded companies that hold shares for control, strategic partners, holders of restricted shares, ESOPs, employee and family trusts, foundations associated with the company, holders of unlisted share classes of stock, government entities at all levels (other than government retirement/pension funds) and any individual person who controls a 5% or greater stake in a company as reported in regulatory filings. However, holdings by block owners, such as depositary banks, pension funds, mutual funds and ETF providers, 401(k) plans of the company, government retirement/pension funds, investment funds of insurance companies, asset managers and investment funds, independent foundations and savings and investment plans, will ordinarily be considered part of the float.
+
+Treasury stock, stock options, restricted shares, equity participation units, warrants, preferred stock, convertible stock, and rights are not part of the float. Shares held in a trust to allow investors in countries outside the country of domicile, such as depositary shares and Canadian exchangeable shares, are normally part of the float unless those shares form a control block. If a company has multiple classes of stock outstanding, shares in an unlisted or non-traded class are treated as a control block.
+
+For each stock, an investable weight factor (“IWF”) is calculated by dividing the available float shares by the total shares outstanding. Available float shares are defined as the total shares outstanding less shares held by control holders. This calculation is subject to a 5% minimum threshold for control blocks. For example, if a company’s officers and directors hold 3% of the company’s shares, and no other control group holds 5% of the company’s shares, SPDJI would assign that company an IWF of 1.00, as no control group meets the 5% threshold. However, if a company’s officers and directors hold 3% of the company’s shares and another control group holds 20% of the company’s shares, SPDJI would assign an IWF of 0.77, reflecting the fact that 23% of the company’s outstanding shares are
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 12 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+considered to be held for control. As of July 31, 2017, companies with multiple share class lines are no longer eligible for inclusion in the SPX. Constituents of the SPX prior to July 31, 2017 with multiple share class lines will be grandfathered in and continue to be included in the SPX. If a constituent company of the SPX reorganizes into a multiple share class line structure, that company will remain in the SPX at the discretion of the S&P Index Committee in order to minimize turnover.
+
+The SPX is calculated using a base-weighted aggregate methodology. The level of the SPX reflects the total market value of all component stocks relative to the base period of the years 1941 through 1943. An indexed number is used to represent the results of this calculation in order to make the level easier to work with and track over time. The actual total market value of the component stocks during the base period of the years 1941 through 1943 has been set to an indexed level of 10. This is often indicated by the notation 1941- 43 = 10. In practice, the daily calculation of the SPX is computed by dividing the total market value of the component stocks by the “index divisor.” By itself, the index divisor is an arbitrary number. However, in the context of the calculation of the SPX, it serves as a link to the original base period level of the SPX. The index divisor keeps the SPX comparable over time and is the manipulation point for all adjustments to the SPX, which is index maintenance.
+
+Index Maintenance
+
+Index maintenance includes monitoring and completing the adjustments for company additions and deletions, share changes, stock splits, stock dividends, and stock price adjustments due to company restructuring or spinoffs. Some corporate actions, such as stock splits and stock dividends, require changes in the common shares outstanding and the stock prices of the companies in the SPX, and do not require index divisor adjustments.
+
+To prevent the level of the SPX from changing due to corporate actions, corporate actions which affect the total market value of the SPX require an index divisor adjustment. By adjusting the index divisor for the change in market value, the level of the SPX remains constant and does not reflect the corporate actions of individual companies in the SPX. Index divisor adjustments are made after the close of trading and after the calculation of the SPX closing level.
+
+Changes in a company’s shares outstanding of 5.00% or more due to mergers, acquisitions, public offerings, tender offers, Dutch auctions, or exchange offers are made as soon as reasonably possible. Share changes due to mergers or acquisitions of publicly held companies that trade on a major exchange are implemented when the transaction occurs, even if both of the companies are not in the same headline index, and regardless of the size of the change. All other changes of 5.00% or more (due to, for example, company stock repurchases, private placements, redemptions, exercise of options, warrants, conversion of preferred stock, notes, debt, equity participation units, at-the-market offerings, or other recapitalizations) are made weekly and are announced on Fridays for implementation after the close of trading on the following Friday. Changes of less than 5.00% are accumulated and made quarterly on the third Friday of March, June, September, and December, and are usually announced two to five days prior.
+
+If a change in a company’s shares outstanding of 5.00% or more causes a company’s IWF to change by five percentage points or more, the IWF is updated at the same time as the share change. IWF changes resulting from partial tender offers are considered on a case by case basis.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 13 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+The following graph shows the daily historical performance of the SPY in the period from January 1, 2016 through June 29, 2026. We obtained this historical data from Bloomberg L.P. We have not independently verified the accuracy or completeness of the information obtained from Bloomberg L.P. On the pricing date, the Closing Market Price of the SPY was $741.00.
+
+Historical Performance of the SPY
+
+This historical data on the SPY is not necessarily indicative of the future performance of the SPY or what the value of the notes may be. Any historical upward or downward trend in the price of the SPY during any period set forth above is not an indication that the price of the SPY is more or less likely to increase or decrease at any time over the term of the notes.
+
+Before investing in the notes, you should consult publicly available sources for the prices and trading pattern of the SPY.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 14 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Supplement to the Plan of Distribution; Conflicts of Interest
+
+Under our distribution agreement with BofAS, BofAS will purchase the notes from us as principal at the public offering price indicated on the cover of this term sheet, less the indicated underwriting discount.
+
+MLPF&S will purchase the notes from BofAS for resale, and will receive a discount in connection with the sale of the notes in an amount up to the full amount of underwriting discount set forth on the cover of this term sheet.
+
+We will pay a fee to LFT Securities, LLC for providing certain electronic platform services with respect to this offering, which will reduce the economic terms of the notes to you. An affiliate of BofAS has an ownership interest in LFT Securities, LLC.
+
+MLPF&S and BofAS, each a broker-dealer subsidiary of BAC, are members of the Financial Industry Regulatory Authority, Inc. (“FINRA”) and will participate as selling agent in the case of BofAS, and as dealer, in the case of MLPF&S, in the distribution of the notes. Accordingly, offerings of the notes will conform to the requirements of Rule 5121 applicable to FINRA members. Neither BofAS nor MLPF&S may make sales in this offering to any of its discretionary accounts without the prior written approval of the account holder.
+
+We will deliver the notes against payment therefor in New York, New York on a date that is greater than one business day following the pricing date. Under Rule 15c6-1 of the Securities Exchange Act of 1934, trades in the secondary market generally are required to settle in one business day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes more than one business day prior to the original issue date will be required to specify alternative settlement arrangements to prevent a failed settlement.
+
+The notes will not be listed on any securities exchange. In the original offering of the notes, the notes will be sold in minimum investment amounts of 10,000 units. If you place an order to purchase the notes, you are consenting to MLPF&S and/or one of its affiliates acting as a principal in effecting the transaction for your account.
+
+MLPF&S and BofAS may repurchase and resell the notes, with repurchases and resales being made at prices related to then-prevailing market prices or at negotiated prices, and these will include MLPF&S’s and BofAS’s trading commissions and mark-ups or mark-downs. MLPF&S and BofAS may act as principal or agent in these market-making transactions; however, neither is obligated to engage in any such transactions. At their discretion, for a short, undetermined initial period after the issuance of the notes, MLPF&S and BofAS may offer to buy the notes in the secondary market at a price that may exceed the initial estimated value of the notes. Any price offered by MLPF&S or BofAS for the notes will be based on then-prevailing market conditions and other considerations, including the performance of the Underlying Funds and the remaining term of the notes. However, neither we nor any of our affiliates is obligated to purchase your notes at any price, or at any time, and we cannot assure you that we or any of our affiliates will purchase your notes at a price that equals or exceeds the initial estimated value of the notes.
+
+The value of the notes shown on your account statement will be based on BofAS’s estimate of the value of the notes if BofAS or another of our affiliates were to make a market in the notes, which it is not obligated to do. That estimate will be based upon the price that BofAS may pay for the notes in light of then-prevailing market conditions and other considerations, as mentioned above, and will include transaction costs. At certain times, this price may be higher than or lower than the initial estimated value of the notes.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 15 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Structuring the Notes
+
+The notes are our debt securities, the return on which is linked to the performance of the Underlying Funds. The related guarantees are BAC’s obligations. As is the case for all of our and BAC’s respective debt securities, including our market-linked notes, the economic terms of the notes reflect our and BAC’s actual or perceived creditworthiness at the time of pricing. In addition, because market-linked notes result in increased operational, funding and liability management costs to us and BAC, BAC typically borrows the funds under these types of notes at a rate that is more favorable to BAC than the rate that it might pay for a conventional fixed or floating rate debt security. This rate, which we refer to in this term sheet as BAC’s internal funding rate, is typically lower than the rate BAC would pay when it issues conventional fixed or floating rate debt securities. This generally relatively lower internal funding rate, which is reflected in the economic terms of the notes, along with the fees and charges associated with market-linked notes, resulted in the initial estimated value of the notes on the pricing date being less than their public offering price.
+
+At maturity, if not previously automatically called, we are required to pay the Redemption Amount to holders of the notes, which will be calculated based on the performance of the Underlying Funds and the $10 per unit principal amount. In order to meet these payment obligations, at the time we issue the notes, we may choose to enter into certain hedging arrangements (which may include call options, put options or other derivatives) with BofAS or one of our other affiliates. The terms of these hedging arrangements are determined by seeking bids from market participants, including MLPF&S, BofAS and its affiliates, and take into account a number of factors, including our and BAC’s creditworthiness, interest rate movements, the volatility of the Underlying Funds, the tenor of the notes and the tenor of the hedging arrangements. The economic terms of the notes and their initial estimated value depend in part on the terms of these hedging arrangements. These hedging arrangements are expected to result in a profit to those engaging in the hedging activity, which could be more or less than initially expected, but could also result in a loss.
+
+For further information, see “Risk Factors—Valuation- and Market-related Risks” and “—Conflict-related Risks” beginning on page PS-16 and PS-19, respectively, of the accompanying product supplement and “Use of Proceeds” on page PS-29 of the accompanying product supplement.
+
+Validity of the Notes
+
+In the opinion of Sidley Austin LLP, as counsel to BofA Finance and BAC, when the trustee has made the appropriate entries or notations on Schedule 1 to the master global note that represents the notes (the “Master Note”) identifying the notes offered hereby as supplemental obligations thereunder in accordance with the instructions of BofA Finance, and the notes have been delivered against payment as contemplated herein, such notes will be valid and binding obligations of BofA Finance, and the related guarantee will be a valid and binding obligation of BAC, in each case, enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally, concepts of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good faith, fair dealing and the lack of bad faith), provided that such counsel expresses no opinion as to the effect of fraudulent conveyance, fraudulent transfer or similar provision of applicable law on the conclusions expressed above. This opinion is given as of the date hereof and is limited to the Delaware Limited Liability Company Act, the Delaware General Corporation Law and the laws of the State of New York as in effect on the date hereof. In addition, this opinion is subject to customary assumptions about the trustee’s authorization, execution and delivery of the indenture and due authentication of the Master Note and the genuineness of signatures and certain factual matters, all as stated in the letter of such counsel dated October 1, 2025 which has been filed as Exhibit 5.3 to the Company’s Registration Statement on Form S-3 filed with the Securities and Exchange Commission on October 1, 2025.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 16 |
+| --- | --- |
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes Linked to Worst-Performing of the SPDR ® Dow Jones ® Industrial Average ETF and the SPDR ® S&P 500 ® ETF Trust, due July 7, 2028 |
+| --- |
+
+Summary Tax Consequences
+
+You should consider the U.S. federal income tax consequences of an investment in the notes, including the following:
+
+■
+There is no statutory, judicial, or administrative authority directly addressing the characterization of the notes.
+
+■
+You agree with us (in the absence of an administrative determination, or judicial ruling to the contrary) to characterize and treat the notes for all tax purposes as a contingent income-bearing single financial contract with respect to the Underlying Funds.
+
+■
+Under this characterization and tax treatment of the notes, a U.S. Holder (as defined in the prospectus) generally will recognize capital gain or loss upon maturity or upon a sale, exchange or redemption of the notes prior to maturity. This capital gain or loss generally will be long-term capital gain or loss if you held the notes for more than one year.
+
+■
+No assurance can be given that the Internal Revenue Service (“IRS”) or any court will agree with this characterization and tax treatment.
+
+■
+In addition, there may exist a risk that an investment in the notes will be treated, in whole or in part, as a “constructive ownership transaction” to which Section 1260 of the Code applies. If Section 1260 of the Code applies, all or a portion of any long-term capital gain recognized by a U.S. Holder in respect of the notes will be recharacterized as ordinary income. Because the application of the constructive ownership rules is unclear you are strongly urged to consult your tax advisor with respect to the possible application of the constructive ownership rules to your investment in the notes.
+
+■
+We intend to take the position that any Contingent Coupon Payments constitute taxable ordinary income to a U.S. Holder at the time received or accrued, in accordance with the U.S. Holder’s method of tax accounting.
+
+■
+Because the U.S. federal income tax treatment of the Contingent Coupon Payments is uncertain, we (or the applicable paying agent) will withhold U.S. federal income tax at a 30% rate (or at a lower rate under an applicable income tax treaty) on the entire amount of any Contingent Coupon Payment made to a Non-U.S. Holder unless such payments are effectively connected with the conduct by the Non-U.S. Holder of a trade or business in the U.S. (in which case, to avoid withholding, the Non-U.S. Holder will be required to provide a Form W-8ECI). We (or the applicable paying agent) will not pay any additional amounts in respect of such withholding.
+
+■
+Under current IRS guidance, withholding on “dividend equivalent” payments (as discussed in the product supplement), if any, will not apply to notes that are issued as of the date of this term sheet unless such notes are “delta-one” instruments.
+
+You should consult your own tax advisor concerning the U.S. federal income tax consequences to you of acquiring, owning, and disposing of the notes, as well as any tax consequences arising under the laws of any state, local, foreign, or other tax jurisdiction and the possible effects of changes in U.S. federal or other tax laws. You should review carefully the discussion under the section entitled “U.S. Federal Income Tax Summary” beginning on page PS-48 of product supplement EQUITY MLI-1.
+
+Where You Can Find More Information
+
+We and BAC have filed a registration statement (including a product supplement, a prospectus supplement, and a prospectus) with the SEC for the offering to which this term sheet relates. Before you invest, you should read the Note Prospectus, including this term sheet, and the other documents relating to this offering that we and BAC have filed with the SEC, for more complete information about us, BAC and this offering. You may get these documents without cost by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, we, any agent, or any dealer participating in this offering will arrange to send you these documents if you so request by calling MLPF&S or BofAS toll-free at 1-800-294-1322.
+
+| Autocallable Contingent Coupon (with Memory) Barrier Notes | TS- 17 |
+| --- | --- |

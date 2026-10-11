@@ -1,0 +1,71 @@
+{
+  "accession": "0000950103-26-008658",
+  "source_file": "data/cleaned/0000950103-26-008658_dp248104_424b2-9035ubs.htm.txt",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-04",
+    "strike_date": "2026-06-03",
+    "issue_date": "2026-06-09",
+    "maturity_date": "2028-06-08",
+    "underlyings": [
+      {
+        "name": "Russell 2000\u00ae Index",
+        "ticker": "RTY",
+        "initial_level": 2893.514
+      },
+      {
+        "name": "S&P 500\u00ae Index",
+        "ticker": "SPX",
+        "initial_level": 7553.68
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-03",
+      "2027-06-03",
+      "2027-12-03",
+      "2028-06-05"
+    ],
+    "payment_dates": [
+      "2026-12-07",
+      "2027-06-07",
+      "2027-12-07",
+      "2028-06-08"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 4.6,
+      "barrier_pct": 65.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.954
+  },
+  "provenance": {
+    "method": "pre-annotation verified field by field against the filing (round 2, timed, with seeded-error check)",
+    "prelabel_file": "data/labels/prelabel/0000950103-26-008658.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_by": "author",
+    "verified_on": "2026-10-06",
+    "fields_changed": [],
+    "verification_minutes": 18.0,
+    "round": 2,
+    "overlap_with_other_verifier": false,
+    "seeded_error": null,
+    "seeded_error_detected": null
+  }
+}

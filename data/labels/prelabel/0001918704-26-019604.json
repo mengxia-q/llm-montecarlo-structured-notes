@@ -1,0 +1,259 @@
+{
+  "accession": "0001918704-26-019604",
+  "source_file": "data/cleaned/0001918704-26-019604_bofa-424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-07",
+    "strike_date": null,
+    "issue_date": "2026-07-09",
+    "maturity_date": "2028-07-14",
+    "underlyings": [
+      {
+        "name": "SPDR ® Dow Jones ® Industrial Average ETF",
+        "ticker": "DIA",
+        "initial_level": 528.45
+      },
+      {
+        "name": "SPDR ® S&P 500 ® ETF Trust",
+        "ticker": "SPY",
+        "initial_level": 747.71
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-07",
+      "2027-01-07",
+      "2027-04-07",
+      "2027-07-07",
+      "2027-10-07",
+      "2028-01-07",
+      "2028-04-07",
+      "2028-07-07"
+    ],
+    "payment_dates": [
+      "2026-10-14",
+      "2027-01-14",
+      "2027-04-14",
+      "2027-07-14",
+      "2027-10-14",
+      "2028-01-14",
+      "2028-04-17",
+      "2028-07-14"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.7625,
+      "barrier_pct": 70.0,
+      "memory": true
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.846
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | BofA Finance LLC (“BofA Finance”) |",
+      "lines": [
+        73,
+        73
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10.00 per unit |",
+      "lines": [
+        75,
+        75
+      ]
+    },
+    "pricing_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | July 7, 2026 July 9, 2026 July 14, 2028 |",
+      "lines": [
+        12,
+        12
+      ]
+    },
+    "strike_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | July 7, 2026 July 9, 2026 July 14, 2028 |",
+      "lines": [
+        12,
+        12
+      ],
+      "note": "no separate strike date named; null"
+    },
+    "issue_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | July 7, 2026 July 9, 2026 July 14, 2028 |",
+      "lines": [
+        12,
+        12
+      ],
+      "note": "Settlement Date used as issue date"
+    },
+    "maturity_date": {
+      "quote": "Pricing Date Settlement Date Maturity Date | July 7, 2026 July 9, 2026 July 14, 2028 |",
+      "lines": [
+        12,
+        12
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "The SPDR ® Dow Jones ® Industrial Average ETF (Bloomberg symbol: “DIA”)",
+      "lines": [
+        77,
+        77
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Starting Value: | DIA: $528.45 SPY: $747.71 |",
+      "lines": [
+        84,
+        84
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "the SPDR ® S&P 500 ® ETF Trust (Bloomberg symbol: “SPY”)",
+      "lines": [
+        77,
+        77
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Starting Value: | DIA: $528.45 SPY: $747.71 |",
+      "lines": [
+        84,
+        84
+      ]
+    },
+    "performance_type": {
+      "quote": "The Underlying Fund with the lowest Observation Value or Ending Value, as applicable, as compared to its Starting Value",
+      "lines": [
+        78,
+        78
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates: | October 7, 2026, January 7, 2027, April 7, 2027, July 7, 2027, October 7, 2027, January 7, 2028, April 7, 2028 and July 7, 2028 (the final Coupon Observation Date)",
+      "lines": [
+        95,
+        95
+      ],
+      "note": "listed inline, not as a table; 8 dates"
+    },
+    "payment_dates": {
+      "quote": "| Coupon Payment Dates: | Approximately the fifth business day following the applicable Coupon Observation Date",
+      "lines": [
+        98,
+        98
+      ],
+      "note": "derived: src.market.calendar --plus 5 (NYSE); final = maturity date 2028-07-14 per filing, consistent with derivation"
+    },
+    "autocall.first_observation_index": {
+      "quote": "| Call Observation Dates: | The Coupon Observation Dates beginning on January 7, 2027 and ending on April 7, 2028. |",
+      "lines": [
+        96,
+        96
+      ],
+      "note": "January 7, 2027 is observation #2"
+    },
+    "autocall.levels_pct": {
+      "quote": "| Call Value: | DIA: $528.45 (100.00% of its Starting Value). SPY: $747.71 (100.00% of its Starting Value). |",
+      "lines": [
+        81,
+        81
+      ],
+      "note": "obs #2..#7 callable (6 dates); final date July 7, 2028 not a Call Observation Date"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "The Contingent Coupon Payment (with Memory) applicable to a single Coupon Payment Date is $0.17625 per unit (equal to a rate of approximately 7.05% per annum).",
+      "lines": [
+        82,
+        82
+      ],
+      "note": "$0.17625 / $10 = 1.7625%; equals exact 7.05% p.a. / 4 = 1.7625"
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon Barrier: | DIA: $369.92 (70.00% of its Starting Value, rounded to two decimal places).",
+      "lines": [
+        79,
+        79
+      ]
+    },
+    "coupon.memory": {
+      "quote": "minus (ii) the sum of all Contingent Coupon Payments (with Memory) previously paid.",
+      "lines": [
+        82,
+        82
+      ]
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Threshold Value: | DIA: $369.92 (70.00% of its Starting Value, rounded to two decimal places).",
+      "lines": [
+        80,
+        80
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If your notes are not called, at maturity, if the Ending Value of the Worst-Performing Market Measure is greater than or equal to its Threshold Value",
+      "lines": [
+        65,
+        65
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "1-to-1 downside exposure to decreases in the Worst-Performing Market Measure from its Starting Value",
+      "lines": [
+        65,
+        65
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "The initial estimated value of the notes as of the pricing date is $9.846",
+      "lines": [
+        19,
+        19
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "payment_dates",
+      "issue": "Derived from rule 'approximately the fifth business day following' via NYSE calendar; 2028-04-17 rolls over weekend. Final = maturity date as stated."
+    },
+    {
+      "field": "issue_date",
+      "issue": "Filing names 'Settlement Date' July 9, 2026; used as issue date."
+    },
+    {
+      "field": "underlyings",
+      "issue": "Underlyings are ETFs (DIA, SPY) tracking equity indices, not the S&P 500 index itself as screening suggested."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final observation date not callable (Call Observation Dates end April 7, 2028); 6 levels for obs #2-#7."
+    },
+    {
+      "field": "coupon.barrier_pct",
+      "issue": "Barrier dollar levels rounded to 2 dp (e.g. 70% of 747.71 = 523.397 -> $523.40); percent 70 used."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of autocallable contingent coupon with memory on two equity-index ETFs (DIA, SPY); quarterly discrete autocall; European (final-date) 70% barrier with 1-to-1 downside; no buffer."
+  }
+}

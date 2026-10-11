@@ -1,0 +1,301 @@
+{
+  "accession": "0001140361-26-038659",
+  "source_file": "data/cleaned/0001140361-26-038659_ef20083285_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-10-02",
+    "strike_date": null,
+    "issue_date": "2026-10-07",
+    "maturity_date": "2031-10-07",
+    "underlyings": [
+      {
+        "name": "Nikkei 225 Index",
+        "ticker": "NKY",
+        "initial_level": 68309.46
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7722.72
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2027-01-04",
+      "2027-04-02",
+      "2027-07-02",
+      "2027-10-04",
+      "2028-01-04",
+      "2028-04-03",
+      "2028-07-03",
+      "2028-10-02",
+      "2029-01-04",
+      "2029-04-02",
+      "2029-07-02",
+      "2029-10-02",
+      "2030-01-04",
+      "2030-04-02",
+      "2030-07-02",
+      "2030-10-02",
+      "2031-01-06",
+      "2031-04-02",
+      "2031-07-02",
+      "2031-10-02"
+    ],
+    "payment_dates": [
+      "2027-01-07",
+      "2027-04-07",
+      "2027-07-08",
+      "2027-10-07",
+      "2028-01-07",
+      "2028-04-06",
+      "2028-07-07",
+      "2028-10-05",
+      "2029-01-09",
+      "2029-04-05",
+      "2029-07-06",
+      "2029-10-05",
+      "2030-01-09",
+      "2030-04-05",
+      "2030-07-08",
+      "2030-10-07",
+      "2031-01-09",
+      "2031-04-07",
+      "2031-07-08",
+      "2031-10-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.375,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.751
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank |",
+      "lines": [
+        226,
+        226
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        230,
+        230
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | October 2, 2026 |",
+      "lines": [
+        50,
+        50
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date* | October 2, 2026 |",
+      "lines": [
+        50,
+        50
+      ],
+      "note": "no separate strike date; initial level = closing level on trade date (line 246)"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | October 7, 2026 |",
+      "lines": [
+        52,
+        52
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | October 7, 2031 |",
+      "lines": [
+        55,
+        55
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nikkei 225 Index | NKY | 9.50% per annum | 68,309.46 |",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nikkei 225 Index | NKY | 9.50% per annum | 68,309.46 |",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| S&P 500 ® Index | SPX | 9.50% per annum | 7,722.72 |",
+      "lines": [
+        77,
+        77
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| S&P 500 ® Index | SPX | 9.50% per annum | 7,722.72 |",
+      "lines": [
+        77,
+        77
+      ]
+    },
+    "performance_type": {
+      "quote": "Linked to the least performing of the Nikkei 225 Index and the S&P 500",
+      "lines": [
+        14,
+        14
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates | Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        280,
+        291
+      ],
+      "note": "two-column-pair table: left 10 rows then right 9 rows; last right cell 'Final Valuation Date' = October 2, 2031 (line 54)"
+    },
+    "payment_dates": {
+      "quote": "| January 4, 2027* | January 7, 2027* | July 2, 2029 | July 6, 2029 |",
+      "lines": [
+        282,
+        291
+      ],
+      "note": "from table; final payment = Maturity Date October 7, 2031"
+    },
+    "autocall.first_observation_index": {
+      "quote": "| * | The Notes are not callable until the first potential call settlement date, which is April 7, 2027. |",
+      "lines": [
+        293,
+        293
+      ],
+      "note": "April 7, 2027 is payment date for obs #2 (April 2, 2027)"
+    },
+    "autocall.levels_pct": {
+      "quote": "68,309.46, which is 100.00% of its Initial Level",
+      "lines": [
+        76,
+        76
+      ],
+      "note": "constant 100%; callable obs 2..19 (other than the final valuation date) = 18 entries"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon Rate | 9.50% per annum |",
+      "lines": [
+        234,
+        234
+      ],
+      "note": "9.50% p.a. / 4 = 2.375 (quarterly); matches $0.2375 on $10"
+    },
+    "coupon.barrier_pct": {
+      "quote": "47,816.62, which is 70.00% of its Initial Level",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable",
+      "lines": [
+        233,
+        233
+      ],
+      "note": "no memory language"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "40,985.68, which is 60.00% of its Initial Level",
+      "lines": [
+        76,
+        76
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        239,
+        239
+      ],
+      "note": "final level = close on final valuation date"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        239,
+        239
+      ],
+      "note": "1-to-1 => 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your Notes at the time the terms of your Notes were set on the trade date was $9.751 per Note",
+      "lines": [
+        79,
+        79
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "observation_dates",
+      "issue": "Schedule table is split into two column pairs (left 10 rows, right 10 rows); last right row reads 'Final Valuation Date | Maturity Date' with dates taken from Key Dates (2031-10-02 / 2031-10-07). Verify ordering."
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "Asterisk on April 2, 2027 observation date but not on its payment date; footnote says first call settlement date is April 7, 2027, so obs #2 is callable (index 2). 'Beginning after 6 months' wording is consistent but borderline."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Callable only on observation dates 'other than the final valuation date' => 18 entries (obs 2-19), final date excluded."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 9.50% p.a. / 4 = 2.375% per quarter; cash coupon $0.2375 agrees."
+    },
+    {
+      "field": "underlyings[1].name",
+      "issue": "Cleaned text renders the registered mark with spaces ('S&P 500 ® Index'); name kept as in cleaned file."
+    },
+    {
+      "field": "underlyings[0]",
+      "issue": "Nikkei 225 is a Japanese index; observation dates follow its trading calendar (market-disruption/postponement rules), not NYSE."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity price indices (Nikkei 225, S&P 500), quarterly non-memory contingent coupon, discrete quarterly autocall from obs 2, European (final-valuation-date) 60% downside threshold with 1:1 loss; no buffer, no daily monitoring."
+  }
+}

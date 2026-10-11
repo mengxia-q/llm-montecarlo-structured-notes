@@ -1,0 +1,8 @@
+# Filings downloaded by a fresh 01_build_candidate_pool.py run beyond the
+# 53 committed ones are not part of the dataset; add them deliberately.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.DS_Store
+.env

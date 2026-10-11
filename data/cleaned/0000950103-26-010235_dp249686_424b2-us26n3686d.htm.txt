@@ -1,0 +1,707 @@
+424B2
+
+1
+
+dp249686_424b2-us26n3686d.htm
+
+PRICING SUPPLEMENT
+
+| Citigroup Global Markets Holdings Inc. | July 1, 2026 Medium-Term Senior Notes, Series N Pricing Supplement No. 2026-USNCH32898 Filed Pursuant to Rule 424(b)(2) Registration Statement Nos. 333-293732 and 333-293732-02 |
+| --- | --- |
+
+Autocallable Phoenix Securities Based on the S&P
+500
+®
+Index Due July 7, 2027
+
+| § | The securities offered by this pricing supplement are unsecured senior debt securities issued by Citigroup Global Markets Holdings Inc. and guaranteed by Citigroup Inc. The securities offer the potential for contingent coupon payments at an annualized rate that, if all are paid, would produce a yield that is generally higher than the yield on our conventional debt securities of the same maturity. In exchange for this higher potential yield, you must be willing to accept the risks that (i) your actual yield may be lower than the yield on our conventional debt securities of the same maturity because you may not receive one or more, or any, contingent coupon payments; (ii) your actual yield may be negative because, at maturity, you may receive significantly less than the stated principal amount of your securities and possibly nothing; and (iii) the securities may be automatically redeemed prior to maturity. Each of these risks will depend on the performance of the S&P 500 ® Index (the “underlying index”), as described below. Although you will be exposed to downside risk with respect to the underlying index, you will not participate in any appreciation of the underlying index or receive any dividends paid on the stocks that constitute the underlying index. |
+| --- | --- |
+
+| § | Investors in the securities must be willing to accept (i) an investment that may have limited or no liquidity and (ii) the risk of not receiving any payments due under the securities if we and Citigroup Inc. default on our obligations. All payments on the securities are subject to the credit risk of Citigroup Global Markets Holdings Inc. and Citigroup Inc. |
+| --- | --- |
+
+| KEY TERMS | KEY TERMS |
+| --- | --- |
+| Issuer: | Citigroup Global Markets Holdings Inc., a wholly owned subsidiary of Citigroup Inc. |
+| Guarantee: | All payments due on the securities are fully and unconditionally guaranteed by Citigroup Inc. |
+| Underlying index: | The S&P 500 ® Index (ticker symbol: “SPX”) |
+| Aggregate stated principal amount: | $500,000 |
+| Stated principal amount: | $1,000 per security |
+| Strike date: | June 30, 2026 |
+| Pricing date: | July 1, 2026 |
+| Issue date: | July 7, 2026 |
+| Interim valuation dates: | August 3, 2026, September 1, 2026, October 1, 2026, November 2, 2026, December 1, 2026, January 4, 2027, February 1, 2027, March 1, 2027, April 1, 2027, May 3, 2027 and June 1, 2027, each subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur |
+| Final valuation date: | July 1, 2027, subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur |
+| Maturity date: | Unless earlier redeemed, July 7, 2027, subject to postponement as described under “Additional Information” below |
+| Contingent coupon payment dates: | For any interim valuation date, the third business day after such interim valuation date; and for the final valuation date, the maturity date |
+| Contingent coupon: | On each contingent coupon payment date, unless previously redeemed, the securities will pay a contingent coupon equal to 0.75% of the stated principal amount of the securities if and only if the relevant index level for the related interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to the coupon barrier level. If the relevant index level on any interim valuation date or with respect to the final valuation date, as applicable, is less than the coupon barrier level, you will not receive any contingent coupon payment on the related contingent coupon payment date. If the relevant index level is less than the coupon barrier level on one or more interim valuation dates and, on a subsequent interim valuation date or with respect to the final valuation date, the relevant index level is greater than or equal to the coupon barrier level, your contingent coupon payment for that subsequent interim valuation date or with respect to the final valuation date, as applicable, will include all previously unpaid contingent coupon payments (without interest on amounts previously unpaid). However, if the relevant index level is less than the coupon barrier level on an interim valuation date and on each subsequent interim valuation date thereafter and with respect to the final valuation date, you will not receive the unpaid contingent coupon payments in respect of those interim valuation dates and with respect to the final valuation date. |
+| Automatic early redemption: | If, on any interim valuation date beginning October 1, 2026, the closing level of the underlying index is greater than or equal to the initial index level, each security you then hold will be automatically redeemed on the related contingent coupon payment date for an amount in cash equal to $1,000 plus the related contingent coupon payment (including any previously unpaid contingent coupon payments). |
+| Payment at maturity: | If the securities are not automatically redeemed prior to maturity, you will be entitled to receive at maturity, for each $1,000 stated principal amount security you then hold: ▪ If the final index level is greater than or equal to the final barrier level: $1,000 plus the contingent coupon payment due at maturity (including any previously unpaid contingent coupon payments) ▪ If the final index level is less than the final barrier level: $1,000 + ($1,000 × the index return) If the final index level is less than the final barrier level, you will receive less than 90.50% of the stated principal amount of your securities, and possibly nothing, at maturity, and you will not receive any contingent coupon payment at maturity (including any previously unpaid contingent coupon payments). |
+| Initial index level: | 7,499.36, the closing level of the underlying index on the strike date |
+| Final index level: | The closing level of the underlying index on the final valuation date |
+| Relevant index level: | For any contingent coupon payment date other than the maturity date, the relevant index level is the closing level of the underlying index on the interim valuation date immediately preceding that contingent coupon payment date. For the maturity date, the relevant index level is the final index level. |
+| Coupon barrier level: | 6,786.921, 90.50% of the initial index level |
+| Final barrier level: | 6,786.921, 90.50% of the initial index level |
+| Index return: | (i) The final index level minus the initial index level, divided by (ii) the initial index level |
+| Listing: | The securities will not be listed on any securities exchange |
+| Paying agent: | Citibank, N.A. |
+| CUSIP / ISIN: | 17332Y6D5 / US17332Y6D57 |
+| Underwriter: | Citigroup Global Markets Inc. (“CGMI”), an affiliate of the issuer, acting as principal |
+
+| Underwriting fee and issue price: | Issue price (1)(2) | Underwriting fee (3) | Proceeds to issuer (3) |
+| --- | --- | --- | --- |
+| Per security: | $1,000.00 | $10.00 | $990.00 |
+| Total: | $500,000.00 | $5,000.00 | $495,000.00 |
+
+(1) On the date of this pricing supplement, the estimated value of the
+securities is $986.80 per security, which is less than the issue price. The estimated value of the securities is based on CGMI’s
+proprietary pricing models and our internal funding rate. It is not an indication of actual profit to CGMI or other of our affiliates,
+nor is it an indication of the price, if any, at which CGMI or any other person may be willing to buy the securities from you at any time
+after issuance. See “Valuation of the Securities” in this pricing supplement.
+
+(2) The issue price for investors
+purchasing the securities in fiduciary accounts is $990.00 per security.
+
+(3) CGMI will receive an underwriting
+fee of $10.00 for each security sold in this offering. J.P. Morgan Securities LLC and JPMorgan Chase Bank, N.A. will act as
+placement agents for the securities and, from the underwriting fee to CGMI, will receive a placement fee of $10.00 for each security they
+sell in this offering to accounts other than fiduciary accounts. CGMI and the placement agents will forgo an underwriting fee
+and placement fee for sales to fiduciary accounts. For more information on the distribution of the securities, see “Supplemental
+Plan of Distribution” in this pricing supplement. In addition to the underwriting fee, CGMI and its affiliates may profit
+from hedging activity related to this offering, even if the value of the securities declines. See “Use of Proceeds and
+Hedging” in the accompanying prospectus.
+
+Investing in the securities involves risks not associated with an
+investment in conventional debt securities. See “Summary Risk Factors” beginning on page PS-5.
+
+Neither the Securities and Exchange Commission (the “SEC”)
+nor any state securities commission has approved or disapproved of the securities or determined that this pricing supplement and the accompanying
+product supplement, underlying supplement, prospectus supplement and prospectus are truthful or complete. Any representation to the contrary
+is a criminal offense.
+
+Y
+ou
+should read this pricing supplement together with the accompanying
+product supplement,
+
+underlying supplement,
+prospectus supplement and prospectus
+, each
+of which can be accessed via the hyperlinks below:
+
+| Product Supplement No. EA-04-12 dated February 25, 2026 | Underlying Supplement No. 13 dated February 25, 2026 |
+| --- | --- |
+
+Prospectus Supplement and Prospectus each dated February 25, 2026
+
+The securities are not bank deposits and are
+not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency, nor are they obligations of,
+or guaranteed by, a bank.
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+Additional Information
+
+General.
+The terms of the securities are set forth in the accompanying
+product supplement, prospectus supplement and prospectus, as supplemented by this pricing supplement. The accompanying product supplement,
+prospectus supplement and prospectus contain important disclosures that are not repeated in this pricing supplement. For example, certain
+events may occur that could affect whether you receive a contingent coupon payment on a contingent coupon payment date or whether the
+securities are automatically redeemed as well as your payment at maturity. These events, including market disruption events and other
+events affecting the underlying index, and their consequences are described in the accompanying product supplement in the sections “Description
+of the Securities—Consequences of a Market Disruption Event; Postponement of a Valuation Date” and “Description of the
+Securities—Certain Additional Terms for Securities Linked to an Underlying Index—Discontinuance or Material Modification of
+an Underlying Index,” and not in this pricing supplement (except as set forth in the next paragraph). The accompanying underlying
+supplement contains important disclosures regarding the underlying index that are not repeated in this pricing supplement. It is important
+that you read the accompanying product supplement, underlying supplement, prospectus supplement and prospectus together with this pricing
+supplement in connection with your investment in the securities. Certain terms used but not defined in this pricing supplement are defined
+in the accompanying product supplement.
+
+Postponement of the Final Valuation Date; Postponement of the Maturity
+Date.
+If the scheduled final valuation date is not a scheduled trading day, the final valuation date will be postponed to the next
+succeeding scheduled trading day. In addition, if a market disruption event occurs on the scheduled final valuation date, the
+calculation agent may, but is not required to, postpone the final valuation date to the next succeeding scheduled trading day on which
+a market disruption event does not occur. However, in no event will the scheduled final valuation date be postponed more than five scheduled
+trading days after the originally scheduled final valuation date as a result of a market disruption event occurring on the scheduled final
+valuation date. If the final valuation date is postponed so that it falls less than three business days prior to the scheduled maturity
+date, the maturity date will be postponed to the third business day after the final valuation date as postponed. The provisions
+in this paragraph supersede the related provisions in the accompanying product supplement to the extent the provisions in this paragraph
+are inconsistent with those provisions. The terms “scheduled trading day” and “market disruption event”
+are defined in the accompanying product supplement. Each interim valuation date is subject to postponement on the terms set
+forth with respect to valuation dates in the accompanying product supplement.
+
+| July 2026 | PS- 2 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+Hypothetical Examples
+
+The table below illustrates various hypothetical payments on the securities
+at maturity for a range of hypothetical final index levels of the underlying index, assuming the securities are not automatically redeemed. The
+outcomes illustrated in the table are not exhaustive, and the actual payment at maturity you receive on the securities may differ from
+any example illustrated below.
+
+The table and examples that follow are based on the following hypothetical
+values and assumptions in order to illustrate how the securities work and do not reflect the actual initial index level, coupon barrier
+level or final barrier level.
+
+| Initial index level: | 100.00 (the hypothetical closing level of the underlying index on the strike date) |
+| --- | --- |
+| Coupon barrier level: | 90.50 (90.50% of the hypothetical initial index level) |
+| Final barrier level: | 90.50 (90.50% of the hypothetical initial index level) |
+| Contingent coupon: | 0.75% of the stated principal amount, paid on each contingent coupon payment date |
+
+For ease
+of analysis, figures in the table and examples below have been rounded.
+
+| Maturity Date | Maturity Date | Maturity Date |
+| --- | --- | --- |
+| Hypothetical final index level (1) | Hypothetical percentage change from initial index level to final index level | Hypothetical cash amount (2) you receive at maturity per security |
+| 150.00 | 50.00% | $1,007.50 |
+| 140.00 | 40.00% | $1,007.50 |
+| 130.00 | 30.00% | $1,007.50 |
+| 120.00 | 20.00% | $1,007.50 |
+| 110.00 | 10.00% | $1,007.50 |
+| 100.00 | 0.00% | $1,007.50 |
+| 95.00 | -5.00% | $1,007.50 |
+| 90.50 | -9.50% | $1,007.50 |
+| 90.49 | -9.51% | $904.90 |
+| 90.00 | -10.00% | $900.00 |
+| 80.00 | -20.00% | $800.00 |
+| 70.00 | -30.00% | $700.00 |
+| 60.00 | -40.00% | $600.00 |
+| 50.00 | -50.00% | $500.00 |
+| 40.00 | -60.00% | $400.00 |
+| 30.00 | -70.00% | $300.00 |
+| 20.00 | -80.00% | $200.00 |
+| 10.00 | -90.00% | $100.00 |
+| 0.00 | -100.00% | $0.00 |
+
+| (1) | The final index level is equal to the closing level of the underlying index on the final valuation date. You will be repaid the stated principal amount of your securities if, and only if, the final index level is greater than or equal to the final barrier level. |
+| --- | --- |
+
+| (2) | You will receive a contingent coupon payment at maturity if, and only if, the final index level is greater than or equal to the coupon barrier level. For purposes of this table, it is assumed that there are no previously unpaid contingent coupon payments. |
+| --- | --- |
+
+The examples below illustrate various possible outcomes under the securities. The
+examples do not illustrate all possible outcomes, and the return you actually receive on an investment in the securities may differ from
+any example shown below. References below to the total return on an investment in the securities take into account all contingent
+coupon payments received (if any) on or prior to the date of redemption or maturity.
+
+Examples
+assuming the securities are automatically redeemed prior to maturity:
+
+Example 1:
+The hypothetical closing level of the underlying index
+on the first interim valuation date is 105.00, which is
+greater than
+the hypothetical coupon barrier level. The hypothetical
+closing level of the underlying index on the second interim valuation date is 115.00, which is
+the hypothetical
+coupon barrier level. As a result, you would receive a contingent coupon payment of $7.50 per security on each of the first and second
+contingent coupon payment dates. Although the hypothetical closing level of the underlying index is greater than the hypothetical initial
+index level on both the first and second interim valuation dates, the securities are not subject to automatic early redemption until the
+third interim valuation date. The hypothetical closing level of the underlying index on the third interim valuation date is 110.00, which
+is
+the hypothetical coupon barrier level and the hypothetical initial index level. Because the hypothetical
+closing level of the underlying index is greater than the hypothetical initial index level on the third interim valuation date (which
+is the first interim valuation date on which the securities are subject to automatic early redemption), the securities would be automatically
+redeemed on the third contingent coupon payment date and you would receive $1,007.50 per security, consisting of the stated principal
+amount of $1,000 plus the related contingent coupon payment of $7.50. In this scenario, the term of the securities would be
+approximately three months and you would receive a total return of 2.25% on your investment in the securities.
+
+Example 2:
+The hypothetical closing level of the underlying
+index on the first interim valuation date is 95.00, which is
+the hypothetical coupon barrier level. The
+hypothetical closing level of the underlying index on the second interim valuation date is 105.00, which is
+the
+hypothetical coupon barrier level. As a result, you would receive a contingent coupon payment of $7.50 per
+
+| July 2026 | PS- 3 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+security on the each of the first and second contingent coupon payment
+dates. The hypothetical closing level of the underlying index on the third interim valuation date (which is the first interim valuation
+date on which the securities are subject to automatic early redemption) is 50.00, which is
+less than
+the hypothetical coupon barrier
+level and the hypothetical initial index level. As a result, the securities would not be automatically redeemed and no contingent
+coupon payment would be paid on the third contingent coupon payment date. On the fourth interim valuation date, the hypothetical
+closing level of the underlying index is 130.00, which is
+the hypothetical initial index level. Because
+the hypothetical closing level of the underlying index on the fourth interim valuation date is greater than the hypothetical initial index
+level, the securities would be automatically redeemed on the fourth contingent coupon payment date for $1,015.00 per security, consisting
+of the stated principal amount of $1,000, a contingent coupon payment of $7.50 per security
+plus
+the contingent coupon payment
+of $7.50 per security related to the third interim valuation date. In this scenario, the term of the securities would be approximately
+four months and you would receive a total return of 3.00% on your investment in the securities.
+
+In each of the previous examples, the automatic early redemption feature
+of the securities would limit the term of the securities to less than the full term to maturity, and possibly to as short as approximately
+three months. If the securities are automatically redeemed prior to maturity, you will not receive any additional contingent coupon payments
+after the redemption, and you may not be able to reinvest in other investments that offer comparable terms or returns. Although in each
+of these examples the hypothetical closing level of the underlying index on the interim valuation date immediately before redemption is
+greater than the hypothetical initial index level, investors in the securities will not share in any appreciation of the underlying index.
+
+Examples
+assuming the securities are
+not
+automatically redeemed prior to maturity:
+
+Example 3:
+on each of the interim valuation dates is
+the hypothetical initial index level but
+the hypothetical
+coupon barrier level, and the hypothetical final index level is 120.00, which is
+the hypothetical final barrier level. In
+this scenario, you would receive a contingent coupon payment of $7.50 per security on each contingent coupon payment date prior to maturity
+and, on the maturity date, would receive $1,007.50 per security, consisting of the stated principal amount of $1,000
+plus
+the contingent
+coupon payment of $7.50 due at maturity. The total return on your investment in the securities in this example is 9.00%, which
+is the maximum return you may receive on an investment in the securities. As this example illustrates, the return you receive
+on an investment in the securities may be less than the return you could have received on a direct investment in the underlying index.
+
+Example 4:
+The hypothetical closing level of the underlying
+index is
+the hypothetical initial index level on each of the interim valuation dates but
+greater
+than
+the hypothetical coupon barrier level on only the first interim valuation date, and the hypothetical final index level is
+95.00, which is
+the hypothetical final barrier level. Because the hypothetical closing level
+of the underlying index is greater than the hypothetical coupon barrier level on only the first interim valuation date, you would receive
+the contingent coupon payment of $7.50 per security on only the contingent coupon payment date related to the first interim valuation
+date. On the maturity date, because the final index level is greater than the final barrier level, you would receive $1,082.50
+per security, consisting of the stated principal amount of $1,000
+plus
+the contingent coupon payment of $7.50 due
+at maturity
+plus
+the ten contingent coupon payments of $7.50 related to the second through eleventh interim valuation
+dates. In this scenario, your total return on your investment in the securities would be 9.00%.
+
+Example 5:
+on each of the interim valuation dates is
+the hypothetical initial index level but
+the hypothetical
+coupon barrier level, and the hypothetical final index level is 50.00, which is
+the hypothetical final barrier level. Because
+the hypothetical closing level of the underlying index is greater than the hypothetical coupon barrier level on each interim valuation
+date, you would receive the contingent coupon payment of $7.50 per security on each contingent coupon payment date prior to the maturity
+date. On the maturity date, because the final index level is less than the final barrier level, you would receive $500.00 per
+security, calculated as follows:
+
+Payment at maturity = $1,000 + ($1,000 × the
+index return)
+
+= $1,000 + ($1,000 × -50%)
+
+= $1,000 + -$500
+
+= $500
+
+In this scenario, you would receive significantly
+less than the stated principal amount of your securities at maturity. In addition, because the final index level is below the coupon barrier
+level, you will not receive any contingent coupon payment at maturity. In this scenario, your total return on your investment in the securities
+would be -41.75%.
+
+Example 6:
+on each of the interim valuation dates is
+the hypothetical coupon barrier level, and the hypothetical final index level
+is 30.00, which is
+the hypothetical final barrier level. Because the hypothetical closing level of the underlying
+index is less than the hypothetical coupon barrier level on each interim valuation date, you would not receive any contingent coupon payment
+on any contingent coupon payment date prior to the maturity date. On the maturity date, because the final index level is less
+than the final barrier level, you would receive $300.00 per security, calculated as follows:
+
+Payment at maturity = $1,000 + ($1,000 × the
+index return)
+
+= $1,000 + ($1,000 × -70%)
+
+= $1,000 + -$700
+
+= $300
+
+| July 2026 | PS- 4 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+In this scenario, you would receive significantly less than the stated
+principal amount of your securities at maturity. In addition, because the final index level is below the coupon barrier level, you will
+not receive any contingent coupon payment at maturity. In this scenario, your total return on your investment in the securities would
+be -70.00%.
+
+| July 2026 | PS- 5 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+Summary Risk Factors
+
+An investment in the securities is significantly riskier than an investment
+in conventional debt securities. The securities are subject to all of the risks associated with an investment in our conventional
+debt securities (guaranteed by Citigroup Inc.), including the risk that we and Citigroup Inc. may default on our obligations under the
+securities, and are also subject to risks associated with the underlying index. Accordingly, the securities are suitable only
+for investors who are capable of understanding the complexities and risks of the securities. You should consult your own financial,
+tax and legal advisors as to the risks of an investment in the securities and the suitability of the securities in light of your particular
+circumstances.
+
+The following is a summary of certain key risk factors for investors
+in the securities. You should read this summary together with the more detailed description of risks relating to an investment
+in the securities contained in the section “Risk Factors Relating to the Securities” beginning on page EA-6 in the accompanying
+product supplement. You should also carefully read the risk factors included in the accompanying prospectus supplement and
+in the documents incorporated by reference in the accompanying prospectus, including Citigroup Inc.’s most recent Annual Report
+on Form 10-K and any subsequent Quarterly Reports on Form 10-Q, which describe risks relating to the business of Citigroup Inc. more generally.
+
+| § | You may lose some or all of your investment. Unlike conventional debt securities, the securities do not provide for the repayment of the stated principal amount at maturity in all circumstances. If the securities are not automatically redeemed prior to maturity and the final index level is less than the final barrier level, you will lose 1% of the stated principal amount of the securities for every 1% by which the final index level is less than the initial index level. There is no minimum payment at maturity on the securities, and you may lose up to all of your investment. |
+| --- | --- |
+
+| § | You will not receive any contingent coupon payment on any contingent coupon payment date for which the relevant index level is less than the coupon barrier level on the related interim valuation date or with respect to the final valuation date, as applicable. A contingent coupon payment will be made on a contingent coupon payment date if and only if the relevant index level for the related interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to the coupon barrier level. If the relevant index level is less than the coupon barrier level for any interim valuation date or with respect to the final valuation date, as applicable, you will not receive any contingent coupon payment on the related contingent coupon payment date. You will receive a contingent coupon payment that has not been paid on a subsequent contingent coupon payment date if and only if the relevant index level for the related interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to the coupon barrier level. If the relevant index level is below the coupon barrier level for each interim valuation date and with respect to the final valuation date, you will not receive any contingent coupon payments over the term of the securities. |
+| --- | --- |
+
+| § | Higher contingent coupon rates are associated with greater risk. The securities offer contingent coupon payments at an annualized rate that, if all are paid, would produce a yield that is generally higher than the yield on our conventional debt securities of the same maturity. This higher potential yield is associated with greater levels of expected risk as of the pricing date for the securities, including the risks that you may not receive a contingent coupon payment on one or more, or any, contingent coupon payment dates, the securities will not be automatically redeemed and the amount you receive at maturity may be significantly less than the stated principal amount of your securities and may be zero. The volatility of the underlying index is an important factor affecting these risks. Greater expected volatility of the underlying index as of the pricing date may result in a higher contingent coupon rate, but it also represents a greater expected likelihood as of the pricing date that (i) the relevant index level will be less than the coupon barrier level for one or more interim valuation dates or with respect to the final valuation date, such that you will not receive one or more, or any, contingent coupon payments during the term of the securities, (ii) the relevant index level will be less than the initial index level on each interim valuation date, such that the securities are not automatically redeemed and (iii) the final index level will be less than the final barrier level, such that you will not be repaid the stated principal amount of your securities at maturity. |
+| --- | --- |
+
+| § | You may not be adequately compensated for assuming the downside risk of the underlying index. The potential contingent coupon payments on the securities are the compensation you receive for assuming the downside risk of the underlying index, as well as all the other risks of the securities. That compensation is effectively “at risk” and may, therefore, be less than you currently anticipate. First, the actual yield you realize on the securities could be lower than you anticipate because the coupon is “contingent” and you may not receive a contingent coupon payment on one or more, or any, of the contingent coupon payment dates. Second, the contingent coupon payments are the compensation you receive not only for the downside risk of the underlying index, but also for all of the other risks of the securities, including the risk that the securities may be automatically redeemed prior to maturity, interest rate risk and our and Citigroup Inc.’s credit risk. If those other risks increase or are otherwise greater than you currently anticipate, the contingent coupon payments may turn out to be inadequate to compensate you for all the risks of the securities, including the downside risk of the underlying index. |
+| --- | --- |
+
+| § | The securities may be automatically redeemed prior to maturity, limiting your opportunity to receive contingent coupon payments. The securities will be automatically redeemed prior to maturity if the closing level of the underlying index on any interim valuation date is greater than or equal to the initial index level. Thus, the term of the securities may be limited to as short as approximately three months. If the securities are automatically redeemed prior to maturity, you will not receive any additional contingent coupon payments. Moreover, you may not be able to reinvest your funds in another investment that provides a similar yield with a similar level of risk. |
+| --- | --- |
+
+| July 2026 | PS- 6 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+| § | The securities offer downside exposure to the underlying index, but no upside exposure to the underlying index. You will not participate in any appreciation in the level of the underlying index over the term of the securities. Consequently, your return on the securities will be limited to the contingent coupon payments you receive, if any, and may be significantly less than the return on the underlying index over the term of the securities. In addition, you will not receive any dividends or other distributions or have any other rights with respect to the underlying index over the term of the securities. |
+| --- | --- |
+
+| § | The performance of the securities will depend on the closing level of the underlying index solely on the relevant valuation dates, which makes the securities particularly sensitive to the volatility of the underlying index. Whether any contingent coupons will be paid prior to maturity and whether the securities will be automatically redeemed prior to maturity will depend on the closing level of the underlying index solely on the applicable interim valuation dates, regardless of the closing level of the underlying index on other days during the term of the securities. If the securities are not automatically redeemed, the amount you receive at maturity will depend solely on the closing level of the underlying index on the final valuation date and not on any other days during the term of the securities. Because the performance of the securities depends on the closing level of the underlying index on a limited number of dates, the securities will be particularly sensitive to volatility in the closing level of the underlying index. You should understand that the underlying index has historically been highly volatile. |
+| --- | --- |
+
+| § | What you receive at maturity depends on the closing level of the underlying index on a single day. Because what you receive at maturity depends on the closing level of the underlying index solely on the final valuation date, you are subject to the risk that the closing level of the underlying index on that day may be lower, and possibly significantly lower, than on one or more other dates during the term of the securities. If you had invested directly in the underlying index or in another instrument linked to the underlying index that you could sell for full value at a time selected by you, or if the payment at maturity were based on an average of closing levels of the underlying index, you might have achieved better returns. |
+| --- | --- |
+
+| § | The securities are subject to the credit risk of Citigroup Global Markets Holdings Inc. and Citigroup Inc. If we default on our obligations under the securities and Citigroup Inc. defaults on its guarantee obligations, you may not receive anything owed to you under the securities. |
+| --- | --- |
+
+| § | The securities will not be listed on any securities exchange and you may not be able to sell them prior to maturity. The securities will not be listed on any securities exchange. Therefore, there may be little or no secondary market for the securities. CGMI currently intends to make a secondary market in relation to the securities and to provide an indicative bid price for the securities on a daily basis. Any indicative bid price for the securities provided by CGMI will be determined in CGMI’s sole discretion, taking into account prevailing market conditions and other relevant factors, and will not be a representation by CGMI that the securities can be sold at that price, or at all. CGMI may suspend or terminate making a market and providing indicative bid prices without notice, at any time and for any reason. If CGMI suspends or terminates making a market, there may be no secondary market at all for the securities because it is likely that CGMI will be the only broker-dealer that is willing to buy your securities prior to maturity. Accordingly, an investor must be prepared to hold the securities until maturity. |
+| --- | --- |
+
+| § | The estimated value of the securities on the pricing date, based on CGMI’s proprietary pricing models and our internal funding rate, is less than the issue price. The difference is attributable to certain costs associated with selling, structuring and hedging the securities that are included in the issue price. These costs include (i) the placement fees paid in connection with the offering of the securities, (ii) hedging and other costs incurred by us and our affiliates in connection with the offering of the securities and (iii) the expected profit (which may be more or less than actual profit) to CGMI or other of our affiliates in connection with hedging our obligations under the securities. These costs adversely affect the economic terms of the securities because, if they were lower, the economic terms of the securities would be more favorable to you. The economic terms of the securities are also likely to be adversely affected by the use of our internal funding rate, rather than our secondary market rate, to price the securities. See “The estimated value of the securities would be lower if it were calculated based on our secondary market rate” below. |
+| --- | --- |
+
+| § | The estimated value of the securities was determined for us by our affiliate using proprietary pricing models. CGMI derived the estimated value disclosed on the cover page of this pricing supplement from its proprietary pricing models. In doing so, it may have made discretionary judgments about the inputs to its models, such as the volatility of the underlying index, the dividend yields on the stocks that constitute the underlying index and interest rates. CGMI’s views on these inputs may differ from your or others’ views, and as an underwriter in this offering, CGMI’s interests may conflict with yours. Both the models and the inputs to the models may prove to be wrong and therefore not an accurate reflection of the value of the securities. Moreover, the estimated value of the securities set forth on the cover page of this pricing supplement may differ from the value that we or our affiliates may determine for the securities for other purposes, including for accounting purposes. You should not invest in the securities because of the estimated value of the securities. Instead, you should be willing to hold the securities to maturity irrespective of the initial estimated value. |
+| --- | --- |
+
+| § | The estimated value of the securities would be lower if it were calculated based on our secondary market rate. The estimated value of the securities included in this pricing supplement is calculated based on our internal funding rate, which is the rate at which we are willing to borrow funds through the issuance of the securities. Our internal funding rate is generally lower than our secondary market rate, which is the rate that CGMI will use in determining the value of the securities for purposes of any purchases of the securities from you in the secondary market. If the estimated value included in this pricing supplement were based on our secondary market rate, rather than our internal funding rate, it would likely be lower. We determine our internal funding rate based on factors such as the costs associated with the securities, which are generally higher than the costs |
+| --- | --- |
+
+| July 2026 | PS- 7 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+associated with conventional debt securities,
+and our liquidity needs and preferences. Our internal funding rate is not the same as the coupon that is payable on the securities.
+
+Because there is not an active market for
+traded instruments referencing our outstanding debt obligations, CGMI determines our secondary market rate based on the market price of
+traded instruments referencing the debt obligations of Citigroup Inc., our parent company and the guarantor of all payments due on the
+securities, but subject to adjustments that CGMI makes in its sole discretion. As a result, our secondary market rate is not
+a market-determined measure of our creditworthiness, but rather reflects the market’s perception of our parent company’s creditworthiness
+as adjusted for discretionary factors such as CGMI’s preferences with respect to purchasing the securities prior to maturity.
+
+| § | The estimated value of the securities is not an indication of the price, if any, at which CGMI or any other person may be willing to buy the securities from you in the secondary market. Any such secondary market price will fluctuate over the term of the securities based on the market and other factors described in the next risk factor. Moreover, unlike the estimated value included in this pricing supplement, any value of the securities determined for purposes of a secondary market transaction will be based on our secondary market rate, which will likely result in a lower value for the securities than if our internal funding rate were used. In addition, any secondary market price for the securities will be reduced by a bid-ask spread, which may vary depending on the aggregate stated principal amount of the securities to be purchased in the secondary market transaction, and the expected cost of unwinding related hedging transactions. As a result, it is likely that any secondary market price for the securities will be less than the issue price. |
+| --- | --- |
+
+| § | The value of the securities prior to maturity will fluctuate based on many unpredictable factors. The value of your securities prior to maturity will fluctuate based on the level and volatility of the underlying index and a number of other factors, including the price and volatility of the stocks that constitute the underlying index, the dividend yields on the stocks that constitute the underlying index, interest rates generally, the time remaining to maturity and our and Citigroup Inc.’s creditworthiness, as reflected in our secondary market rate. Changes in the level of the underlying index may not result in a comparable change in the value of your securities. You should understand that the value of your securities at any time prior to maturity may be significantly less than the issue price. |
+| --- | --- |
+
+| § | Immediately following issuance, any secondary market bid price provided by CGMI, and the value that will be indicated on any brokerage account statements prepared by CGMI or its affiliates, will reflect a temporary upward adjustment. The amount of this temporary upward adjustment will steadily decline to zero over the temporary adjustment period. See “Valuation of the Securities” in this pricing supplement. |
+| --- | --- |
+
+| § | Our offering of the securities does not constitute a recommendation of the underlying index by CGMI or its affiliates or by the placement agents or their affiliates. The fact that we are offering the securities does not mean that we believe, or that the placement agents or their affiliates believe, that investing in an instrument linked to the underlying index is likely to achieve favorable returns. In fact, as we and the placement agents are part of global financial institutions, our affiliates and the placement agents and their affiliates may have positions (including short positions) in the stocks that constitute the underlying index or in instruments related to the underlying index or such stocks over the term of the securities, and may publish research or express opinions, that in each case are inconsistent with an investment linked to the underlying index. These and other activities of our affiliates or the placement agents or their affiliates may affect the level of the underlying index in a way that has a negative impact on your interests as a holder of the securities. |
+| --- | --- |
+
+| § | The level of the underlying index may be adversely affected by our or our affiliates’ hedging and other trading activities. We have hedged our obligations under the securities through CGMI or other of our affiliates, who have taken positions directly in the stocks that constitute the underlying index and other financial instruments related to the underlying index or such stocks and may adjust such positions during the term of the securities. Our affiliates and the placement agents and their affiliates also trade the stocks that constitute the underlying index and other financial instruments related to the underlying index or such stocks on a regular basis (taking long or short positions or both), for their accounts, for other accounts under their management or to facilitate transactions on behalf of customers. These activities could affect the level of the underlying index in a way that negatively affects the value of the securities. They could also result in substantial returns for us or our affiliates or the placement agents or their affiliates while the value of the securities declines. |
+| --- | --- |
+
+| § | We and our affiliates or the placement agents or their affiliates may have economic interests that are adverse to yours as a result of our affiliates’ or their business activities. Our affiliates or the placement agents or their affiliates may currently or from time to time engage in business with the issuers of the stocks that constitute the underlying index, including extending loans to, making equity investments in or providing advisory services to such issuers. In the course of this business, we or our affiliates or the placement agents or their affiliates may acquire non-public information about such issuers, which we and they will not disclose to you. Moreover, if any of our affiliates or the placement agents or their affiliates is or becomes a creditor of any such issuer, they may exercise any remedies against such issuer that are available to them without regard to your interests. |
+| --- | --- |
+
+| § | The calculation agent, which is an affiliate of ours, will make important determinations with respect to the securities. If certain events occur, such as market disruption events or the discontinuance of the underlying index, CGMI, as calculation agent, will be required to make discretionary judgments that could significantly affect your return on the securities. In making these judgments, the calculation agent’s interests as an affiliate of ours could be adverse to your interests as a holder of the securities. |
+| --- | --- |
+
+| July 2026 | PS- 8 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+| § | Adjustments to the underlying index may affect the value of your securities. S&P Dow Jones Indices LLC (the “underlying index publisher”) may add, delete or substitute the stocks that constitute the underlying index or make other methodological changes that could affect the level of the underlying index. The underlying index publisher may discontinue or suspend calculation or publication of the underlying index at any time without regard to your interests as holders of the securities. |
+| --- | --- |
+
+| § | The U.S. federal tax consequences of an investment in the securities are unclear. There is no direct legal authority regarding the proper U.S. federal tax treatment of the securities, and we do not plan to request a ruling from the Internal Revenue Service (the “IRS”). Consequently, significant aspects of the tax treatment of the securities are uncertain, and the IRS or a court might not agree with the treatment of the securities as described in “United States Federal Tax Considerations” below. If the IRS were successful in asserting an alternative treatment of the securities, the tax consequences of the ownership and disposition of the securities might be materially and adversely affected. Moreover, future legislation, Treasury regulations or IRS guidance could adversely affect the U.S. federal tax treatment of the securities, possibly retroactively. |
+| --- | --- |
+
+Non-U.S.
+investors should note that persons having withholding responsibility in respect of the securities may withhold on any coupon payment paid
+to a non-U.S. investor, generally at a rate of 30%. To the extent that we have withholding responsibility in respect of the
+securities, we intend to so withhold.
+
+You should read carefully
+the discussion under “United States Federal Tax Considerations” and “Risk Factors Relating to the Securities”
+in the accompanying product supplement and “United States Federal Tax Considerations” in this pricing supplement. You
+should also consult your tax adviser regarding the U.S. federal tax consequences of an investment in the securities, as well as tax consequences
+arising under the laws of any state, local or non-U.S. taxing jurisdiction.
+
+| July 2026 | PS- 9 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+Information About the S&P 500
+®
+Index
+
+The S&P 500
+®
+
+Index consists of common stocks of 500 issuers selected to provide a performance benchmark for the large capitalization segment of the
+U.S. equity markets. It is calculated and maintained by S&P Dow Jones Indices LLC. The S&P 500
+®
+Index is reported
+by Bloomberg L.P. under the ticker symbol “SPX.”
+
+“Standard & Poor’s,”
+“S&P” and “S&P 500
+®
+” are trademarks of Standard & Poor’s Financial Services LLC
+and have been licensed for use by Citigroup Inc. and its affiliates. For more information, see “Equity Index Descriptions—The
+S&P U.S. Indices—License Agreement” in the accompanying underlying supplement.
+
+Please refer to the section “Equity Index Descriptions—The
+S&P U.S. Indices” in the accompanying underlying supplement for important disclosures regarding the S&P 500
+®
+
+Index.
+
+Historical Information
+
+The closing level of the S&P 500
+®
+Index on July 1,
+2026 was 7,483.23.
+
+The graph below shows the closing level of the S&P 500
+®
+
+Index for each day such level was available from January 4, 2016 to July 1, 2026. We obtained the closing levels from Bloomberg L.P.,
+without independent verification. You should not take the historical levels of the S&P 500
+®
+Index as an indication
+of future performance.
+
+| S&P 500 ® Index – Historical Closing Levels* January 4, 2016 to July 1, 2026 |
+| --- |
+
+*The red line indicates a coupon barrier
+level and final barrier level of 6,786.921, which is equal to 90.50% of the initial index level.
+
+| July 2026 | PS- 10 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+United States Federal
+Tax Considerations
+
+You should read carefully the discussion under “United States
+Federal Tax Considerations” and “Risk Factors Relating to the Securities” in the accompanying product supplement and
+“Summary Risk Factors” in this pricing supplement.
+
+Due to the lack of any controlling legal authority, there is substantial
+uncertainty regarding the U.S. federal tax consequences of an investment in the securities. In connection with any information
+reporting requirements we may have in respect of the securities under applicable law, we intend (in the absence of an administrative determination
+or judicial ruling to the contrary) to treat the securities for U.S. federal income tax purposes as prepaid forward contracts with associated
+coupon payments that will be treated as gross income to you at the time received or accrued in accordance with your regular method of
+tax accounting. In the opinion of our counsel, Davis Polk & Wardwell LLP, which is based on current market conditions,
+this treatment of the securities is reasonable under current law; however, our counsel has advised us that it is unable to conclude affirmatively
+that this treatment is more likely than not to be upheld, and that alternative treatments are possible.
+
+Assuming this treatment of the securities is respected and subject to
+the discussion in “United States Federal Tax Considerations” in the accompanying product supplement, the following U.S. federal
+income tax consequences should result under current law:
+
+| · | Any coupon payments on the securities should be taxable as ordinary income to you at the time received or accrued in accordance with your regular method of accounting for U.S. federal income tax purposes. |
+| --- | --- |
+
+| · | Upon a sale or exchange of a security (including retirement at maturity), you should recognize capital gain or loss equal to the difference between the amount realized and your tax basis in the security. For this purpose, the amount realized does not include any coupon paid on retirement and may not include sale proceeds attributable to an accrued coupon, which may be treated as a coupon payment. Such gain or loss should be short-term capital gain or loss. |
+| --- | --- |
+
+We do not plan to request a ruling
+from the IRS regarding the treatment of the securities. An alternative characterization of the securities could materially and adversely
+affect the tax consequences of ownership and disposition of the securities, including the timing and character of income recognized. In
+addition, the U.S. Treasury Department and the IRS have requested comments on various issues regarding the U.S. federal income tax treatment
+of “prepaid forward contracts” and similar financial instruments and have indicated that such transactions may be the subject
+of future regulations or other guidance. Furthermore, members of Congress have proposed legislative changes to the tax treatment of derivative
+contracts. Any legislation, Treasury regulations or other guidance promulgated after consideration of these issues could materially and
+adversely affect the tax consequences of an investment in the securities, possibly with retroactive effect. You should consult your tax
+adviser regarding possible alternative tax treatments of the securities and potential changes in applicable law.
+
+Withholding Tax on Non-U.S. Holders.
+Because significant aspects
+of the tax treatment of the securities are uncertain, persons having withholding responsibility in respect of the securities may withhold
+on any coupon payment paid to Non-U.S. Holders (as defined in the accompanying product supplement), generally at a rate of 30%. To the
+extent that we have (or an affiliate of ours has) withholding responsibility in respect of the securities, we intend to so withhold. In
+order to claim an exemption from, or a reduction in, the 30% withholding, you may need to comply with certification requirements to establish
+that you are not a U.S. person and are eligible for such an exemption or reduction under an applicable tax treaty. You should consult
+your tax adviser regarding the tax treatment of the securities, including the possibility of obtaining a refund of any amounts withheld
+and the certification requirement described above.
+
+As discussed under “United
+States Federal Tax Considerations—Tax Consequences to Non-U.S. Holders” in the accompanying product supplement, Section 871(m)
+of the Code and Treasury regulations promulgated thereunder (“Section 871(m)”) generally impose a 30% withholding tax on dividend
+equivalents paid or deemed paid to Non-U.S. Holders with respect to certain financial instruments linked to U.S. equities (“U.S.
+Underlying Equities”) or indices that include U.S. Underlying Equities. Section 871(m) generally applies to instruments
+that substantially replicate the economic performance of one or more U.S. Underlying Equities, as determined based on tests set forth
+in the applicable Treasury regulations. However, the regulations, as modified by an IRS notice, exempt financial instruments
+issued prior to January 1, 2027 that do not have a “delta” of one. Based on the terms of the securities and representations
+provided by us, our counsel is of the opinion that the securities should not be treated as transactions that have a “delta”
+of one within the meaning of the regulations with respect to any U.S. Underlying Equity and, therefore, should not be subject to withholding
+tax under Section 871(m).
+
+A determination that the securities
+are not subject to Section 871(m) is not binding on the IRS, and the IRS may disagree with this treatment. Moreover, Section
+871(m) is complex and its application may depend on your particular circumstances, including your other transactions. You should
+consult your tax adviser regarding the potential application of Section 871(m) to the securities.
+
+We will not be required to pay any additional amounts with respect to
+amounts withheld.
+
+You should read the section entitled “United States Federal
+Tax Considerations” in the accompanying product supplement. The preceding discussion, when read in combination with that
+section, constitutes the full opinion of Davis Polk & Wardwell LLP regarding the material U.S. federal tax consequences of owning
+and disposing of the securities.
+
+You should also consult your tax adviser regarding all aspects of
+the U.S. federal income and estate tax consequences of an investment in the securities and any tax consequences arising under the laws
+of any state, local or non-U.S. taxing jurisdiction.
+
+| July 2026 | PS- 11 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+CGMI, an affiliate of Citigroup Global Markets Holdings Inc. and the
+underwriter of the sale of the securities, is acting as principal and will receive an underwriting fee of $10.00 for each security sold
+in this offering. The amount of the underwriting fee to CGMI will be equal to the placement fee paid to the placement agents. J.P. Morgan
+Securities LLC and JPMorgan Chase Bank, N.A. will act as placement agents for the securities and, from the underwriting fee to CGMI, will
+receive a placement fee of $10.00 for each security they sell in this offering to accounts other than fiduciary accounts. CGMI and the
+placement agents will forgo an underwriting fee and placement fee for sales to fiduciary accounts. In addition to the underwriting
+fee, CGMI and its affiliates may profit from hedging activity related to this offering, even if the value of the securities declines.
+See “Use of Proceeds and Hedging” in the accompanying prospectus. For the avoidance of doubt, the fees and commissions described
+on the cover of this pricing
+supplement will not be rebated or subject to amortization if the securities
+are automatically redeemed.
+
+See “Plan of Distribution; Conflicts of Interest” in the
+accompanying product supplement and “Plan of Distribution” in each of the accompanying prospectus supplement and prospectus
+for additional information.
+
+Valuation of the Securities
+
+CGMI calculated the estimated value of the securities set forth on the
+cover page of this pricing supplement based on proprietary pricing models. CGMI’s proprietary pricing models generated an estimated
+value for the securities by estimating the value of a hypothetical package of financial instruments that would replicate the payout on
+the securities, which consists of a fixed-income bond (the “bond component”) and one or more derivative instruments underlying
+the economic terms of the securities (the “derivative component”). CGMI calculated the estimated value of the bond component
+using a discount rate based on our internal funding rate. CGMI calculated the estimated value of the derivative component based on a proprietary
+derivative-pricing model, which generated a theoretical price for the instruments that constitute the derivative component based on various
+inputs, including the factors described under “Summary Risk Factors—The value of the securities prior to maturity will fluctuate
+based on many unpredictable factors” in this pricing supplement, but not including our or Citigroup Inc.’s creditworthiness.
+These inputs may be market-observable or may be based on assumptions made by CGMI in its discretionary judgment.
+
+For a period of approximately six months following issuance of the securities,
+the price, if any, at which CGMI would be willing to buy the securities from investors, and the value that will be indicated for the securities
+on any brokerage account statements prepared by CGMI or its affiliates (which value CGMI may also publish through one or more financial
+information vendors), will reflect a temporary upward adjustment from the price or value that would otherwise be determined. This temporary
+upward adjustment represents a portion of the hedging profit expected to be realized by CGMI or its affiliates over the term of the securities.
+The amount of this temporary upward adjustment will decline to zero on a straight-line basis over the six-month temporary adjustment period.
+However, CGMI is not obligated to buy the securities from investors at any time. See “Summary Risk Factors—The securities
+will not be listed on any securities exchange and you may not be able to sell them prior to maturity.”
+
+Validity of the Securities
+
+In the opinion of Davis Polk & Wardwell LLP, as special products
+counsel to Citigroup Global Markets Holdings Inc., when the securities offered by this pricing supplement have been executed and issued
+by Citigroup Global Markets Holdings Inc. and authenticated by the trustee pursuant to the indenture, and delivered against payment therefor,
+such securities and the related guarantee of Citigroup Inc. will be valid and binding obligations of Citigroup Global Markets Holdings
+Inc. and Citigroup Inc., respectively, enforceable in accordance with their respective terms, subject to applicable bankruptcy, insolvency
+and similar laws affecting creditors’ rights generally, concepts of reasonableness and equitable principles of general applicability
+(including, without limitation, concepts of good faith, fair dealing and the lack of bad faith), provided that such counsel expresses
+no opinion as to (x) the effect of fraudulent conveyance, fraudulent transfer or similar provision of applicable law on the conclusions
+expressed above or (y) the validity, legally binding effect or enforceability of any provision that permits holders to collect any portion
+of the stated principal amount upon acceleration of the securities to the extent determined to constitute unearned interest. This opinion
+is given as of the date of this pricing supplement and is limited to the laws of the State of New York and the General Corporation Law
+of the State of Delaware, except that such counsel expresses no opinion as to (i) any law, rule or regulation that is applicable to Citigroup
+Global Markets Holdings Inc. or Citigroup Inc., the indenture, the securities, the related guarantee (together with the indenture and
+the securities, the “Documents”) or such transactions solely because such law, rule or regulation is part of a regulatory
+regime applicable to any party to any of the Documents or any of its affiliates due to the specific assets or business of such party or
+such affiliate or (ii) any law, rule or regulation relating to national security.
+
+In addition, this opinion is subject to the assumptions set forth in
+the letter of Davis Polk & Wardwell LLP dated February 25, 2026, which has been filed as an exhibit to the Registration Statement
+on Form S-3 by Citigroup Global Markets Holdings Inc. and Citigroup Inc. on February 25, 2026, that the Documents have been duly authorized,
+executed, authenticated (if applicable) and delivered by, and are each a valid, binding and enforceable agreement of, each party thereto
+(other than as expressly covered above in respect of Citigroup Global Markets Holdings Inc. and Citigroup Inc.) and that the terms of
+the securities and the issuance, execution, delivery and performance by Citigroup Global Markets Holdings Inc. and Citigroup Inc. of the
+securities and the related guarantee do not contravene, or constitute a default under, any judgment, injunction, order or decree or any
+agreement or other instrument binding upon Citigroup Global Markets Holdings Inc. or Citigroup Inc.
+
+| July 2026 | PS- 12 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the S&P 500 ® Index Due July 7, 2027 |
+
+©
+2026 Citigroup Global Markets Inc. All rights reserved.
+Citi and Citi and Arc Design are trademarks and service marks of Citigroup Inc. or its affiliates and are used and registered throughout
+the world.
+
+| July 2026 | PS- 13 |
+| --- | --- |

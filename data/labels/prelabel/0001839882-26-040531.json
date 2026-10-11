@@ -1,0 +1,255 @@
+{
+  "accession": "0001839882-26-040531",
+  "source_file": "data/cleaned/0001839882-26-040531_ms18090_424b2-27105.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Morgan Stanley Finance LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-08-17",
+    "strike_date": "2026-08-14",
+    "issue_date": "2026-08-19",
+    "maturity_date": "2029-08-16",
+    "underlyings": [
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": null,
+        "initial_level": 7785.76
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-11-16",
+      "2027-02-16",
+      "2027-05-14",
+      "2027-08-16",
+      "2027-11-15",
+      "2028-02-14",
+      "2028-05-15",
+      "2028-08-14",
+      "2028-11-14",
+      "2029-02-14",
+      "2029-05-14",
+      "2029-08-14"
+    ],
+    "payment_dates": [
+      "2026-11-18",
+      "2027-02-18",
+      "2027-05-18",
+      "2027-08-18",
+      "2027-11-17",
+      "2028-02-16",
+      "2028-05-17",
+      "2028-08-16",
+      "2028-11-16",
+      "2029-02-16",
+      "2029-05-16",
+      "2029-08-16"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.1375,
+      "barrier_pct": 75.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 75.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.93
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | Morgan Stanley Finance LLC |",
+      "lines": [
+        152,
+        152
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10.00 per Security |",
+      "lines": [
+        156,
+        156
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | August 17, 2026 |",
+      "lines": [
+        164,
+        164
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike Date | August 14, 2026 |",
+      "lines": [
+        163,
+        163
+      ],
+      "note": "Separate Strike Date (Aug 14) before Trade Date (Aug 17); Initial Level is the Strike Date close (line 177)."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | August 19, 2026 |",
+      "lines": [
+        165,
+        165
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date | August 16, 2029* |",
+      "lines": [
+        169,
+        169
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Underlying | S&P 500 ® Index |",
+      "lines": [
+        155,
+        155
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Initial Level | 7,785.76, which is the closing level of the Underlying on the Strike Date. |",
+      "lines": [
+        177,
+        177
+      ]
+    },
+    "performance_type": {
+      "quote": "The Securities provide returns based on the performance of the S&P 500",
+      "lines": [
+        24,
+        24
+      ],
+      "note": "single underlying"
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        193,
+        206
+      ],
+      "note": "12 rows, 11/16/2026 to 8/14/2029 (Final Observation Date)"
+    },
+    "payment_dates": {
+      "quote": "| 8/14/2029 (Final Observation Date) | 8/16/2029 (Maturity Date) |",
+      "lines": [
+        193,
+        206
+      ],
+      "note": "taken from table column, not derived"
+    },
+    "autocall.first_observation_index": {
+      "quote": "Beginning February 16, 2027, the Securities will be called automatically if the Observation Date Closing Level on any Observation Date is equal to or greater than the Initial Level.",
+      "lines": [
+        158,
+        158
+      ],
+      "note": "2/16/2027 is row 2 of the schedule"
+    },
+    "autocall.levels_pct": {
+      "quote": "the Securities will be called automatically if the Observation Date Closing Level on any Observation Date is equal to or greater than the Initial Level",
+      "lines": [
+        158,
+        158
+      ],
+      "note": "Call level = 100% of Initial Level; wording 'any Observation Date' beginning 2/16/2027 does not exclude the Final Observation Date, so 11 entries (obs 2..12)."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "The Contingent Coupon amount of $0.21375 (8.55% per annum) would be applicable to each Observation Date",
+      "lines": [
+        159,
+        159
+      ],
+      "note": "8.55% p.a. / 4 = 2.1375%; check: $0.21375 / $10 = 2.1375%"
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon Barrier | 5,839.32, which is 75% of the Initial Level of the Underlying. |",
+      "lines": [
+        181,
+        181
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon for that Observation Date will not accrue or be payable and that Contingent Coupon payment will be lost.",
+      "lines": [
+        159,
+        159
+      ],
+      "note": "no memory"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold | 5,839.32, which is 75% of the Initial Level of the Underlying. |",
+      "lines": [
+        180,
+        180
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The Downside Threshold is observed only on the Final Observation Date and the contingent downside market exposure applies only at maturity.",
+      "lines": [
+        252,
+        252
+      ]
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return)",
+      "lines": [
+        170,
+        170
+      ],
+      "note": "1-to-1 exposure"
+    },
+    "estimated_value_per_unit": {
+      "quote": "We estimate that the value of each Security on the Trade Date is $9.930.",
+      "lines": [
+        121,
+        121
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Filing says callable on 'any Observation Date' beginning 2/16/2027 with no interim-only restriction, so the Final Observation Date is counted as callable (11 levels). Economically equivalent at final date (call at >=100% pays principal+coupon, same as maturity), but verify count convention."
+    },
+    {
+      "field": "strike_date",
+      "issue": "Strike Date 2026-08-14 differs from Trade Date 2026-08-17; initial level set on Strike Date."
+    },
+    {
+      "field": "underlyings[0].name",
+      "issue": "Name kept as printed in cleaned text 'S&P 500 ® Index' (space before ® is a cleaning artifact; original likely 'S&P 500® Index'). No ticker stated."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted from 8.55% per annum quarterly: 2.1375%, consistent with $0.21375 per $10 coupon."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Single equity index (S&P 500), discrete quarterly autocall at 100%, non-memory contingent coupon with 75% barrier, European (final-date only) 75% knock-in with 1-to-1 downside; not buffered, not daily monitored."
+  }
+}

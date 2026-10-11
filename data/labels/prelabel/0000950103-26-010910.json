@@ -1,0 +1,298 @@
+{
+  "accession": "0000950103-26-010910",
+  "source_file": "data/cleaned/0000950103-26-010910_dp250338_424b2-ubseln1748.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-17",
+    "strike_date": null,
+    "issue_date": "2026-07-22",
+    "maturity_date": "2031-07-22",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index®",
+        "ticker": "NDX",
+        "initial_level": 28592.66
+      },
+      {
+        "name": "Russell 2000® Index",
+        "ticker": "RTY",
+        "initial_level": 2962.217
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-19",
+      "2027-01-19",
+      "2027-04-19",
+      "2027-07-19",
+      "2027-10-18",
+      "2028-01-18",
+      "2028-04-17",
+      "2028-07-17",
+      "2028-10-17",
+      "2029-01-17",
+      "2029-04-17",
+      "2029-07-17",
+      "2029-10-17",
+      "2030-01-17",
+      "2030-04-17",
+      "2030-07-17",
+      "2030-10-17",
+      "2031-01-17",
+      "2031-04-17",
+      "2031-07-17"
+    ],
+    "payment_dates": [
+      "2026-10-21",
+      "2027-01-21",
+      "2027-04-21",
+      "2027-07-21",
+      "2027-10-20",
+      "2028-01-20",
+      "2028-04-19",
+      "2028-07-19",
+      "2028-10-19",
+      "2029-01-19",
+      "2029-04-19",
+      "2029-07-19",
+      "2029-10-19",
+      "2030-01-22",
+      "2030-04-22",
+      "2030-07-19",
+      "2030-10-21",
+      "2031-01-22",
+      "2031-04-21",
+      "2031-07-22"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 3.0625,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.95
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer: | Royal Bank of Canada |",
+      "lines": [
+        265,
+        265
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount: | $10 per Note (subject to minimum investment of 100 Notes) |",
+      "lines": [
+        267,
+        267
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date | July 17, 2026 |",
+      "lines": [
+        59,
+        59
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date | July 17, 2026 |",
+      "lines": [
+        59,
+        59
+      ],
+      "note": "No separate strike date; Initial Underlying Value is the closing value on the Trade Date (line 278). strike_date = null."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date | July 22, 2026 |",
+      "lines": [
+        61,
+        61
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date 1 | July 22, 2031 |",
+      "lines": [
+        65,
+        65
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® (NDX) | 12.25% per annum | 28,592.66 |",
+      "lines": [
+        93,
+        93
+      ],
+      "note": "Cleaned text has a space before ®; name written as 'Nasdaq-100 Index®'."
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® (NDX) | 12.25% per annum | 28,592.66 |",
+      "lines": [
+        93,
+        93
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| Russell 2000 ® Index (RTY) | 12.25% per annum | 2,962.217 |",
+      "lines": [
+        94,
+        94
+      ],
+      "note": "Name written as 'Russell 2000® Index'."
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Russell 2000 ® Index (RTY) | 12.25% per annum | 2,962.217 |",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying: | The Underlying with the lowest Underlying Return |",
+      "lines": [
+        274,
+        274
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        307,
+        328
+      ],
+      "note": "20 rows, Oct 19, 2026 through Jul 17, 2031 (Final Valuation Date)."
+    },
+    "payment_dates": {
+      "quote": "| October 19, 2026 | October 21, 2026 |",
+      "lines": [
+        309,
+        328
+      ],
+      "note": "Payment dates printed in the table, not derived."
+    },
+    "autocall.first_observation_index": {
+      "quote": "Each Coupon Observation Date (other than the Final Valuation Date), starting from the second Coupon Observation Date, which is January 19, 2027, is a Call Observation Date.",
+      "lines": [
+        334,
+        336
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "The Notes will be called automatically if the closing value of each Underlying on any Call Observation Date (beginning six months after the Trade Date and set forth on page 5) is greater than or equal to its Initial Underlying Value.",
+      "lines": [
+        272,
+        272
+      ],
+      "note": "Call level 100% of Initial Underlying Value on obs 2..19 (final excluded per line 334) = 18 entries."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| Contingent Coupon Rate: | 12.25% per annum (or 3.0625% per quarter) |",
+      "lines": [
+        517,
+        517
+      ],
+      "note": "12.25% p.a. / 4 = 3.0625% per quarter ($0.30625 per $10, line 518). Quoted from hypothetical-terms table; actual rate 12.25% p.a. at line 271."
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,073.552, which is 70% of its Initial Underlying Value",
+      "lines": [
+        94,
+        94
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the Contingent Coupon applicable to that Coupon Observation Date will not accrue or be payable",
+      "lines": [
+        270,
+        270
+      ],
+      "note": "No memory/catch-up language; each period stands alone."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Nasdaq-100 Index ® (NDX) | 12.25% per annum | 28,592.66 | 20,014.86, which is 70% of its Initial Underlying Value |",
+      "lines": [
+        93,
+        93
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "The contingent repayment of principal applies only at maturity.",
+      "lines": [
+        46,
+        47
+      ],
+      "note": "Downside Threshold tested only on Final Underlying Value (closing value on Final Valuation Date)."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 + ($10 × Underlying Return of the Least Performing Underlying)",
+      "lines": [
+        273,
+        273
+      ],
+      "note": "1-to-1 loss => 100."
+    },
+    "estimated_value_per_unit": {
+      "quote": "is $9.95 per Note and is less than the public offering price of the Notes.",
+      "lines": [
+        131,
+        131
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "underlyings[*].name",
+      "issue": "Cleaned text renders the ® with surrounding whitespace/line breaks; names normalised to 'Nasdaq-100 Index®' and 'Russell 2000® Index'. Verify the intended verbatim form."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 12.25% p.a. / 4 = 3.0625; filing itself confirms 3.0625% per quarter / $0.30625 only in the hypothetical-example table (line 517-518)."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Final Valuation Date explicitly excluded from Call Observation Dates (line 334), so 18 levels for obs 2..19, not 19."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed. Several payment dates are 3 business days after obs (e.g. Jan 17, 2030 -> Jan 22, 2030; Jan 17, 2031 -> Jan 22, 2031) rather than 2 — as printed, not derived."
+    },
+    {
+      "field": "knock_in.barrier_pct",
+      "issue": "Downside Threshold equals Coupon Barrier (70%); printed thresholds are rounded (2 dp NDX, 3 dp RTY)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity indices (NDX, RTY), quarterly non-memory contingent coupon with 70% barrier, discrete quarterly autocall at 100% from 2nd observation, European (final-date-only) 70% knock-in with 1:1 downside; no buffer, no daily monitoring."
+  }
+}

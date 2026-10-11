@@ -1,0 +1,299 @@
+{
+  "accession": "0001193125-26-307871",
+  "source_file": "data/cleaned/0001193125-26-307871_gs-20260717.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "GS Finance Corp.",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-15",
+    "strike_date": "2026-07-14",
+    "issue_date": "2026-07-20",
+    "maturity_date": "2031-07-17",
+    "underlyings": [
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6280.19
+      },
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29586.29
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-14",
+      "2027-01-14",
+      "2027-04-14",
+      "2027-07-14",
+      "2027-10-14",
+      "2028-01-14",
+      "2028-04-18",
+      "2028-07-14",
+      "2028-10-16",
+      "2029-01-16",
+      "2029-04-16",
+      "2029-07-16",
+      "2029-10-15",
+      "2030-01-14",
+      "2030-04-15",
+      "2030-07-15",
+      "2030-10-14",
+      "2031-01-14",
+      "2031-04-15",
+      "2031-07-14"
+    ],
+    "payment_dates": [
+      "2026-10-19",
+      "2027-01-20",
+      "2027-04-19",
+      "2027-07-19",
+      "2027-10-19",
+      "2028-01-20",
+      "2028-04-21",
+      "2028-07-19",
+      "2028-10-19",
+      "2029-01-19",
+      "2029-04-19",
+      "2029-07-19",
+      "2029-10-18",
+      "2030-01-17",
+      "2030-04-18",
+      "2030-07-18",
+      "2030-10-17",
+      "2031-01-17",
+      "2031-04-18",
+      "2031-07-17"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.5,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.79
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Company (Issuer): | GS Finance Corp. |",
+      "lines": [
+        99,
+        99
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "$10 or any integral multiple of $10 in excess thereof",
+      "lines": [
+        104,
+        104
+      ],
+      "note": "Face amount per note $10; payoff stated per $10 face amount"
+    },
+    "pricing_date": {
+      "quote": "| Trade date: | July 15, 2026 |",
+      "lines": [
+        123,
+        123
+      ]
+    },
+    "strike_date": {
+      "quote": "| Strike date: | July 14, 2026 |",
+      "lines": [
+        122,
+        122
+      ],
+      "note": "Separate strike date (one business day before trade date); initial levels set on strike date"
+    },
+    "issue_date": {
+      "quote": "| Original issue date: | July 20, 2026 |",
+      "lines": [
+        124,
+        124
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Stated maturity date: | July 17, 2031, subject to adjustment",
+      "lines": [
+        126,
+        126
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| EURO STOXX 50 ® Index | SX5E Index |",
+      "lines": [
+        40,
+        40
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "6,280.19 with respect to the EURO STOXX 50 ® Index and 29,586.29 with respect to the Nasdaq-100 Index ®",
+      "lines": [
+        109,
+        109
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX Index |",
+      "lines": [
+        41,
+        41
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "6,280.19 with respect to the EURO STOXX 50 ® Index and 29,586.29 with respect to the Nasdaq-100 Index ®",
+      "lines": [
+        109,
+        109
+      ]
+    },
+    "performance_type": {
+      "quote": "| Lesser performing underlying index: | the underlying index with the lowest underlying index return |",
+      "lines": [
+        114,
+        114
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Coupon Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        132,
+        153
+      ],
+      "note": "20 quarterly rows; last = determination date July 14, 2031"
+    },
+    "payment_dates": {
+      "quote": "| Coupon Payment Dates |",
+      "lines": [
+        132,
+        153
+      ],
+      "note": "Payment dates printed in table (second column); last = stated maturity date"
+    },
+    "autocall.first_observation_index": {
+      "quote": "This is the first date on which your notes may be automatically called.",
+      "lines": [
+        135,
+        156
+      ],
+      "note": "Footnote mark on January 14, 2027 = row 2"
+    },
+    "autocall.levels_pct": {
+      "quote": "each coupon observation date specified in the table under “— Coupon payment dates” below, commencing January 2027",
+      "lines": [
+        127,
+        127
+      ],
+      "note": "Call trigger = initial level (100%); call observation dates = every coupon observation date from Jan 2027 incl. the last (July 14, 2031) -> 19 entries of 100"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "$0.25/qtr. (up to 10.00% per annum)",
+      "lines": [
+        40,
+        40
+      ],
+      "note": "10.00% p.a. / 4 = 2.50% per quarter; equals $0.25 / $10 = 2.50%"
+    },
+    "coupon.barrier_pct": {
+      "quote": "| Coupon barrier: | with respect to each underlying index, 70.00% of its initial underlying index level",
+      "lines": [
+        120,
+        120
+      ]
+    },
+    "coupon.memory": {
+      "quote": "if the closing level of any underlying index on the related coupon observation date is less than its coupon barrier, $0.00",
+      "lines": [
+        115,
+        115
+      ],
+      "note": "No catch-up / previously-unpaid language; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside threshold: | with respect to each underlying index, 70.00% of its initial underlying index level",
+      "lines": [
+        112,
+        112
+      ]
+    },
+    "knock_in.monitoring": {
+      "quote": "Also, the application of the downside threshold applies only at maturity",
+      "lines": [
+        391,
+        391
+      ],
+      "note": "Downside threshold tested on final underlying index level (determination date) only"
+    },
+    "downside_participation_pct": {
+      "quote": "the sum of (i) $10 plus (ii) the product of (a) the lesser performing underlying index return times (b) $10.",
+      "lines": [
+        106,
+        106
+      ],
+      "note": "1-to-1 loss from 100% once below threshold"
+    },
+    "estimated_value_per_unit": {
+      "quote": "is equal to approximately $9.79 per $10 face amount)",
+      "lines": [
+        70,
+        70
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Call observation dates = 'each coupon observation date ... commencing January 2027' with no exclusion of the final date, so the determination date is treated as callable literally (19 levels = obs 2..20). Economically equivalent at the final date; verify convention."
+    },
+    {
+      "field": "strike_date",
+      "issue": "Strike date July 14, 2026 differs from trade date July 15, 2026; initial levels are strike-date closes and are stated to be higher than trade-date closes."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Coupon quoted as '$0.25/qtr. (up to 10.00% per annum)'; 'up to' wording is odd, but 10.00%/4 = 2.50% = $0.25/$10, consistent."
+    },
+    {
+      "field": "underlyings",
+      "issue": "Ticker field filled from Bloomberg Symbol ('SX5E Index', 'NDX Index') with ' Index' suffix stripped; names contain spaced ® as in cleaned text."
+    },
+    {
+      "field": "observation_dates",
+      "issue": "Dates subject to postponement; scheduled dates used as printed. Several dates shifted off the 14th (e.g. 2028-04-18, 2028-10-16, 2029-01-16)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of two equity price indices (SX5E, NDX), quarterly contingent non-memory coupon, discrete quarterly autocall at 100% from obs 2, European 70% downside threshold with 1:1 loss; fits the pricing template."
+  }
+}

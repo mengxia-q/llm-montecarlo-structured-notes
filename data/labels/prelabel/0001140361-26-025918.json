@@ -1,0 +1,288 @@
+{
+  "accession": "0001140361-26-025918",
+  "source_file": "data/cleaned/0001140361-26-025918_ef20076455_424b2.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-17",
+    "strike_date": null,
+    "issue_date": "2026-06-23",
+    "maturity_date": "2029-06-22",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29670.95
+      },
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2917.982
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7420.1
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-17",
+      "2026-12-17",
+      "2027-03-17",
+      "2027-06-17",
+      "2027-09-17",
+      "2027-12-17",
+      "2028-03-17",
+      "2028-06-20",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-19",
+      "2029-06-18"
+    ],
+    "payment_dates": [
+      "2026-09-22",
+      "2026-12-22",
+      "2027-03-22",
+      "2027-06-23",
+      "2027-09-22",
+      "2027-12-22",
+      "2028-03-22",
+      "2028-06-23",
+      "2028-09-21",
+      "2028-12-21",
+      "2029-03-22",
+      "2029-06-22"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.25,
+      "barrier_pct": 65.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.704
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Toronto-Dominion Bank | The Toronto-Dominion Bank |",
+      "lines": [
+        242,
+        242
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note | $10 per Note |",
+      "lines": [
+        246,
+        246
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | June 17, 2026 |",
+      "lines": [
+        58,
+        58
+      ]
+    },
+    "strike_date": {
+      "quote": "| Trade Date* | June 17, 2026 |",
+      "lines": [
+        58,
+        58
+      ],
+      "note": "No separate strike date; initial level = closing level on the trade date (line 262)."
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | June 23, 2026 |",
+      "lines": [
+        60,
+        60
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | June 22, 2029 |",
+      "lines": [
+        63,
+        63
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 9.00% per annum | 29,670.95 |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 9.00% per annum | 29,670.95 |",
+      "lines": [
+        86,
+        86
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| Russell 2000 ® Index | RTY | 9.00% per annum | 2,917.982 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Russell 2000 ® Index | RTY | 9.00% per annum | 2,917.982 |",
+      "lines": [
+        87,
+        87
+      ]
+    },
+    "underlyings[2].name": {
+      "quote": "| S&P 500 ® Index | SPX | 9.00% per annum | 7,420.10 |",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "underlyings[2].initial_level": {
+      "quote": "| S&P 500 ® Index | SPX | 9.00% per annum | 7,420.10 |",
+      "lines": [
+        88,
+        88
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |",
+      "lines": [
+        258,
+        258
+      ]
+    },
+    "observation_dates": {
+      "quote": "| September 17, 2026 | September 22, 2026 |",
+      "lines": [
+        296,
+        309
+      ],
+      "note": "11 interim rows + 'Final Valuation Date' row (June 18, 2029, line 62)."
+    },
+    "payment_dates": {
+      "quote": "| Final Valuation Date | Maturity Date |",
+      "lines": [
+        296,
+        314
+      ],
+      "note": "Final payment date = maturity date June 22, 2029 (line 63)."
+    },
+    "autocall.first_observation_index": {
+      "quote": "TD will automatically call the Notes if the closing level of each underlying asset on any observation date other than the final valuation date is equal to or greater than its call threshold level.",
+      "lines": [
+        253,
+        253
+      ]
+    },
+    "autocall.levels_pct": {
+      "quote": "29,670.95, which is 100.00% of its Initial Level",
+      "lines": [
+        86,
+        88
+      ],
+      "note": "Callable on 11 interim dates only (final excluded), constant 100%."
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon Rate | 9.00% per annum |",
+      "lines": [
+        250,
+        251
+      ],
+      "note": "9.00% p.a. / 4 = 2.25% per quarter; consistent with $0.225 / $10."
+    },
+    "coupon.barrier_pct": {
+      "quote": "19,286.12, which is 65.00% of its Initial Level",
+      "lines": [
+        86,
+        88
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to that observation date will not accrue or be payable",
+      "lines": [
+        249,
+        249
+      ],
+      "note": "No memory language."
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Downside Threshold (1) | A specified level of each underlying asset that is less than its respective initial level, equal to a percentage of its initial level, as specified on the cover hereof. |",
+      "lines": [
+        86,
+        260
+      ],
+      "note": "65.00% per cover table (lines 86-88)."
+    },
+    "knock_in.monitoring": {
+      "quote": "| Final Level (1) | The closing level of each underlying asset on the final valuation date. |",
+      "lines": [
+        255,
+        263
+      ],
+      "note": "Downside threshold compared with final level only."
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        255,
+        255
+      ]
+    },
+    "estimated_value_per_unit": {
+      "quote": "The estimated value of your Notes at the time the terms of your Notes are set on the trade date was $9.704 per Note",
+      "lines": [
+        90,
+        90
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "observation_dates",
+      "issue": "Final row of schedule table is labelled 'Final Valuation Date' / 'Maturity Date' rather than dated; filled from Key Dates (2029-06-18 / 2029-06-22)."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Dates printed in table (three business days after each observation); not derived. Final payment = maturity date."
+    },
+    {
+      "field": "underlyings[*].name",
+      "issue": "Names include ® with a space as rendered in the cleaned file ('Nasdaq-100 Index ®')."
+    },
+    {
+      "field": "issue_date",
+      "issue": "Taken from 'Settlement Date' (T+3)."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of three equity indices (NDX, RTY, SPX), quarterly non-memory contingent coupon, discrete autocall on interim dates, European (final-date) 65% downside threshold with 1:1 loss, no buffer."
+  }
+}

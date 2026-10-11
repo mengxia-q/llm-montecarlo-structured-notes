@@ -1,0 +1,278 @@
+{
+  "accession": "0001839882-26-046290",
+  "source_file": "data/cleaned/0001839882-26-046290_bns_424b2-31205.htm.txt",
+  "annotator": "prelabel:claude-opus-5-5",
+  "created": "2026-10-06",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-16",
+    "strike_date": null,
+    "issue_date": "2026-09-21",
+    "maturity_date": "2029-09-20",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 28945.06
+      },
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2858.811
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-16",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-16",
+      "2029-06-18",
+      "2029-09-17"
+    ],
+    "payment_dates": [
+      "2026-12-18",
+      "2027-03-18",
+      "2027-06-21",
+      "2027-09-20",
+      "2027-12-20",
+      "2028-03-20",
+      "2028-06-21",
+      "2028-09-20",
+      "2028-12-20",
+      "2029-03-20",
+      "2029-06-21",
+      "2029-09-20"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.85,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.85
+  },
+  "evidence": {
+    "issuer": {
+      "quote": "| Issuer | The Bank of Nova Scotia |",
+      "lines": [
+        189,
+        189
+      ]
+    },
+    "notional_per_unit": {
+      "quote": "| Principal Amount | $10 per Note |",
+      "lines": [
+        193,
+        193
+      ]
+    },
+    "pricing_date": {
+      "quote": "| Trade Date* | Trade Date* | September 16, 2026 |",
+      "lines": [
+        38,
+        38
+      ]
+    },
+    "strike_date": {
+      "quote": "| Initial Level (1) | The closing level of each underlying asset on the trade date, as specified on the cover hereof. |",
+      "lines": [
+        208,
+        208
+      ],
+      "note": "No separate strike date; initial levels set on trade date -> null"
+    },
+    "issue_date": {
+      "quote": "| Settlement Date* | Settlement Date* | September 21, 2026 |",
+      "lines": [
+        40,
+        40
+      ]
+    },
+    "maturity_date": {
+      "quote": "| Maturity Date** | Maturity Date** | September 20, 2029 |",
+      "lines": [
+        43,
+        43
+      ]
+    },
+    "underlyings[0].name": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 11.40% per annum | 28,945.06 |",
+      "lines": [
+        57,
+        57
+      ]
+    },
+    "underlyings[0].initial_level": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 11.40% per annum | 28,945.06 |",
+      "lines": [
+        57,
+        57
+      ]
+    },
+    "underlyings[1].name": {
+      "quote": "| Russell 2000 ® Index | RTY | 11.40% per annum | 2,858.811 |",
+      "lines": [
+        58,
+        58
+      ]
+    },
+    "underlyings[1].initial_level": {
+      "quote": "| Russell 2000 ® Index | RTY | 11.40% per annum | 2,858.811 |",
+      "lines": [
+        58,
+        58
+      ]
+    },
+    "performance_type": {
+      "quote": "| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |",
+      "lines": [
+        204,
+        204
+      ]
+    },
+    "observation_dates": {
+      "quote": "| Observation Dates | Coupon Payment Dates |",
+      "lines": [
+        243,
+        256
+      ],
+      "note": "11 interim rows + final row 'Final Valuation Date | Maturity Date'; final valuation date 2029-09-17 from line 42"
+    },
+    "payment_dates": {
+      "quote": "| December 16, 2026* | December 18, 2026* |",
+      "lines": [
+        243,
+        256
+      ],
+      "note": "As printed in table; final coupon payment date = maturity date 2029-09-20 (line 43, footnote 3 line 272)"
+    },
+    "autocall.first_observation_index": {
+      "quote": "The Notes are not callable until the first potential call settlement date, which is March 18, 2027.",
+      "lines": [
+        260,
+        260
+      ],
+      "note": "March 18, 2027 pays for obs 2027-03-16 = index 2"
+    },
+    "autocall.levels_pct": {
+      "quote": "BNS will automatically call the Notes if the closing level of each underlying asset on any observation date (quarterly, callable after 6 months) prior to the final valuation date is equal to or greater than its initial level.",
+      "lines": [
+        200,
+        200
+      ],
+      "note": "Callable on obs 2..11 (prior to final valuation date) -> 10 entries of 100"
+    },
+    "coupon.rate_per_period_pct": {
+      "quote": "| | Contingent Coupon | $0.285 |",
+      "lines": [
+        198,
+        198
+      ],
+      "note": "11.40% p.a. / 4 = 2.85%; check $0.285/$10 = 2.85%"
+    },
+    "coupon.barrier_pct": {
+      "quote": "2,001.168, which is 70.00% of its Initial Level",
+      "lines": [
+        58,
+        58
+      ]
+    },
+    "coupon.memory": {
+      "quote": "the contingent coupon applicable to such observation date will not accrue or be payable and BNS will not make any payment to you on the related coupon payment date.",
+      "lines": [
+        196,
+        196
+      ],
+      "note": "No memory language; each period stands alone"
+    },
+    "knock_in.barrier_pct": {
+      "quote": "| Nasdaq-100 Index ® | NDX | 11.40% per annum | 28,945.06 | 20,261.54, which is 70.00% of its Initial Level | 20,261.54, which is 70.00% of its Initial Level |",
+      "lines": [
+        57,
+        57
+      ],
+      "note": "Downside threshold column = 70.00%"
+    },
+    "knock_in.monitoring": {
+      "quote": "If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold",
+      "lines": [
+        202,
+        202
+      ],
+      "note": "Tested on final level only"
+    },
+    "downside_participation_pct": {
+      "quote": "$10 × (1 + Underlying Return of the Least Performing Underlying Asset)",
+      "lines": [
+        202,
+        202
+      ],
+      "note": "1-to-1 loss -> 100"
+    },
+    "estimated_value_per_unit": {
+      "quote": "The initial estimated value of your Notes at the time the terms of your Notes were set on the trade date was $9.85 per principal amount",
+      "lines": [
+        60,
+        60
+      ]
+    }
+  },
+  "flags": [
+    {
+      "field": "observation_dates",
+      "issue": "Schedule table's last row reads 'Final Valuation Date | Maturity Date' (no dates); final entry 2029-09-17 / 2029-09-20 taken from Key Dates (lines 42-43)."
+    },
+    {
+      "field": "autocall.first_observation_index",
+      "issue": "First row is starred (not callable); first call settlement date March 18, 2027 -> index 2. 'Callable after 6 months' consistent."
+    },
+    {
+      "field": "autocall.levels_pct",
+      "issue": "Interim-only call ('prior to the final valuation date'): 10 levels for obs 2-11, final date excluded."
+    },
+    {
+      "field": "coupon.rate_per_period_pct",
+      "issue": "Converted 11.40% p.a. quarterly to 2.85% per period (matches $0.285 per $10)."
+    },
+    {
+      "field": "issue_date",
+      "issue": "Settlement Date (T+3) used as issue date."
+    },
+    {
+      "field": "payment_dates",
+      "issue": "Payment dates are printed in the table but are subject to the 'two business days' rule; June 2027 payment June 21 reflects Juneteenth holiday observed June 18."
+    }
+  ],
+  "scope": {
+    "in_scope": true,
+    "reason": "Worst-of contingent-coupon autocallable on two equity indices (NDX, RTY), non-memory coupon, quarterly discrete autocall, European (final-level) 70% barrier, 1:1 downside; no buffer, no daily monitoring."
+  }
+}

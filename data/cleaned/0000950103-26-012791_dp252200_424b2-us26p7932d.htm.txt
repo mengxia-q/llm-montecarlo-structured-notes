@@ -1,0 +1,805 @@
+424B2
+
+1
+
+dp252200_424b2-us26p7932d.htm
+
+PRICING SUPPLEMENT
+
+| Citigroup Global Markets Holdings Inc. | August 20, 2026 Medium-Term Senior Notes, Series N Pricing Supplement No. 2026-USNCH33745 Filed Pursuant to Rule 424(b)(2) Registration Statement Nos. 333-293732 and 333-293732-02 |
+| --- | --- |
+
+Autocallable Phoenix Securities Based on the Worst Performing
+of the MSCI Emerging Markets Index and the S&P 500
+®
+Index Due September 7, 2027
+
+| § | The securities offered by this pricing supplement are unsecured senior debt securities issued by Citigroup Global Markets Holdings Inc. and guaranteed by Citigroup Inc. The securities offer the potential for periodic contingent coupon payments at an annualized rate that, if all are paid, would produce a yield that is generally higher than the yield on our conventional debt securities of the same maturity. In exchange for this higher potential yield, you must be willing to accept the risks that (i) your actual yield may be lower than the yield on our conventional debt securities of the same maturity because you may not receive one or more, or any, contingent coupon payments; (ii) your actual yield may be negative because, at maturity, you may receive significantly less than the stated principal amount of your securities and possibly nothing; and (iii) the securities may be automatically redeemed prior to maturity. Each of these risks will depend solely on the performance of the worst performing of the underlying indices specified below. |
+| --- | --- |
+
+| § | You will be subject to risks associated with each of the underlying indices and will be negatively affected by adverse movements in any one of the underlying indices. Although you will have downside exposure to the worst performing underlying, you will not receive dividends with respect to any underlying index or participate in any appreciation of any underlying index. If the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level, you will lose more than 1% of the stated principal amount of your securities for every 1% by which the final index level of the worst performing underlying has declined beyond the buffer amount. Accordingly, the lower the final index level of the worst performing underlying, the less benefit you will receive from the buffer. There is no minimum payment at maturity. |
+| --- | --- |
+
+| § | Investors in the securities must be willing to accept (i) an investment that may have limited or no liquidity and (ii) the risk of not receiving any payments due under the securities if we and Citigroup Inc. default on our obligations. All payments on the securities are subject to the credit risk of Citigroup Global Markets Holdings Inc. and Citigroup Inc. |
+| --- | --- |
+
+| KEY TERMS | KEY TERMS |
+| --- | --- |
+| Issuer: | Citigroup Global Markets Holdings Inc., a wholly owned subsidiary of Citigroup Inc. |
+| Guarantee: | All payments due on the securities are fully and unconditionally guaranteed by Citigroup Inc. |
+
+| Underlying indices: | Underlying index | Initial index level* | Coupon barrier level** | Final buffer level** |
+| --- | --- | --- | --- | --- |
+| | MSCI Emerging Markets Index | 1,668.38 | 1,418.123 | 1,418.123 |
+| | S&P 500 ® Index | 7,707.98 | 6,551.783 | 6,551.783 |
+| | * For each underlying index, its closing level on the strike date ** For each underlying index, 85.00% of its initial index level | * For each underlying index, its closing level on the strike date ** For each underlying index, 85.00% of its initial index level | * For each underlying index, its closing level on the strike date ** For each underlying index, 85.00% of its initial index level | * For each underlying index, its closing level on the strike date ** For each underlying index, 85.00% of its initial index level |
+
+| Aggregate stated principal amount: | $1,000,000 | $1,000,000 | $1,000,000 |
+| --- | --- | --- | --- |
+| Stated principal amount: | $1,000 per security | $1,000 per security | $1,000 per security |
+| Strike date: | August 19, 2026 | August 19, 2026 | August 19, 2026 |
+| Pricing date: | August 20, 2026 | August 20, 2026 | August 20, 2026 |
+| Issue date: | August 25, 2026 | August 25, 2026 | August 25, 2026 |
+| Interim valuation dates: | December 2, 2026, March 3, 2027 and June 2, 2027, each subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur. For the avoidance of doubt, each interim valuation date and the final valuation date is a “valuation date.” | December 2, 2026, March 3, 2027 and June 2, 2027, each subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur. For the avoidance of doubt, each interim valuation date and the final valuation date is a “valuation date.” | December 2, 2026, March 3, 2027 and June 2, 2027, each subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur. For the avoidance of doubt, each interim valuation date and the final valuation date is a “valuation date.” |
+| Final valuation date: | September 1, 2027, subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur | September 1, 2027, subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur | September 1, 2027, subject to postponement if such date is not a scheduled trading day or if certain market disruption events occur |
+| Maturity date: | Unless earlier redeemed, September 7, 2027, subject to postponement as described under “Additional Information” below | Unless earlier redeemed, September 7, 2027, subject to postponement as described under “Additional Information” below | Unless earlier redeemed, September 7, 2027, subject to postponement as described under “Additional Information” below |
+| Contingent coupon payment dates: | For any interim valuation date, the third business day after such interim valuation date; and for the final valuation date, the maturity date | For any interim valuation date, the third business day after such interim valuation date; and for the final valuation date, the maturity date | For any interim valuation date, the third business day after such interim valuation date; and for the final valuation date, the maturity date |
+| Contingent coupon: | On each contingent coupon payment date, unless previously redeemed, the securities will pay a contingent coupon equal to 3.2625% of the stated principal amount of the securities if and only if the relevant index level of the worst performing underlying with respect to the immediately preceding interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to its coupon barrier level. If the relevant index level of the worst performing underlying with respect to any interim valuation date or the final valuation date, as applicable, is less than its coupon barrier level, you will not receive any contingent coupon payment on the related contingent coupon payment date. If the relevant index level of the worst performing underlying with respect to one or more interim valuation dates is less than its coupon barrier level and, on a subsequent interim valuation date or with respect to the final valuation date, as applicable, the relevant index level of the worst performing underlying with respect to that subsequent valuation date or the final valuation date, as applicable, is greater than or equal to its coupon barrier level, your contingent coupon payment for that subsequent interim valuation date or the final valuation date, as applicable, will include all previously unpaid contingent coupon payments (without interest on amounts previously unpaid). However, if the relevant index level of the worst performing underlying with respect to an interim valuation date is less than its coupon barrier level and the relevant index level of the worst performing underlying with respect to each subsequent interim valuation date and with respect to the final valuation date is less than its coupon barrier level, you will not receive the unpaid contingent coupon payments in respect of those interim valuation dates and with respect to the final valuation date. | On each contingent coupon payment date, unless previously redeemed, the securities will pay a contingent coupon equal to 3.2625% of the stated principal amount of the securities if and only if the relevant index level of the worst performing underlying with respect to the immediately preceding interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to its coupon barrier level. If the relevant index level of the worst performing underlying with respect to any interim valuation date or the final valuation date, as applicable, is less than its coupon barrier level, you will not receive any contingent coupon payment on the related contingent coupon payment date. If the relevant index level of the worst performing underlying with respect to one or more interim valuation dates is less than its coupon barrier level and, on a subsequent interim valuation date or with respect to the final valuation date, as applicable, the relevant index level of the worst performing underlying with respect to that subsequent valuation date or the final valuation date, as applicable, is greater than or equal to its coupon barrier level, your contingent coupon payment for that subsequent interim valuation date or the final valuation date, as applicable, will include all previously unpaid contingent coupon payments (without interest on amounts previously unpaid). However, if the relevant index level of the worst performing underlying with respect to an interim valuation date is less than its coupon barrier level and the relevant index level of the worst performing underlying with respect to each subsequent interim valuation date and with respect to the final valuation date is less than its coupon barrier level, you will not receive the unpaid contingent coupon payments in respect of those interim valuation dates and with respect to the final valuation date. | On each contingent coupon payment date, unless previously redeemed, the securities will pay a contingent coupon equal to 3.2625% of the stated principal amount of the securities if and only if the relevant index level of the worst performing underlying with respect to the immediately preceding interim valuation date or with respect to the final valuation date, as applicable, is greater than or equal to its coupon barrier level. If the relevant index level of the worst performing underlying with respect to any interim valuation date or the final valuation date, as applicable, is less than its coupon barrier level, you will not receive any contingent coupon payment on the related contingent coupon payment date. If the relevant index level of the worst performing underlying with respect to one or more interim valuation dates is less than its coupon barrier level and, on a subsequent interim valuation date or with respect to the final valuation date, as applicable, the relevant index level of the worst performing underlying with respect to that subsequent valuation date or the final valuation date, as applicable, is greater than or equal to its coupon barrier level, your contingent coupon payment for that subsequent interim valuation date or the final valuation date, as applicable, will include all previously unpaid contingent coupon payments (without interest on amounts previously unpaid). However, if the relevant index level of the worst performing underlying with respect to an interim valuation date is less than its coupon barrier level and the relevant index level of the worst performing underlying with respect to each subsequent interim valuation date and with respect to the final valuation date is less than its coupon barrier level, you will not receive the unpaid contingent coupon payments in respect of those interim valuation dates and with respect to the final valuation date. |
+| Payment at maturity: | If the securities are not automatically redeemed prior to maturity, you will be entitled to receive at maturity, for each $1,000 stated principal amount security you then hold: ▪ If the final index level of the worst performing underlying with respect to the final valuation date is greater than or equal to its final buffer level: $1,000 plus the contingent coupon payment due at maturity (including any previously unpaid contingent coupon payments) ▪ If the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level: $1,000 + [$1,000 × the buffer rate × (the index return of the worst performing underlying with respect to the final valuation date + the buffer amount)] If the securities are not automatically redeemed prior to maturity and the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level, you will receive less than the stated principal amount of your securities, and possibly nothing, at maturity, and you will not receive any contingent coupon payment at maturity (including any previously unpaid contingent coupon payments). | If the securities are not automatically redeemed prior to maturity, you will be entitled to receive at maturity, for each $1,000 stated principal amount security you then hold: ▪ If the final index level of the worst performing underlying with respect to the final valuation date is greater than or equal to its final buffer level: $1,000 plus the contingent coupon payment due at maturity (including any previously unpaid contingent coupon payments) ▪ If the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level: $1,000 + [$1,000 × the buffer rate × (the index return of the worst performing underlying with respect to the final valuation date + the buffer amount)] If the securities are not automatically redeemed prior to maturity and the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level, you will receive less than the stated principal amount of your securities, and possibly nothing, at maturity, and you will not receive any contingent coupon payment at maturity (including any previously unpaid contingent coupon payments). | If the securities are not automatically redeemed prior to maturity, you will be entitled to receive at maturity, for each $1,000 stated principal amount security you then hold: ▪ If the final index level of the worst performing underlying with respect to the final valuation date is greater than or equal to its final buffer level: $1,000 plus the contingent coupon payment due at maturity (including any previously unpaid contingent coupon payments) ▪ If the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level: $1,000 + [$1,000 × the buffer rate × (the index return of the worst performing underlying with respect to the final valuation date + the buffer amount)] If the securities are not automatically redeemed prior to maturity and the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer level, you will receive less than the stated principal amount of your securities, and possibly nothing, at maturity, and you will not receive any contingent coupon payment at maturity (including any previously unpaid contingent coupon payments). |
+| Buffer amount: | 15.00% | 15.00% | 15.00% |
+| Buffer rate: | The initial index level of the worst performing underlying with respect to the final valuation date divided by its final buffer level, which is approximately 117.647% | The initial index level of the worst performing underlying with respect to the final valuation date divided by its final buffer level, which is approximately 117.647% | The initial index level of the worst performing underlying with respect to the final valuation date divided by its final buffer level, which is approximately 117.647% |
+| Listing: | The securities will not be listed on any securities exchange | The securities will not be listed on any securities exchange | The securities will not be listed on any securities exchange |
+| Underwriter: | Citigroup Global Markets Inc. (“CGMI”), an affiliate of the issuer, acting as principal | Citigroup Global Markets Inc. (“CGMI”), an affiliate of the issuer, acting as principal | Citigroup Global Markets Inc. (“CGMI”), an affiliate of the issuer, acting as principal |
+| Underwriting fee and issue price: | Issue price (1)(2) | Underwriting fee (3) | Proceeds to issuer (3) |
+| Per security: | $1,000.00 | $10.00 | $990.00 |
+| Total: | $1,000,000.00 | $10,000.00 | $990,000.00 |
+
+(1) On the date of this pricing supplement, the estimated value of the securities
+is $987.10 per security, which is less than the issue price. The estimated value of the securities is based on CGMI’s
+proprietary pricing models and our internal funding rate. It is not an indication of actual profit to CGMI or other of our affiliates,
+nor is it an indication of the price, if any, at which CGMI or any other person may be willing to buy the securities from you at any time
+after issuance. See “Valuation of the Securities” in this pricing supplement.
+
+(2) The issue price for investors
+purchasing the securities in fiduciary accounts is $990.00 per security. In addition, CGMI will pay to one or more electronic platform
+providers a fee of $1.00 for each security sold in this offering where related selected dealers and/or custodians implement or utilize
+such providers.
+
+(3) CGMI will receive an underwriting
+fee of $10.00 for each security sold in this offering. J.P. Morgan Securities LLC and JPMorgan Chase Bank, N.A. will act as
+placement agents for the securities and, from the underwriting fee to CGMI, will receive a placement fee of $10.00 for each security they
+sell in this offering to accounts other than fiduciary accounts. CGMI and the placement agents will forgo an underwriting fee
+and placement fee for sales to fiduciary accounts. For more information on the distribution of the securities, see “Supplemental
+Plan of Distribution” in this pricing supplement. In addition to the underwriting fee, CGMI and its affiliates may profit
+from hedging activity related to this offering, even if the value of the securities declines. See “Use of Proceeds and
+Hedging” in the accompanying prospectus.
+
+Investing in the securities involves risks not associated with an investment
+in conventional debt securities. See “Summary Risk Factors” beginning on page PS-8.
+
+Neither the Securities and Exchange Commission (the “SEC”)
+nor any state securities commission has approved or disapproved of the securities or determined that this pricing supplement and the accompanying
+product supplement, underlying supplement, prospectus supplement and prospectus are truthful or complete. Any representation to the contrary
+is a criminal offense.
+
+Y
+ou
+should read this pricing supplement together with the accompanying
+product supplement,
+
+underlying supplement,
+prospectus supplement and prospectus
+, which
+can be accessed via the hyperlinks below:
+
+Product Supplement No. EA-04-12 dated February 25, 2026
+
+Underlying Supplement No. 13 dated February 25, 2026
+
+Prospectus Supplement and Prospectus each dated February 25, 2026
+
+The securities are not bank deposits and are not
+insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency, nor are they obligations of, or guaranteed
+by, a bank.
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+| KEY TERMS (continued) | KEY TERMS (continued) |
+| --- | --- |
+| Index return: | For each underlying index on an interim valuation date or with respect to the final valuation date, (i) its relevant index level with respect to that interim valuation date or the final valuation date minus its initial index level, divided by (ii) its initial index level |
+| Final index level: | For each underlying index, its closing level on the final valuation date |
+| Relevant index level: | The relevant index level for each underlying index means (i) with respect to any interim valuation date, its closing level on that interim valuation date, and (ii) with respect to the final valuation date, its final index level |
+| Worst performing underlying: | For any interim valuation date or with respect to the final valuation date, the underlying index with the lowest index return determined as of that interim valuation date or the final valuation date |
+| Automatic early redemption: | If, on any of the interim valuation dates, the closing level of the worst performing underlying on that interim valuation date is greater than or equal to its initial index level, each security you then hold will be automatically redeemed on the related contingent coupon payment date for an amount in cash equal to $1,000 plus the related contingent coupon payment (including any previously unpaid contingent coupon payments). |
+| CUSIP / ISIN: | 17334CNT7 / US17334CNT70 |
+
+| August 2026 | PS- 2 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Additional Information
+
+General.
+The terms of the securities are set forth in the accompanying
+product supplement, prospectus supplement and prospectus, as supplemented by this pricing supplement. The accompanying product supplement,
+prospectus supplement and prospectus contain important disclosures that are not repeated in this pricing supplement. For example, certain
+events may occur that could affect whether you receive a contingent coupon payment on a contingent coupon payment date or the securities
+are automatically redeemed as well as your payment at maturity. These events, including market disruption events and other events affecting
+the underlying indices, and their consequences are described in the accompanying product supplement in the sections “Description
+of the Securities—Consequences of a Market Disruption Event; Postponement of a Valuation Date” and “Description of the
+Securities—Certain Additional Terms for Securities Linked to an Underlying Index—Discontinuance or Material Modification of
+an Underlying Index,” and not in this pricing supplement (except as set forth in the next paragraph). The accompanying underlying
+supplement contains important disclosures regarding the underlying indices that are not repeated in this pricing supplement. It is important
+that you read the accompanying product supplement, underlying supplement, prospectus supplement and prospectus together with this pricing
+supplement in connection with your investment in the securities. Certain terms used but not defined in this pricing supplement are defined
+in the accompanying product supplement.
+
+Postponement of the Final Valuation Date; Postponement of the Maturity
+Date.
+If the scheduled final valuation date is not a scheduled trading day with respect to an underlying index, the final valuation
+date will be postponed to the next succeeding scheduled trading day with respect to that underlying index. In addition, if a market disruption
+event occurs with respect to an underlying index on the scheduled final valuation date, the calculation agent may, but is not required
+to, postpone the final valuation date to the next succeeding scheduled trading day for that underlying index on which a market disruption
+event does not occur with respect to that underlying index. However, in no event will the final valuation date for an underlying index
+be postponed more than five scheduled trading days after the originally scheduled final valuation date as a result of a market disruption
+event occurring on the scheduled final valuation date (as it may be postponed). The postponement of the final valuation date for one underlying
+index will not result in the postponement of the final valuation date for any other underlying index. If the final valuation date is postponed
+for an underlying index so that it falls less than three business days prior to the scheduled maturity date, the maturity date will be
+postponed to the third business day after the last final valuation date for an underlying index as postponed. The provisions in this paragraph
+supersede the related provisions in the accompanying product supplement to the extent the provisions in this paragraph are inconsistent
+with those provisions. The terms “scheduled trading day” and “market disruption event” are defined in the accompanying
+product supplement. Each interim valuation date is subject to postponement on the terms set forth with respect to valuation dates in the
+accompanying product supplement.
+
+| August 2026 | PS- 3 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Hypothetical Examples
+
+The table below illustrates various hypothetical payments on the securities
+at maturity for a range of hypothetical final index levels of the worst performing underlying with respect to the final valuation date,
+assuming the securities are not automatically redeemed. The outcomes illustrated in the table are not exhaustive, and the actual
+payment at maturity you receive on the securities may differ from any example illustrated below.
+
+The table and examples that follow are based on the following hypothetical
+values and assumptions in order to illustrate how the securities work and do not reflect the actual initial index levels, coupon barrier
+levels or final buffer levels. For the actual initial index level, coupon barrier level and final buffer level of each underlying index,
+see the cover page of this pricing supplement. We have used these hypothetical levels, rather than the actual levels, to simplify the
+calculations and aid understanding of how the securities work. However, you should understand that the actual payments on the securities
+will be calculated based on the actual initial index level, coupon barrier level and final buffer level of each underlying index, and
+not the hypothetical levels indicated below. For ease of analysis, figures below may have been rounded.
+
+| Underlying index | Hypothetical initial index level | Hypothetical coupon barrier level | Hypothetical final buffer level |
+| --- | --- | --- | --- |
+| MSCI Emerging Markets Index | 100.00 | 85.00 (85.00% of its hypothetical initial index level) | 85.00 (85.00% of its hypothetical initial index level) |
+| S&P 500 ® Index | 100.00 | 85.00 (85.00% of its hypothetical initial index level) | 85.00 (85.00% of its hypothetical initial index level) |
+
+For ease
+of analysis, figures in the table and examples below have been rounded.
+
+| Maturity Date | Maturity Date | Maturity Date |
+| --- | --- | --- |
+| Hypothetical final index level of worst performing underlying with respect to final valuation date (1) | Hypothetical percentage change from initial index level to final index level | Hypothetical cash amount you receive at maturity per security (2) |
+| 150.00 | 50.00% | $1,032.625 |
+| 140.00 | 40.00% | $1,032.625 |
+| 130.00 | 30.00% | $1,032.625 |
+| 120.00 | 20.00% | $1,032.625 |
+| 110.00 | 10.00% | $1,032.625 |
+| 100.00 | 0.00% | $1,032.625 |
+| 90.00 | -10.00% | $1,032.625 |
+| 85.00 | -15.00% | $1,032.625 |
+| 84.99 | -15.01% | $999.882 |
+| 80.00 | -20.00% | $941.176 |
+| 70.00 | -30.00% | $823.529 |
+| 60.00 | -40.00% | $705.882 |
+| 50.00 | -50.00% | $588.235 |
+| 40.00 | -60.00% | $470.588 |
+| 30.00 | -70.00% | $352.941 |
+| 20.00 | -80.00% | $235.294 |
+| 10.00 | -90.00% | $117.647 |
+| 0.00 | -100.00% | $0.000 |
+
+| (1) | The final index level of the worst performing underlying with respect to the final valuation date is equal to its closing level on the final valuation date. You will be repaid the stated principal amount of your securities if, and only if, the final index level of the worst performing underlying with respect to the final valuation date is greater than or equal to its final buffer level. |
+| --- | --- |
+
+| (2) | You will receive a contingent coupon payment at maturity if, and only if, the final index level of the worst performing underlying with respect to the final valuation date is greater than or equal to its coupon barrier level. For purposes of this table, it is assumed that there are no previously unpaid contingent coupon payments. |
+| --- | --- |
+
+| August 2026 | PS- 4 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Hypothetical Examples of Contingent Coupon Payments
+and any Payment upon Automatic Early Redemption Following an Interim Valuation Date
+
+The three hypothetical examples below illustrate how to determine whether
+a contingent coupon will be paid and whether the securities will be automatically redeemed following a hypothetical interim valuation
+date, assuming that the closing levels of the underlying indices on the hypothetical interim valuation date are as indicated below.
+
+| | Hypothetical closing level of the MSCI Emerging Markets Index on hypothetical valuation date | Hypothetical closing level of the SPX 500 ® Index on hypothetical valuation date | Hypothetical payment per $1,000.00 security on related contingent coupon payment date |
+| --- | --- | --- | --- |
+| Example 1 Hypothetical Valuation Date #1 | 95 (index return = (95 - 100) / 100 = -5%) | 120 (index return = (120 - 100) / 100 = 20%) | $32.625 (contingent coupon is paid; securities not redeemed) |
+| Example 2 Hypothetical Valuation Date #2 | 150 (index return = (150 - 100) / 100 = 50%) | 45 (index return = (45 - 100) / 100 = -55%) | $0.00 (no contingent coupon; securities not redeemed) |
+| Example 3 Hypothetical Valuation Date #3 | 150 (index return = (150 - 100) / 100 = 50%) | 115 (index return = (115 - 100) / 100 = 15%) | $1,065.250 (contingent coupon plus the previously unpaid contingent coupon is paid; securities redeemed) |
+
+Example 1:
+On hypothetical valuation date #1, the MSCI Emerging
+Markets Index has the lowest index return and, therefore, is the worst performing underlying on the hypothetical valuation date. In this
+scenario, the closing level of the worst performing underlying on the hypothetical valuation date is greater than its coupon barrier level
+but less than its initial index level. As a result, investors in the securities would receive the contingent coupon payment on the related
+contingent coupon payment date and the securities would not be automatically redeemed.
+
+Example 2:
+On hypothetical valuation date #2, the S&P
+500
+®
+Index has the lowest index return and, therefore, is the worst performing underlying on the hypothetical valuation
+date. In this scenario, the closing level of the worst performing underlying on the hypothetical valuation date is less than its coupon
+barrier level and its initial index level. As a result, investors would not receive any payment on the related contingent coupon payment
+date and the securities would not be automatically redeemed.
+
+Investors in the securities will not receive a contingent coupon
+on the contingent coupon payment date following a valuation date if the closing level of the worst performing underlying on that valuation
+date is less than its coupon barrier level. Whether a contingent coupon is paid following a valuation date depends solely on the closing
+level of the worst performing underlying on that valuation date.
+
+Example 3:
+On hypothetical valuation date #3, the S&P 500
+®
+
+Index has the lowest index return and, therefore, is the worst performing underlying on the hypothetical valuation date. In this
+scenario, the closing level of the worst performing underlying on the hypothetical valuation date is greater than both its coupon barrier
+level and its initial index level. As a result, the securities would be automatically redeemed on the related contingent coupon payment
+date for an amount in cash equal to $1,000.00
+plus
+the related contingent coupon payment
+plus
+any previously unpaid contingent
+coupon payments. Because no contingent coupon payment was received in connection with hypothetical valuation date #2, investors in the
+securities would also receive the previously unpaid contingent coupon payment on the related contingent coupon payment date.
+
+| August 2026 | PS- 5 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Hypothetical Examples of the Payment at Maturity
+on the Securities
+
+The next three hypothetical
+examples illustrate the calculation of the payment at maturity on the securities, assuming that the securities have not been earlier
+automatically redeemed and that the final index levels of the underlying indices are as indicated below.
+
+| | Hypothetical final index level of the MSCI Emerging Markets Index | Hypothetical final index level of the S&P 500 ® Index | Hypothetical payment at maturity per $1,000.00 security |
+| --- | --- | --- | --- |
+| Example 4 | 120 (index return = (120 - 100) / 100 = 20%) | 130 (index return = (130 - 100) / 100 = 30%) | $1,032.625 plus any previously unpaid contingent coupon payments |
+| Example 5 | 105 (index return = (105 - 100) / 100 = 5%) | 50 (index return = (50 - 100) / 100 = -50%) | $588.235 |
+| Example 6 | 20 (index return = (20 - 100) / 100 = -80%) | 95 (index return = (95 - 100) / 100 = -5%) | $235.294 |
+
+Example 4:
+On the final valuation date, the MSCI Emerging Markets
+Index has the lowest index return and, therefore, is the worst performing underlying with respect to the final valuation date. In this
+scenario, the final index level of the worst performing underlying on the valuation date is greater than its final buffer level. Accordingly,
+at maturity, you would receive the stated principal amount of the securities
+plus
+the contingent coupon payment due at maturity
+(including any previously unpaid contingent coupon payments), but you would not participate in the appreciation of any of the underlying
+indices.
+
+Example 5:
+On the final valuation date, the S&P 500
+®
+
+Index has the lowest index return and, therefore, is the worst performing underlying with respect to the final valuation date. In this
+scenario, the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer
+level. Accordingly, at maturity, you would receive a payment per security calculated as follows:
+
+Payment at maturity = $1,000 + [$1,000 × the buffer rate ×
+(the index return of the worst performing underlying with respect to the final valuation date + the buffer amount)]
+
+= $1,000 + [$1,000 × 1.17647 × (-50% + 15%)]
+
+= $1,000 + [$1,000 × 1.17647 × -35%]
+
+= $1,000 + -$411.765
+
+= $588.235
+
+In this scenario you would receive significantly less than the stated
+principal amount of your securities at maturity. Because the final index level of the worst performing underlying with respect to the
+final valuation date is less than its final buffer level, you will lose more than 1% of the stated principal amount of your securities
+for every 1% by which the final index level has declined beyond the buffer amount. In addition, because the final index level of the worst
+performing underlying with respect to the final valuation date is below its coupon barrier level, you would not receive any contingent
+coupon payment at maturity.
+
+Example 6:
+On the final valuation date, the MSCI Emerging Markets
+Index has the lowest index return and, therefore, is the worst performing underlying with respect to the final valuation date. In this
+scenario, the final index level of the worst performing underlying with respect to the final valuation date is less than its final buffer
+level. Accordingly, at maturity, you would receive a payment per security calculated as follows:
+
+Payment at maturity = $1,000 + [$1,000 × the buffer rate ×
+(the index return of the worst performing underlying with respect to the final valuation date + the buffer amount)]
+
+= $1,000 + [$1,000 × 1.17647 × (-80% + 15%)]
+
+= $1,000 + [$1,000 × 1.17647 × -65%]
+
+= $1,000 + -$764.706
+
+= $235.294
+
+| August 2026 | PS- 6 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+In this scenario, you would receive significantly less than the stated
+principal amount of your securities at maturity. Because the final index level of the worst performing underlying with respect to the
+final valuation date is less than its final buffer level, you will lose more than 1% of the stated principal amount of your securities
+for every 1% by which the final index level of the worst performing underlying has declined beyond the buffer amount. A comparison of
+this example with the previous example illustrates the diminishing benefit of the buffer the greater the depreciation of the worst performing
+underlying. In addition, because the final index level of the worst performing underlying with respect to the final valuation date is
+below its coupon barrier level, you would not receive any contingent coupon payment at maturity.
+
+It is possible that the relevant index level of the worst performing
+underlying with respect to each valuation date will be less than its coupon barrier level and less than its final buffer level on the
+final valuation date, such that you will not receive any contingent coupon payments over the term of the securities (including any previously
+unpaid contingent coupon payments) and will receive significantly less than the stated principal amount of your securities, and possibly
+nothing, at maturity.
+
+| August 2026 | PS- 7 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Summary Risk Factors
+
+An investment in the securities is significantly riskier than an investment
+in conventional debt securities. The securities are subject to all of the risks associated with an investment in our conventional
+debt securities (guaranteed by Citigroup Inc.), including the risk that we and Citigroup Inc. may default on our obligations under the
+securities, and are also subject to risks associated with each underlying index. Accordingly, the securities are suitable only
+for investors who are capable of understanding the complexities and risks of the securities. You should consult your own financial,
+tax and legal advisors as to the risks of an investment in the securities and the suitability of the securities in light of your particular
+circumstances.
+
+The following is a summary of certain key risk factors for investors
+in the securities. You should read this summary together with the more detailed description of risks relating to an investment
+in the securities contained in the section “Risk Factors Relating to the Securities” beginning on page EA-6 in the accompanying
+product supplement. You should also carefully read the risk factors included in the accompanying prospectus supplement and
+in the documents incorporated by reference in the accompanying prospectus, including Citigroup Inc.’s most recent Annual Report
+on Form 10-K and any subsequent Quarterly Reports on Form 10-Q, which describe risks relating to the business of Citigroup Inc. more generally.
+
+| § | You may lose some or all of your investment. Unlike conventional debt securities, the securities do not provide for the repayment of the stated principal amount at maturity in all circumstances. If the securities are not automatically redeemed prior to maturity, your payment at maturity will depend on the final index level of the worst performing underlying with respect to the final valuation date. If the final index level of the worst performing underlying is less than its final buffer level, you will lose more than 1% of the stated principal amount of the securities for every 1% by which the final index level of the worst performing underlying has declined beyond the buffer amount. You should understand that any decline in the final index level of the worst performing underlying beyond the buffer amount will result in a magnified loss to your investment by the buffer rate, which will progressively offset any protection that the buffer amount would offer. The lower the final index level of the worst performing underlying, the less benefit you will receive from the buffer. There is no minimum payment at maturity on the securities, and you may lose up to all of your investment. |
+| --- | --- |
+
+| § | You will not receive any contingent coupon payment on any contingent coupon payment date for which the relevant index level of the worst performing underlying with respect to that valuation date is less than its coupon barrier level. A contingent coupon payment will be made on a contingent coupon payment date if and only if the relevant index level of the worst performing underlying for the related valuation date is greater than or equal to its coupon barrier level. If the relevant index level of the worst performing underlying with respect to a valuation date is less than its coupon barrier level, you will not receive any contingent coupon payment on the related contingent coupon payment date. You will receive a contingent coupon payment that has not been paid on a subsequent contingent coupon payment date if and only if the relevant index level of the worst performing underlying with respect to the related valuation date is greater than or equal to its coupon barrier level. If the relevant index level of the worst performing underlying with respect to each valuation date is below its coupon barrier level, you will not receive any contingent coupon payments over the term of the securities. |
+| --- | --- |
+
+| § | Higher contingent coupon rates are associated with greater risk. The securities offer contingent coupon payments at an annualized rate that, if all are paid, would produce a yield that is generally higher than the yield on our conventional debt securities of the same maturity. This higher potential yield is associated with greater levels of expected risk as of the pricing date for the securities, including the risks that you may not receive a contingent coupon payment on one or more, or any, contingent coupon payment dates, the securities will not be automatically redeemed and the amount you receive at maturity may be significantly less than the stated principal amount of your securities and may be zero. The volatility of, and correlation between, the closing levels of the underlying indices are important factors affecting these risks. Greater expected volatility of, and lower expected correlation between, the closing levels of the underlying indices as of the strike date may result in a higher contingent coupon rate, but would also represent a greater expected likelihood as of the strike date that the relevant index level of the worst performing underlying with respect to one or more valuation dates will be less than its coupon barrier level, such that you will not receive one or more, or any, contingent coupon payments during the term of the securities and that the final index level of the worst performing underlying with respect to the final valuation date will be less than its final buffer level, such that you will not be repaid the stated principal amount of your securities at maturity. |
+| --- | --- |
+
+| § | The securities are subject to heightened risk because they have multiple underlyings. The securities are more risky than similar investments that may be available with only one underlying. With multiple underlyings, there is a greater chance that any one underlying index will perform poorly, adversely affecting your return on the securities. |
+| --- | --- |
+
+| § | The securities are subject to the risks of each of the underlying indices and will be negatively affected if any one underlying index performs poorly. You are subject to risks associated with each of the underlying indices. If any one underlying index performs poorly, you will be negatively affected. The securities are not linked to a basket composed of the underlying indices, where the blended performance of the underlying indices would be better than the performance of the worst performing underlying alone. Instead, you are subject to the full risks of whichever of the underlying indices is the worst performing underlying. |
+| --- | --- |
+
+| § | You will not benefit in any way from the performance of any better performing underlying index. The return on the securities depends solely on the performance of the worst performing underlying, and you will not benefit in any way from the performance of any better performing underlying index. |
+| --- | --- |
+
+| August 2026 | PS- 8 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+| § | You will be subject to risks relating to the relationship between the underlying indices. It is preferable from your perspective for the underlying indices to be correlated with each other, in the sense that their closing levels tend to increase or decrease at similar times and by similar magnitudes. By investing in the securities, you assume the risk that the underlying indices will not exhibit this relationship. The less correlated the underlying indices, the more likely it is that any one of the underlying indices will perform poorly over the term of the securities. All that is necessary for the securities to perform poorly is for one of the underlying indices to perform poorly. It is impossible to predict what the relationship between the underlying indices will be over the term of the securities. The underlying indices differ in significant ways and, therefore, may not be correlated with each other. |
+| --- | --- |
+
+| § | Investing in the securities is not equivalent to investing in the underlying indices or the stocks that constitute the underlying indices. You will not have voting rights, rights to receive dividends or other distributions or any other rights with respect to the stocks that constitute the underlying indices. The payment scenarios described in this pricing supplement do not show any effect of lost dividend yield over the term of the securities. |
+| --- | --- |
+
+| § | You may not be adequately compensated for assuming the downside risk of the worst performing underlying. The potential contingent coupon payments on the securities are the compensation you receive for assuming the downside risk of the worst performing underlying, as well as all the other risks of the securities. That compensation is effectively “at risk” and may, therefore, be less than you currently anticipate. First, the actual yield you realize on the securities could be lower than you anticipate because the coupon is “contingent” and you may not receive a contingent coupon payment on one or more, or any, of the contingent coupon payment dates. Second, the contingent coupon payments are the compensation you receive not only for the downside risk of the worst performing underlying, but also for all of the other risks of the securities, including the risk that the securities may be automatically redeemed prior to maturity, interest rate risk and our and Citigroup Inc.’s credit risk. If those other risks increase or are otherwise greater than you currently anticipate, the contingent coupon payments may turn out to be inadequate to compensate you for all the risks of the securities, including the downside risk of the worst performing underlying. |
+| --- | --- |
+
+| § | The securities may be automatically redeemed prior to maturity, limiting your opportunity to receive contingent coupon payments. The securities will be automatically redeemed prior to maturity if the closing level of the worst performing underlying on any interim valuation date is greater than or equal to its initial index level. Thus, the term of the securities may be limited to as short as approximately three months. If the securities are automatically redeemed prior to maturity, you will not receive any additional contingent coupon payments. Moreover, you may not be able to reinvest your funds in another investment that provides a similar yield with a similar level of risk. |
+| --- | --- |
+
+| § | The securities offer downside exposure to the worst performing underlying, but no upside exposure to any underlying index. You will not participate in any appreciation in the level of any underlying index over the term of the securities. Consequently, your return on the securities will be limited to the contingent coupon payments you receive, if any, and may be significantly less than the return on any underlying index over the term of the securities. In addition, you will not receive any dividends or other distributions or have any other rights with respect to any of the underlying indices over the term of the securities. |
+| --- | --- |
+
+| § | The performance of the securities will depend on the closing levels of the underlying indices solely on the valuation dates, which makes the securities particularly sensitive to the volatility in the closing levels of the underlying indices on or near the valuation dates. Whether the contingent coupon will be paid on any given contingent coupon payment date (and any previously unpaid contingent coupon payments will be paid) and whether the securities will be automatically redeemed prior to maturity will depend on the closing levels of the underlying indices solely on the applicable valuation dates, regardless of the closing levels of the underlying indices on other days during the term of the securities. If the securities are not automatically redeemed, the amount you receive at maturity will depend solely on the closing level of the worst performing underlying with respect to the final valuation date, and not on any other days during the term of the securities. Because the performance of the securities depends on the closing levels of the underlying indices on a limited number of dates, the securities will be particularly sensitive to volatility in the closing levels of the underlying indices on or near the valuation dates. You should understand that the closing level of each underlying index has historically been highly volatile. |
+| --- | --- |
+
+| § | Your payment at maturity depends on the closing level of the worst performing underlying on a single day . Because your payment at maturity depends on the closing level of the worst performing underlying solely on the final valuation date, you are subject to the risk that the closing level of the worst performing underlying on that day may be lower, and possibly significantly lower, than on one or more other dates during the term of the securities. If you had invested in another instrument linked to the worst performing underlying that you could sell for full value at a time selected by you, or if the payment at maturity were based on an average of closing levels of the worst performing underlying, you might have achieved better returns. |
+| --- | --- |
+
+| § | The securities are subject to the credit risk of Citigroup Global Markets Holdings Inc. and Citigroup Inc. If we default on our obligations under the securities and Citigroup Inc. defaults on its guarantee obligations, you may not receive anything owed to you under the securities. |
+| --- | --- |
+
+| § | The securities will not be listed on any securities exchange and you may not be able to sell them prior to maturity. The securities will not be listed on any securities exchange. Therefore, there may be little or no secondary market for the securities. CGMI currently intends to make a secondary market in relation to the securities and to provide an indicative bid price for the securities on a daily basis. Any indicative bid price for the securities provided by CGMI will be determined in CGMI’s sole discretion, taking into account prevailing market conditions and other relevant factors, and will not be a representation by CGMI that the securities can be sold at that price, or at all. CGMI may suspend or terminate making a market and providing indicative bid |
+| --- | --- |
+
+| August 2026 | PS- 9 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+prices without notice, at any time and
+for any reason. If CGMI suspends or terminates making a market, there may be no secondary market at all for the securities
+because it is likely that CGMI will be the only broker-dealer that is willing to buy your securities prior to maturity. Accordingly,
+an investor must be prepared to hold the securities until maturity.
+
+| § | The estimated value of the securities on the pricing date, based on CGMI’s proprietary pricing models and our internal funding rate, is less than the issue price. The difference is attributable to certain costs associated with selling, structuring and hedging the securities that are included in the issue price. These costs include (i) the placement fees paid in connection with the offering of the securities, (ii) hedging and other costs incurred by us and our affiliates in connection with the offering of the securities and (iii) the expected profit (which may be more or less than actual profit) to CGMI or other of our affiliates in connection with hedging our obligations under the securities. These costs adversely affect the economic terms of the securities because, if they were lower, the economic terms of the securities would be more favorable to you. The economic terms of the securities are also likely to be adversely affected by the use of our internal funding rate, rather than our secondary market rate, to price the securities. See “The estimated value of the securities would be lower if it were calculated based on our secondary market rate” below. |
+| --- | --- |
+
+| § | The estimated value of the securities was determined for us by our affiliate using proprietary pricing models. CGMI derived the estimated value disclosed on the cover page of this pricing supplement from its proprietary pricing models. In doing so, it may have made discretionary judgments about the inputs to its models, such as the volatility of, and correlation between, the closing levels of the underlying indices, dividend yields on the stocks that constitute the underlying indices and interest rates. CGMI’s views on these inputs may differ from your or others’ views, and as an underwriter in this offering, CGMI’s interests may conflict with yours. Both the models and the inputs to the models may prove to be wrong and therefore not an accurate reflection of the value of the securities. Moreover, the estimated value of the securities set forth on the cover page of this pricing supplement may differ from the value that we or our affiliates may determine for the securities for other purposes, including for accounting purposes. You should not invest in the securities because of the estimated value of the securities. Instead, you should be willing to hold the securities to maturity irrespective of the initial estimated value. |
+| --- | --- |
+
+| § | The estimated value of the securities would be lower if it were calculated based on our secondary market rate. The estimated value of the securities included in this pricing supplement is calculated based on our internal funding rate, which is the rate at which we are willing to borrow funds through the issuance of the securities. Our internal funding rate is generally lower than our secondary market rate, which is the rate that CGMI will use in determining the value of the securities for purposes of any purchases of the securities from you in the secondary market. If the estimated value included in this pricing supplement were based on our secondary market rate, rather than our internal funding rate, it would likely be lower. We determine our internal funding rate based on factors such as the costs associated with the securities, which are generally higher than the costs associated with conventional debt securities, and our liquidity needs and preferences. Our internal funding rate is not the same as the coupon that is payable on the securities. |
+| --- | --- |
+
+Because there is not an active market for
+traded instruments referencing our outstanding debt obligations, CGMI determines our secondary market rate based on the market price of
+traded instruments referencing the debt obligations of Citigroup Inc., our parent company and the guarantor of all payments due on the
+securities, but subject to adjustments that CGMI makes in its sole discretion. As a result, our secondary market rate is not
+a market-determined measure of our creditworthiness, but rather reflects the market’s perception of our parent company’s creditworthiness
+as adjusted for discretionary factors such as CGMI’s preferences with respect to purchasing the securities prior to maturity.
+
+| § | The estimated value of the securities is not an indication of the price, if any, at which CGMI or any other person may be willing to buy the securities from you in the secondary market. Any such secondary market price will fluctuate over the term of the securities based on the market and other factors described in the next risk factor. Moreover, unlike the estimated value included in this pricing supplement, any value of the securities determined for purposes of a secondary market transaction will be based on our secondary market rate, which will likely result in a lower value for the securities than if our internal funding rate were used. In addition, any secondary market price for the securities will be reduced by a bid-ask spread, which may vary depending on the aggregate stated principal amount of the securities to be purchased in the secondary market transaction, and the expected cost of unwinding related hedging transactions. As a result, it is likely that any secondary market price for the securities will be less than the issue price. |
+| --- | --- |
+
+| § | The value of the securities prior to maturity will fluctuate based on many unpredictable factors. The value of your securities prior to maturity will fluctuate based on the level and volatility of the underlying indices and a number of other factors, including the price and volatility of the stocks that constitute the underlying indices, the dividend yields on the stocks that constitute the underlying indices, interest rates generally, the time remaining to maturity and our and Citigroup Inc.’s creditworthiness, as reflected in our secondary market rate. Changes in the level of the underlying indices may not result in a comparable change in the value of your securities. You should understand that the value of your securities at any time prior to maturity may be significantly less than the issue price. |
+| --- | --- |
+
+| § | Immediately following issuance, any secondary market bid price provided by CGMI, and the value that will be indicated on any brokerage account statements prepared by CGMI or its affiliates, will reflect a temporary upward adjustment. The amount of this temporary upward adjustment will steadily decline to zero over the temporary adjustment period. See “Valuation of the Securities” in this pricing supplement. |
+| --- | --- |
+
+| August 2026 | PS- 10 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+| § | The MSCI Emerging Markets Index is subject to risks associated with non-U.S. markets. Investments in securities linked to the value of non-U.S. stocks involve risks associated with the securities markets in those countries, including risks of volatility in those markets, governmental intervention in those markets and cross shareholdings in companies in certain countries. Also, there is generally less publicly available information about companies in some of these jurisdictions than about U.S. companies that are subject to the reporting requirements of the SEC. Further, non-U.S. companies are generally subject to accounting, auditing and financial reporting standards and requirements and securities trading rules that are different from those applicable to U.S. reporting companies. The prices of securities in foreign markets may be affected by political, economic, financial and social factors in those countries, or global regions, including changes in government, economic and fiscal policies and currency exchange laws. Moreover, the economies in such countries may differ favorably or unfavorably from the economy of the United States in such respects as growth of gross national product, rate of inflation, capital reinvestment, resources and self-sufficiency. |
+| --- | --- |
+
+| § | The MSCI Emerging Markets Index is subject to risks associated with emerging markets. The stocks included in the MSCI Emerging Markets Index have been issued by companies in various foreign emerging markets. Foreign equity securities involve risks associated with the securities markets in foreign countries, including risks of volatility in those markets, governmental intervention in those markets and cross-shareholdings in companies in certain countries. There is also generally less publicly available information about foreign companies than about U.S. companies that are subject to the reporting requirements of the Securities and Exchange Commission, and foreign companies are subject to accounting, auditing and financial reporting standards and requirements different from those applicable to U.S. reporting companies. The prices of securities in foreign markets may be affected by political, economic, financial and social factors in those countries, or global regions, including changes in government, economic and fiscal policies and currency exchange laws. Stocks issued by companies in emerging markets may be subject to heightened risks, including risks of relatively unstable governments, nationalization of businesses, restrictions on foreign ownership, prohibitions on the repatriation of assets and less protection of property rights. The economies of countries with emerging markets may be based on only a few industries, be highly vulnerable to changes in local or global trade conditions and suffer from extreme and volatile debt burdens or inflation rates. Local securities markets may trade a small number of securities and be unable to respond effectively to increases in trading volume, potentially increasing price volatility. Moreover, the economies in such countries may differ unfavorably from the economy in the United States in such respects as growth of gross national product, rate of inflation, capital reinvestment, resources and self-sufficiency. |
+| --- | --- |
+
+| § | Fluctuations in exchange rates will affect the closing value of the MSCI Emerging Markets Index. Because the MSCI Emerging Markets Index includes stocks that trade outside the United States and the closing value of the MSCI Emerging Markets Index is based on the U.S. dollar value of those stocks, the MSCI Emerging Markets Index is subject to currency exchange rate risk with respect to each of the currencies in which such stocks trade. Exchange rate movements may be volatile and may be driven by numerous factors specific to the relevant countries, including the supply of, and the demand for, the applicable currencies, as well as government policy and intervention and macroeconomic factors. Exchange rate movements may also be influenced significantly by speculative trading. In general, if the U.S. dollar strengthens against the currencies in which the stocks included in the MSCI Emerging Markets Index trade, the closing value of the MSCI Emerging Markets Index will be adversely affected for that reason alone. |
+| --- | --- |
+
+| § | Our offering of the securities does not constitute a recommendation of any underlying index by CGMI or its affiliates or by the placement agents or their affiliates. The fact that we are offering the securities does not mean that we believe, or that the placement agents or their affiliates believe, that investing in an instrument linked to the underlying indices is likely to achieve favorable returns. In fact, as we and the placement agents are part of global financial institutions, our affiliates and the placement agents and their affiliates may have positions (including short positions) in the stocks that constitute the underlying indices or in instruments related to the underlying indices or such stocks over the term of the securities, and may publish research or express opinions, that in each case are inconsistent with an investment linked to the underlying indices. These and other activities of our affiliates or the placement agents or their affiliates may affect the level of the underlying indices in a way that has a negative impact on your interests as a holder of the securities. |
+| --- | --- |
+
+| § | The closing levels of an underlying index may be adversely affected by our or our affiliates’ hedging and other trading activities. We have hedged our obligations under the securities through CGMI or other of our affiliates, who have taken positions directly in the stocks that constitute the underlying indices and other financial instruments related to the underlying indices or such stock and may adjust such positions during the term of the securities. Our affiliates and the placement agents and their affiliates also trade the stocks that constitute the underlying indices and other financial instruments related to the underlying indices or such stocks on a regular basis (taking long or short positions or both), for their accounts, for other accounts under their management or to facilitate transactions on behalf of customers. These activities could affect the level of the underlying indices in a way that negatively affects the value of and return on the securities. They could also result in substantial returns for us or our affiliates or the placement agents or their affiliates while the value of the securities declines. |
+| --- | --- |
+
+| § | We and our affiliates or the placement agents or their affiliates may have economic interests that are adverse to yours as a result of our affiliates’ or their business activities. Our affiliates or the placement agents or their affiliates may currently or from time to time engage in business with the issuers of the stocks that constitute the underlying indices, including extending loans to, making equity investments in or providing advisory services to such issuers. In the course of this business, we or our affiliates or the placement agents or their affiliates may acquire non-public information about such issuers, which we and they will not disclose |
+| --- | --- |
+
+| August 2026 | PS- 11 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+to you. Moreover, if any of our affiliates
+or the placement agents or their affiliates is or becomes a creditor of any such issuer, they may exercise any remedies against such issuer
+that are available to them without regard to your interests.
+
+| § | The calculation agent, which is an affiliate of ours, will make important determinations with respect to the securities. If certain events occur, such as market disruption events or the discontinuance of any underlying index, CGMI, as calculation agent, will be required to make discretionary judgments that could significantly affect your payment at maturity. In making these judgments, the calculation agent’s interests as an affiliate of ours could be adverse to your interests as a holder of the securities. |
+| --- | --- |
+
+| § | Changes made by the index sponsor may adversely affect the values of the underlying indices. We are not affiliated with the index sponsors. Accordingly, we have no control over any changes such sponsor may make to the underlying indices. Such changes could be made at any time and could adversely affect the performance of the underlying indices. |
+| --- | --- |
+
+| § | The U.S. federal tax consequences of an investment in the securities are unclear. There is no direct legal authority regarding the proper U.S. federal tax treatment of the securities, and we do not plan to request a ruling from the Internal Revenue Service (the “IRS”). Consequently, significant aspects of the tax treatment of the securities are uncertain, and the IRS or a court might not agree with the treatment of the securities as described in “United States Federal Tax Considerations” below. If the IRS were successful in asserting an alternative treatment of the securities, the tax consequences of the ownership and disposition of the securities might be materially and adversely affected. Moreover, future legislation, Treasury regulations or IRS guidance could adversely affect the U.S. federal tax treatment of the securities, possibly retroactively. |
+| --- | --- |
+
+Non-U.S.
+investors should note that persons having withholding responsibility in respect of the securities may withhold on any coupon payment paid
+to a non-U.S. investor, generally at a rate of 30%. To the extent that we have withholding responsibility in respect of the
+securities, we intend to so withhold.
+
+You
+should read carefully the discussion under “United States Federal Tax Considerations” and “Risk Factors Relating to
+the Securities” in the accompanying product supplement and “United States Federal Tax Considerations” in this pricing
+supplement. You should also consult your tax adviser regarding the U.S. federal tax consequences of an investment in the securities,
+as well as tax consequences arising under the laws of any state, local or non-U.S. taxing jurisdiction.
+
+| August 2026 | PS- 12 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Information About the MSCI Emerging Markets Index
+
+The MSCI Emerging Markets Index
+is a free float-adjusted market capitalization index that is designed to capture large- and mid-cap equity market performance across global
+emerging markets countries. The MSCI Emerging Markets Index is reported by Bloomberg L.P. under the ticker symbol “MXEF.”
+
+“MSCI Emerging Markets
+Index” is a trademark of MSCI Inc. and has been licensed for use by Citigroup Inc. and its affiliates. For more information, see
+“Equity Index Descriptions—The MSCI Indices—License Agreement” in the accompanying underlying supplement.
+
+Please refer to the section “Equity Index Descriptions—The
+MSCI Indices—The MSCI Emerging Markets Index” in the accompanying underlying supplement for important disclosures regarding
+the MSCI Emerging Markets Index.
+
+Historical Information
+
+The closing level of the MSCI Emerging Markets Index on August 20, 2026
+was 1,699.97.
+
+The graph below shows the closing level of the MSCI Emerging Markets
+Index for each day such level was available from January 4, 2016 to August 20, 2026. We obtained the closing levels from Bloomberg L.P.,
+without independent verification. You should not take the historical levels of the MSCI Emerging Markets Index as an indication of future
+performance.
+
+| MSCI Emerging Markets Index – Historical Closing Levels* January 4, 2016 to August 20, 2026 |
+| --- |
+
+* The red line indicates the coupon
+barrier level and final buffer level with respect to the MSCI Emerging Markets Index of 1,418.123, equal to 85.00% of its initial index
+level.
+
+| August 2026 | PS- 13 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+Information About the S&P 500
+®
+
+Index
+
+The S&P 500
+®
+
+Index consists of common stocks of 500 issuers selected to provide a performance benchmark for the large capitalization segment of the
+U.S. equity markets. It is calculated and maintained by S&P Dow Jones Indices LLC. The S&P 500
+®
+Index is reported
+by Bloomberg L.P. under the ticker symbol “SPX.”
+
+“Standard & Poor’s,”
+“S&P” and “S&P 500
+®
+” are trademarks of Standard & Poor’s Financial Services LLC
+and have been licensed for use by Citigroup Inc. and its affiliates. For more information, see “Equity Index Descriptions—The
+S&P U.S. Indices—License Agreement” in the accompanying underlying supplement.
+
+Please refer to the section “Equity Index Descriptions—The
+S&P U.S. Indices” in the accompanying underlying supplement for important disclosures regarding the S&P 500
+®
+
+Index.
+
+Historical Information
+
+The closing level of the S&P 500
+®
+Index on August
+20, 2026 was 7,641.16.
+
+The graph below shows the closing level of the S&P 500
+®
+
+Index for each day such level was available from January 4, 2016 to August 20, 2026. We obtained the closing levels from Bloomberg L.P.,
+without independent verification. You should not take the historical levels of the S&P 500
+®
+Index as an indication
+of future performance.
+
+| S&P 500 ® Index – Historical Closing Levels* January 4, 2016 to August 20, 2026 |
+| --- |
+
+* The red line indicates the coupon
+barrier level and final barrier level with respect to the S&P 500
+®
+Index of 6,551.783, equal to 85.00% of its initial
+index level.
+
+| August 2026 | PS- 14 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+United States Federal
+Tax Considerations
+
+You should read carefully the discussion under “United States
+Federal Tax Considerations” and “Risk Factors Relating to the Securities” in the accompanying product supplement and
+“Summary Risk Factors” in this pricing supplement.
+
+Due to the lack of any controlling legal authority, there is substantial
+uncertainty regarding the U.S. federal tax consequences of an investment in the securities. In connection with any information
+reporting requirements we may have in respect of the securities under applicable law, we intend (in the absence of an administrative determination
+or judicial ruling to the contrary) to treat the securities for U.S. federal income tax purposes as prepaid forward contracts with associated
+coupon payments that will be treated as gross income to you at the time received or accrued in accordance with your regular method of
+tax accounting. In the opinion of our counsel, Davis Polk & Wardwell LLP, which is based on current market conditions,
+this treatment of the securities is reasonable under current law; however, our counsel has advised us that it is unable to conclude affirmatively
+that this treatment is more likely than not to be upheld, and that alternative treatments are possible.
+
+Assuming this treatment of the securities is respected and subject to
+the discussion in “United States Federal Tax Considerations” in the accompanying product supplement, the following U.S. federal
+income tax consequences should result under current law:
+
+| · | Any coupon payments on the securities should be taxable as ordinary income to you at the time received or accrued in accordance with your regular method of accounting for U.S. federal income tax purposes. |
+| --- | --- |
+
+| · | Upon a sale or exchange of a security (including retirement at maturity), you should recognize capital gain or loss equal to the difference between the amount realized and your tax basis in the security. For this purpose, the amount realized does not include any coupon paid on retirement and may not include sale proceeds attributable to an accrued coupon, which may be treated as a coupon payment. Such gain or loss should be long-term capital gain or loss if you held the security for more than one year. |
+| --- | --- |
+
+We do not plan to request a ruling
+from the IRS regarding the treatment of the securities. An alternative characterization of the securities could materially and adversely
+affect the tax consequences of ownership and disposition of the securities, including the timing and character of income recognized. In
+addition, the U.S. Treasury Department and the IRS have requested comments on various issues regarding the U.S. federal income tax treatment
+of “prepaid forward contracts” and similar financial instruments and have indicated that such transactions may be the subject
+of future regulations or other guidance. Furthermore, members of Congress have proposed legislative changes to the tax treatment of derivative
+contracts. Any legislation, Treasury regulations or other guidance promulgated after consideration of these issues could materially and
+adversely affect the tax consequences of an investment in the securities, possibly with retroactive effect. You should consult your tax
+adviser regarding possible alternative tax treatments of the securities and potential changes in applicable law.
+
+Withholding Tax on Non-U.S. Holders.
+Because significant aspects
+of the tax treatment of the securities are uncertain, persons having withholding responsibility in respect of the securities may withhold
+on any coupon payment paid to Non-U.S. Holders (as defined in the accompanying product supplement), generally at a rate of 30%. To the
+extent that we have (or an affiliate of ours has) withholding responsibility in respect of the securities, we intend to so withhold. In
+order to claim an exemption from, or a reduction in, the 30% withholding, you may need to comply with certification requirements to establish
+that you are not a U.S. person and are eligible for such an exemption or reduction under an applicable tax treaty. You should consult
+your tax adviser regarding the tax treatment of the securities, including the possibility of obtaining a refund of any amounts withheld
+and the certification requirement described above.
+
+As discussed under “United
+States Federal Tax Considerations—Tax Consequences to Non-U.S. Holders” in the accompanying product supplement, Section 871(m)
+of the Code and Treasury regulations promulgated thereunder (“Section 871(m)”) generally impose a 30% withholding tax on dividend
+equivalents paid or deemed paid to Non-U.S. Holders with respect to certain financial instruments linked to U.S. equities (“U.S.
+Underlying Equities”) or indices that include U.S. Underlying Equities. Section 871(m) generally applies to instruments
+that substantially replicate the economic performance of one or more U.S. Underlying Equities, as determined based on tests set forth
+in the applicable Treasury regulations. However, the regulations, as modified by an IRS notice, exempt financial instruments
+issued prior to January 1, 2027 that do not have a “delta” of one. Based on the terms of the securities and representations
+provided by us, our counsel is of the opinion that the securities should not be treated as transactions that have a “delta”
+of one within the meaning of the regulations with respect to any U.S. Underlying Equity and, therefore, should not be subject to withholding
+tax under Section 871(m).
+
+A determination that the securities
+are not subject to Section 871(m) is not binding on the IRS, and the IRS may disagree with this treatment. Moreover, Section
+871(m) is complex and its application may depend on your particular circumstances, including your other transactions. You should
+consult your tax adviser regarding the potential application of Section 871(m) to the securities.
+
+We will not be required to pay any additional amounts with respect to
+amounts withheld.
+
+You should read the section entitled “United States Federal
+Tax Considerations” in the accompanying product supplement. The preceding discussion, when read in combination with that
+section, constitutes the full opinion of Davis Polk & Wardwell LLP regarding the material U.S. federal tax consequences of owning
+and disposing of the securities.
+
+| August 2026 | PS- 15 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+You should also consult your tax adviser regarding all aspects of
+the U.S. federal income and estate tax consequences of an investment in the securities and any tax consequences arising under the laws
+of any state, local or non-U.S. taxing jurisdiction.
+
+CGMI, an affiliate of Citigroup Global Markets Holdings Inc. and the
+underwriter of the sale of the securities, is acting as principal and will receive an underwriting fee of $10.00 for each security sold
+in this offering. The amount of the underwriting fee to CGMI will be equal to the placement fee paid to the placement agents. J.P. Morgan
+Securities LLC and JPMorgan Chase Bank, N.A. will act as placement agents for the securities and, from the underwriting fee to CGMI, will
+receive a placement fee of $10.00 for each security they sell in this offering to accounts other than fiduciary accounts. CGMI and the
+placement agents will forgo an underwriting fee and placement fee for sales to fiduciary accounts. In addition to the underwriting
+fee, CGMI and its affiliates may profit from hedging activity related to this offering, even if the value of the securities declines.
+See “Use of Proceeds and Hedging” in the accompanying prospectus. For the avoidance of doubt, the fees and commissions described
+on the cover of this pricing
+supplement will not be rebated or subject to amortization if the securities
+are automatically redeemed.
+
+See “Plan of Distribution; Conflicts of Interest” in the
+accompanying product supplement and “Plan of Distribution” in each of the accompanying prospectus supplement and prospectus
+for additional information.
+
+Valuation of the Securities
+
+CGMI calculated the estimated value of the securities set forth on the
+cover page of this pricing supplement based on proprietary pricing models. CGMI’s proprietary pricing models generated an estimated
+value for the securities by estimating the value of a hypothetical package of financial instruments that would replicate the payout on
+the securities, which consists of a fixed-income bond (the “bond component”) and one or more derivative instruments underlying
+the economic terms of the securities (the “derivative component”). CGMI calculated the estimated value of the bond component
+using a discount rate based on our internal funding rate. CGMI calculated the estimated value of the derivative component based on a proprietary
+derivative-pricing model, which generated a theoretical price for the instruments that constitute the derivative component based on various
+inputs, including the factors described under “Summary Risk Factors—The value of the securities prior to maturity will fluctuate
+based on many unpredictable factors” in this pricing supplement, but not including our or Citigroup Inc.’s creditworthiness.
+These inputs may be market-observable or may be based on assumptions made by CGMI in its discretionary judgment.
+
+For a period of approximately six months following issuance of the securities,
+the price, if any, at which CGMI would be willing to buy the securities from investors, and the value that will be indicated for the securities
+on any brokerage account statements prepared by CGMI or its affiliates (which value CGMI may also publish through one or more financial
+information vendors), will reflect a temporary upward adjustment from the price or value that would otherwise be determined. This temporary
+upward adjustment represents a portion of the hedging profit expected to be realized by CGMI or its affiliates over the term of the securities.
+The amount of this temporary upward adjustment will decline to zero on a straight-line basis over the six-month temporary adjustment period.
+However, CGMI is not obligated to buy the securities from investors at any time. See “Summary Risk Factors—The securities
+will not be listed on any securities exchange and you may not be able to sell them prior to maturity.”
+
+Validity of the Securities
+
+In the opinion of Davis Polk & Wardwell LLP, as special products
+counsel to Citigroup Global Markets Holdings Inc., when the securities offered by this pricing supplement have been issued by Citigroup
+Global Markets Holdings Inc. pursuant to the indenture, the trustee and/or paying agent has made, in accordance with instructions from
+Citigroup Global Markets Holdings Inc., appropriate entries or notations in its records relating to the master global note that represents
+such securities and such securities have been delivered against payment therefor, such securities and the related guarantee of Citigroup
+Inc. will be valid and binding obligations of Citigroup Global Markets Holdings Inc. and Citigroup Inc., respectively, enforceable in
+accordance with their respective terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights
+generally, concepts of reasonableness and equitable principles of general applicability (including, without limitation, concepts of good
+faith, fair dealing and the lack of bad faith), provided that such counsel expresses no opinion as to (x) the effect of fraudulent conveyance,
+fraudulent transfer or similar provision of applicable law on the conclusions expressed above or (y) the validity, legally binding effect
+or enforceability of any provision that permits holders to collect any portion of the stated principal amount upon acceleration of the
+securities to the extent determined to constitute unearned interest. This opinion is given as of the date of this pricing supplement and
+is limited to the laws of the State of New York and the General Corporation Law of the State of Delaware, except that such counsel expresses
+no opinion as to (i) any law, rule or regulation that is applicable to Citigroup Global Markets Holdings Inc. or Citigroup Inc., the indenture,
+the securities, the related guarantee (together with the indenture and the securities, the “Documents”) or such transactions
+solely because such law, rule or regulation is part of a regulatory regime applicable to any party to any of the Documents or any of its
+affiliates due to the specific assets or business of such party or such affiliate or (ii) any law, rule or regulation relating to national
+security.
+
+In addition, this opinion is subject to the assumptions set forth in
+the letter of Davis Polk & Wardwell LLP dated February 25, 2026, which has been filed as an exhibit to the Registration Statement
+on Form S-3 by Citigroup Global Markets Holdings Inc. and Citigroup Inc. on February 25, 2026, that the Documents have been duly authorized,
+executed, authenticated (if applicable) and delivered by, and
+
+| August 2026 | PS- 16 |
+| --- | --- |
+
+| Citigroup Global Markets Holdings Inc. |
+| --- |
+| Autocallable Phoenix Securities Based on the Worst Performing of the MSCI Emerging Markets Index and the S&P 500 ® Index Due September 7, 2027 |
+
+are each a valid, binding and enforceable agreement of, each party thereto
+(other than as expressly covered above in respect of Citigroup Global Markets Holdings Inc. and Citigroup Inc.) and that the terms of
+the securities and the issuance, execution, delivery and performance by Citigroup Global Markets Holdings Inc. and Citigroup Inc. of the
+securities and the related guarantee do not contravene, or constitute a default under, any judgment, injunction, order or decree or any
+agreement or other instrument binding upon Citigroup Global Markets Holdings Inc. or Citigroup Inc.
+
+©
+2026 Citigroup Global Markets Inc. All rights reserved.
+Citi and Citi and Arc Design are trademarks and service marks of Citigroup Inc. or its affiliates and are used and registered throughout
+the world.
+
+| August 2026 | PS- 17 |
+| --- | --- |

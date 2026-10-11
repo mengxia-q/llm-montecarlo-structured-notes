@@ -1,0 +1,1083 @@
+424B2
+
+1
+
+ef20076553_424b2.htm
+
+PRICING SUPPLEMENT
+
+| PRICING SUPPLEMENT Dated June 18, 2026 Filed Pursuant to Rule 424(b)(2) Registration Statement No. 333-283969 (To Prospectus dated February 26, 2025, Underlier Supplement dated February 26, 2025 and Product Supplement MLN-EI-1 dated February 26, 2025) |
+| --- |
+
+The Toronto-Dominion Bank $14,830,260 Trigger Autocallable Contingent Yield Notes
+
+Linked to the least performing of the Russell 2000
+®
+Index and the EURO STOXX 50
+®
+Index due June 24, 2036
+
+| Investment Description |
+| --- |
+
+The Toronto-Dominion Bank Trigger Autocallable Contingent Yield Notes (the “Notes”) are senior, unsecured debt obligations issued by The Toronto-Dominion Bank (“TD” or the “issuer”)
+linked to the least performing of the Russell 2000
+®
+Index and the EURO STOXX 50
+®
+Index (each an “underlying asset” and together the “underlying assets”). If the closing level of each underlying asset is equal to or greater
+than its coupon barrier on an observation date (including the final valuation date), TD will pay you a contingent coupon on the related coupon payment date. If the closing level of any underlying asset is less than its coupon barrier on an
+observation date, no contingent coupon will be paid for the related coupon payment date. TD will automatically call the Notes early if the closing level of each underlying asset on any observation date (beginning after 12 months) prior to the
+final valuation date is equal to or greater than its call threshold level, which is a level of each underlying asset equal to a percentage of its initial level, as indicated below. If the Notes are subject to an automatic call, TD will pay you on
+the coupon payment date corresponding to such observation date (the “call settlement date”) a cash payment per Note equal to the principal amount plus any contingent coupon otherwise due, and no further payments will be made on the Notes. If the
+Notes are not subject to an automatic call and the final level of each underlying asset is equal to or greater than its downside threshold, at maturity, TD will pay you a cash payment per Note equal to the principal amount. If the Notes are not
+subject to an automatic call and the final level of any underlying asset is less than its downside threshold, at maturity, TD will pay you a cash payment per Note that is less than the principal amount, if anything, resulting in a percentage loss
+on your initial investment equal to the percentage decline in the closing level of the underlying asset with the lowest underlying return (the “least performing underlying asset”) from its initial level to its final level over the term of the
+Notes and, in extreme situations, you could lose all of your initial investment.
+Investing in the Notes involves significant risks. You will lose a significant portion or all of your initial investment if the
+Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold. You may not receive any contingent coupons during the term of the Notes. You will be exposed to the market risk of each
+underlying asset on each observation date, including the final valuation date, and any decline in the level of one underlying asset may negatively affect your return and will not be offset or mitigated by a lesser decline or any potential
+increase in the level of any other underlying asset. Higher contingent coupon rates are generally associated with a greater risk of loss. The contingent repayment of principal only applies if you hold the Notes until the maturity date. Any
+payment on the Notes, including any repayment of principal, is subject to the creditworthiness of TD. If TD were to default on its obligations, you may not receive any amounts owed to you under the Notes and you could lose all of your initial
+investment.
+
+| Features |
+| --- |
+
+| ❑ | Potential for Periodic Contingent Coupons — TD will pay a contingent coupon on the related coupon payment date if the closing level of each underlying asset is equal to or greater than its coupon barrier on an observation date (including the final valuation date). Otherwise, if the closing level of any underlying asset is less than its coupon barrier on an observation date, no contingent coupon will be paid for the related coupon payment date. |
+| --- | --- |
+
+| ❑ | Automatic Call Feature — TD will automatically call the Notes and pay you the principal amount of your Notes plus any contingent coupon otherwise due on the related coupon payment date if the closing level of each underlying asset is equal to or greater than its call threshold level on any observation date (beginning after 12 months) prior to the final valuation date. If the Notes were previously subject to an automatic call, no further payments will be owed to you on the Notes. If the Notes are not subject to an automatic call, investors will have the potential for downside market risk at maturity. |
+| --- | --- |
+
+| ❑ | Contingent Repayment of Principal Amount at Maturity with Potential for Full Downside Market Exposure — If the Notes are not subject to an automatic call and the final level of each underlying asset is equal to or greater than its downside threshold, at maturity, TD will pay you a cash payment per Note equal to the principal amount. If, however, the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold, at maturity, TD will pay you a cash payment per Note that is less than the principal amount, if anything, resulting in a percentage loss on your initial investment that is equal to the negative return of the least performing underlying asset over the term of the Notes and, in extreme situations, you could lose all of your initial investment. The contingent repayment of principal applies only if you hold the Notes until the maturity date. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of TD. |
+| --- | --- |
+
+| Key Dates |
+| --- |
+
+| Trade Date* | June 18, 2026 |
+| --- | --- |
+| Settlement Date* | June 24, 2026 |
+| Observation Dates** | Quarterly (callable after 12 months) (see page 4) |
+| Final Valuation Date** | June 18, 2036 |
+| Maturity Date** | June 24, 2036 |
+
+| * | We expect to deliver the Notes against payment on the third business day following the trade date. Under Rule 15c6-1 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), trades in the secondary market generally are required to settle in one business day (T+1), unless the parties to a trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes in the secondary market on any date prior to one business day before delivery of the Notes will be required, by virtue of the fact that each Note initially will settle in three business days (T+3), to specify alternative settlement arrangements to prevent a failed settlement of the secondary market trade. |
+| --- | --- |
+| ** | Subject to postponement in the event of a market disruption event, as described under “Additional Terms of the Notes” herein. |
+
+| Notice to investors: the Notes are significantly riskier than conventional debt instruments. The issuer is not necessarily obligated to repay all of your initial investment in the Notes at maturity, and the Notes may have the same downside market risk as that of the least performing underlying asset. This market risk is in addition to the credit risk inherent in purchasing a debt obligation of TD. You should not purchase the Notes if you do not understand or are not comfortable with the significant risks involved in investing in the Notes. You should carefully consider the risks described under “Key Risks” beginning on page 5 and under “Additional Risk Factors Specific to the Notes” beginning on page PS-7 of the product supplement MLN-EI-1 dated February 26, 2025 (the “product supplement”) and “Risk Factors” on page 1 of the prospectus dated February 26, 2025 (the “prospectus”). Events relating to any of those risks, or other risks and uncertainties, could adversely affect the market value of, and the return on, your Notes. You may lose a significant portion or all of your initial investment in the Notes. The Notes will not be listed or displayed on any securities exchange or any electronic communications network. |
+| --- |
+
+| Note Offering |
+| --- |
+
+The Notes are offered at a minimum investment of 100 Notes at $10 per Note (representing a $1,000 investment), and integral multiples of $10 in excess thereof.
+
+| Underlying Assets | Bloomberg Tickers | Contingent Coupon Rate | Initial Levels | Call Threshold Levels | Coupon Barriers | Downside Thresholds | CUSIP | ISIN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Russell 2000 ® Index | RTY | 8.30% per annum | 2,979.765 | 2,979.765, which is 100.00% of its Initial Level | 2,234.824, which is 75.00% of its Initial Level | 2,234.824, which is 75.00% of its Initial Level | 89116V485 | US89116V4858 |
+| EURO STOXX 50 ® Index | SX5E | 8.30% per annum | 6,323.27 | 6,323.27, which is 100.00% of its Initial Level | 4,742.45, which is 75.00% of its Initial Level | 4,742.45, which is 75.00% of its Initial Level | 89116V485 | US89116V4858 |
+
+The estimated value of your Notes at the time the terms of your Notes were set on the trade date was $9.324 per Note, as discussed further under “Key Risks — Risks Relating to
+Estimated Value and Liquidity” beginning on page 7 and “Additional Information Regarding the Estimated Value of the Notes” herein. The estimated value is less than the issue price of the Notes.
+
+See “Additional Information About TD and the Notes” on page ii. The Notes will have the terms set forth in the accompanying product supplement relating to the
+Notes, dated February 26, 2025, the accompanying prospectus dated February 26, 2025 and this document.
+
+Neither the Securities and Exchange Commission (the “SEC”) nor any state securities commission has approved or disapproved of these Notes or determined that this
+pricing supplement, the product supplement, the underlier supplement or the prospectus is truthful or complete. Any representation to the contrary is a criminal offense.
+
+The Notes are unsecured and are not savings accounts or insured deposits of a bank. The Notes are not insured or guaranteed by the Canada Deposit Insurance Corporation, the U.S.
+Federal Deposit Insurance Corporation or any other governmental agency or instrumentality of Canada or the United States. The Notes will not be listed or displayed on any securities exchange or electronic communications network.
+
+| Offering of Notes | Issue Price to Public | Issue Price to Public | Underwriting Discount (1) | Underwriting Discount (1) | Proceeds to TD (1) | Proceeds to TD (1) |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Total | Per Note | Total | Per Note | Total | Per Note |
+| Notes linked to the least performing of the Russell 2000 ® Index and the EURO STOXX 50 ® Index | $14,830,260.00 | $10.00 | $519,059.10 | $0.35 | $14,311,200.90 | $9.65 |
+
+(1)
+TD Securities (USA) LLC (“TDS”) has agreed to purchase the Notes from TD at the issue price to public less the underwriting discount specified above and has agreed to sell the Notes
+to UBS Financial Services Inc. (“UBS”) at the issue price to public less the underwriting discount received. UBS or one of its affiliates is to conduct hedging activities for us in connection with the Notes. These amounts exclude any profits to
+UBS, TD or any of our or their respective affiliates from hedging. TD will reimburse TDS for certain expenses in connection with its role in the offer and sale of the Notes, and TD will pay TDS a fee in connection with its role in the offer and
+sale of the Notes. See “Key Risks” and “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein.
+
+| TD Securities (USA) LLC | UBS Financial Services Inc. |
+| --- | --- |
+
+| Additional Information About TD and the Notes |
+| --- |
+
+You should read this pricing supplement together with the prospectus, as supplemented by the product supplement MLN-EI-1 (the “product supplement”) and the underlier supplement (the
+“underlier supplement”), relating to our Senior Debt Securities, Series H, of which these Notes are a part. Capitalized terms used but not defined in this pricing supplement will have the meanings given to them in the product supplement. In the
+event of any conflict the following hierarchy will govern: first, this pricing supplement; second, the product supplement; third, the underlier supplement; and last, the prospectus.
+The Notes
+vary from the terms described in the product supplement in several important ways. You should read this pricing supplement carefully.
+
+This pricing supplement, together with the documents listed below, contains the terms of the Notes and supersedes all prior or contemporaneous oral statements as well as any other
+written materials including preliminary or indicative pricing terms, correspondence, trade ideas, structures for implementation, sample structures, brochures or other educational materials of ours. You should carefully consider, among other things,
+the matters set forth in “Key Risks” herein, “Additional Risk Factors Specific to the Notes” in the product supplement and “Risk Factors” in the prospectus, as the Notes involve risks not associated with conventional debt securities. We urge you to
+consult your investment, legal, tax, accounting and other advisors concerning an investment in the Notes. You may access these documents on the SEC website at www.sec.gov as follows (or if that address has changed, by reviewing our filings for the
+relevant date on the SEC website):
+
+| ♦ | Prospectus dated February 26, 2025: |
+| --- | --- |
+
+http://www.sec.gov/Archives/edgar/data/947263/000119312525036639/d931193d424b5.htm
+
+| ♦ | Underlier Supplement dated February 26, 2025: |
+| --- | --- |
+
+http://www.sec.gov/Archives/edgar/data/947263/000114036125006121/ef20044458_424b3.htm
+
+| ♦ | Product Supplement MLN-EI-1 dated February 26, 2025: |
+| --- | --- |
+
+http://www.sec.gov/Archives/edgar/data/947263/000114036125006123/ef20044459_424b3.htm
+
+Our Central Index Key, or CIK, on the SEC website is 0000947263. As used in this pricing supplement, the “Bank,” “we,” “us,” or “our” refers to The Toronto-Dominion Bank and its
+subsidiaries.
+
+We reserve the right to change the terms of, or reject any offer to purchase, the Notes prior to their issuance. In the event of any changes to the terms of the Notes, we will notify
+you and you will be asked to accept such changes in connection with your purchase. You may also choose to reject such changes, in which case we may reject your offer to purchase.
+
+ii
+
+| Investor Suitability |
+| --- |
+
+The Notes may be suitable for you if:
+
+| ♦ | You fully understand the risks inherent in an investment in the Notes, including the risk of loss of a significant portion or all of your initial investment. |
+| --- | --- |
+
+| ♦ | You understand and accept that an investment in the Notes is linked to the performance of the least performing underlying asset and not a basket of the underlying assets, that you will be exposed to the individual market risk of each underlying asset on each observation date, including the final valuation date, and that you will lose a significant portion or all of your initial investment if the final level of any underlying asset is less than its downside threshold. |
+| --- | --- |
+
+| ♦ | You can tolerate a loss of a significant portion or all of your initial investment and are willing to make an investment that may have the same downside market risk as that of a hypothetical investment in the least performing underlying asset or the stocks comprising the least performing underlying asset (its “underlying constituents”) . |
+| --- | --- |
+
+| ♦ | You are willing to receive few or no contingent coupons and believe that the closing level of each underlying asset will be equal to or greater than its coupon barrier on each observation date and that the final level of each underlying asset will be equal to or greater than its downside threshold. |
+| --- | --- |
+
+| ♦ | You understand and accept that you will not participate in any increase in the level of any of the underlying assets and that your potential return is limited to any contingent coupons. |
+| --- | --- |
+
+| ♦ | You can tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the underlying assets. |
+| --- | --- |
+
+| ♦ | You are willing to invest in the Notes based on the contingent coupon rate specified on the cover hereof. |
+| --- | --- |
+
+| ♦ | You are willing to invest in the Notes based on the call threshold levels, downside thresholds and coupon barriers specified on the cover hereof. |
+| --- | --- |
+
+| ♦ | You do not seek guaranteed current income from your investment and are willing to forgo any dividends paid on the underlying constituents. |
+| --- | --- |
+
+| ♦ | You are willing to invest in Notes that may be subject to an automatic call and you are otherwise willing to hold such Notes to maturity and accept that there may be little or no secondary market for the Notes. |
+| --- | --- |
+
+| ♦ | You understand and are willing to accept the risks associated with the underlying assets. |
+| --- | --- |
+
+| ♦ | You are willing to assume the credit risk of TD for all payments under the Notes, and understand that if TD defaults on its obligations you may not receive any payments due to you including any repayment of principal. |
+| --- | --- |
+
+The Notes may not be suitable for you if:
+
+| ♦ | You do not fully understand the risks inherent in an investment in the Notes, including the risk of loss of a significant portion or all of your initial investment. |
+| --- | --- |
+
+| ♦ | You do not understand or are unwilling to accept that an investment in the Notes is linked to the performance of the least performing underlying asset and not a basket of the underlying assets, that you will be exposed to the individual market risk of each underlying asset on each observation date, including the final valuation date, or that you will lose a significant portion or all of your initial investment if the final level of any underlying asset is less than its downside threshold. |
+| --- | --- |
+
+| ♦ | You are not willing to make an investment that may have the same downside market risk as that of a hypothetical investment in the least performing underlying asset or its underlying constituents. |
+| --- | --- |
+
+| ♦ | You are unwilling to receive few or no contingent coupons during the term of the Notes or believe that the closing level of at least one of the underlying assets will decline during the term of the Notes and is likely to be less than its coupon barrier on each observation date or that the final level of any underlying asset will be less than its downside threshold. |
+| --- | --- |
+
+| ♦ | You seek an investment that participates in the increase in the levels of the underlying assets or that has unlimited return potential. |
+| --- | --- |
+
+| ♦ | You cannot tolerate fluctuations in the price of the Notes prior to maturity that may be similar to or exceed the downside fluctuations in the levels of the underlying assets. |
+| --- | --- |
+
+| ♦ | You are unwilling to invest in the Notes based on the contingent coupon rate specified on the cover hereof. |
+| --- | --- |
+
+| ♦ | You are unwilling to invest in the Notes based on the call threshold levels, downside thresholds or coupon barriers specified on the cover hereof. |
+| --- | --- |
+
+| ♦ | You seek guaranteed current income from your investment or prefer to receive any dividends paid on the underlying constituents. |
+| --- | --- |
+
+| ♦ | You are unable or unwilling to hold Notes that may be subject to an automatic call, or you are otherwise unable or unwilling to hold such Notes to maturity or you seek an investment for which there will be an active secondary market. |
+| --- | --- |
+
+| ♦ | You do not understand or are unwilling to accept the risks associated with the underlying assets. |
+| --- | --- |
+
+| ♦ | You are not willing to assume the credit risk of TD for all payments under the Notes, including any repayment of principal. |
+| --- | --- |
+
+The suitability considerations identified above are not exhaustive. Whether or not the Notes are a suitable investment for you will depend on your individual circumstances. You
+are urged to consult your investment, legal, tax, accounting and other advisors and carefully consider the suitability of an investment in the Notes in light of your particular circumstances. You should review “Information About the Underlying
+Assets” herein for more information on the underlying assets. You should also review carefully the “Key Risks” section herein, “Additional Risk Factors Specific to the Notes” in the product supplement and “Risk Factors” in the prospectus for
+risks related to an investment in the Notes.
+
+1
+
+| Final Terms |
+| --- |
+
+| Issuer | The Toronto-Dominion Bank | The Toronto-Dominion Bank |
+| --- | --- | --- |
+| Issue | Senior Debt Securities, Series H | Senior Debt Securities, Series H |
+| Agents | TD Securities (USA) LLC (“TDS”) and UBS Financial Services Inc. (“UBS”) | TD Securities (USA) LLC (“TDS”) and UBS Financial Services Inc. (“UBS”) |
+| Principal Amount | $10 per Note | $10 per Note |
+| Term | Approximately 10 years, unless subject to an automatic call. | Approximately 10 years, unless subject to an automatic call. |
+| Underlying Assets | Russell 2000 ® Index and the EURO STOXX 50 ® Index | Russell 2000 ® Index and the EURO STOXX 50 ® Index |
+| Contingent Coupon & Contingent Coupon Rate | If the closing level of each underlying asset is equal to or greater than its coupon barrier on any observation date (including the final valuation date), TD will pay you the contingent coupon applicable to that observation date on the relevant coupon payment date. If the closing level of any underlying asset is less than its coupon barrier on any observation date (including the final valuation date), the contingent coupon applicable to that observation date will not accrue or be payable and TD will not make any payment to you on the relevant coupon payment date. The contingent coupon is a fixed amount based upon equal periodic installments at a per annum rate (the “contingent coupon rate”). The table below reflects the contingent coupon rate and contingent coupon for each Note that would be applicable to each observation date on which the above conditions are satisfied. | If the closing level of each underlying asset is equal to or greater than its coupon barrier on any observation date (including the final valuation date), TD will pay you the contingent coupon applicable to that observation date on the relevant coupon payment date. If the closing level of any underlying asset is less than its coupon barrier on any observation date (including the final valuation date), the contingent coupon applicable to that observation date will not accrue or be payable and TD will not make any payment to you on the relevant coupon payment date. The contingent coupon is a fixed amount based upon equal periodic installments at a per annum rate (the “contingent coupon rate”). The table below reflects the contingent coupon rate and contingent coupon for each Note that would be applicable to each observation date on which the above conditions are satisfied. |
+| | Contingent Coupon Rate | 8.30% per annum |
+| | Contingent Coupon | $0.2075 |
+| | Contingent coupons on the Notes are not guaranteed. TD will not pay you the contingent coupon for any observation date on which the closing level of any underlying asset is less than its coupon barrier. | Contingent coupons on the Notes are not guaranteed. TD will not pay you the contingent coupon for any observation date on which the closing level of any underlying asset is less than its coupon barrier. |
+| Automatic Call Feature | TD will automatically call the Notes if the closing level of each underlying asset on any observation date (beginning after 12 months) other than the final valuation date is equal to or greater than its call threshold level. If the Notes are subject to an automatic call, TD will pay you on the corresponding coupon payment date (the “call settlement date”) a cash payment per Note equal to the principal amount plus any contingent coupon otherwise due (the “call settlement amount”). Following an automatic call, no further payments will be made on the Notes. | TD will automatically call the Notes if the closing level of each underlying asset on any observation date (beginning after 12 months) other than the final valuation date is equal to or greater than its call threshold level. If the Notes are subject to an automatic call, TD will pay you on the corresponding coupon payment date (the “call settlement date”) a cash payment per Note equal to the principal amount plus any contingent coupon otherwise due (the “call settlement amount”). Following an automatic call, no further payments will be made on the Notes. |
+
+| Payment at Maturity (per Note) | If the Notes are not subject to an automatic call and the final level of each underlying asset is equal to or greater than its downside threshold, TD will pay you a cash payment equal to: Principal Amount of $10 If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold, TD will pay you a cash payment that is less than the principal amount, if anything, equal to: $10 × (1 + Underlying Return of the Least Performing Underlying Asset) In this scenario, you will suffer a percentage loss on your initial investment equal to the underlying return of the least performing underlying asset, regardless of the underlying return of any other underlying asset and, in extreme situations, you could lose all of your initial investment. |
+| --- | --- |
+| Underlying Return | With respect to each underlying asset, the quotient, expressed as a percentage, of the following formula: Final Level – Initial Level Initial Level |
+| Least Performing Underlying Asset | The underlying asset with the lowest underlying return as compared to any other underlying asset. |
+| Call Threshold Level (1) | A specified level of each underlying asset that is equal to a percentage of its initial level, as specified on the cover hereof. |
+| Downside Threshold (1) | A specified level of each underlying asset that is less than its respective initial level, equal to a percentage of its initial level, as specified on the cover hereof. |
+| Coupon Barrier (1) | A specified level of each underlying asset that is less than its respective initial level, equal to a percentage of its initial level, as specified on the cover hereof. |
+| Initial Level (1) | The closing level of each underlying asset on the trade date, as specified on the cover hereof. |
+| Final Level (1) | The closing level of each underlying asset on the final valuation date. |
+| Trading Day | A day on which trading is scheduled to be generally conducted on the primary exchange(s) or market(s) on which the underlying constituents are listed or admitted for trading. |
+| Business Day | Any day that is a Monday, Tuesday, Wednesday, Thursday or Friday that is neither a legal holiday nor a day on which banking institutions are authorized or required by law to close in New York City. |
+| Calculation Agent | TD |
+| Listing | The Notes will not be listed or displayed on any securities exchange or electronic communications network. |
+| Canadian Bail-in | The Notes are not bail-inable debt securities (as defined in the prospectus) under the Canada Deposit Insurance Corporation Act. |
+| Change in Law Event | See “Additional Terms of the Notes” herein. |
+
+| (1) | As determined by the calculation agent and as may be adjusted as described under “Additional Terms of the Notes” herein. |
+| --- | --- |
+
+2
+
+| Investment Timeline |
+| --- |
+
+| Trade Date | The initial level of each underlying asset is observed and the final terms of the Notes are set. |
+| --- | --- |
+| Observation Dates (Quarterly, callable beginning after 12 months) | If the closing level of each underlying asset is equal to or greater than its coupon barrier on any observation date (including the final valuation date), TD will pay you a contingent coupon on the corresponding coupon payment date. The Notes will be subject to an automatic call if the closing level of each underlying asset on any observation date (beginning after 12 months) other than the final valuation date is equal to or greater than its call threshold level. If the Notes are subject to an automatic call, TD will pay you on the call settlement date a cash payment per Note equal to the principal amount plus any contingent coupon otherwise due. Following an automatic call, no further payments will be made on the Notes. |
+| Maturity Date | The final level of each underlying asset is observed on the final valuation date, the underlying return of each underlying asset is calculated and the least performing underlying asset is determined. If the Notes are not subject to an automatic call and the final level of each underlying asset is equal to or greater than its downside threshold, TD will pay you a cash payment per Note equal to: Principal Amount of $10 If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold, TD will pay you a cash payment per Note that is less than the principal amount, if anything, equal to: $10 × (1 + Underlying Return of the Least Performing Underlying Asset) In this scenario, you will suffer a percentage loss on your initial investment equal to the underlying return of the least performing underlying asset, regardless of the underlying return of any other underlying asset and, in extreme situations, you could lose all of your initial investment. |
+
+Investing in the Notes involves significant risks. You may lose a significant portion or all of your initial investment. Any payment on the Notes, including any
+repayment of principal, is subject to the creditworthiness of TD. If TD were to default on its obligations, you may not receive any amounts owed to you under the Notes and you could lose all of your initial investment.
+
+You will lose a significant portion or all of your initial investment if the Notes are not subject to an automatic call and the final level of any underlying asset
+is less than its downside threshold. You may not receive any contingent coupons during the term of the Notes. You will be exposed to the market risk of each underlying asset on each observation date (including the final valuation date) and any
+decline in the level of one underlying asset may negatively affect your return and will not be offset or mitigated by a lesser decline or any potential increase in the level of any other underlying asset.
+
+3
+
+| Observation Dates (1) and Coupon Payment Dates (1)(2) |
+| --- |
+
+| Observation Dates | Coupon Payment Dates | Observation Dates | Coupon Payment Dates |
+| --- | --- | --- | --- |
+| September 18, 2026* | September 22, 2026* | September 18, 2031 | September 22, 2031 |
+| December 18, 2026* | December 22, 2026* | December 18, 2031 | December 22, 2031 |
+| March 18, 2027* | March 22, 2027* | March 18, 2032 | March 22, 2032 |
+| June 21, 2027* | June 23, 2027 | June 21, 2032 | June 23, 2032 |
+| September 20, 2027 | September 22, 2027 | September 20, 2032 | September 22, 2032 |
+| December 20, 2027 | December 22, 2027 | December 20, 2032 | December 22, 2032 |
+| March 20, 2028 | March 22, 2028 | March 18, 2033 | March 22, 2033 |
+| June 20, 2028 | June 22, 2028 | June 21, 2033 | June 23, 2033 |
+| September 18, 2028 | September 20, 2028 | September 19, 2033 | September 21, 2033 |
+| December 18, 2028 | December 20, 2028 | December 19, 2033 | December 21, 2033 |
+| March 19, 2029 | March 21, 2029 | March 20, 2034 | March 22, 2034 |
+| June 18, 2029 | June 21, 2029 | June 20, 2034 | June 22, 2034 |
+| September 18, 2029 | September 20, 2029 | September 18, 2034 | September 20, 2034 |
+| December 18, 2029 | December 20, 2029 | December 18, 2034 | December 20, 2034 |
+| March 18, 2030 | March 20, 2030 | March 19, 2035 | March 21, 2035 |
+| June 18, 2030 | June 21, 2030 | June 18, 2035 | June 21, 2035 |
+| September 18, 2030 | September 20, 2030 | September 18, 2035 | September 20, 2035 |
+| December 18, 2030 | December 20, 2030 | December 18, 2035 | December 20, 2035 |
+| March 18, 2031 | March 20, 2031 | March 18, 2036 | March 20, 2036 |
+| June 18, 2031 | June 23, 2031 | Final Valuation Date | Maturity Date |
+
+| * | The Notes are not callable until the first potential call settlement date, which is June 23, 2027. |
+| --- | --- |
+
+| (1) | Subject to the market disruption event provisions set forth under “Additional Terms of the Notes” herein. |
+| --- | --- |
+
+| (2) | Two business day(s) following each observation date, except that the coupon payment date for the final valuation date is the maturity date. If you are able to sell the Notes in the secondary market on an observation date, the purchaser of the Notes will be deemed to be the record holder on the applicable record date and therefore you will not be entitled to any payment attributable to that observation date. |
+| --- | --- |
+
+4
+
+| Key Risks |
+| --- |
+
+An investment in the Notes involves significant risks. Investing in the Notes is not equivalent to a hypothetical investment in the least performing underlying asset. Some of the key
+risks that apply to the Notes are summarized below, but we urge you to read the more detailed explanation of risks relating to the Notes under “Additional Risk Factors Specific to the Notes” in the product supplement and “Risk Factors” in the
+prospectus. We also urge you to consult your investment, legal, tax, accounting and other advisors concerning an investment in the Notes in light of your particular circumstances.
+
+Risks Relating to Return Characteristics
+
+| ♦ | Risk of loss at maturity — The Notes differ from ordinary debt securities in that TD will not necessarily make periodic coupon payments or repay the full principal amount of the Notes at maturity. If the Notes are not subject to an automatic call and the final level of any underlying asset is less than its downside threshold, you will lose a percentage of your principal amount equal to the underlying return of the least performing underlying asset and in extreme situations, you could lose all of your initial investment. |
+| --- | --- |
+
+| ♦ | The stated payout from the issuer applies only if you hold your Notes to maturity — You should be willing to hold your Notes to maturity. If you are able to sell your Notes prior to an automatic call or maturity in the secondary market, you may have to sell them at a loss relative to your initial investment even if the level of each underlying asset at such time is equal to or greater than its downside threshold. All payments on the Notes are subject to the creditworthiness of TD. |
+| --- | --- |
+
+| ♦ | You may not receive any contingent coupons with respect to your Notes — TD will not necessarily make periodic coupon payments on the Notes. If the closing level of any underlying asset is less than its respective coupon barrier on an observation date, TD will not pay you the contingent coupon applicable to such observation date. This will be the case even if the closing level of each other underlying asset is equal to or greater than its respective coupon barrier on that observation date. If the closing level of any underlying asset is less than its coupon barrier on each observation date, TD will not pay you any contingent coupons during the term of, and you will not receive a positive return on, your Notes. Generally, this non-payment of the contingent coupon coincides with a period of greater risk of principal loss on your Notes. |
+| --- | --- |
+
+| ♦ | Your potential return on the Notes is limited to any contingent coupons, you will not participate in any increase of any underlying asset or underlying constituents and you will not have the same rights as holders of any underlying constituents — The return potential of the Notes is limited to the pre-specified contingent coupon rate, regardless of the increase of the underlying assets. In addition, your return on the Notes will vary based on the number of observation dates, if any, on which the requirements of the contingent coupon have been met prior to maturity or an automatic call. Because the Notes may be subject to an automatic call as early as the first potential call settlement date, the total return on the Notes could be less than if the Notes remained outstanding until maturity. Further, if the Notes are subject to an automatic call, you will not receive any contingent coupons or any other payment in respect of any coupon payment date after the call settlement date, and your return on the Notes could be less than if the Notes remained outstanding until maturity. If the Notes are not subject to an automatic call, you may be subject to the decline of the least performing underlying asset even though you cannot participate in any increase in the level of any underlying asset. As a result, the return on an investment in the Notes could be less than the return on a hypothetical investment in any or all of the underlying assets or underlying constituents. In addition, as an owner of the Notes, you will not have voting rights or any other rights of a holder of any underlying constituents. |
+| --- | --- |
+
+| ♦ | A higher contingent coupon rate or lower downside thresholds or coupon barriers may reflect greater expected volatility of each of the underlying assets, and greater expected volatility generally indicates an increased risk of loss at maturity — The economic terms for the Notes, including the contingent coupon rate, coupon barriers and downside thresholds, are based, in part, on the expected volatility of each underlying asset at the time the terms of the Notes are set. “Volatility” refers to the frequency and magnitude of changes in the level of each underlying asset. The greater the expected volatility of each of the underlying assets as of the trade date, the greater the expectation is as of that date that the closing level of an underlying asset could be less than its respective coupon barrier on the observation dates and that the final level of an underlying asset could be less than its respective downside threshold and, as a consequence, indicates an increased risk of not receiving a contingent coupon and an increased risk of loss, respectively. All things being equal, this greater expected volatility will generally be reflected in a higher contingent coupon rate than the yield payable on our conventional debt securities with a similar maturity or on otherwise comparable securities, and/or lower downside thresholds and/or coupon barriers than those terms on otherwise comparable securities. Therefore, a relatively higher contingent coupon rate may indicate an increased risk of loss. Further, relatively lower downside thresholds and/or coupon barriers may not necessarily indicate that the Notes have a greater likelihood of a return of principal at maturity and/or paying contingent coupons. You should be willing to accept the downside market risk of the least performing underlying asset and the potential to lose a significant portion or all of your initial investment. |
+| --- | --- |
+
+| ♦ | Reinvestment risk — The Notes will be subject to an automatic call if the closing level of each underlying asset is equal to or greater than its call threshold level on certain observation dates prior to the final valuation date, as set forth under “Observation Dates and Coupon Payment Dates“ herein. Because the Notes could be subject to an automatic call as early as the first potential call settlement date, the term of your investment may be limited. In the event that the Notes are subject to an automatic call, there is no guarantee that you would be able to reinvest the proceeds at a comparable rate of return and/or with a comparable contingent coupon rate for a similar level of risk. In addition, to the extent you are able to reinvest such proceeds in an investment comparable to the Notes, you may incur transaction costs such as dealer discounts and hedging costs built into the price of the new securities. Generally, however, the longer the Notes remain outstanding, the less likely the Notes will be subject to an automatic call due to the decline in the level of one or more underlying assets and the shorter time remaining for the level of each such underlying asset to recover. Such periods generally coincide with a period of greater risk of principal loss on your Notes. |
+| --- | --- |
+
+Risks Relating to Characteristics of the Underlying Assets
+
+| ♦ | You are exposed to the market risk of each underlying asset — Your return on the Notes is not linked to a basket consisting of the underlying assets. Rather, it will be contingent upon the performance of each individual underlying asset. Unlike an instrument with a return linked to a basket of assets, in which risk is mitigated and diversified among all of the components of the basket, you will be exposed equally to the risks related to each underlying asset. Poor performance by any one of the underlying assets over the term of the Notes will negatively affect your return and will not be offset or mitigated by a positive performance by any other underlying asset. For instance, you will receive a negative return equal to the underlying return of the least performing underlying asset if the Notes are not automatically called and the final level of one underlying asset is less than its downside threshold, even if the underlying return of each other underlying asset is positive or has not declined as much. Accordingly, your investment is subject to the market risk of each underlying asset. |
+| --- | --- |
+
+5
+
+| ♦ | Because the Notes are linked to the least performing underlying asset, you are exposed to a greater risk of no contingent coupons and losing a significant portion or all of your initial investment at maturity than if the Notes were linked to a single underlying asset — The risk that you will not receive any contingent coupons and lose a significant portion or all of your initial investment in the Notes is greater if you invest in the Notes than the risk of investing in substantially similar securities that are linked to the performance of only one underlying asset . With more underlying assets, it is more likely that the closing level of an underlying asset will be less than its coupon barrier on any observation date or that the final level of an underlying asset will be less than its downside threshold than if the Notes were linked to a single underlying asset. In addition, the lower the correlation between a pair of underlying assets, the greater the likelihood that one of the underlying assets will decline to a closing level that is less than its coupon barrier on any observation date or a final level that is less than its downside threshold. Although the correlation of the underlying assets’ performance may change over the term of the Notes, the economic terms of the Notes, including the contingent coupon rate, downside thresholds and coupon barriers are determined, in part, based on the correlation of the underlying assets’ performance calculated using our internal models at the time when the terms of the Notes are finalized. All things being equal, a higher contingent coupon rate and lower downside thresholds and coupon barriers are generally associated with lower correlation of the underlying assets. Therefore, if the performance of a pair of underlying assets is not correlated to each other or is negatively correlated, the risk that you will not receive any contingent coupons or that the final level of any underlying asset will be less than its downside threshold is even greater despite lower coupon barriers and downside thresholds, respectively. Therefore, it is more likely that you will not receive any contingent coupons, that the final level of any underlying asset will be less than its downside threshold and that you will lose a significant portion or all of your initial investment at maturity. |
+| --- | --- |
+
+| ♦ | Market risk — The return on the Notes, which may be negative, is directly linked to the performance of the underlying assets and indirectly linked to the performance of the underlying constituents and their issuers (the “underlying constituent issuers”). The levels of the underlying assets can rise or fall sharply due to factors specific to each underlying asset or its underlying constituents, such as stock or commodity price volatility, earnings, financial conditions, corporate, industry and regulatory developments, management changes and decisions and other events, as well as general market factors, such as general stock and commodity market volatility and levels, interest rates and economic, political and other conditions. You, as an investor in the Notes, should conduct your own investigation into the underlying assets and underlying constituents. |
+| --- | --- |
+
+| ♦ | There can be no assurance that the investment view implicit in the Notes will be successful — It is impossible to predict whether and the extent to which the levels of the underlying assets will rise or fall. There can be no assurance that the closing level of each underlying asset will be equal to or greater than its coupon barrier on each observation date or, if the Notes are not subject to an automatic call, that the final level of each underlying asset will be equal to or greater than its downside threshold. The levels of the underlying assets will be influenced by complex and interrelated political, economic, financial and other factors that affect the underlying constituent issuers. You should be willing to accept the downside risks associated with each underlying asset in general and its underlying constituents in particular, and the risk of losing a significant portion or all of your initial investment. |
+| --- | --- |
+
+| ♦ | Changes affecting an underlying asset could have an adverse effect on the market value of, and return on, your Notes — The policies of any index sponsor as specified under “Information About the Underlying Assets” (each, an “index sponsor”), concerning additions, deletions and substitutions of the underlying constituents and the manner in which such index sponsor takes account of certain changes affecting those underlying constituents, such as stock dividends, reorganizations or mergers, may adversely affect the level of the applicable underlying asset. The policies of an index sponsor with respect to the calculation of the applicable underlying asset could also adversely affect the level of such underlying asset. An index sponsor may discontinue or suspend calculation or dissemination of the applicable underlying asset. If these or other events occur, the calculation agent may select a successor index or take other actions as under “Additional Terms of the Notes” herein and, notwithstanding these adjustments, the market value of, and return on, the Notes may be adversely affected. |
+| --- | --- |
+
+| ♦ | None of TD or the agents can control actions by the index sponsors and the index sponsors have no obligation to consider your interests — None of TD, the agents or our or their respective affiliates are affiliated with the index sponsors or have any ability to control or predict their actions, including any errors in or discontinuation of public disclosure regarding methods or policies relating to the calculation of the underlying assets. The index sponsors are not involved in the Notes offering in any way and has no obligation to consider your interest as an owner of the Notes in taking any actions that might affect the market value of, and return on, your Notes. |
+| --- | --- |
+
+| ♦ | The Russell 2000 ® Index and EURO STOXX 50 ® Index reflects price return, not total return — The return on the Notes is based on the performance of the Russell 2000 ® Index and EURO STOXX 50 ® Index, which reflects the changes in the market prices of its underlying constituents. The Russell 2000 ® Index and EURO STOXX 50 ® Index is not a “total return” index or strategy, which, in addition to reflecting those price returns, would also reflect any dividends paid on its underlying constituents. The return on the Notes will not include such a total return feature or dividend component. |
+| --- | --- |
+
+| ♦ | The Notes are subject to small-capitalization stock risks — The Notes are subject to risks associated with small-capitalization companies because the Russell 2000 ® Index is comprised of stocks of companies that may be considered small-capitalization companies. These companies often have greater stock price volatility, lower trading volume and less liquidity than large-capitalization companies and therefore such index may be more volatile than an index in which a greater percentage of its constituents are issued by large-capitalization companies. Stock prices of small-capitalization companies are also more vulnerable than those of large-capitalization companies to adverse business and economic developments, and the stocks of small-capitalization companies may be thinly traded. In addition, small-capitalization companies are typically less stable financially than large-capitalization companies and may depend on a small number of key personnel, making them more vulnerable to loss of personnel. Small-capitalization companies are often given less analyst coverage and may be in early, and less predictable, periods of their corporate existences. Such companies tend to have smaller revenues, less diverse product lines, smaller shares of their product or service markets, fewer financial resources and less competitive strengths than large-capitalization companies and are more susceptible to adverse developments related to their products. |
+| --- | --- |
+
+| ♦ | The EURO STOXX 50 ® Index will not be adjusted for changes in currency exchange rates relative to the U.S. dollar even though its underlying constituents are traded in a non-U.S. currency and the Notes are denominated in U.S. dollars — The value of the Notes will not be adjusted for currency exchange rate fluctuations between the U.S. dollar and the currencies in which the underlying constituents of the EURO STOXX 50 ® Index are based. Therefore, if the applicable currencies appreciate or depreciate relative to the U.S. dollar over the term of the Notes, you will not receive any additional payment or incur any reduction in your return on the Notes. |
+| --- | --- |
+
+| ♦ | The Notes are subject to risks associated with non-U.S. securities markets — The Notes are subject to risks associated with non-U.S. securities markets because the EURO STOXX 50 ® Index is comprised of stocks that are traded in one or more non-U.S. securities markets. Investments linked to the value of non-U.S. equity securities involve particular risks. Any non-U.S. securities market may be less liquid, more volatile and affected by global or domestic market developments in a different way than are the U.S. securities market or other non-U.S. securities markets. Both government intervention in a non-U.S. securities market, either directly or indirectly, and cross-shareholdings in non-U.S. companies, may affect trading prices and volumes in that market. Also, there is generally less publicly available information about non-U.S. companies than about U.S. companies that are subject to the reporting requirements of the SEC. Further, non-U.S. companies are likely subject to accounting, auditing and financial reporting standards and requirements that differ from those applicable to U.S. reporting companies. The prices of securities in a non-U.S. country are subject to political, economic, financial and social factors that are unique to such non-U.S. country’s geographical region. These factors include: recent changes, or the possibility of future changes, in the applicable non-U.S. government’s economic and fiscal policies; the possible implementation of, or changes in, currency exchange laws or other laws or restrictions applicable to non-U.S. companies or investments in non-U.S. equity securities; fluctuations, or the possibility of fluctuations, in currency exchange rates; and the possibility |
+| --- | --- |
+
+6
+
+of outbreaks of hostility, political instability, natural disaster or adverse public health developments. Any one of these factors, or the
+combination of more than one of these or other factors, could negatively affect such non-U.S. securities market and the prices of securities therein. Further, geographical regions may react to global factors in different ways, which may cause the
+prices of securities in a non-U.S. securities market to fluctuate in a way that differs from those of securities in the U.S. securities market or other non-U.S. securities markets. Non-U.S. economies may also differ from the U.S. economy in
+important respects, including growth of gross national product, rate of inflation, capital reinvestment, resources and self-sufficiency, which may have a positive or negative effect on non-U.S. securities prices.
+
+The Notes may also be subject to regulatory risks, including sanctions, because the EURO STOXX 50
+®
+Index is comprised, at least in part, of stocks that
+are traded in one or more non-U.S. securities markets. For instance, pursuant to U.S. executive orders, U.S. persons are prohibited from engaging in transactions in publicly traded securities of certain companies that are determined to be linked to
+the military, intelligence and security apparatus of the People’s Republic of China. The prohibition also covers any securities that are derivative of, or are designed to provide investment exposure to, such securities. Actions taken by an index
+sponsor in response to any such developments could adversely affect the performance of the EURO STOXX 50
+®
+Index and, as a result, the market value of, and return on the Notes. Additionally, following certain events, if the calculation
+agent determines that a change in law has occurred or would have occurred but for a decision by its index sponsor to modify or reconstitute its index, then the calculation agent may select a successor index, reference a replacement basket or use an
+alternative method of calculation, in each case, in a manner it considers appropriate, or, if it determines that no successor index, replacement basket or alternative method of calculation would achieve an equitable result, it may deem the
+underlying asset’s closing level on a trading day reasonably proximate to the date of such event to be its closing level on each applicable date. For additional information, see the section “Additional Terms of the Notes — Discontinuance of,
+Adjustments to, or Change in Law Affecting, an Underlying Asset; Alteration of Method of Calculation” herein.
+
+Risks Relating to Estimated Value and Liquidity
+
+| ♦ | The estimated value of your Notes is less than the issue price of your Notes — The estimated value of your Notes is less than the issue price of your Notes. The difference between the issue price of your Notes and the estimated value of the Notes reflects costs and expected profits associated with selling and structuring the Notes, as well as hedging our obligations under the Notes. Because hedging our obligations entails risks and may be influenced by market forces beyond our control, this hedging may result in a profit that is more or less than expected, or a loss. |
+| --- | --- |
+
+| ♦ | The estimated value of your Notes is based on our internal funding rate — The estimated value of your Notes is determined by reference to our internal funding rate. The internal funding rate used in the determination of the estimated value of the Notes generally represents a discount from the credit spreads for our conventional, fixed-rate debt securities and the borrowing rate we would pay for our conventional, fixed-rate debt securities. This discount is based on, among other things, our view of the funding value of the Notes as well as the higher issuance, operational and ongoing liability management costs of the Notes in comparison to those costs for our conventional, fixed-rate debt, as well as estimated financing costs of any hedge positions, taking into account regulatory and internal requirements. If the interest rate implied by the credit spreads for our conventional, fixed-rate debt securities, or the borrowing rate we would pay for our conventional, fixed-rate debt securities were to be used, we would expect the economic terms of the Notes to be more favorable to you. Additionally, assuming all other economic terms are held constant, the use of an internal funding rate for the Notes is expected to increase the estimated value of the Notes at any time. |
+| --- | --- |
+
+| ♦ | The estimated value of the Notes is based on our internal pricing models, which may prove to be inaccurate and may be different from the pricing models of other financial institutions — The estimated value of your Notes is based on our internal pricing models when the terms of the Notes are set, which take into account a number of variables, such as our internal funding rate on the trade date, and are based on a number of subjective assumptions, which are not evaluated or verified on an independent basis and may or may not materialize. Further, our pricing models may be different from other financial institutions’ pricing models and the methodologies used by us to estimate the value of the Notes may not be consistent with those of other financial institutions that may be purchasers or sellers of Notes in the secondary market. As a result, the secondary market price of your Notes may be materially less than the estimated value of the Notes determined by reference to our internal pricing models. In addition, market conditions and other relevant factors in the future may change, and any assumptions may prove to be incorrect. |
+| --- | --- |
+
+| ♦ | The estimated value of your Notes is not a prediction of the prices at which you may sell your Notes in the secondary market, if any, and such secondary market prices, if any, will likely be less than the issue price of your Notes and may be less than the estimated value of your Notes — The estimated value of the Notes is not a prediction of the prices at which TDS, other affiliates of ours or third parties may be willing to purchase the Notes from you in secondary market transactions (if they are willing to purchase, which they are not obligated to do). The price at which you may be able to sell your Notes in the secondary market at any time, if any, will be influenced by many factors that cannot be predicted, such as market conditions, and any bid and ask spread for similar sized trades, and may be substantially less than the estimated value of the Notes. Further, as secondary market prices of your Notes take into account the levels at which our debt securities trade in the secondary market, and do not take into account our various costs and expected profits associated with selling and structuring the Notes, as well as hedging our obligations under the Notes, secondary market prices of your Notes will likely be less than the issue price of your Notes. As a result, the price at which TDS, other affiliates of ours or third parties may be willing to purchase the Notes from you in secondary market transactions, if any, will likely be less than the price you paid for your Notes, and any sale prior to the maturity date could result in a substantial loss to you. |
+| --- | --- |
+
+| ♦ | The temporary price at which TDS may initially buy the Notes in the secondary market may not be indicative of future prices of your Notes — Assuming that all relevant factors remain constant after the trade date, the price at which TDS may initially buy or sell the Notes in the secondary market (if TDS makes a market in the Notes, which it is not obligated to do) may exceed the estimated value of the Notes on the trade date, as well as the secondary market value of the Notes, for a temporary period after the settlement date of the Notes, as discussed further under “Additional Information Regarding the Estimated Value of the Notes” herein. The price at which TDS may initially buy or sell the Notes in the secondary market may not be indicative of future prices of your Notes. |
+| --- | --- |
+
+| ♦ | The underwriting discount, offering expenses and certain hedging costs are likely to adversely affect secondary market prices — Assuming no changes in market conditions or any other relevant factors, the price, if any, at which you may be able to sell the Notes will likely be less than the issue price. The issue price includes, and any price quoted to you is likely to exclude, any underwriting discount paid in connection with the initial distribution, offering expenses as well as the cost of hedging our obligations under the Notes. In addition, any such price is also likely to reflect dealer discounts, mark-ups and other transaction costs, such as a discount to account for costs associated with establishing or unwinding any related hedge transaction. |
+| --- | --- |
+
+| ♦ | There may not be an active trading market for the Notes — sales in the secondary market may result in significant losses — There may be little or no secondary market for the Notes. The Notes will not be listed or displayed on any securities exchange or electronic communications network. TDS or another of our affiliates intends to make a market for the Notes; however, they are not required to do so and may stop any market-making activities at any time. Even if a secondary market for the Notes develops, it may not provide significant liquidity or trade at prices advantageous to you. We expect that transaction costs in any secondary market would be high. As a result, the difference between bid and ask prices for your Notes in any secondary market could be substantial. |
+| --- | --- |
+
+If you sell your Notes before the maturity date, you may have to do so at a substantial discount from the issue price irrespective of the value of the
+then-current least performing underlying asset, and as a result, you may suffer substantial losses.
+
+7
+
+| ♦ | If the value of any underlying asset changes, the market value of your Notes may not change in the same manner — Your Notes may trade quite differently from the performance of any of the underlying assets. Changes in the value of any underlying asset may not result in a comparable change in the market value of your Notes. Even if the closing level of each underlying asset remains greater than or equal to its downside threshold and coupon barrier or increases to greater than its initial level during the term of the Notes, the market value of your Notes may not increase by the same amount and could decline. |
+| --- | --- |
+
+| ♦ | Economic and market factors affecting the terms and market price of Notes prior to maturity — Because structured notes, including the Notes, can be thought of as having a debt component and a derivative component, factors that influence the values of debt instruments and options and other derivatives will also affect the terms and features of the Notes at issuance and the market price of the Notes prior to maturity. These factors include the levels of the underlying assets and the underlying constituents; the volatility of the underlying assets and the underlying constituents; any expected dividends on the underlying constituents; the correlation of the underlying assets; the time remaining to the maturity of the Notes; interest rates in the markets; geopolitical conditions and economic, financial, political, force majeure and regulatory or judicial events; the creditworthiness of TD; the then current bid-ask spread for the Notes and the factors discussed under “—Risks Relating to Hedging Activities and Conflicts of Interest — Potential conflicts of interest between you and the calculation agent” below. These and other factors are unpredictable and interrelated and may offset or magnify each other. |
+| --- | --- |
+
+Risks Relating to Hedging Activities and Conflicts of Interest
+
+| ♦ | Potential conflicts of interest between you and the calculation agent — The calculation agent will, among other things, determine the amounts payable on the Notes. We will serve as the calculation agent and may appoint a different calculation agent after the settlement date without notice to you. The calculation agent will exercise its judgment when performing its functions and may have a conflict of interest if it needs to make certain decisions. For example, the calculation agent may have to determine whether a market disruption event affecting an underlying asset has occurred, and make certain adjustments if certain events occur, which may, in turn, depend on the calculation agent’s judgment as to whether the event has materially interfered with our ability or the ability of one of our affiliates to unwind our hedge positions. Because this determination by the calculation agent may affect the amounts payable on the Notes, the calculation agent may have a conflict of interest if it needs to make a determination of this kind. For additional information on the calculation agent’s role, see “General Terms of the Notes — Role of Calculation Agent” in the product supplement. |
+| --- | --- |
+
+| ♦ | Trading and business activities by TD, the agents or our or their respective affiliates may adversely affect the market value of, and any amounts payable on, the Notes — We, the agents and/or our or their respective affiliates may hedge our obligations under the Notes by purchasing securities, futures, options or other derivative instruments with returns linked or related to changes in the value of an underlying asset or one or more of the underlying constituents, and we may adjust these hedges by, among other things, purchasing or selling at any time any of the foregoing assets. It is possible that we or one or more of our or their respective affiliates could receive substantial returns from these hedging activities while the market value of the Notes declines. We, the agents or one or more of our or their respective affiliates may also issue or underwrite other securities or financial or derivative instruments with returns linked or related to changes in an underlying asset or one or more underlying constituents. |
+| --- | --- |
+
+Because UBS, or one of its affiliates, is to conduct hedging activities for us in connection with the Notes, UBS, or its affiliate, may profit in connection with
+such hedging activities. Such profit, if any, will be in addition to the compensation that UBS, or its affiliate, receives for the sale of the Notes to you. You should be aware that the potential to earn fees in connection with hedging activities
+may create a further incentive for UBS to sell the Notes to you in addition to the compensation they would receive for the sale of the Notes.
+
+These trading activities may present a conflict between the holders’ interest in the Notes and the interests we, TDS and our affiliates will have in our or their
+proprietary accounts, in facilitating transactions, including options and other derivatives transactions, for our or their customers’ accounts and in accounts under our or their management. These trading activities could be adverse to the interests
+of the holders of the Notes.
+
+We, the agents and/or our or their respective affiliates may, at present or in the future, engage in business with one or more underlying constituent issuers,
+including making loans to or providing advisory services to those companies. These services could include investment banking and merger and acquisition advisory services. These business activities may present a conflict between our, the agents’
+and/or our or their respective affiliates’ obligations, and your interests as a holder of the Notes. Moreover, we, the agents and/or our or their respective affiliates may have published, and in the future expect to publish, research reports with
+respect to an underlying asset or one or more underlying constituents. This research is modified from time to time without notice and may express opinions or provide recommendations that are inconsistent with purchasing or holding the Notes. Any of
+these activities by us, the agents and/or our or their respective affiliates may affect the value of an underlying asset and, therefore, the market value of, and any amounts payable on, the Notes.
+
+Risks Relating to General Credit Characteristics
+
+| ♦ | Credit risk of TD — Although the return on the Notes will be based on the performance of the least performing underlying asset, the payment of any amount due on the Notes is subject to TD’s credit risk. The Notes are TD’s senior unsecured debt obligations. Investors are dependent on TD’s ability to pay all amounts due on the Notes and, therefore, investors are subject to the credit risk of TD and to changes in the market’s view of TD’s creditworthiness. Any decrease in TD’s credit ratings or increase in the credit spreads charged by the market for taking TD’s credit risk is likely to adversely affect the market value of the Notes. If TD becomes unable to meet its financial obligations as they become due, investors may not receive any amounts due under the terms of the Notes and could lose all of their initial investment. |
+| --- | --- |
+
+Risks Relating to Canadian and U.S. Federal Income Taxation
+
+| ♦ | Uncertain tax treatment — The U.S. tax treatment of the Notes is uncertain. Please read carefully the sections entitled “What Are the Tax Consequences of the Notes?” herein and “Material U.S. Federal Income Tax Consequences” in the product supplement. You should consult your tax advisor as to the tax consequences of your investment in the Notes. |
+| --- | --- |
+
+For a discussion of the Canadian federal income tax consequences of investing in the Notes, please see the discussion herein under “Canadian Taxation”. We will
+not pay any additional amounts as a result of any withholding required by reason of the rules governing hybrid mismatch arrangements contained in sections 12.7 and 18.4 of the Canadian Tax Act (as defined under “Canadian Taxation” herein), as such
+rules may be amended from time to time. If you are not a Non-resident Holder (as that term is defined under “Canadian Taxation” herein) for Canadian federal income tax purposes or if you acquire the Notes in the secondary market, you should consult
+your tax advisors as to the consequences of acquiring, holding and disposing of the Notes and receiving the payments that might be due under the Notes.
+
+8
+
+| Hypothetical Examples of How the Notes Might Perform |
+| --- |
+
+The below examples are based on hypothetical terms. The actual terms are indicated on the cover hereof.
+
+The examples below illustrate the payment upon an automatic call or at maturity for a $10 Note on a hypothetical offering of the Notes, with the following assumptions (amounts may
+have been rounded for ease of reference):
+
+| Principal Amount: | $10 |
+| --- | --- |
+| Term: | Approximately 10 years |
+| Contingent Coupon Rate: | 6.00% per annum (or 1.50% per quarter) |
+| Contingent Coupon: | $0.15 per quarter |
+| Observation Dates: | Quarterly (callable after 12 months) |
+| Initial Level: | |
+| Underlying Asset A: Underlying Asset B: | 3,000.00 6,000.00 |
+| Call Threshold Level: | |
+| Underlying Asset A: Underlying Asset B: | 3,000.00 (which is equal to 100.00% of the Initial Level) 6,000.00 (which is equal to 100.00% of the Initial Level) |
+| Coupon Barrier: | |
+| Underlying Asset A: Underlying Asset B: | 2,250.00 (which is equal to 75.00% of the Initial Level) 4,500.00 (which is equal to 75.00% of the Initial Level) |
+| Downside Threshold: | |
+| Underlying Asset A: Underlying Asset B: | 2,250.00 (which is equal to 75.00% of the Initial Level) 4,500.00 (which is equal to 75.00% of the Initial Level) |
+
+Example 1 — The Closing Level of each Underlying Asset is equal to or greater than its Call Threshold Level on the Observation Date corresponding to the first
+potential Call Settlement Date.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First through Third Observation Date | Underlying Asset A: Various (all equal to or greater than Call Threshold Level and Coupon Barrier) Underlying Asset B: Various (all equal to or greater than Call Threshold Level and Coupon Barrier) | $0.45 (Aggregate Contingent Coupons – Not Callable) |
+| Fourth Observation Date | Underlying Asset A: 3,150.00 ( equal to or greater than Call Threshold Level and Coupon Barrier) Underlying Asset B: 6,400.00 ( equal to or greater than Call Threshold Level and Coupon Barrier) | $10.15 (Call Settlement Amount) |
+| | Total Payment: | $10.60 (6.00% total return) |
+
+Because the Notes are subject to an automatic call on the first potential call settlement date (which is approximately 12 months after the trade date), TD will pay you on the call settlement date a
+total of $10.15 per Note (reflecting your principal amount plus the applicable contingent coupon). When added to the contingent coupons of $0.45 received in respect of the prior observation dates, TD will have paid you a total of $10.60 per Note,
+for a total return of 6.00% on the Notes. You will not receive any further payments on the Notes.
+
+Example 2 — The Notes are NOT subject to an Automatic Call and the Final Level of each Underlying Asset is equal to or greater than its Downside Threshold and Coupon Barrier.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | Underlying Asset A: 2,800.00 ( equal to or greater than Coupon Barrier; less than Call Threshold Level) Underlying Asset B: 5,760.00 ( equal to or greater than Coupon Barrier; less than Call Threshold Level) | $0.15 (Contingent Coupon) |
+| Second through Thirty-Ninth Observation Date | Underlying Asset A: Various (all equal to or greater than Call Threshold Level and Coupon Barrier) Underlying Asset B: Various (all less than Call Threshold Level and Coupon Barrier) | $0.00 |
+| Final Valuation Date | Underlying Asset A: 2,600.00 ( equal to or greater than Coupon Barrier and Downside Threshold) Underlying Asset B: 5,800.00 ( equal to or greater than Coupon Barrier and Downside Threshold) | $10.15 (Payment at Maturity) |
+| | Total Payment: | $10.30 (3.00% total return) |
+
+Because the Notes are not subject to an automatic call and the final level of each underlying asset is equal to or greater than its downside threshold, TD will pay you a cash
+payment per Note at maturity equal to the principal amount. Because the final level of each underlying asset was also equal to or greater than its coupon barrier, a contingent coupon will be paid with respect to the final valuation date. At
+maturity, TD will pay you a total of $10.15 per Note (reflecting your principal amount plus the applicable contingent coupon). When added to the contingent coupon of $0.15 received in respect of the prior observation dates, TD will have paid you a
+total of $10.30 per Note, for a total return of 3.00% on the Notes.
+
+9
+
+Example 3 — The Notes are NOT subject to an Automatic Call and the Final Level of any Underlying Asset is less than its Downside Threshold and Coupon Barrier.
+
+| Date | Closing Level | Payment (per Note) |
+| --- | --- | --- |
+| First Observation Date | Underlying Asset A: 2,500.00 ( equal to or greater than Coupon Barrier; less than Call Threshold Level) Underlying Asset B: 5,800.00 ( equal to or greater than Coupon Barrier; less than Call Threshold Level) | $0.15 (Contingent Coupon) |
+| Second through Thirty-Ninth Observation Date | Underlying Asset A: Various (all equal to or greater than Call Threshold Level and Coupon Barrier) Underlying Asset B: Various (all less than Call Threshold Level and Coupon Barrier) | $0.00 |
+| Final Valuation Date | Underlying Asset A: 1,200.00 ( less than Coupon Barrier and Downside Threshold) Underlying Asset B: 7,200.00 ( equal to or greater than Coupon Barrier and Downside Threshold) | $10 × [1 + Underlying Return of the Least Performing Underlying Asset] = $10 × [1 + (-60.00%)] = $10 × 40.00% = $4.00 (Payment at Maturity) |
+| | Total Payment: | $4.15 (58.50% loss) |
+
+Because the Notes are not subject to an automatic call and the final level of underlying asset A is less than its downside threshold, at maturity you will be exposed to the negative
+return of the least performing underlying asset and TD will pay you $4.00 per Note. When added to the contingent coupon of $0.15 received in respect of the prior observation dates, TD will have paid you $4.15 per Note, for a loss on the Notes of
+58.50%.
+
+We make no representation or warranty as to which of the underlying assets will be the least performing underlying asset for the purposes of calculating your
+actual payment at maturity.
+
+Investing in the Notes involves significant risks. The Notes differ from ordinary debt securities in that TD is not necessarily obligated to repay the full amount
+of your initial investment. If the Notes are not subject to an automatic call, you may lose a significant portion or all of your investment. Specifically, if the Notes are not subject to an automatic call and the final level of any underlying asset
+is less than its downside threshold, you will lose a percentage of your principal amount equal to the underlying return of the least performing underlying asset and, in extreme situations, you could lose all of your initial investment.
+
+You will be exposed to the market risk of each underlying asset on each observation date, including the final valuation date, and any decline in the level of one
+underlying asset may negatively affect your return and will not be offset or mitigated by a lesser decline or any potential increase in the level of any other underlying asset. If the Notes are not subject to an automatic call and the final level
+of any underlying asset is less than its downside threshold, you will lose a significant portion or all of your initial investment at maturity. Any payment on the Notes, including any repayment of principal, is subject to the creditworthiness of
+TD. If TD were to default on its obligations, you may not receive any amounts owed to you under the Notes and you could lose all of your initial investment.
+
+10
+
+| Information About the Underlying Assets |
+| --- |
+
+All disclosures contained in this document regarding each underlying asset are derived from publicly available information. TD has not conducted any independent
+review or due diligence of any publicly available information with respect to any underlying asset. You should make your own investigation into each underlying asset.
+
+Included below is a brief description of each underlying asset. This information has been obtained from publicly available sources. Set forth below for each
+underlying asset is a graph that illustrates the past performance for such underlying asset. The information given below is for the period indicated. We obtained the past performance information set forth below from Bloomberg Professional
+®
+
+service (“Bloomberg”) without independent verification. You should not take the historical levels of any underlying asset as an indication of future performance.
+
+| Russell 2000 ® Index |
+| --- |
+
+We have derived all information regarding the Russell 2000
+®
+Index (“RTY”) contained in this document, including, without limitation, its make up, method of calculation and
+changes in its components, from publicly available information. Such information reflects the policies of, and is subject to change by the Frank Russell Company (the “index sponsor” or “FTSE Russell”).
+
+RTY is published by FTSE Russell, but FTSE Russell has no obligation to continue to publish RTY, and may discontinue publication of RTY at any time. RTY is determined, comprised and
+calculated by FTSE Russell without regard to this instrument.
+
+As discussed more fully in the underlier supplement under the heading “Indices – The Russell 2000
+®
+Index,” RTY measures the composite price performance of the smallest
+2,000 companies included in the Russell 3000
+®
+Index. The Russell 3000
+®
+Index is composed of the 3,000 largest United States companies by market capitalization and represents approximately 98% of the market capitalization of
+the United States equity market. Select information regarding top constituents and industry and/or sector weightings may be made available by the index sponsor on its website. RTY’s value is calculated by adding the market values of the underlying
+constituents and then dividing the derived total market capitalization by the “adjusted” capitalization of RTY on the base date of December 31, 1986.
+
+Information from outside sources is not incorporated by reference in, and should not be considered part of, this document or any document incorporated herein by reference. TD has not
+conducted any independent review or due diligence of any publicly available information with respect to the underlying asset.
+
+Historical Information
+
+The graph below illustrates the performance of RTY from January 1, 2016 through June 18, 2026, based on the daily closing levels as reported by Bloomberg, without
+independent verification. TD has not conducted any independent review or due diligence of any publicly available information obtained from Bloomberg. The closing level of RTY on June 18, 2026 was 2,979.765. The dotted lines respectively represent
+its call threshold level of 2,979.765, which is equal to 100.00% of its initial level, and its coupon barrier and downside threshold of 2,234.824, which is equal to 75.00% of its initial level.
+Past
+
+performance of the underlying asset is not indicative of the future performance of the underlying asset during the term of the Notes.
+
+11
+
+| EURO STOXX 50 ® Index |
+| --- |
+
+We have derived all information regarding the EURO STOXX 50
+®
+Index (“SX5E”) contained in this document, including without limitation, its make-up, method of calculation and
+changes in its components from publicly available information. Such information reflects the policies of, and is subject to change by STOXX Limited.
+
+STOXX Limited has no obligation to continue to publish the SX5E, and may discontinue publication of the SX5E at any time. The SX5E is determined, comprised and calculated by STOXX
+Limited without regard to this instrument.
+
+As discussed more fully in the underlier supplement under the heading “Indices — The EURO STOXX 50
+®
+Index”, the SX5E covers 50 stocks of market sector leaders mainly from
+12 eligible Eurozone countries: Austria, Belgium, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal and Spain. Select information regarding top constituents and industry and/or sector weightings may be made
+available by the index sponsor on its website.
+
+Information from outside sources is not incorporated by reference in, and should not be considered part of, this document or any document incorporated herein by reference. TD has not
+conducted any independent review or due diligence of any publicly available information with respect to the underlying asset.
+
+Historical Information
+
+The graph below illustrates the performance of SX5E from January 1, 2016 through June 18, 2026, based on the daily closing levels as reported by Bloomberg, without independent
+verification. TD has not conducted any independent review or due diligence of any publicly available information obtained from Bloomberg. The closing level of SX5E on June 18, 2026 was 6,323.27. The dotted lines respectively represent its call
+threshold level of 6,323.27, which is equal to 100.00% of its initial level, and its coupon barrier and downside threshold of 4,742.45, which is equal to 75.00% of its initial level.
+Past
+performance of the underlying asset is not indicative of the future performance of the underlying asset during the term of the Notes.
+
+12
+
+| Correlation of the Underlying Assets |
+| --- |
+
+The graph below illustrates the daily performance of the underlying assets from January 1, 2016 through June 18, 2026. For comparison purposes, each underlying asset has been
+normalized to have a closing level of 100.00 on January 1, 2016 by dividing the closing level of that underlying asset on each trading day by the closing level of that underlying asset on January 1, 2016 and multiplying by 100.00. We obtained the
+closing levels used to determine the normalized closing levels set forth below from Bloomberg, without independent verification.
+
+The closer the relationship of the daily returns of the underlying assets over a given period, the more positively correlated those underlying assets are. The lower (or more negative)
+the correlation of the underlying assets, the less likely it is that those underlying assets will move in the same direction and therefore, the greater the potential for the closing level or final level of one of those underlying assets to be less
+than its coupon barrier or downside threshold on any observation date or on the final valuation date, respectively. This is because the less positively correlated the underlying assets are, the greater the likelihood that at least one of the
+underlying assets will decrease in value. However, even if the underlying assets have a higher positive correlation, the closing level or final level of one or more of the underlying assets might be less than its coupon barrier or downside
+threshold on any observation date or on the final valuation date, respectively, as the underlying assets may decrease in value together. Although the correlation of the underlying assets’ performance may change over the term of the Notes, the
+correlations referenced in setting the terms of the Notes are calculated using TD’s internal models at the time when the terms of the Notes are set and are not derived from the daily returns of the underlying assets over the period set forth below.
+A higher contingent coupon rate is generally associated with lower correlation of the underlying assets, which reflects a greater potential for missed contingent coupons and for a loss on your investment at maturity. See “Key Risks — Risks Relating
+to Return Characteristics — A higher contingent coupon rate or lower downside thresholds or coupon barriers may reflect greater expected volatility of each of the underlying assets, and greater expected volatility generally indicates an increased
+risk of loss at maturity”, “— Risks Relating to Characteristics of the Underlying Assets — You are exposed to the market risk of each underlying asset” and “— Risks Relating to Characteristics of the Underlying Assets — Because the Notes are linked
+to the least performing underlying asset, you are exposed to a greater risk of no contingent coupons and losing a significant portion or all of your initial investment at maturity than if the Notes were linked to a single underlying asset “ herein.
+
+Past performance of the underlying assets is not indicative of the future performance of the underlying assets.
+
+13
+
+| Canadian Taxation |
+| --- |
+
+The following is, as of the date hereof, a summary of the principal Canadian federal income tax considerations under the Income Tax Act (Canada) and the regulations promulgated
+thereunder (collectively, the “Canadian Tax Act”) generally applicable to a holder who is an individual and who acquires beneficial ownership of a Note upon the initial issuance of the Note by TD pursuant to this offering document or common shares
+of TD or any of its affiliates on a conversion of a Note on a bail-in conversion (if applicable), and who, for purposes of the Canadian Tax Act and any applicable income tax treaty, at all relevant times, is not resident and is not deemed to be
+resident in Canada, and who, for purposes of the Canadian Tax Act, at all relevant times, (i) deals at arm’s length with, and is not affiliated with, TD, any affiliate of TD, and any Canadian resident (or deemed Canadian resident) to whom the
+holder assigns or otherwise transfers the Note, (ii) is entitled to receive all payments (including any interest, principal and dividends, if applicable) made on the Note as beneficial owner, (iii) is not, and deals at arm’s length with each person
+who is, a “specified shareholder” (within the meaning of subsection 18(5) of the Canadian Tax Act) of TD and each affiliate of TD, (iv) is not an entity in respect of which TD or any affiliate of TD is a “specified entity” (as defined in subsection
+18.4(1) of the Canadian Tax Act); (v) holds the Note or common shares of TD or any of its affiliates as capital property, (vi) does not use or hold and is not deemed to use or hold the Note or common shares of TD or any of its affiliates in or in
+the course of carrying on a business in Canada or as part of an adventure or concern in the nature of trade and (vii) is not an insurer carrying on an insurance business in Canada and elsewhere (a “Non-resident Holder”).
+
+This summary assumes that no amount paid or payable to a Non-resident Holder will be the deduction component of a “hybrid mismatch arrangement” under which the payment arises within
+the meaning of paragraph 18.4(3)(b) of the Canadian Tax Act. This summary further assumes that no Note or property acquired on settlement of a Note will be “taxable Canadian property” to a Non-resident Holder for purposes of the Canadian Tax Act at
+the time of its disposition or deemed disposition.
+
+This summary is based upon the current provisions of the Canadian Tax Act in force as of the date hereof. On January 29, 2026, the Department of Finance (Canada) released for
+consultation proposed amendments to the Canadian Tax Act (the “January 29 Tax Proposals”) that would amend certain provisions of the Canadian Tax Act with respect to “hybrid mismatch arrangements” and introduce other consequential amendments. This
+overview does not take into account the January 29 Tax Proposals, but otherwise takes into account all other specific proposals to amend the Canadian Tax Act publicly announced by or on behalf of the Minister of Finance (Canada) prior to the date
+hereof (the “Tax Proposals”) and the current administrative policies of the Canada Revenue Agency (“CRA”) published in writing by the CRA prior to the date hereof. This summary is not exhaustive of all possible Canadian federal income tax
+considerations relevant to an investment in Notes and, except for the Tax Proposals, does not take into account or anticipate any changes in law or CRA administrative policies, whether by way of legislative, governmental or judicial decision or
+action, nor does it take into account or consider any other federal tax considerations or any provincial, territorial or foreign tax considerations, which may differ materially from those discussed herein. While this summary assumes that the Tax
+Proposals will be enacted in the form proposed, no assurance can be given that this will be the case, and no assurance can be given that judicial, legislative or administrative changes will not modify or change the statements below.
+
+The following is only a general summary of certain Canadian federal non-resident withholding and other tax provisions which may affect a Non-resident Holder of the
+Notes described in this offering document. This summary is not, and is not intended to be, and should not be construed to be, legal or tax advice to any particular Non-resident Holder and no representation with respect to the income tax
+consequences to any particular Non-resident Holder is made. Persons considering investing in Notes should consult their own tax advisors with respect to the tax consequences of acquiring, holding and disposing of Notes and any common shares of TD
+or any of its affiliates acquired on a bail-in conversion having regard to their own particular circumstances.
+
+For the purposes of the Canadian Tax Act, all amounts not otherwise expressed in Canadian dollars must be converted into Canadian dollars based on the single day exchange rate as
+quoted by the Bank of Canada for the applicable day or such other rate of exchange that is acceptable to the Minister of National Revenue (Canada).
+
+Notes
+
+Interest (including amounts on account or in lieu of payment of, or in satisfaction of, interest) paid or credited, or deemed to be paid or credited, on a Note to a Non-resident
+Holder will not be subject to Canadian non-resident withholding tax unless all or any part of such interest is “participating debt interest”. “Participating debt interest” is defined in the Canadian Tax Act generally as interest (other than on a
+“prescribed obligation” described below) all or any portion of which is contingent or dependent on the use of or production from property in Canada or is computed by reference to revenue, profit, cash flow, commodity price or any other similar
+criterion or by reference to dividends paid or payable to shareholders of any class or series of shares of the capital stock of a corporation. A “prescribed obligation” for this purpose is an “indexed debt obligation”, as defined in the Canadian
+Tax Act, in respect of which no amount payable is: (a) contingent or dependent upon the use of, or production from, property in Canada, or (b) computed by reference to: (i) revenue, profit, cash flow, commodity price or any other similar criterion,
+other than a change in the purchasing power of money, or (ii) dividends paid or payable to shareholders of any class or series of shares of the capital stock of a corporation. An “indexed debt obligation” is a debt obligation the terms or
+conditions of which provide for an adjustment to an amount payable in respect of the obligation for a period during which the obligation was outstanding that is determined by reference to a change in the purchasing power of money.
+
+In the event that a Note is redeemed, cancelled, purchased or repurchased by TD or any other person resident or deemed to be resident in Canada from a Non-resident Holder or is
+otherwise assigned or transferred by a Non-resident Holder to TD or another person resident or deemed to be resident in Canada for an amount which exceeds, generally, the issue price thereof, the excess may, in certain circumstances be deemed to be
+interest and may, together with any interest that has accrued or is deemed to have accrued on the Note to that time, be subject to Canadian non-resident withholding tax if all or any part of such interest or deemed interest is participating debt
+interest; unless, in certain circumstances, the Note is not an indexed debt obligation (described above) and was issued for an amount not less than 97% of its principal amount (as defined in the Canadian Tax Act), and the yield from the Note,
+expressed in terms of an annual rate (determined in accordance with the Canadian Tax Act) on the amount for which the Note was issued, does not exceed 4/3 of the interest stipulated to be payable on the Note, expressed in terms of an annual rate on
+the outstanding principal amount from time to time.
+
+If applicable, the normal rate of Canadian non-resident withholding tax is 25% but such rate may be reduced under the terms of an applicable income tax treaty.
+
+Generally, there are no other Canadian taxes on income (including taxable capital gains) payable by a Non-resident Holder under the Canadian Tax Act solely as a consequence of the
+acquisition, ownership or disposition of Notes by the Non-resident Holder.
+
+Common Shares Acquired on a Bail-in Conversion
+
+Dividends (including amounts on account or in lieu of payment of, or in satisfaction of, dividends) paid or credited or deemed to be paid or credited to a Non-resident Holder on any
+common shares of TD or common shares of an affiliate of TD that is a Canadian resident corporation will be subject to Canadian non-resident withholding tax of 25% but such rate may be reduced under the terms of an applicable income tax treaty.
+
+A Non-resident Holder will not be subject to tax under the Canadian Tax Act on any capital gain realized on a disposition or deemed disposition of any common shares of TD or common
+shares of an affiliate of TD unless such shares constitute “taxable Canadian property” to the Non-resident Holder for purposes of the Canadian Tax Act at the time of their disposition, and such Non-resident Holder is not entitled to relief pursuant
+to the provisions of an applicable income tax treaty. Non-resident Holders should consult their own tax advisors with respect to their particular circumstances.
+
+14
+
+| What Are the Tax Consequences of the Notes? |
+| --- |
+
+The U.S. federal income tax consequences of your investment in the Notes are uncertain. There are no statutory provisions, regulations, published rulings or
+judicial decisions addressing the characterization for U.S. federal income tax purposes of securities with terms that are substantially the same as the Notes. Some of these tax consequences are summarized below, but we urge you to read the more
+detailed discussion in “Material U.S. Federal Income Tax Consequences” in the accompanying product supplement and to discuss the tax consequences of your particular situation with your tax advisor. This discussion is based upon the U.S. Internal
+Revenue Code of 1986, as amended (the “Code”), final, temporary and proposed U.S. Department of the Treasury (the “Treasury”) regulations, rulings and decisions, in each case, as available and in effect as of the date hereof, all of which are
+subject to change, possibly with retroactive effect. Tax consequences under state, local and non-U.S. laws are not addressed herein. No ruling from the U.S. Internal Revenue Service (the “IRS”) has been sought as to the U.S. federal income tax
+consequences of your investment in the Notes, and the following discussion is not binding on the IRS.
+
+U.S. Tax Treatment.
+Pursuant to the terms of the Notes, TD and you agree, in the absence of a statutory or regulatory change or an
+administrative determination or judicial ruling to the contrary, to characterize the Notes as prepaid derivative contracts with respect to the underlying assets. You further agree to include any contingent coupon that is paid by TD (including on
+the maturity date or call settlement date) in your income as ordinary income in accordance with your regular method of accounting for U.S. federal income tax purposes.
+
+Under this treatment, you should generally recognize capital gain or loss upon the taxable disposition (including cash settlement) of your Notes in an amount equal to the
+difference between the amount you receive at such time (other than amounts or proceeds attributable to a contingent coupon or any amount attributable to any accrued but unpaid contingent coupons) and the amount you paid for your Notes. Such gain or
+loss should generally be long-term capital gain or loss if you have held your Notes for more than one year (and, otherwise, should be short-term capital gain or loss). The deductibility of capital losses is subject to limitations. Although
+uncertain, it is possible that proceeds received from the taxable disposition of your Notes prior to a coupon payment date, but that could be attributed to an expected contingent coupon, could be treated as ordinary income. You should consult your
+tax advisor regarding this risk.
+
+Based on certain factual representations received from us, our special U.S. tax counsel, Fried, Frank, Harris, Shriver & Jacobson LLP, is of the opinion that
+it would be reasonable to treat your Notes in the manner described above. However, because there is no authority that specifically addresses the tax treatment of the Notes, it is possible that your Notes could alternatively be treated for tax
+purposes as a single contingent payment debt instrument or pursuant to some other characterization, such that the timing and character of your income from the Notes could differ materially and adversely from the treatment described above, as
+described further under “Material U.S. Federal Income Tax Consequences” in the accompanying product supplement.
+
+Section 1297
+. We will not attempt to ascertain whether any underlying constituent issuer would be treated as a “passive foreign investment
+company” (a “PFIC”) within the meaning of Section 1297 of the Code. If any such entity were so treated, certain adverse U.S. federal income tax consequences might apply to U.S. holders upon the taxable disposition of the Notes. U.S. holders should
+refer to information filed with the SEC or an equivalent governmental authority by such entities and consult their tax advisors regarding the possible consequences to them if any such entity is or becomes a PFIC.
+
+Except to the extent otherwise required by law, TD intends to treat your Notes for U.S. federal income tax purposes in accordance with the treatment described above and under
+“Material U.S. Federal Income Tax Consequences” in the accompanying product supplement unless and until such time as the IRS and the Treasury determine that some other treatment is more appropriate.
+
+Notice 2008-2.
+In 2007, the IRS released a notice that may affect the taxation of holders of the Notes. According to Notice 2008-2, the IRS
+and the Treasury are considering whether a holder of an instrument such as the Notes should be required to accrue ordinary income on a current basis. It is not possible to determine what guidance they will ultimately issue, if any. It is possible,
+however, that under such guidance, holders of the Notes will ultimately be required to accrue income currently, in excess of any receipt of contingent coupons, and this could be applied on a retroactive basis. According to the Notice, the IRS and
+the Treasury are also considering other relevant issues, including whether additional gain or loss from such instruments should be treated as ordinary or capital, whether non-U.S. holders of such instruments should be subject to withholding tax on
+any deemed income accruals, and whether the special “constructive ownership rules” of Section 1260 of the Code should be applied to such instruments.
+Both U.S. and non-U.S. holders are urged to consult their tax
+advisors concerning the significance and potential impact of the above considerations.
+
+Medicare Tax on Net Investment Income
+. U.S. holders that are individuals, estates or certain trusts are subject to an additional 3.8% tax
+on all or a portion of their “net investment income,”
+
+or “undistributed net investment income” in the case of an estate or trust, which may include any income or gain realized with respect to the Notes, to the
+extent of their net investment income or undistributed net investment income (as the case may be) that, when added to their other modified adjusted gross income, exceeds $200,000 for an unmarried individual, $250,000 for a married taxpayer filing a
+joint return (or a surviving spouse), $125,000 for a married individual filing a separate return or the dollar amount at which the highest tax bracket begins for an estate or trust. The 3.8% Medicare tax is determined in a different manner than the
+regular income tax. U.S. holders should consult their tax advisors as to the consequences of the 3.8% Medicare tax.
+
+Specified Foreign Financial Assets.
+U.S. holders may be subject to reporting obligations with respect to their Notes if they do not hold
+their Notes in an account maintained by a financial institution and the aggregate value of their Notes and certain other “specified foreign financial assets” (applying certain attribution rules) exceeds an applicable threshold. Significant
+penalties can apply if a U.S. holder is required to disclose its Notes and fails to do so.
+
+Non-U.S. Holders.
+The U.S. federal income tax treatment of the contingent coupons is unclear. Subject to Section 897 of the Code and
+Section 871(m) of the Code, and FATCA, each as discussed below, if the Notes are offered to non-U.S. holders, we currently do not intend to treat contingent coupons paid to a non-U.S. holder that provides us (and/or the applicable withholding
+agent) with a fully completed and validly executed applicable IRS Form W-8 as subject to U.S. withholding tax and we currently do not intend to withhold any tax on contingent coupons. However, it is possible that the IRS could assert that such
+payments are subject to U.S. withholding tax, or that another withholding agent may otherwise determine that withholding is required, in which case such other withholding agent may withhold up to 30% on such payments (subject to reduction or
+elimination of such withholding tax pursuant to an applicable income tax treaty). We will not pay any additional amounts in respect of such withholding. Subject to Section 897 of the Code and Section 871(m) of the Code, discussed below, gain
+realized from the taxable disposition of a Note generally should not be subject to U.S. tax unless (i) such gain is effectively connected with a trade or business conducted by the non-U.S. holder in the U.S., (ii) the non-U.S. holder is a
+non-resident alien individual and is present in the U.S. for 183 days or more during the taxable year of such taxable disposition and certain other conditions are satisfied or (iii) the non-U.S. holder has certain other present or former
+connections with the U.S.
+
+Section 897
+. We will not attempt to ascertain whether any underlying constituent issuer would be treated as a “United States real property holding corporation”
+(“USRPHC”) within the meaning of Section 897 of the Code. We also have not attempted to determine whether the Notes should be treated as “United States real property interests” (“USRPI”) as defined in Section 897 of the Code. If any such entity
+and/or the Notes were so treated, certain adverse U.S. federal income tax consequences could possibly apply, including subjecting any gain to a non-U.S. holder in respect of a Note upon a taxable disposition of the Note to U.S.
+
+15
+
+federal income tax on a net basis, and the proceeds from such a taxable disposition to a 15% withholding tax. Non-U.S. holders should consult their tax advisors regarding the
+potential treatment of any such entity as a USRPHC and/or the Notes as USRPI
+
+Section 871(m)
+. A 30% withholding tax (which may be reduced by an applicable income tax treaty) is imposed under Section 871(m) of the Code
+on certain “dividend equivalents” paid or deemed paid to a non-U.S. holder with respect to a “specified equity-linked instrument” that references one or more dividend-paying U.S. equity securities or indices containing U.S. equity securities. The
+withholding tax can apply even if the instrument does not provide for payments that reference dividends. Treasury regulations provide that the withholding tax applies to all dividend equivalents paid or deemed paid on specified equity-linked
+instruments that have a delta of one (“delta-one specified equity-linked instruments”) issued after 2016 and to all dividend equivalents paid or deemed paid on all other specified equity-linked instruments issued after 2017. However, the IRS has
+issued guidance that states that the Treasury and the IRS intend to amend the effective dates of the Treasury regulations to provide that withholding on dividend equivalents paid or deemed paid will not apply to specified equity-linked instruments
+that are not delta-one specified equity-linked instruments and are issued before January 1, 2027.
+
+Based on the nature of the underlying assets and our determination that the Notes are not “delta-one” with respect to any underlying asset or underlying constituents, our special
+U.S. tax counsel is of the opinion that the Notes should not be delta-one specified equity-linked instruments and thus should not be subject to withholding on dividend equivalents. Our determination is not binding on the IRS, and the IRS may
+disagree with this determination. Furthermore, the application of Section 871(m) of the Code will depend on our determinations on the date the terms of the Notes are set. If withholding is required, we will not make payments of any additional
+amounts.
+
+Nevertheless, after the date the terms are set, it is possible that your Notes could be deemed to be reissued for tax purposes upon the occurrence of certain events affecting an
+underlying asset, any underlying constituents or your Notes, and following such occurrence your Notes could be treated as delta-one specified equity-linked instruments that are subject to withholding on dividend equivalents. It is also possible
+that withholding tax or other tax under Section 871(m) of the Code could apply to the Notes under these rules if a non-U.S. holder enters, or has entered, into certain other transactions in respect of an underlying asset, any underlying
+constituents or the Notes. A non-U.S. holder that enters, or has entered, into other transactions in respect of an underlying asset, any underlying constituents or the Notes should consult its tax advisor regarding the application of Section 871(m)
+of the Code to its Notes in the context of its other transactions.
+
+Because of the uncertainty regarding the application of the 30% withholding tax on dividend equivalents to the Notes, you are urged to consult your tax advisor
+regarding the potential application of Section 871(m) of the Code and the 30% withholding tax to an investment in the Notes.
+
+FATCA.
+The Foreign Account Tax Compliance Act (“FATCA”) was enacted on March 18, 2010, and imposes a 30% U.S. withholding tax on
+“withholdable payments” (i.e., certain U.S.-source payments, including interest (and original issue discount), dividends, other fixed or determinable annual or periodical gain, profits and income, and the gross proceeds from a disposition of
+property of a type which can produce U.S.-source interest or dividends) and “passthru payments” (i.e., certain payments attributable to withholdable payments) made to certain foreign financial institutions (and certain of their affiliates) unless
+the payee foreign financial institution agrees (or is required), among other things, to disclose the identity of any U.S. individual with an account at the institution (or the relevant affiliate) and to annually report certain information about
+such account. FATCA also requires withholding agents making withholdable payments to certain foreign entities that do not disclose the name, address, and taxpayer identification number of any substantial U.S. owners (or do not certify that they do
+not have any substantial U.S. owners) to withhold tax at a rate of 30%. Under certain circumstances, a holder may be eligible for refunds or credits of such taxes.
+
+Pursuant to final and temporary Treasury regulations and other IRS guidance, the withholding and reporting requirements under FATCA will generally apply to certain “withholdable
+payments”, will not apply to gross proceeds on a sale or disposition, and will apply to certain foreign passthru payments only to the extent that such payments are made after the date that is two years after final regulations defining the term
+“foreign passthru payment” are published. If withholding is required, we (or the applicable paying agent) will not be required to pay additional amounts with respect to the amounts so withheld. Foreign financial institutions and non-financial
+foreign entities located in jurisdictions that have an intergovernmental agreement with the U.S. governing FATCA may be subject to different rules.
+
+Investors should consult their tax advisors about the application of FATCA, in particular if they may be classified as financial institutions (or if they hold their Notes through a
+foreign entity) under the FATCA rules.
+
+Backup Withholding and Information Reporting.
+The proceeds received from a taxable disposition of the Notes will be subject to information
+reporting unless you are an “exempt recipient” and may also be subject to backup withholding at the rate specified in the Code if you fail to provide certain identifying information (such as an accurate taxpayer number, if you are a U.S. holder) or
+meet certain other conditions.
+
+Amounts withheld under the backup withholding rules are not additional taxes and may be refunded or credited against your U.S. federal income tax liability, provided the required
+information is furnished to the IRS.
+
+U.S. Federal Estate Tax Treatment of Non-U.S. Holders.
+A Note may be subject to U.S. federal estate tax if an individual non-U.S. holder
+holds the Note at the time of his or her death. The gross estate of a non-U.S. holder domiciled outside the U.S. includes only property situated in the U.S. Individual non-U.S. holders should consult their tax advisors regarding the U.S. federal
+estate tax consequences of holding the Notes at death.
+
+Proposed Legislation.
+In 2007, legislation was introduced in Congress that, if it had been enacted, would have required holders of Notes
+purchased after the bill was enacted to accrue interest income over the term of the Notes despite the fact that there may be no interest payments over the term of the Notes.
+
+Furthermore, in 2013, the House Ways and Means Committee released in draft form certain proposed legislation relating to financial instruments. If it had been enacted, the effect
+of this legislation generally would have been to require instruments such as the Notes to be marked to market on an annual basis with all gains and losses to be treated as ordinary, subject to certain exceptions.
+
+It is not possible to predict whether any similar or identical bills will be enacted in the future, or whether any such bill would affect the tax treatment of your Notes. You are
+urged to consult your tax advisor regarding the possible changes in law and their possible impact on the tax treatment of your Notes.
+
+Both U.S. and non-U.S. holders are urged to consult their tax advisors concerning the application of U.S. federal income tax laws to their particular situations, as
+well as any tax consequences of the purchase, beneficial ownership and disposition of the Notes arising under the laws of any state, local, non-U.S. or other taxing jurisdiction (including that of TD and those of the underlying constituent
+issuers).
+
+16
+
+| Additional Terms of the Notes |
+| --- |
+
+The sections “General Terms of the Notes — Unavailability of the Level of, or Change in Law Event Affecting, the Reference Asset; Modification to Method of Calculation” and “— Market
+Disruption Events” in the accompanying product supplement are superseded and replaced in their entirety with the corresponding sections below.
+
+Market Disruption Events
+
+The calculation agent will determine the closing levels (and thereafter the corresponding downside thresholds, coupon barriers, final levels and/or any other relevant term), as
+applicable (the “applicable level”), of each underlying asset and whether each final level and/or closing level, as applicable, of an underlying asset is greater than, less than, or equal to its initial level, downside threshold, coupon barrier
+and/or any other relevant term as applicable, on each observation date (including the final valuation date). If the calculation agent determines that, on any observation date, a market disruption event has occurred or is continuing with respect to
+an underlying asset, such observation date may be postponed. If such a postponement occurs, the calculation agent will determine the closing level by reference to the closing level for the disrupted underlying asset on the first trading day on
+which no market disruption event occurs or is continuing with respect to such underlying asset. In no event, however, will any observation date be postponed by more than eight trading days. If any observation date is postponed to the last possible
+day, but a market disruption event occurs or is continuing on that day, the calculation agent will nevertheless determine the closing level on such day. In such an event, the calculation agent will estimate the closing level (and thereafter the
+corresponding applicable level) for the underlying asset that would have prevailed in the absence of the market disruption event.
+
+If the calculation agent postpones any observation date for any underlying asset, the corresponding payment date will be postponed to maintain the same number of business days between
+the latest postponed observation date for the last underlying asset for which a closing level or final level, as applicable, is determined and the related coupon payment date (which may be the maturity date) as existed prior to the postponement of
+such observation date for one or more underlying assets. A postponement of any observation date shall have no effect on any subsequent observation dates.
+
+Notwithstanding the occurrence of one or more of the events below, which may constitute a market disruption event with respect to an underlying asset, the calculation agent may waive
+its right to postpone any observation date, if it determines that one or more of the below events has not and is not likely to materially impair its ability to determine the final level or closing level of that underlying asset on such date.
+
+A market disruption event for a particular underlying asset will not necessarily be a market disruption event for another underlying asset. If, on the originally scheduled observation
+date, no market disruption event with respect to a particular underlying asset occurs or is continuing, then the determination of the final level and/or closing level relating to such underlying asset will be made on the originally scheduled
+observation date, irrespective of the occurrence of a market disruption event with respect to any other underlying asset.
+
+Any of the following will be a market disruption event with respect to an underlying asset, in each case as determined by the calculation agent:
+
+| ➢ | a suspension, absence or material limitation of trading in a material number of its underlying constituents (including without limitation any option or futures contract), for more than two hours of trading or during the one hour before the close of trading in the applicable market or markets for such underlying constituents; |
+| --- | --- |
+
+| ➢ | a suspension, absence or material limitation of trading in option or futures contracts relating to the underlying asset or to a material number of its underlying constituents in the primary market or markets for those contracts; |
+| --- | --- |
+
+| ➢ | any event that disrupts or impairs the ability of market participants in general (i) to effect transactions in, or obtain market values for a material number of its underlying constituents or (ii) to effect transactions in, or obtain market values for, futures or options contracts relating to the underlying asset or a material number of its underlying constituents in the primary market or markets for those options or contracts; |
+| --- | --- |
+
+| ➢ | a change in the settlement price of any option or futures contract included in the underlying asset by an amount equal to the maximum permitted price change from the previous day’s settlement price; |
+| --- | --- |
+
+| ➢ | the settlement price is not published for any individual option or futures contract included in the underlying asset; |
+| --- | --- |
+
+| ➢ | the underlying asset is not published; or |
+| --- | --- |
+
+| ➢ | in any other event, if the calculation agent determines that the event materially interferes with our ability, UBS’ ability or the ability of any of our respective affiliates to (1) maintain or unwind all or a material portion of a hedge with respect to the Notes that we, UBS or our respective affiliates have effected or may effect or (2) effect trading in the underlying constituents and instruments linked to the underlying asset generally. |
+| --- | --- |
+
+The following events will not be market disruption events with respect to an underlying asset:
+
+| ➢ | a limitation on the hours or numbers of days of trading in options or futures contracts relating to such underlying asset or to a material number of its underlying constituents in the primary market or markets for those contracts, but only if the limitation results from an announced change in the regular business hours of the applicable market or markets; and |
+| --- | --- |
+
+| ➢ | a decision to permanently discontinue trading in the option or futures contracts relating to such underlying asset, in any of its underlying constituents or in any option or futures contracts related to such underlying constituents. |
+| --- | --- |
+
+For this purpose, an “absence of trading” in those options or futures contracts will not include any time when that market is itself closed for trading under ordinary circumstances.
+
+Discontinuance of, Adjustments to, or Change in Law Affecting, an Underlying Asset; Alteration of Method of Calculation
+
+If:
+
+| ➢ | the index sponsor discontinues publication of an underlying asset; or |
+| --- | --- |
+
+| ➢ | a change in law occurs with respect to the underlying asset or one or more underlying constituents or the index sponsor otherwise modifies or reconstitutes the underlying asset or one or more underlying constituents in response to what otherwise would have been a change in law, |
+| --- | --- |
+
+then the calculation agent may select a successor index. A “successor index” is an index that the calculation agent determines (i) is comparable to the underlying asset and (ii) is
+not subject to a hedging restriction or any other legal or regulatory restriction prohibiting or restricting directly or indirectly, the investment in, or the sale, purchase beneficial ownership, holding or transfer of, or any other transaction or
+other dealing related to, such index (or any underlying constituent) by any class of eligible potential purchasers of the Notes with respect to such successor index. A successor index is subject to a “hedging restriction” if TD, UBS or
+
+17
+
+any of our or their affiliates is subject to a trading restriction under our or their respective trading policies that would materially limit the ability of TD, UBS or any of our or
+their affiliates to hedge the Notes with respect to such successor index. If the calculation agent selects a successor index, then the calculation agent will determine the applicable level of the underlying asset and/or any other relevant term, as
+applicable, and the amount payable, if any, on the Notes by reference to such successor index.
+
+Alternatively, if the calculation agent determines that a change in law has occurred or that there is no successor index, then the calculation agent may instead make the necessary
+determination by reference to a group of stocks, physical commodities, options or futures contracts on physical commodities or another index or indices meeting the requirements (i) and (ii) in the above paragraph, as applicable, and will apply a
+computation methodology that the calculation agent determines will as closely as reasonably possible replicate the underlying asset (giving effect to any change in law).
+
+In connection with a successor index or replacement basket the calculation agent may make adjustments in the method of calculating that index, the applicable level of the underlying
+asset and/or any other relevant term, as applicable, that it believes are appropriate to offset, to the extent practical, any change in your economic position as a holder of the Notes resulting solely from such event to achieve an equitable result.
+
+If the calculation agent determines that (i) any underlying constituents or the method of calculating the underlying asset have been changed at any time in any respect that causes the
+level of the underlying asset not to fairly represent the level of the underlying asset had such changes not been made or that otherwise affects the calculation of the applicable level or the amount payable on the Notes, (ii) a change in law has
+occurred with respect to the underlying asset or any underlying constituent or (iii) the index sponsor has modified or reconstituted the underlying asset or one or more underlying constituents in response to what otherwise would have been a change
+in law, then the calculation agent may make adjustments in the method of calculating the underlying asset that it believes are appropriate to offset, to the extent practical, any change in your economic position as a holder of the Notes resulting
+solely from such event to achieve an equitable result.
+
+Examples of any such changes that may cause the calculation agent to make the foregoing adjustment include, but are not limited to, additions, deletions or substitutions and any
+reweighting, rebalancing or reconstitution of the underlying constituents, changes made by the index sponsor under its existing policies or following a modification of those policies, changes due to a change in law or due to the publication of a
+successor index, changes due to events affecting one or more of the underlying constituents or their issuers or any other underlying constituents, as applicable, or changes due to any other reason. All determinations and adjustments to be made with
+respect to the applicable level and any applicable payment on the Notes or otherwise relating to the level of the underlying asset will be made by the calculation agent.
+
+If, following the occurrence of any such event, the calculation agent determines that no successor index, replacement basket or alternative method of calculation would be comparable
+to the original underlying asset, then the calculation agent will deem the closing level of the original underlying asset (or affected underlying constituents) on a trading day reasonably proximate to the date of such event to be its closing level
+on each remaining trading day to, and including, the final valuation date and will calculate the closing level or final level, as applicable, of the underlying asset giving effect to such deemed level(s).
+
+Change in Law
+
+If (1) one or more underlying constituents is listed or admitted for trading on a non-U.S. exchange or market and (2) the calculation agent determines that a “change in law” (as
+defined below) occurs, then the calculation agent may take the actions described herein under “— Discontinuance of, Adjustments to, or Change in Law Affecting, an Underlying Asset; Alteration of Method of Calculation”.
+
+A “change in law” will be triggered if due to a change in law event, as defined below, the direct or indirect sale, purchase, beneficial ownership, holding, or transfer of, or any
+other transaction or other dealing related to, the underlying asset (or an underlying constituent) by (1) any class of eligible potential purchasers of the Notes or (2) TD, UBS or any of our or their affiliates is prohibited, restricted or
+otherwise impaired or, after giving effect to any applicable liquidation, unwind or cure period, will be so affected as of a given date (such applicable date, the “change date”).
+
+Any of the following may be determined by the calculation agent to be a “change in law event” with respect to the underlying asset:
+
+| ➢ | the adoption of or any change in any applicable law, regulation or order (including, for the avoidance of doubt and without limitation, adoption or promulgation of new regulations authorized or mandated by existing statute) or |
+| --- | --- |
+
+| ➢ | the promulgation of or any change, announcement or statement of the formal or informal interpretation by any court, tribunal, regulatory or executive authority with competent jurisdiction of any applicable law, regulation or order. |
+| --- | --- |
+
+An event will not be a change in law event if the index sponsor publicly announces prior to the change date its intention to comply with the applicable change in law by removing any
+affected underlying constituents.
+
+18
+
+| Additional Information Regarding the Estimated Value of the Notes |
+| --- |
+
+The final terms for the Notes were determined on the trade date, based on prevailing market conditions, and are specified elsewhere in this pricing supplement.
+
+The economic terms of the Notes are based on our internal funding rate (which is our internal borrowing rate based on variables such as market benchmarks and our
+appetite for borrowing), and several factors, including any sales commissions expected to be paid to TDS or another affiliate of ours, any selling concessions, discounts, commissions or fees expected to be allowed or paid to non-affiliated
+intermediaries, the estimated profit that we or any of our affiliates expect to earn in connection with structuring the Notes, estimated costs which we may incur in connection with the Notes and an estimate of the difference between the amounts we
+pay to UBS or its affiliate and the amounts that UBS or its affiliate pays to us in connection with hedging the Notes as described further under “Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any)” herein. Because
+our internal funding rate generally represents a discount from the levels at which our benchmark debt securities trade in the secondary market, the use of an internal funding rate for the Notes rather than the levels at which our benchmark debt
+securities trade in the secondary market is expected to have had an adverse effect on the economic terms of the Notes.
+
+On the cover page of this pricing supplement, we have provided the estimated value for the Notes. The estimated value was determined by reference to our internal
+pricing models which take into account a number of variables and are based on a number of assumptions, which may or may not materialize, typically including volatility, interest rates (forecasted, current and historical rates), price-sensitivity
+analysis, time to maturity of the Notes and our internal funding rate. For more information about the estimated value, see “Key Risks — Risks Relating to Estimated Value and Liquidity” herein. Because our internal funding rate generally represents
+a discount from the levels at which our benchmark debt securities trade in the secondary market, the use of an internal funding rate for the Notes rather than the levels at which our benchmark debt securities trade in the secondary market is
+expected, assuming all other economic terms are held constant, to increase the estimated value of the Notes. For more information see the discussion under “Key Risks — Risks Relating to Estimated Value and Liquidity — The estimated value of your
+Notes is based on our internal funding rate”.
+
+Our estimated value of the Notes is not a prediction of the price at which the Notes may trade in the secondary market, nor will it be the price at which TDS may
+buy or sell the Notes in the secondary market. Subject to normal market and funding conditions, the TDS or another affiliate of ours intends to offer to purchase the Notes in the secondary market but it is not obligated to do so.
+
+Assuming that all relevant factors remain constant after the trade date, the price at which TDS may initially buy or sell the Notes in the secondary market, if
+any, may exceed our estimated value on the trade date for a temporary period expected to be approximately 12 months after the settlement date because, in our discretion, we may elect to effectively reimburse to investors a portion of the estimated
+cost of hedging our obligations under the Notes and other costs in connection with the Notes which we will no longer expect to incur over the term of the Notes. We made such discretionary election and determined this temporary reimbursement period
+on the basis of a number of factors, including the tenor of the Notes and any agreement we may have with the distributors of the Notes. The amount of our estimated costs which we effectively reimburse to investors in this way may not be allocated
+ratably throughout the reimbursement period, and we may discontinue such reimbursement at any time or revise the duration of the reimbursement period after the settlement date of the Notes based on changes in market conditions and other factors
+that cannot be predicted.
+
+We urge you to read the “Key Risks” herein.
+
+19
+
+| Supplemental Plan of Distribution (Conflicts of Interest); Secondary Markets (if any) |
+| --- |
+
+We have appointed TDS, an affiliate of TD, and UBS as the agents for the sale of the Notes. Pursuant to the terms of a distribution agreement, TDS has agreed to purchase the Notes
+from TD at the issue price to public less the underwriting discount specified on the cover page hereof and TDS has agreed to sell the Notes to UBS at the issue price to public less the underwriting discount received. TD will reimburse TDS for
+certain expenses in connection with its role in the offer and sale of the Notes, and TD will pay TDS a fee in connection with its role in the offer and sale of the Notes.
+
+Additionally, because UBS, or one of its affiliates, is to conduct hedging activities for us in connection with the Notes, UBS, or its affiliate, may profit in connection with such
+hedging activities. Such profit, if any, will be in addition to the compensation that UBS, or its affiliate, receives for the sale of the Notes to you. You should be aware that the potential to earn fees in connection with hedging activities may
+create a further incentive for UBS to sell the Notes to you in addition to the compensation they would receive for the sale of the Notes. See “Key Risks — Risks Relating to Hedging Activities and Conflicts of Interest — Trading and business
+activities by TD, the agents or our or their respective affiliates may adversely affect the market value of, and any amounts payable on, the Notes” herein for additional information.
+
+Conflicts of Interest
+— TDS is an affiliate of TD and, as such, has a “conflict of interest” in this offering within the meaning of Financial
+Industry Regulatory Authority, Inc. (“FINRA”) Rule 5121. If any other affiliate of TD participates in this offering, that affiliate will also have a “conflict of interest” within the meaning of FINRA Rule 5121. In addition, TD will receive the net
+proceeds from the initial public offering of the Notes, thus creating an additional conflict of interest within the meaning of FINRA Rule 5121. This offering of the Notes will be conducted in compliance with the provisions of FINRA Rule 5121. In
+accordance with FINRA Rule 5121, neither TDS nor any other affiliate of ours is permitted to sell the Notes in this offering to an account over which it exercises discretionary authority without the prior specific written approval of the account
+holder.
+
+We, the agents, our or their respective affiliates or third parties may use this pricing supplement in the initial sale of the Notes. In addition, we, TDS, another of our affiliates
+or third parties may use this pricing supplement in a market-making transaction in the Notes after their initial sale. If a purchaser buys the Notes from us, TDS, another of our affiliates or third parties, this pricing supplement is being used in
+a market-making transaction unless we, TDS, another of our affiliates or third parties informs such purchaser otherwise in the confirmation of sale.
+
+Prohibition on Sales to EEA Retail Investors
+— The Notes are not intended to be offered, sold or otherwise made available to and should not be
+offered, sold or otherwise made available to any retail investor in the European Economic Area (the “EEA”). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1)
+of Directive 2014/65/EU (as amended, “MiFID II”); (ii) a customer within the meaning of Directive (EU) 2016/97, where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a
+qualified investor as defined in Regulation (EU) 2017/1129, as amended. Consequently no key information document required by Regulation (EU) No 1286/2014 (the “EU PRIIPs Regulation”) for offering or selling the Notes or otherwise making them
+available to retail investors in the EEA has been prepared and therefore offering or selling the Notes or otherwise making them available to any retail investor in the EEA may be unlawful under the EU PRIIPs Regulation.
+
+Prohibition on Sales to United Kingdom Retail Investors
+— The Notes are not intended to be offered, sold or otherwise made available to and
+should not be offered, sold or otherwise made available to any retail investor in the United Kingdom (the “UK”). For these purposes, a retail investor means a person who is neither: (i) a professional client, as defined in point (8) of Article 2(1)
+of Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European Union (Withdrawal) Act 2018 (“EUWA”) nor (ii) a qualified investor as defined in paragraph 15 of Schedule 1 to the Public Offers and Admissions to Trading
+Regulations 2024. Consequently no key information document required by Regulation (EU) No 1286/2014 as it forms part of domestic law by virtue of the EUWA (the “UK PRIIPs Regulation”) for offering or selling the Notes or otherwise making them
+available to retail investors in the UK has been prepared and therefore offering or selling the Notes or otherwise making them available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.
+
+20
+
+| Validity of the Notes |
+| --- |
+
+In the opinion of Fried, Frank, Harris, Shriver & Jacobson LLP, as special products counsel to TD, when the Notes offered by this pricing supplement have been executed and issued
+by TD and authenticated by the trustee pursuant to the indenture and delivered, paid for and sold as contemplated herein, the Notes will be valid and binding obligations of TD, enforceable against TD in accordance with their terms, subject to
+applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium, receivership or other laws relating to or affecting creditors’ rights generally, and to general principles of equity (regardless of whether enforcement is sought
+in a proceeding at law or in equity). This opinion is given as of the date hereof and is limited to the laws of the State of New York. Insofar as this opinion involves matters governed by Canadian law, Fried, Frank, Harris, Shriver & Jacobson
+LLP has assumed, without independent inquiry or investigation, the validity of the matters opined on by McCarthy Tétrault LLP, Canadian legal counsel for TD, in its opinion expressed below. In addition, this opinion is subject to customary
+assumptions about the trustee’s authorization, execution and delivery of the indenture and, with respect to the Notes, authentication of the Notes and the genuineness of signatures and certain factual matters, all as stated in the opinion of Fried,
+Frank, Harris, Shriver & Jacobson LLP filed as Exhibit 5.3 to the registration statement on Form F-3 filed by TD on December 20, 2024.
+
+In the opinion of McCarthy Tétrault LLP, the issue and sale of the Notes has been duly authorized by all necessary corporate action on the part of TD, and when this pricing supplement
+has been attached to, and duly notated on, the master note that represents the Notes, the Notes will have been validly executed and issued and, to the extent validity of the Notes is a matter governed by the laws of the Province of Ontario, or the
+laws of Canada applicable therein, will be valid obligations of TD, subject to the following limitations: (i) the enforceability of the indenture is subject to bankruptcy, insolvency, reorganization, arrangement, winding up, moratorium and other
+similar laws of general application limiting the enforcement of creditors’ rights generally; (ii) the enforceability of the indenture is subject to general equitable principles, including the fact that the availability of equitable remedies, such
+as injunctive relief and specific performance, is in the discretion of a court; (iii) courts in Canada are precluded from giving a judgment in any currency other than the lawful money of Canada; and (iv) the enforceability of the indenture will be
+subject to the limitations contained in the Limitations Act, 2002 (Ontario), and such counsel expresses no opinion as to whether a court may find any provision of the indenture to be unenforceable as an attempt to vary or exclude a limitation
+period under that Act. This opinion is given as of the date hereof and is limited to the laws of the Province of Ontario and the federal laws of Canada applicable thereto. In addition, this opinion is subject to: (i) the assumption that the senior
+indenture has been duly authorized, executed and delivered by, and constitutes a valid and legally binding obligation of, the trustee, enforceable against the trustee in accordance with its terms; and (ii) customary assumptions about the
+genuineness of signatures and certain factual matters all as stated in the letter of such counsel dated December 20, 2024, which has been filed as Exhibit 5.2 to the registration statement on Form F-3 filed by TD on December 20, 2024.
+
+21

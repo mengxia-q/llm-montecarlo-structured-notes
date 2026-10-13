@@ -1,0 +1,115 @@
+{
+  "accession": "0000950103-26-011340",
+  "source_file": "data/cleaned/0000950103-26-011340_dp250779_424b2-ubseln1751.htm.txt",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-28",
+    "strike_date": null,
+    "issue_date": "2026-07-30",
+    "maturity_date": "2031-07-31",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 27763.13
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6289.51
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-28",
+      "2027-01-28",
+      "2027-04-28",
+      "2027-07-28",
+      "2027-10-28",
+      "2028-01-28",
+      "2028-04-28",
+      "2028-07-28",
+      "2028-10-30",
+      "2029-01-29",
+      "2029-04-30",
+      "2029-07-30",
+      "2029-10-29",
+      "2030-01-28",
+      "2030-04-29",
+      "2030-07-29",
+      "2030-10-28",
+      "2031-01-28",
+      "2031-04-28",
+      "2031-07-28"
+    ],
+    "payment_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02",
+      "2027-11-02",
+      "2028-02-02",
+      "2028-05-03",
+      "2028-08-02",
+      "2028-11-02",
+      "2029-02-01",
+      "2029-05-03",
+      "2029-08-02",
+      "2029-11-01",
+      "2030-01-31",
+      "2030-05-02",
+      "2030-08-01",
+      "2030-10-31",
+      "2031-01-31",
+      "2031-05-01",
+      "2031-07-31"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.5875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.69
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0000950103-26-011340.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "verifier-3",
+    "verifier_is_author": false,
+    "verification_minutes": 19.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "accession": "0001140361-26-025408",
+  "source_file": "data/cleaned/0001140361-26-025408_ef20076218_424b2.htm.txt",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-12",
+    "strike_date": null,
+    "issue_date": "2026-06-17",
+    "maturity_date": "2029-06-15",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 29635.95
+      },
+      {
+        "name": "S&P 500 ® Equal Weight Index",
+        "ticker": "SPW",
+        "initial_level": 8555.58
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-14",
+      "2026-12-14",
+      "2027-03-12",
+      "2027-06-14",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-12",
+      "2028-09-12",
+      "2028-12-12",
+      "2029-03-12",
+      "2029-06-12"
+    ],
+    "payment_dates": [
+      "2026-09-16",
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-14",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-14",
+      "2029-06-15"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.3,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.643
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001140361-26-025408.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "verifier-4",
+    "verifier_is_author": false,
+    "verification_minutes": 20.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "accession": "0001213900-26-094790",
+  "source_file": "data/cleaned/0001213900-26-094790_ea0303730-01_424b2.htm.txt",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-08-26",
+    "strike_date": null,
+    "issue_date": "2026-08-31",
+    "maturity_date": "2029-08-30",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 3005.9
+      },
+      {
+        "name": "State Street ® Energy Select Sector SPDR ® ETF",
+        "ticker": "XLE",
+        "initial_level": 62.43
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-11-27",
+      "2027-02-26",
+      "2027-05-26",
+      "2027-08-26",
+      "2027-11-26",
+      "2028-02-28",
+      "2028-05-26",
+      "2028-08-28",
+      "2028-11-27",
+      "2029-02-26",
+      "2029-05-29",
+      "2029-08-27"
+    ],
+    "payment_dates": [
+      "2026-12-02",
+      "2027-03-03",
+      "2027-06-01",
+      "2027-08-31",
+      "2027-12-01",
+      "2028-03-02",
+      "2028-06-01",
+      "2028-08-31",
+      "2028-11-30",
+      "2029-03-01",
+      "2029-06-01",
+      "2029-08-30"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.4125,
+      "barrier_pct": 70,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.62
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001213900-26-094790.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "coauthor-1",
+    "verifier_is_author": true,
+    "verification_minutes": 19.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

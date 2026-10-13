@@ -1,0 +1,1480 @@
+{
+  "summary": [
+    {
+      "scenario": "base",
+      "description": "252-day hist. vol/corr, proxy dividends, Treasury curve",
+      "spearman_vs_base": 1.0,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 364.2015432872903,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 35.68228218638369,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "autocall.levels_pct",
+        "knock_in.monitoring",
+        "knock_in.barrier_pct",
+        "autocall.first_observation_index",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 114.54878067966922,
+        "stage2_nothink/B2": 114.54878067966922,
+        "stage2_nothink/B3": 0.026780242464269577,
+        "stage2_nothink/Ours": 0.026780242464269577
+      }
+    },
+    {
+      "scenario": "window_126",
+      "description": "126-day estimation window",
+      "spearman_vs_base": 0.9333333333333332,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 355.53566635949994,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 32.81766171828839,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "knock_in.barrier_pct",
+        "autocall.levels_pct",
+        "coupon.memory",
+        "autocall.first_observation_index",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 113.59830914753547,
+        "stage2_nothink/B2": 113.59830914753547,
+        "stage2_nothink/B3": 0.02543010683052671,
+        "stage2_nothink/Ours": 0.02543010683052671
+      }
+    },
+    {
+      "scenario": "window_378",
+      "description": "378-day estimation window",
+      "spearman_vs_base": 0.8666666666666667,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 352.87070704927265,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 29.503528575555862,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "autocall.levels_pct",
+        "autocall.first_observation_index",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 113.8304323725996,
+        "stage2_nothink/B2": 113.8304323725996,
+        "stage2_nothink/B3": 0.02646504479560008,
+        "stage2_nothink/Ours": 0.02646504479560008
+      }
+    },
+    {
+      "scenario": "vol_x0.8",
+      "description": "volatilities x 0.8",
+      "spearman_vs_base": 0.8666666666666667,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 375.1035167293969,
+      "second_field": "autocall.levels_pct",
+      "top_over_second": 21.969033467830087,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "autocall.levels_pct",
+        "autocall.first_observation_index",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 119.9141222407178,
+        "stage2_nothink/B2": 119.9141222407178,
+        "stage2_nothink/B3": 0.02796245260856267,
+        "stage2_nothink/Ours": 0.02796245260856267
+      }
+    },
+    {
+      "scenario": "vol_x1.25",
+      "description": "volatilities x 1.25",
+      "spearman_vs_base": 0.8333333333333333,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 343.5148002259638,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 28.66964150139086,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "coupon.memory",
+        "knock_in.barrier_pct",
+        "autocall.levels_pct",
+        "autocall.first_observation_index",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 106.63057953403893,
+        "stage2_nothink/B2": 106.63057953403893,
+        "stage2_nothink/B3": 0.024624930052254967,
+        "stage2_nothink/Ours": 0.024624930052254967
+      }
+    },
+    {
+      "scenario": "corr_low",
+      "description": "correlations halved",
+      "spearman_vs_base": 0.9666666666666667,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 407.81703621735664,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 32.40849140388895,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "autocall.levels_pct",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "autocall.first_observation_index",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 128.9692128094946,
+        "stage2_nothink/B2": 128.9692128094946,
+        "stage2_nothink/B3": 0.02833302287490369,
+        "stage2_nothink/Ours": 0.02833302287490369
+      }
+    },
+    {
+      "scenario": "corr_high",
+      "description": "correlations halfway to 1",
+      "spearman_vs_base": 0.9666666666666667,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 341.1187887736906,
+      "second_field": "autocall.levels_pct",
+      "top_over_second": 36.11529663860637,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "autocall.levels_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "autocall.first_observation_index",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 105.51634075398658,
+        "stage2_nothink/B2": 105.51634075398658,
+        "stage2_nothink/B3": 0.024836858746084545,
+        "stage2_nothink/Ours": 0.024836858746084545
+      }
+    },
+    {
+      "scenario": "div_zero",
+      "description": "no dividends",
+      "spearman_vs_base": 0.9333333333333332,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 351.7444897715686,
+      "second_field": "autocall.levels_pct",
+      "top_over_second": 34.29208764113576,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "autocall.levels_pct",
+        "knock_in.monitoring",
+        "coupon.barrier_pct",
+        "autocall.first_observation_index",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 110.92155145755919,
+        "stage2_nothink/B2": 110.92155145755919,
+        "stage2_nothink/B3": 0.025452798548371902,
+        "stage2_nothink/Ours": 0.025452798548371902
+      }
+    },
+    {
+      "scenario": "div_x1.5",
+      "description": "dividend yields x 1.5",
+      "spearman_vs_base": 0.9833333333333333,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 372.15546202533886,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 33.39595981409942,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "autocall.levels_pct",
+        "knock_in.barrier_pct",
+        "autocall.first_observation_index",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 115.80915162277438,
+        "stage2_nothink/B2": 115.80915162277438,
+        "stage2_nothink/B3": 0.027409473493094083,
+        "stage2_nothink/Ours": 0.027409473493094083
+      }
+    },
+    {
+      "scenario": "rate_-100bp",
+      "description": "zero curve -100 bp",
+      "spearman_vs_base": 0.9833333333333333,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 378.48603536332433,
+      "second_field": "autocall.levels_pct",
+      "top_over_second": 30.95567059761804,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "autocall.levels_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "knock_in.barrier_pct",
+        "autocall.first_observation_index",
+        "coupon.memory",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 117.47343399226952,
+        "stage2_nothink/B2": 117.47343399226952,
+        "stage2_nothink/B3": 0.027692754476902337,
+        "stage2_nothink/Ours": 0.027692754476902337
+      }
+    },
+    {
+      "scenario": "rate_+100bp",
+      "description": "zero curve +100 bp",
+      "spearman_vs_base": 0.9666666666666667,
+      "top_field": "coupon.rate_per_period_pct",
+      "top_median": 350.17597928520644,
+      "second_field": "coupon.barrier_pct",
+      "top_over_second": 38.646486223655025,
+      "order": [
+        "coupon.rate_per_period_pct",
+        "coupon.barrier_pct",
+        "knock_in.monitoring",
+        "autocall.levels_pct",
+        "knock_in.barrier_pct",
+        "coupon.memory",
+        "autocall.first_observation_index",
+        "underlyings.initial_level",
+        "observation_dates"
+      ],
+      "max_abs_delta": {
+        "stage2_nothink/B1": 111.25440908764801,
+        "stage2_nothink/B2": 111.25440908764801,
+        "stage2_nothink/B3": 0.02586177736850459,
+        "stage2_nothink/Ours": 0.02586177736850459
+      }
+    }
+  ],
+  "scenarios": {
+    "base": {
+      "description": "252-day hist. vol/corr, proxy dividends, Treasury curve",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 10.20678950367892,
+          "max_abs": 26.721687460314342,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 7.232003372235283,
+          "max_abs": 16.25858938382703,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 364.2015432872903,
+          "max_abs": 593.8719559093604,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 5.526019931446967,
+          "max_abs": 50.57435103713408,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 9.603785909323165,
+          "max_abs": 24.989905719755143,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.480224314308657,
+          "max_abs": 5.805122245292409,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.46778460674124744,
+          "max_abs": 3.0979826562172548,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 9.29114981231038,
+          "max_abs": 18.31110022667508,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 6.071047384640565,
+          "max_abs": 13.358702506285454,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -114.54878067966922
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -114.54878067966922
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.026780242464269577
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.026780242464269577
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.026780242464269577
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.026780242464269577
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.026780242464383264
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.026780242464383264
+        }
+      ]
+    },
+    "window_126": {
+      "description": "126-day estimation window",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 10.833668449978859,
+          "max_abs": 25.24314573980064,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 7.327014489363023,
+          "max_abs": 17.753441717062515,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 355.53566635949994,
+          "max_abs": 554.0493748437164,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 6.8059249464941445,
+          "max_abs": 53.93249156238221,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 6.921744080598501,
+          "max_abs": 20.794652774817678,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.893785024815429,
+          "max_abs": 6.40364606835044,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.5481126671419929,
+          "max_abs": 4.012130707818642,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 9.511911874572206,
+          "max_abs": 21.487868636536064,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 4.769626579862347,
+          "max_abs": 12.642584067680446,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -113.59830914753547
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -113.59830914753547
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02543010683052671
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02543010683052671
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02543010683052671
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02543010683052671
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.025430106830299337
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.025430106830299337
+        }
+      ]
+    },
+    "window_378": {
+      "description": "378-day estimation window",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 11.960288280284942,
+          "max_abs": 27.531954358685425,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 8.367991144007647,
+          "max_abs": 14.366074866686404,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 352.87070704927265,
+          "max_abs": 575.9054914632791,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 7.878795231926858,
+          "max_abs": 59.14252081106497,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 4.458182461433864,
+          "max_abs": 13.659435319928662,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 2.803370837487819,
+          "max_abs": 7.209058166319437,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.9299167660833518,
+          "max_abs": 3.5045195410830274,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 11.006471229032059,
+          "max_abs": 19.039105301278255,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 3.2155845922959543,
+          "max_abs": 8.517741170054933,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -113.8304323725996
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -113.8304323725996
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02646504479560008
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02646504479560008
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02646504479560008
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02646504479560008
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02646504479594114
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02646504479594114
+        }
+      ]
+    },
+    "vol_x0.8": {
+      "description": "volatilities x 0.8",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 7.166435175599418,
+          "max_abs": 26.29446674404187,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 5.120682841576581,
+          "max_abs": 11.208650962130605,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 375.1035167293969,
+          "max_abs": 629.6576251076692,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 2.467896748165913,
+          "max_abs": 36.58150708100243,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 17.074192967053932,
+          "max_abs": 41.988641121375395,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.906454300427356,
+          "max_abs": 5.129694038987736,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.7200195435602836,
+          "max_abs": 3.9279515774219362,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 5.625770931648162,
+          "max_abs": 16.080635244045652,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 8.768628909164818,
+          "max_abs": 18.04092558324055,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -119.9141222407178
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -119.9141222407178
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02796245260856267
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02796245260856267
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02796245260856267
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02796245260856267
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02796245260856267
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02796245260856267
+        }
+      ]
+    },
+    "vol_x1.25": {
+      "description": "volatilities x 1.25",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 11.981831032288937,
+          "max_abs": 24.746961291627258,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 7.768158630852383,
+          "max_abs": 17.02212372060626,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 343.5148002259638,
+          "max_abs": 535.996571056139,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 9.46265538786912,
+          "max_abs": 61.48900354702107,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 3.8698114689481145,
+          "max_abs": 14.183871296170764,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 3.374424160650449,
+          "max_abs": 7.316739884380581,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 1.131324717047562,
+          "max_abs": 5.191492031566781,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 11.103724947919943,
+          "max_abs": 23.09862037294306,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 3.394391345844099,
+          "max_abs": 10.766942352187812,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -106.63057953403893
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -106.63057953403893
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024624930052254967
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024624930052254967
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024624930052254967
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024624930052254967
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.024624930052254967
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.024624930052254967
+        }
+      ]
+    },
+    "corr_low": {
+      "description": "correlations halved",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 12.58364763527436,
+          "max_abs": 31.737931249628218,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 8.6846876373628,
+          "max_abs": 15.992761881955971,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 407.81703621735664,
+          "max_abs": 636.9105828968889,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 6.3049958006597535,
+          "max_abs": 55.259676776225206,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 10.570210410757909,
+          "max_abs": 26.304937680498824,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.8781727294116308,
+          "max_abs": 6.597463620315807,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.5306399570165468,
+          "max_abs": 3.1026825582649735,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 11.024717675043405,
+          "max_abs": 19.19878985029584,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 5.109237221892101,
+          "max_abs": 12.610857228105942,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -128.9692128094946
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -128.9692128094946
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02833302287490369
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02833302287490369
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02833302287490369
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02833302287490369
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02833302287490369
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02833302287490369
+        }
+      ]
+    },
+    "corr_high": {
+      "description": "correlations halfway to 1",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 8.54728436612578,
+          "max_abs": 23.190857030284974,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 6.427057880207258,
+          "max_abs": 12.997332058244638,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 341.1187887736906,
+          "max_abs": 545.0092528458999,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 4.879493177733764,
+          "max_abs": 44.359958965995475,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 9.445271686043498,
+          "max_abs": 23.97785448280092,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.0872231852669074,
+          "max_abs": 4.959814247782106,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.4326555409957109,
+          "max_abs": 2.3584981815838546,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 8.252712070827783,
+          "max_abs": 15.134221970945077,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 6.73181292799444,
+          "max_abs": 14.370402835896357,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -105.51634075398658
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -105.51634075398658
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024836858746084545
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024836858746084545
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024836858746084545
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.024836858746084545
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.024836858745629797
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.024836858745629797
+        }
+      ]
+    },
+    "div_zero": {
+      "description": "no dividends",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 8.494184485733513,
+          "max_abs": 22.509647640467165,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 6.111582672847476,
+          "max_abs": 13.097770064725069,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 351.7444897715686,
+          "max_abs": 558.6225314359808,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 4.780907735390201,
+          "max_abs": 43.59564630226771,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 10.25730755889083,
+          "max_abs": 27.228992399752542,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 0.8533680722164263,
+          "max_abs": 3.61189586195826,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.4742146525178441,
+          "max_abs": 1.923015064981314,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 8.501219435210203,
+          "max_abs": 16.273271499404245,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 6.90327711432235,
+          "max_abs": 14.889196198552554,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -110.92155145755919
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -110.92155145755919
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.025452798548371902
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.025452798548371902
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.025452798548371902
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.025452798548371902
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.025452798548940336
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.025452798548940336
+        }
+      ]
+    },
+    "div_x1.5": {
+      "description": "dividend yields x 1.5",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 11.143727088455137,
+          "max_abs": 28.59457895898413,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 7.760672709628466,
+          "max_abs": 18.01104267695007,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 372.15546202533886,
+          "max_abs": 608.9130443970184,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 5.862585222507619,
+          "max_abs": 52.916669364455174,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 9.337199353047254,
+          "max_abs": 22.955221689528116,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.7984025325974358,
+          "max_abs": 7.1694199771282,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.5740444491600556,
+          "max_abs": 4.344935768168398,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 9.558370017732614,
+          "max_abs": 19.302806533358876,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 6.108671610730369,
+          "max_abs": 13.271434420107198,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -115.80915162277438
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -115.80915162277438
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027409473493094083
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027409473493094083
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027409473493094083
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027409473493094083
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02740947349320777
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02740947349320777
+        }
+      ]
+    },
+    "rate_-100bp": {
+      "description": "zero curve -100 bp",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 11.459504005347355,
+          "max_abs": 29.606279151347394,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 8.662703171534304,
+          "max_abs": 18.949472070485513,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 378.48603536332433,
+          "max_abs": 620.4259307239643,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 6.087993184505365,
+          "max_abs": 56.45151726709378,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 12.226710908096038,
+          "max_abs": 27.777045256841348,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.4444168701366493,
+          "max_abs": 6.5077169273010895,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.5747565474782732,
+          "max_abs": 3.7409275989356274,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 10.286773071774064,
+          "max_abs": 20.07960739054886,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 7.69895936928674,
+          "max_abs": 15.419985582170057,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -117.47343399226952
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -117.47343399226952
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027692754476902337
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027692754476902337
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027692754476902337
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.027692754476902337
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.027692754476674963
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.027692754476674963
+        }
+      ]
+    },
+    "rate_+100bp": {
+      "description": "zero curve +100 bp",
+      "ranking": {
+        "coupon.barrier_pct": {
+          "median_abs": 9.061004337073939,
+          "max_abs": 23.79452582503984,
+          "n": 50
+        },
+        "knock_in.barrier_pct": {
+          "median_abs": 6.037579359178494,
+          "max_abs": 13.928562488365174,
+          "n": 50
+        },
+        "coupon.rate_per_period_pct": {
+          "median_abs": 350.17597928520644,
+          "max_abs": 565.8403556619382,
+          "n": 50
+        },
+        "coupon.memory": {
+          "median_abs": 4.94630427210393,
+          "max_abs": 44.21202429688594,
+          "n": 50
+        },
+        "autocall.levels_pct": {
+          "median_abs": 7.274576794090592,
+          "max_abs": 21.459347586509466,
+          "n": 50
+        },
+        "underlyings.initial_level": {
+          "median_abs": 1.448996993012372,
+          "max_abs": 5.3808397120019436,
+          "n": 50
+        },
+        "observation_dates": {
+          "median_abs": 0.4601319749985464,
+          "max_abs": 2.896362716391536,
+          "n": 50
+        },
+        "knock_in.monitoring": {
+          "median_abs": 8.233858143992848,
+          "max_abs": 16.544691506385107,
+          "n": 50
+        },
+        "autocall.first_observation_index": {
+          "median_abs": 4.805757189588121,
+          "max_abs": 11.555228790675073,
+          "n": 42
+        }
+      },
+      "deltas": [
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B1",
+          "base_delta": -114.54878067966922,
+          "delta": -111.25440908764801
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001193125-26-407080",
+          "arm": "B2",
+          "base_delta": -114.54878067966922,
+          "delta": -111.25440908764801
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B1",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02586177736850459
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B2",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02586177736850459
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "B3",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02586177736850459
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081481",
+          "arm": "Ours",
+          "base_delta": 0.026780242464269577,
+          "delta": 0.02586177736850459
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B1",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02586177736816353
+        },
+        {
+          "run_id": "stage2_nothink",
+          "accession": "0001213900-26-081428",
+          "arm": "B2",
+          "base_delta": 0.026780242464383264,
+          "delta": 0.02586177736816353
+        }
+      ]
+    }
+  }
+}

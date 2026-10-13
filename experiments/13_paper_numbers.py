@@ -32,6 +32,137 @@ def money(x: float | None, d: int = 2) -> str:
     return "--" if x is None else f"{x:,.{d}f}"
 
 
+#: Revision runs (2026-10-13): B0 baseline, DeepSeek seed replicates, second model, stress test.
+REPLICATES = {"On": ["stage2", "stage2_rep1", "stage2_rep2", "stage2_rep3"],
+              "Off": ["stage2_nothink", "stage2_nothink_rep1", "stage2_nothink_rep2", "stage2_nothink_rep3"]}
+B0_RUNS = {"On": "stage2_b0", "Off": "stage2_nothink_b0"}
+QWEN_RUNS = {"On": "qwen_think", "Off": "qwen_nothink"}
+QWEN_B0_RUNS = {"On": "qwen_think_b0", "Off": "qwen_nothink_b0"}
+STRESS_RUNS = {"On": "stress_think", "Off": "stress_nothink"}
+
+
+def _summary(run: str) -> dict | None:
+    path = RES / "runs" / run / "summary.json"
+    return json.loads(path.read_text())["all"] if path.exists() else None
+
+
+def _arm_macros(macros: dict, prefix: str, tag: str, s: dict) -> None:
+    macros[f"{prefix}File{tag}"] = pct(s["file_all_correct"])
+    macros[f"{prefix}FileN{tag}"] = pct(s["file_all_correct_norm"])
+    macros[f"{prefix}Unpr{tag}"] = pct(s["unpriceable_rate"])
+    macros[f"{prefix}DMax{tag}"] = money(s["delta_abs_max"])
+    macros[f"{prefix}CostFile{tag}"] = f"{1000 * s['mean_cost_usd']:.1f}"
+
+
+def revision_macros(macros: dict, args) -> None:
+    """Numbers added in the revision; each block is skipped if its inputs are missing."""
+    for mode in ("On", "Off"):
+        # B0: one extraction without constrained decoding, for both models.
+        for prefix, runs in (("", B0_RUNS), ("Q", QWEN_B0_RUNS)):
+            s = _summary(runs[mode])
+            if s:
+                _arm_macros(macros, prefix, f"Bzero{mode}", s["B1"])
+        s = _summary(QWEN_RUNS[mode])
+        if s:
+            for arm in ARMS:
+                _arm_macros(macros, "Q", f"{ARM_TAG[arm]}{mode}", s[arm])
+        s = _summary(STRESS_RUNS[mode])
+        if s:
+            for arm in ARMS:
+                _arm_macros(macros, "Stress", f"{ARM_TAG[arm]}{mode}", s[arm])
+        # Seed replicates: range over the original and three new sets of k samples.
+        reps = [_summary(r) for r in REPLICATES[mode]]
+        if all(reps):
+            words = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five"}
+            macros["NReps"] = str(len(reps))
+            macros["NRepsWord"] = words.get(len(reps), str(len(reps)))
+            if mode == "Off":
+                fixed = sum(r["Ours"]["delta_abs_max"] < 1 for r in reps)
+                macros["VoteFixedWord"] = words.get(fixed, str(fixed))
+            for arm in ARMS:
+                em = [100 * r[arm]["file_all_correct"] for r in reps]
+                bad = [r[arm]["delta_abs_max"] >= 1 or r[arm]["unpriceable_rate"] > 0 for r in reps]
+                t = f"{ARM_TAG[arm]}{mode}"
+                macros[f"RepEMLo{t}"] = f"{min(em):.0f}"
+                macros[f"RepEMHi{t}"] = f"{max(em):.0f}"
+                macros[f"RepDMax{t}"] = money(max(r[arm]["delta_abs_max"] for r in reps))
+                macros[f"RepBad{t}"] = str(sum(bad))
+                macros[f"RepCostly{t}"] = str(sum(r[arm]["delta_abs_max"] >= 1 for r in reps))
+                macros[f"RepUnpr{t}"] = str(sum(r[arm]["unpriceable_rate"] > 0 for r in reps))
+
+    cal_path = RES / "calibration.json"
+    if cal_path.exists():
+        cal = json.loads(cal_path.read_text())
+        o = cal["overall"]
+        samples = cal["samples"]
+        mat = [s for s in samples if s["material"]]
+        value = [s for s in mat if s["priceable"]]
+        ok = [s for s in samples if not s["material"]]
+        macros.update(
+            CalNRuns=str(len(cal["by_run"])),
+            CalNSamples=f"{o['n_samples']:,}",
+            CalNMaterial=str(o["n_material"]),
+            CalNUnpr=str(len(mat) - len(value)),
+            CalRuleUnpr=str(sum(s["hard"] for s in mat if not s["priceable"])),
+            CalNValue=str(len(value)),
+            CalRuleValue=str(sum(s["hard"] for s in value)),
+            CalAgreeValue=str(sum(s["c_sample"] < 0.8 for s in value)),
+            CalCMax=f"{max(s['c_sample'] for s in value):.1f}" if value else "--",
+            CalNValueFilings=str(len({s["accession"] for s in value})),
+            CalNValueRuns=str(len({s["run_id"] for s in value})),
+            CalFA=pct(sum(s["c_sample"] < 0.8 for s in ok) / len(ok), 0),
+            CalMissed=str(len(o["missed_at_tau_1"])),
+        )
+        # How often a single DeepSeek no-reasoning draw makes the coupon-unit error.
+        gs = [s for s in samples if s["run_id"] in REPLICATES["Off"] and s["accession"] == value[0]["accession"]] if value else []
+        macros["CouponErrSamples"] = str(sum(s["material"] for s in gs))
+        macros["CouponErrTotal"] = str(len(gs))
+    # The replicate in which the vote kept the coupon error.
+    for run in REPLICATES["Off"]:
+        path = RES / "runs" / run / "eval_rows.jsonl"
+        if not path.exists():
+            continue
+        for row in map(json.loads, path.read_text().splitlines()):
+            if row["arm"] == "Ours" and row["delta"] is not None and abs(row["delta"]) >= 1:
+                macros["VoteFailConf"] = f"{row['confidence']:.1f}"
+
+    ms_path = RES / "model_sensitivity.json"
+    if ms_path.exists():
+        ms = json.loads(ms_path.read_text())["summary"]
+        alt = [s for s in ms if s["scenario"] != "base"]
+        b1 = [v for s in alt for k, v in s["max_abs_delta"].items() if k.endswith("/B1")]
+        ours = [v for s in alt for k, v in s["max_abs_delta"].items() if k.endswith("/Ours")]
+        macros.update(
+            MSNScen=str(len(alt)),
+            MSTopAll=str(all(s["top_field"] == "coupon.rate_per_period_pct" for s in alt)),
+            MSRatioLo=f"{min(s['top_over_second'] for s in alt):.0f}",
+            MSRatioHi=f"{max(s['top_over_second'] for s in alt):.0f}",
+            MSRhoLo=f"{min(s['spearman_vs_base'] for s in alt):.2f}",
+            MSRhoHi=f"{max(s['spearman_vs_base'] for s in alt):.2f}",
+            MSBoneLo=f"{min(b1):.0f}" if b1 else "--",
+            MSBoneHi=f"{max(b1):.0f}" if b1 else "--",
+            MSOursMax=money(max(ours)) if ours else "--",
+        )
+
+    r34_path = ROOT / "data" / "labels" / "round34_report.json"
+    if r34_path.exists():
+        r34 = json.loads(r34_path.read_text())
+        s = r34["summary"]
+        n_crit = 9
+        r2 = json.loads((ROOT / "data" / "labels" / "round2" / "round2_report.json").read_text())
+        timed = [f["minutes"] for v in r2["verifiers"].values() for f in v["files"] if f.get("minutes")]
+        timed += [r["minutes"] for r in r34["round4"].values()]
+        macros.update(
+            NScratch=str(s["round3_files"]),
+            NVerified=str(len(list((ROOT / "data" / "labels" / "gold").glob("*.json"))) - s["round3_files"]),
+            ScratchCritAgree=str(s["round3_files_full_agreement"] * n_crit),
+            ScratchCritTotal=str(s["round3_files"] * n_crit),
+            MinScratchMean=f"{s['round3_mean_minutes']:.0f}",
+            MinVerifyMean=f"{statistics.fmean(timed):.0f}",
+            RoundFourChanged="no field" if s["round4_fields_changed"] == 0 else f"{s['round4_fields_changed']} fields",
+        )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--think", default="stage2")
@@ -198,6 +329,8 @@ def main() -> int:
             macros[f"Min{tag}Hi"] = f"{t['minutes_range'][1]:.0f}"
             macros[f"NFiles{tag}Rtwo"] = str(len(t["files"]))
         macros["GenuineCorrectionsRtwo"] = str(sum(len(f["corrections_to_prelabel"]) for t in r2["verifiers"].values() for f in t["files"]))
+
+    revision_macros(macros, args)
 
     lines = ["% Generated by experiments/13_paper_numbers.py -- do not edit by hand."]
     for name, value in sorted(macros.items()):

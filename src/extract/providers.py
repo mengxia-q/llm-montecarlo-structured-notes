@@ -1,6 +1,6 @@
 """Pluggable LLM providers.
 
-``deepseek`` is the paper's evaluation model; ``gemini`` is kept because the
+``deepseek`` is the paper's main evaluation model and ``qwen`` the second; ``gemini`` is kept because the
 early pilot (``experiments/02_vertical_slice.py``) ran on it.  Adding another vendor means adding one
 subclass and one entry to ``_PROVIDERS``; nothing else in the pipeline changes.
 
@@ -329,6 +329,9 @@ class DeepSeekProvider(LLMProvider):
             kwargs["reasoning_effort"] = self.reasoning_effort
         return kwargs
 
+    def _cached_tokens(self, usage) -> int | None:
+        return getattr(usage, "prompt_cache_hit_tokens", None)
+
     def _payload_text(self, response) -> str | None:
         message = response.choices[0].message
         if self.mode == "strict_tool":
@@ -376,7 +379,7 @@ class DeepSeekProvider(LLMProvider):
                 output_tokens=None if completion is None else completion - reasoning,
                 thinking_tokens=reasoning,
                 total_tokens=getattr(usage, "total_tokens", None),
-                cached_input_tokens=getattr(usage, "prompt_cache_hit_tokens", None),
+                cached_input_tokens=self._cached_tokens(usage),
                 finish_reason=finish,
                 mode=self.mode,
                 endpoint=self.endpoint,
@@ -430,16 +433,98 @@ class DeepSeekProvider(LLMProvider):
         )
 
 
+class QwenProvider(DeepSeekProvider):
+    """Qwen through Alibaba's OpenAI-compatible endpoint (second evaluation model).
+
+    The request differs from DeepSeek's in three ways, all measured 2026-10-13 on
+    ``qwen3.8-flash``:
+
+    ``strict_schema``
+        Constrained decoding is requested with ``response_format`` of type
+        ``json_schema`` and ``strict: true``.  Qwen accepts ``strict`` on a tool
+        definition but did not enforce it (an integer field came back as 7.5),
+        whereas the ``json_schema`` response format did, with reasoning on and off.
+    ``json_object``
+        As for DeepSeek: schema in the system prompt, only valid JSON guaranteed.
+    Reasoning is switched with ``enable_thinking``, and cache hits are reported in
+    ``prompt_tokens_details.cached_tokens``.
+
+    The key and endpoint are read from ``OPENAI_API_KEY`` and ``OPENAI_BASE_URL``.
+    """
+
+    name = "qwen"
+
+    def __init__(
+        self,
+        model: str = "qwen3.8-flash",
+        *,
+        temperature: float = 0.7,
+        mode: str = "strict_schema",
+        thinking: bool = True,
+        reasoning_effort: str | None = None,
+        api_key: str | None = None,
+        max_retries: int = 3,
+        timeout_s: float = 600.0,
+        client=None,
+    ) -> None:
+        LLMProvider.__init__(self, model, temperature=temperature)
+        if mode not in ("strict_schema", "json_object"):
+            raise ProviderError(f"unknown Qwen mode {mode!r}")
+        self.mode = mode
+        self.thinking = thinking
+        self.reasoning_effort = reasoning_effort
+        self.max_retries = max_retries
+        self.endpoint = os.environ.get("OPENAI_BASE_URL", "")
+        self.schema = strict_json_schema(RawNoteTerms)
+        if client is None:
+            key = api_key or os.environ.get("OPENAI_API_KEY")
+            if not key or not self.endpoint:
+                raise ProviderError("OPENAI_API_KEY / OPENAI_BASE_URL are not set")
+            from openai import OpenAI
+
+            client = OpenAI(api_key=key, base_url=self.endpoint, timeout=timeout_s)
+        self._client = client
+
+    def request_kwargs(self, prompt: str, temperature: float) -> dict:
+        kwargs: dict = {"temperature": temperature}
+        if self.mode == "strict_schema":
+            kwargs["messages"] = [
+                {"role": "system", "content": "You are a careful financial document analyst. "
+                 "Reply with the extracted terms as a JSON object."},
+                {"role": "user", "content": prompt},
+            ]
+            kwargs["response_format"] = {
+                "type": "json_schema",
+                "json_schema": {"name": TOOL_NAME, "strict": True, "schema": self.schema},
+            }
+        else:
+            kwargs["messages"] = [
+                {"role": "system", "content": _JSON_SYSTEM.format(schema=json.dumps(self.schema))},
+                {"role": "user", "content": prompt},
+            ]
+            kwargs["response_format"] = {"type": "json_object"}
+        kwargs["extra_body"] = {"enable_thinking": self.thinking}
+        return kwargs
+
+    def _payload_text(self, response) -> str | None:
+        return response.choices[0].message.content or None
+
+    def _cached_tokens(self, usage) -> int | None:
+        details = getattr(usage, "prompt_tokens_details", None)
+        return getattr(details, "cached_tokens", None)
+
+
 _PROVIDERS: dict[str, type[LLMProvider]] = {
     "gemini": GeminiProvider,
     "deepseek": DeepSeekProvider,
+    "qwen": QwenProvider,
 }
 
 
 def get_provider(name: str, **kwargs) -> LLMProvider:
     """Instantiate a provider by name.
 
-    Registered: ``deepseek``, ``gemini``.  The rest of the pipeline is
+    Registered: ``deepseek``, ``gemini``, ``qwen``.  The rest of the pipeline is
     provider-agnostic.
     """
     try:

@@ -138,7 +138,7 @@ def _span(cell: Tag, attr: str) -> int:
         return 1
 
 
-def table_to_markdown(table: Tag) -> str:
+def table_to_markdown(table: Tag, *, expand_rowspan: bool = True) -> str:
     """Render one ``<table>`` as a Markdown pipe table.
 
     Both ``colspan`` and ``rowspan`` are expanded by repeating the cell text, so
@@ -149,6 +149,9 @@ def table_to_markdown(table: Tag) -> str:
     initial level slides under the "Contingent Coupon" header (observed on GS and
     TD filings).  Fully empty rows and columns are dropped - filings use them as
     spacers and they otherwise dominate the output.
+
+    ``expand_rowspan=False`` reproduces the naive rendering, for the stress test
+    of the revision (reviewer point 5).
     """
     rows: list[list[str]] = []
     # Column index -> (text, rows still to fill) for cells spanning down.
@@ -164,7 +167,7 @@ def table_to_markdown(table: Tag) -> str:
                 while col in row:
                     col += 1
                 row[col] = text
-                if down > 1:
+                if down > 1 and expand_rowspan:
                     carried[col] = (text, down - 1)
                 col += 1
         rows.append([row.get(i, "") for i in range(max(row) + 1)] if row else [])
@@ -190,7 +193,7 @@ def table_to_markdown(table: Tag) -> str:
     return "\n".join(lines)
 
 
-def html_to_text(html: str) -> tuple[str, int]:
+def html_to_text(html: str, *, expand_rowspan: bool = True) -> tuple[str, int]:
     """Plain text with every table replaced by its Markdown rendering.
 
     Returns the text and the number of tables converted.
@@ -201,7 +204,7 @@ def html_to_text(html: str) -> tuple[str, int]:
 
     tables = soup.find_all("table")
     for table in tables:
-        markdown = table_to_markdown(table)
+        markdown = table_to_markdown(table, expand_rowspan=expand_rowspan)
         placeholder = f"\n\n{markdown}\n\n" if markdown else "\n"
         table.replace_with(NavigableString(placeholder))
 
@@ -321,13 +324,14 @@ def clean_filing(
     *,
     drop_sections: bool = True,
     strip_running_headers: bool = True,
+    expand_rowspan: bool = True,
 ) -> CleanedDocument:
     """Full cleaning pipeline for one 424B2 filing.
 
     ``drop_sections`` and ``strip_running_headers`` are exposed as flags so that
     a cleaning ablation can quantify what each step removes.
     """
-    text, n_tables = html_to_text(html)
+    text, n_tables = html_to_text(html, expand_rowspan=expand_rowspan)
     chars_raw = len(text)
 
     headers_removed = 0

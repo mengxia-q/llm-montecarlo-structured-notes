@@ -1,0 +1,115 @@
+{
+  "accession": "0001140361-26-038659",
+  "source_file": "data/cleaned/0001140361-26-038659_ef20083285_424b2.htm.txt",
+  "terms": {
+    "issuer": "The Toronto-Dominion Bank",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-10-02",
+    "strike_date": null,
+    "issue_date": "2026-10-07",
+    "maturity_date": "2031-10-07",
+    "underlyings": [
+      {
+        "name": "Nikkei 225 Index",
+        "ticker": "NKY",
+        "initial_level": 68309.46
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7722.72
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2027-01-04",
+      "2027-04-02",
+      "2027-07-02",
+      "2027-10-04",
+      "2028-01-04",
+      "2028-04-03",
+      "2028-07-03",
+      "2028-10-02",
+      "2029-01-04",
+      "2029-04-02",
+      "2029-07-02",
+      "2029-10-02",
+      "2030-01-04",
+      "2030-04-02",
+      "2030-07-02",
+      "2030-10-02",
+      "2031-01-06",
+      "2031-04-02",
+      "2031-07-02",
+      "2031-10-02"
+    ],
+    "payment_dates": [
+      "2027-01-07",
+      "2027-04-07",
+      "2027-07-08",
+      "2027-10-07",
+      "2028-01-07",
+      "2028-04-06",
+      "2028-07-07",
+      "2028-10-05",
+      "2029-01-09",
+      "2029-04-05",
+      "2029-07-06",
+      "2029-10-05",
+      "2030-01-09",
+      "2030-04-05",
+      "2030-07-08",
+      "2030-10-07",
+      "2031-01-09",
+      "2031-04-07",
+      "2031-07-08",
+      "2031-10-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.375,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.751
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001140361-26-038659.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "verifier-5",
+    "verifier_is_author": false,
+    "verification_minutes": 23.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

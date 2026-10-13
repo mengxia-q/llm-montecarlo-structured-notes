@@ -22,6 +22,7 @@ random numbers, so the price deviation isolates extraction error.
 python3.11 -m venv ~/.venvs/snllm
 ~/.venvs/snllm/bin/pip install -r requirements.txt
 export DEEPSEEK_API_KEY=...        # only needed to re-run the extraction
+export OPENAI_API_KEY=... OPENAI_BASE_URL=...   # Qwen3.8-Flash, OpenAI-compatible endpoint
 ```
 
 **Run every script with this environment's Python from the repository root.**
@@ -29,8 +30,9 @@ A Python without `yfinance` cannot load market data that is missing from the
 cache, and the evaluation then records those filings as unpriceable and
 overwrites the results.
 
-API keys are read only from environment variables (`DEEPSEEK_API_KEY`, and
-`GEMINI_API_KEY` for the pilot); no key is stored in the repository.
+API keys are read only from environment variables (`DEEPSEEK_API_KEY`;
+`OPENAI_API_KEY` and `OPENAI_BASE_URL` for Qwen; `GEMINI_API_KEY` for the
+pilot); no key is stored in the repository.
 
 ```bash
 ~/.venvs/snllm/bin/python -m pytest tests/ -q   # 69 tests: payoff rules, engine, rules, schema, cleaner
@@ -54,8 +56,16 @@ $PY experiments/10_sensitivity.py --run-id stage2_nothink
 # Monte Carlo convergence (the "simulation noise" paragraph)
 $PY experiments/08_convergence.py
 
-# Figures 2-4
+# Figures 2-3 (the script also draws a coverage figure no longer in the paper)
 $PY experiments/12_figures.py
+
+# Revision: robustness to the market assumptions, per-sample calibration
+$PY experiments/19_model_sensitivity.py --run-ids stage2 stage2_nothink
+$PY experiments/21_calibration.py --run-ids stage2 stage2_rep1 stage2_rep2 stage2_rep3 \
+    stage2_nothink stage2_nothink_rep1 stage2_nothink_rep2 stage2_nothink_rep3 \
+    qwen_think qwen_nothink stress_think stress_nothink
+for r in experiments/results/runs/*; do $PY experiments/09_evaluate.py --run-id ${r##*/}; done
+$PY experiments/13_paper_numbers.py
 ```
 
 `paper/numbers.tex` holds every number the paper quotes, as a LaTeX macro, and
@@ -77,6 +87,15 @@ committed runs `stage2` (reasoning on) and `stage2_nothink` (reasoning off) are
 complete, so use a new run id. The paper's runs were made on 2026-10-06 against
 the API alias `deepseek-flash` (DeepSeek-V4.1-Flash), at temperature 0.7.
 
+Runs added in the revision (2026-10-13):
+
+| Run ids | What |
+|---|---|
+| `stage2_rep1..3`, `stage2_nothink_rep1..3` | Three further independent sets of k = 5 DeepSeek samples per filing |
+| `stage2_b0`, `stage2_nothink_b0`, `qwen_*_b0` | B0: one extraction without constrained decoding (`--mode json_object --k 1`) |
+| `qwen_think`, `qwen_nothink` | Qwen3.8-Flash (`--provider qwen`), constrained by a strict JSON-schema response format |
+| `stress_think`, `stress_nothink` | DeepSeek on tables rendered without rowspan expansion (`--cleaned-dir data/cleaned_norowspan`, built by `20_clean_norowspan.py`) |
+
 `01_build_candidate_pool.py` rebuilds the candidate pool from EDGAR; see its
 docstring for the passes used. It needs a contact e-mail for the SEC User-Agent.
 
@@ -87,7 +106,7 @@ docstring for the passes used. It needs a contact e-mail for the SEC User-Agent.
 | `src/schema.py` | `NoteTerms`: the pricing schema, its invariants and the nine `CRITICAL_FIELDS` |
 | `src/crawl/` | EDGAR full-text search per issuer, rate-limited download, scope screening |
 | `src/clean/` | HTML to text, with tables rendered as Markdown and running headers removed |
-| `src/extract/` | Prompt, relaxed model-output schema, providers (DeepSeek; Gemini for the pilot), field-level voting and confidence |
+| `src/extract/` | Prompt, relaxed model-output schema, providers (DeepSeek, Qwen; Gemini for the pilot), field-level voting and confidence |
 | `src/validate/` | Hard and soft business rules |
 | `src/market/` | Ticker registry, NYSE calendar, FRED zero curve, volatility, correlation and dividend estimation |
 | `src/pricing/` | Common random numbers (scrambled Sobol'), GBM paths, payoff rules, valuation engine |
@@ -112,6 +131,10 @@ docstring for the passes used. It needs a contact e-mail for the SEC User-Agent.
 | `12_figures.py` | Figures 2–4 → `paper/figures/` |
 | `13_paper_numbers.py` | Every number in the paper → `paper/numbers.tex` |
 | `14_make_gold.py` | Promotes a verified prelabel to gold; `--refresh` reruns 09, 11 and 13 |
+| `19_model_sensitivity.py` | Ranking and Δ under 10 alternative market assumptions → `results/model_sensitivity.json` |
+| `20_clean_norowspan.py` | Stress-test input: the filings cleaned without rowspan expansion → `data/cleaned_norowspan/` |
+| `21_calibration.py` | Every individual sample scored as B1, with pre-vote agreement → `results/calibration.json` |
+| `22_ingest_rounds34.py` | Third (independent annotation) and fourth (verification) labelling rounds → gold labels, `data/labels/round34_report.json` |
 
 Each run directory holds `calls.jsonl` (every API call with its raw response,
 token usage and latency), `arms.jsonl` (the four arms' outputs per filing),
@@ -125,14 +148,14 @@ token usage and latency), `arms.jsonl` (the four arms' outputs per filing),
 | `data/cleaned/` | Their cleaned text. Evidence line numbers in the labels refer to these files |
 | `data/market/` | Daily closes and ETF distributions, and FRED Treasury yields, as used in the paper |
 | `data/labels/prelabel/` | One label per filing by Claude Opus 5.5 (one isolated agent per filing), with a verbatim quote and line span for every field; prompt in `experiments/prelabel_prompt.md` |
-| `data/labels/gold/` | 23 labels verified field by field against the filing by two people; `provenance` records verifier, minutes and changed fields |
+| `data/labels/gold/` | All 50 labels, checked by humans against the filing: 45 verified field by field from the prelabel, 5 annotated from scratch; `provenance` records the round, role, minutes and changed fields |
 | `data/labels/exclusions.json` | Three filings dropped after labelling (buffered downside) |
 | `data/labels/round2/round2_report.json` | Second verification round: minutes per file, seeded-error detection, agreement on the files both verifiers checked |
+| `data/labels/round34_report.json` | Third round (5 independent annotations, compared field by field with the prelabel) and fourth round (22 verifications) |
 | `data/labels/LABELLING_GUIDELINE.md` | Labelling rules, scope and verification protocol |
 
-The evaluation uses the 50 filings that are not excluded. Filings without a gold
-label are scored against the prelabel (silver), and every metric is reported
-for all 50 filings and for the gold subset.
+The evaluation uses the 50 filings that are not excluded; every one has a
+human-checked gold label.
 
 **Market data notice.** Index and ETF closes and ETF distributions were
 downloaded from Yahoo Finance through `yfinance` and are included only so that

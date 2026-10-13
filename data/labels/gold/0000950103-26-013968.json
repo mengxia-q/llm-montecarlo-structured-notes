@@ -1,0 +1,116 @@
+{
+  "accession": "0000950103-26-013968",
+  "source_file": "data/cleaned/0000950103-26-013968_dp253370_424b2-ubseln1765wof.htm.txt",
+  "terms": {
+    "issuer": "Royal Bank of Canada",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-11",
+    "strike_date": null,
+    "issue_date": "2026-09-16",
+    "maturity_date": "2031-09-16",
+    "underlyings": [
+      {
+        "name": "Nikkei 225 Index",
+        "ticker": "NKY",
+        "initial_level": 64011.34
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7656.98
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-11",
+      "2027-03-11",
+      "2027-06-11",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-12",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-12",
+      "2029-06-11",
+      "2029-09-11",
+      "2029-12-11",
+      "2030-03-11",
+      "2030-06-11",
+      "2030-09-11",
+      "2030-12-11",
+      "2031-03-11",
+      "2031-06-11",
+      "2031-09-11"
+    ],
+    "payment_dates": [
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-15",
+      "2028-09-14",
+      "2028-12-14",
+      "2029-03-15",
+      "2029-06-14",
+      "2029-09-14",
+      "2029-12-14",
+      "2030-03-14",
+      "2030-06-14",
+      "2030-09-16",
+      "2030-12-16",
+      "2031-03-14",
+      "2031-06-16",
+      "2031-09-16"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.29,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.59
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0000950103-26-013968.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "independent annotation from scratch (no prelabel shown), compared field by field with the prelabel; no disagreement, so gold = prelabel",
+    "annotated_by": "author",
+    "annotator_is_author": true,
+    "annotation_minutes": 58.0,
+    "round": 3,
+    "transcribed_by": "corresponding author (annotation done on the annotator's own machine)",
+    "payment_dates_derived_by_program": false
+  }
+}

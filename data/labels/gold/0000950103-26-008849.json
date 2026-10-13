@@ -1,0 +1,92 @@
+{
+  "accession": "0000950103-26-008849",
+  "source_file": "data/cleaned/0000950103-26-008849_dp248272_424b2-9070ubs.htm.txt",
+  "terms": {
+    "issuer": "Barclays Bank PLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-06-09",
+    "strike_date": null,
+    "issue_date": "2026-06-12",
+    "maturity_date": "2029-06-14",
+    "underlyings": [
+      {
+        "name": "Dow Jones Industrial Average ®",
+        "ticker": "INDU",
+        "initial_level": 50872.11
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7386.65
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-09",
+      "2026-12-09",
+      "2027-03-09",
+      "2027-06-09",
+      "2027-09-09",
+      "2027-12-09",
+      "2028-03-09",
+      "2028-06-09",
+      "2028-09-11",
+      "2028-12-11",
+      "2029-03-09",
+      "2029-06-11"
+    ],
+    "payment_dates": [
+      "2026-09-11",
+      "2026-12-11",
+      "2027-03-11",
+      "2027-06-11",
+      "2027-09-13",
+      "2027-12-13",
+      "2028-03-13",
+      "2028-06-13",
+      "2028-09-13",
+      "2028-12-13",
+      "2029-03-13",
+      "2029-06-14"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.03,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.917
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0000950103-26-008849.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "verifier-3",
+    "verifier_is_author": false,
+    "verification_minutes": 24.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "provider": "qwen",
+  "model": "qwen3.8-flash",
+  "mode": "json_object",
+  "endpoint": "https://maas.qianwenaiapi.com/compatible-mode/v1",
+  "thinking": "off",
+  "reasoning_effort": null,
+  "temperature": 0.7,
+  "k": 1,
+  "cleaned_dir": "data/cleaned",
+  "b1_is_sample_0": true,
+  "prompt_sha256": "03c29fe86b262c779a9f86e2d9cd3f12e4825ec8bf80cb343d6f3b429cc0285a",
+  "request_template_sha256": "f636bafef17f6ffb3ee019a5954a606f4517bec211511ea78be824a6bb140557",
+  "n_filings": 50,
+  "started_at": "2026-10-13T19:33:06+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "accession": "0001918704-26-021949",
+  "source_file": "data/cleaned/0001918704-26-021949_form424b2.htm.txt",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-29",
+    "strike_date": null,
+    "issue_date": "2026-07-31",
+    "maturity_date": "2029-08-01",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 ® Index",
+        "ticker": "NDX",
+        "initial_level": 27192.31
+      },
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2906.31
+      },
+      {
+        "name": "S&P 500 ® Index",
+        "ticker": "SPX",
+        "initial_level": 7316.15
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-29",
+      "2027-01-29",
+      "2027-04-29",
+      "2027-07-29",
+      "2027-10-29",
+      "2028-01-31",
+      "2028-05-01",
+      "2028-07-31",
+      "2028-10-30",
+      "2029-01-29",
+      "2029-04-30",
+      "2029-07-30"
+    ],
+    "payment_dates": [
+      "2026-11-02",
+      "2027-02-02",
+      "2027-05-03",
+      "2027-08-02",
+      "2027-11-02",
+      "2028-02-02",
+      "2028-05-03",
+      "2028-08-02",
+      "2028-11-01",
+      "2029-01-31",
+      "2029-05-02",
+      "2029-08-01"
+    ],
+    "autocall": {
+      "first_observation_index": 1,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.125,
+      "barrier_pct": 65.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 65.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.729
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001918704-26-021949.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "author",
+    "verifier_is_author": true,
+    "verification_minutes": 20.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

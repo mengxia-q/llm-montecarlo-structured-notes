@@ -1,0 +1,91 @@
+{
+  "accession": "0001839882-26-046290",
+  "source_file": "data/cleaned/0001839882-26-046290_bns_424b2-31205.htm.txt",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-16",
+    "strike_date": null,
+    "issue_date": "2026-09-21",
+    "maturity_date": "2029-09-20",
+    "underlyings": [
+      {
+        "name": "Nasdaq-100 Index ®",
+        "ticker": "NDX",
+        "initial_level": 28945.06
+      },
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2858.811
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-12-16",
+      "2027-03-16",
+      "2027-06-16",
+      "2027-09-16",
+      "2027-12-16",
+      "2028-03-16",
+      "2028-06-16",
+      "2028-09-18",
+      "2028-12-18",
+      "2029-03-16",
+      "2029-06-18",
+      "2029-09-17"
+    ],
+    "payment_dates": [
+      "2026-12-18",
+      "2027-03-18",
+      "2027-06-21",
+      "2027-09-20",
+      "2027-12-20",
+      "2028-03-20",
+      "2028-06-21",
+      "2028-09-20",
+      "2028-12-20",
+      "2029-03-20",
+      "2029-06-21",
+      "2029-09-20"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.85,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.85
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001839882-26-046290.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "coauthor-3",
+    "verifier_is_author": true,
+    "verification_minutes": 25.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

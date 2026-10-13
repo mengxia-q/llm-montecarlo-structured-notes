@@ -1,0 +1,92 @@
+{
+  "accession": "0001918704-26-015864",
+  "source_file": "data/cleaned/0001918704-26-015864_form424b2.htm.txt",
+  "terms": {
+    "issuer": "BofA Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-06-03",
+    "strike_date": null,
+    "issue_date": "2026-06-08",
+    "maturity_date": "2029-06-07",
+    "underlyings": [
+      {
+        "name": "Invesco QQQ Trust SM , Series 1",
+        "ticker": "QQQ",
+        "initial_level": 744.21
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight ETF",
+        "ticker": "RSP",
+        "initial_level": 209.25
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-09-03",
+      "2026-12-03",
+      "2027-03-03",
+      "2027-06-03",
+      "2027-09-03",
+      "2027-12-03",
+      "2028-03-03",
+      "2028-06-05",
+      "2028-09-05",
+      "2028-12-04",
+      "2029-03-05",
+      "2029-06-04"
+    ],
+    "payment_dates": [
+      "2026-09-08",
+      "2026-12-07",
+      "2027-03-05",
+      "2027-06-07",
+      "2027-09-08",
+      "2027-12-07",
+      "2028-03-07",
+      "2028-06-07",
+      "2028-09-07",
+      "2028-12-06",
+      "2029-03-07",
+      "2029-06-07"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.1875,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.785
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001918704-26-015864.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "independent annotation from scratch (no prelabel shown), compared field by field with the prelabel; no disagreement, so gold = prelabel",
+    "annotated_by": "author",
+    "annotator_is_author": true,
+    "annotation_minutes": 53.0,
+    "round": 3,
+    "transcribed_by": "corresponding author (annotation done on the annotator's own machine)",
+    "payment_dates_derived_by_program": false
+  }
+}

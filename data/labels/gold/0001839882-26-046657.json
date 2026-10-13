@@ -1,0 +1,84 @@
+{
+  "accession": "0001839882-26-046657",
+  "source_file": "data/cleaned/0001839882-26-046657_bns_424b2-31608.htm.txt",
+  "terms": {
+    "issuer": "The Bank of Nova Scotia",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-09-21",
+    "strike_date": "2026-09-18",
+    "issue_date": "2026-09-23",
+    "maturity_date": "2029-09-26",
+    "underlyings": [
+      {
+        "name": "iShares ® Russell 2000 ETF",
+        "ticker": "IWM",
+        "initial_level": 284.1
+      }
+    ],
+    "performance_type": "single",
+    "observation_dates": [
+      "2026-12-21",
+      "2027-03-22",
+      "2027-06-21",
+      "2027-09-27",
+      "2027-12-21",
+      "2028-03-21",
+      "2028-06-21",
+      "2028-09-21",
+      "2028-12-21",
+      "2029-03-21",
+      "2029-06-21",
+      "2029-09-21"
+    ],
+    "payment_dates": [
+      "2026-12-23",
+      "2027-03-24",
+      "2027-06-23",
+      "2027-09-29",
+      "2027-12-23",
+      "2028-03-23",
+      "2028-06-23",
+      "2028-09-25",
+      "2028-12-26",
+      "2029-03-23",
+      "2029-06-25",
+      "2029-09-26"
+    ],
+    "autocall": {
+      "first_observation_index": 4,
+      "levels_pct": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.75,
+      "barrier_pct": 60.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100,
+    "estimated_value_per_unit": 9.768
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001839882-26-046657.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "coauthor-3",
+    "verifier_is_author": true,
+    "verification_minutes": 22.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

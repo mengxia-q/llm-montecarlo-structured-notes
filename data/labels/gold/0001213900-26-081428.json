@@ -1,0 +1,93 @@
+{
+  "accession": "0001213900-26-081428",
+  "source_file": "data/cleaned/0001213900-26-081428_ea0299069-01_424b2.htm.txt",
+  "terms": {
+    "issuer": "JPMorgan Chase Financial Company LLC",
+    "notional_per_unit": 10,
+    "currency": "USD",
+    "pricing_date": "2026-07-22",
+    "strike_date": null,
+    "issue_date": "2026-07-27",
+    "maturity_date": "2029-07-26",
+    "underlyings": [
+      {
+        "name": "Russell 2000 ® Index",
+        "ticker": "RTY",
+        "initial_level": 2959.938
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": "SX5E",
+        "initial_level": 6316.99
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-22",
+      "2027-01-22",
+      "2027-04-22",
+      "2027-07-22",
+      "2027-10-22",
+      "2028-01-24",
+      "2028-04-24",
+      "2028-07-24",
+      "2028-10-23",
+      "2029-01-22",
+      "2029-04-23",
+      "2029-07-23"
+    ],
+    "payment_dates": [
+      "2026-10-26",
+      "2027-01-26",
+      "2027-04-26",
+      "2027-07-26",
+      "2027-10-26",
+      "2028-01-26",
+      "2028-04-26",
+      "2028-07-26",
+      "2028-10-25",
+      "2029-01-24",
+      "2029-04-25",
+      "2029-07-26"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 2.7625,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 70.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.806
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001213900-26-081428.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "independent annotation from scratch (no prelabel shown), compared field by field with the prelabel; no disagreement, so gold = prelabel",
+    "annotated_by": "coauthor-3",
+    "annotator_is_author": true,
+    "annotation_minutes": 69.0,
+    "round": 3,
+    "transcribed_by": "corresponding author (annotation done on the annotator's own machine)",
+    "payment_dates_derived_by_program": false
+  }
+}

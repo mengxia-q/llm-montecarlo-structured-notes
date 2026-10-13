@@ -20,6 +20,7 @@ the calls each time.
 
 Usage:
     python experiments/07_run_arms.py --run-id stage2 --budget-usd 5
+    python experiments/07_run_arms.py --run-id qwen_think --provider qwen --budget-usd 5
 """
 
 from __future__ import annotations
@@ -47,9 +48,15 @@ from src.validate import validate_terms
 RESULTS = ROOT / "experiments" / "results"
 CLEANED = ROOT / "data" / "cleaned"
 
-#: USD per million tokens, deepseek-flash, off-peak (checked 2026-10-05).
-#: Peak hours (UTC Mon-Fri 01-04, 06-10) are billed at twice these rates.
-PRICES = {"input_miss": 0.15, "input_hit": 0.003, "output": 0.60}
+#: USD per million tokens.  deepseek-flash: off-peak list price (checked
+#: 2026-10-05); peak hours (UTC Mon-Fri 01-04, 06-10) bill at twice these rates.
+#: qwen3.8-flash: list price as reported by OpenRouter (checked 2026-10-13), no
+#: peak pricing; reasoning tokens bill as output.
+PRICES = {
+    "deepseek-flash": {"input_miss": 0.15, "input_hit": 0.003, "output": 0.60},
+    "qwen3.8-flash": {"input_miss": 0.15, "input_hit": 0.016, "output": 0.47},
+}
+PEAK_PRICED = {"deepseek-flash"}
 PEAK_HOURS_UTC = set(range(1, 4)) | set(range(6, 10))
 
 
@@ -57,9 +64,10 @@ def call_cost(call: dict) -> float:
     hit = call.get("cached_input_tokens") or 0
     miss = max((call.get("input_tokens") or 0) - hit, 0)
     out = (call.get("output_tokens") or 0) + (call.get("thinking_tokens") or 0)
-    usd = (miss * PRICES["input_miss"] + hit * PRICES["input_hit"] + out * PRICES["output"]) / 1e6
+    price = PRICES[call.get("model") or "deepseek-flash"]
+    usd = (miss * price["input_miss"] + hit * price["input_hit"] + out * price["output"]) / 1e6
     when = call.get("called_at")
-    if when:
+    if when and call.get("model", "deepseek-flash") in PEAK_PRICED:
         t = datetime.fromisoformat(when)
         if t.weekday() < 5 and t.hour in PEAK_HOURS_UTC:
             usd *= 2
@@ -139,7 +147,7 @@ def needs_retry(check: dict) -> bool:
 
 def run_filing(rec: dict, provider, log: CallLog, args) -> list[dict]:
     acc = rec["accession"]
-    text = (CLEANED / f"{acc}_{rec['document']}.txt").read_text()
+    text = (Path(args.cleaned_dir) / f"{acc}_{rec['document']}.txt").read_text()
     prompt = build_prompt(text)
 
     def call(kind: str, prompt_text: str, seed_index: int) -> dict:
@@ -220,8 +228,11 @@ def main() -> int:
     parser.add_argument("--only", nargs="*", help="restrict to these accessions")
     parser.add_argument("--exclude", default=str(ROOT / "data" / "labels" / "holdout.json"))
     parser.add_argument("--k", type=int, default=5)
-    parser.add_argument("--model", default="deepseek-flash")
-    parser.add_argument("--mode", default="strict_tool", choices=["strict_tool", "json_object"])
+    parser.add_argument("--cleaned-dir", default=str(CLEANED), help="stress test: data/cleaned_norowspan")
+    parser.add_argument("--provider", default="deepseek", choices=["deepseek", "qwen"])
+    parser.add_argument("--model", default=None, help="default: deepseek-flash / qwen3.8-flash")
+    parser.add_argument("--mode", default=None, choices=["strict_tool", "strict_schema", "json_object"],
+                        help="default: strict_tool (deepseek) / strict_schema (qwen)")
     parser.add_argument("--thinking", default="on", choices=["on", "off"])
     parser.add_argument("--reasoning-effort", default=None)
     parser.add_argument("--temperature", type=float, default=0.7)
@@ -239,8 +250,10 @@ def main() -> int:
         held = set(json.loads(exclude_path.read_text()).get("accessions", []))
         candidates = [c for c in candidates if c["accession"] not in held]
 
+    args.model = args.model or {"deepseek": "deepseek-flash", "qwen": "qwen3.8-flash"}[args.provider]
+    args.mode = args.mode or {"deepseek": "strict_tool", "qwen": "strict_schema"}[args.provider]
     provider = get_provider(
-        "deepseek",
+        args.provider,
         model=args.model,
         temperature=args.temperature,
         mode=args.mode,
@@ -249,6 +262,7 @@ def main() -> int:
     )
     probe = provider.request_kwargs("", args.temperature)
     config = {
+        "provider": args.provider,
         "model": args.model,
         "mode": args.mode,
         "endpoint": provider.endpoint,
@@ -256,6 +270,7 @@ def main() -> int:
         "reasoning_effort": args.reasoning_effort,
         "temperature": args.temperature,
         "k": args.k,
+        "cleaned_dir": str(Path(args.cleaned_dir).resolve().relative_to(ROOT)),
         "b1_is_sample_0": True,
         "prompt_sha256": hashlib.sha256((INSTRUCTIONS + RETRY_PREAMBLE).encode()).hexdigest(),
         "request_template_sha256": hashlib.sha256(

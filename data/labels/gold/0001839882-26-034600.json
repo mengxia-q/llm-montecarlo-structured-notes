@@ -1,0 +1,116 @@
+{
+  "accession": "0001839882-26-034600",
+  "source_file": "data/cleaned/0001839882-26-034600_ms17191_424b2-22799.htm.txt",
+  "terms": {
+    "issuer": "Morgan Stanley Finance LLC",
+    "notional_per_unit": 10.0,
+    "currency": "USD",
+    "pricing_date": "2026-07-10",
+    "strike_date": null,
+    "issue_date": "2026-07-15",
+    "maturity_date": "2031-07-15",
+    "underlyings": [
+      {
+        "name": "S&P MidCap 400 ® Index",
+        "ticker": null,
+        "initial_level": 3780.11
+      },
+      {
+        "name": "EURO STOXX 50 ® Index",
+        "ticker": null,
+        "initial_level": 6269.97
+      }
+    ],
+    "performance_type": "worst_of",
+    "observation_dates": [
+      "2026-10-12",
+      "2027-01-11",
+      "2027-04-12",
+      "2027-07-12",
+      "2027-10-11",
+      "2028-01-10",
+      "2028-04-10",
+      "2028-07-10",
+      "2028-10-10",
+      "2029-01-10",
+      "2029-04-10",
+      "2029-07-10",
+      "2029-10-10",
+      "2030-01-10",
+      "2030-04-10",
+      "2030-07-10",
+      "2030-10-10",
+      "2031-01-10",
+      "2031-04-10",
+      "2031-07-10"
+    ],
+    "payment_dates": [
+      "2026-10-14",
+      "2027-01-13",
+      "2027-04-14",
+      "2027-07-14",
+      "2027-10-13",
+      "2028-01-12",
+      "2028-04-12",
+      "2028-07-12",
+      "2028-10-12",
+      "2029-01-12",
+      "2029-04-12",
+      "2029-07-12",
+      "2029-10-12",
+      "2030-01-14",
+      "2030-04-12",
+      "2030-07-12",
+      "2030-10-15",
+      "2031-01-14",
+      "2031-04-14",
+      "2031-07-15"
+    ],
+    "autocall": {
+      "first_observation_index": 2,
+      "levels_pct": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    "coupon": {
+      "rate_per_period_pct": 1.75,
+      "barrier_pct": 70.0,
+      "memory": false
+    },
+    "knock_in": {
+      "barrier_pct": 60.0,
+      "monitoring": "at_maturity"
+    },
+    "downside_participation_pct": 100.0,
+    "estimated_value_per_unit": 9.653
+  },
+  "provenance": {
+    "prelabel_file": "data/labels/prelabel/0001839882-26-034600.json",
+    "prelabel_annotator": "prelabel:claude-opus-5-5",
+    "verified_on": "2026-10-13",
+    "method": "pre-annotation verified field by field against the filing (round 4, timed, no seeded errors)",
+    "verified_by": "coauthor-2",
+    "verifier_is_author": true,
+    "verification_minutes": 21.0,
+    "round": 4,
+    "fields_changed": []
+  }
+}

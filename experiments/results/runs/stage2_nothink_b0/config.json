@@ -1,0 +1,16 @@
+{
+  "provider": "deepseek",
+  "model": "deepseek-flash",
+  "mode": "json_object",
+  "endpoint": "https://api.deepseek.com",
+  "thinking": "off",
+  "reasoning_effort": null,
+  "temperature": 0.7,
+  "k": 1,
+  "cleaned_dir": "data/cleaned",
+  "b1_is_sample_0": true,
+  "prompt_sha256": "03c29fe86b262c779a9f86e2d9cd3f12e4825ec8bf80cb343d6f3b429cc0285a",
+  "request_template_sha256": "73a2c61ab8cbc26eda178081a338b53f462162e63c2d823072e2b754738e5712",
+  "n_filings": 50,
+  "started_at": "2026-10-13T19:26:59+00:00"
+}

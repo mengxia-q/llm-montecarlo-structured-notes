@@ -1,0 +1,168 @@
+{
+  "round3": {
+    "0000950103-26-010350": {
+      "annotator": "coauthor-1",
+      "minutes": 55.0,
+      "payment_dates_derived": true,
+      "critical_agree": "9/9",
+      "disagreements": {}
+    },
+    "0000950103-26-013968": {
+      "annotator": "author",
+      "minutes": 58.0,
+      "payment_dates_derived": false,
+      "critical_agree": "9/9",
+      "disagreements": {}
+    },
+    "0001193125-26-407802": {
+      "annotator": "coauthor-2",
+      "minutes": 63.0,
+      "payment_dates_derived": true,
+      "critical_agree": "9/9",
+      "disagreements": {}
+    },
+    "0001213900-26-081428": {
+      "annotator": "coauthor-3",
+      "minutes": 69.0,
+      "payment_dates_derived": false,
+      "critical_agree": "9/9",
+      "disagreements": {}
+    },
+    "0001918704-26-015864": {
+      "annotator": "author",
+      "minutes": 53.0,
+      "payment_dates_derived": false,
+      "critical_agree": "9/9",
+      "disagreements": {}
+    }
+  },
+  "round4": {
+    "0000950103-26-008712": {
+      "verifier": "verifier-3",
+      "minutes": 23.0,
+      "fields_changed": []
+    },
+    "0000950103-26-008849": {
+      "verifier": "verifier-3",
+      "minutes": 24.0,
+      "fields_changed": []
+    },
+    "0000950103-26-011340": {
+      "verifier": "verifier-3",
+      "minutes": 19.0,
+      "fields_changed": []
+    },
+    "0000950103-26-011404": {
+      "verifier": "verifier-3",
+      "minutes": 22.0,
+      "fields_changed": []
+    },
+    "0000950103-26-012159": {
+      "verifier": "verifier-3",
+      "minutes": 21.0,
+      "fields_changed": []
+    },
+    "0000950103-26-012695": {
+      "verifier": "verifier-4",
+      "minutes": 22.0,
+      "fields_changed": []
+    },
+    "0000950103-26-012866": {
+      "verifier": "verifier-4",
+      "minutes": 22.0,
+      "fields_changed": []
+    },
+    "0001140361-26-025408": {
+      "verifier": "verifier-4",
+      "minutes": 20.0,
+      "fields_changed": []
+    },
+    "0001140361-26-025918": {
+      "verifier": "verifier-4",
+      "minutes": 26.0,
+      "fields_changed": []
+    },
+    "0001140361-26-026071": {
+      "verifier": "verifier-4",
+      "minutes": 21.0,
+      "fields_changed": []
+    },
+    "0001140361-26-038659": {
+      "verifier": "verifier-5",
+      "minutes": 23.0,
+      "fields_changed": []
+    },
+    "0001193125-26-303101": {
+      "verifier": "verifier-5",
+      "minutes": 24.0,
+      "fields_changed": []
+    },
+    "0001193125-26-307871": {
+      "verifier": "verifier-5",
+      "minutes": 21.0,
+      "fields_changed": []
+    },
+    "0001193125-26-407080": {
+      "verifier": "coauthor-1",
+      "minutes": 22.0,
+      "fields_changed": []
+    },
+    "0001213900-26-094790": {
+      "verifier": "coauthor-1",
+      "minutes": 19.0,
+      "fields_changed": []
+    },
+    "0001213900-26-098394": {
+      "verifier": "coauthor-1",
+      "minutes": 25.0,
+      "fields_changed": []
+    },
+    "0001213900-26-098408": {
+      "verifier": "coauthor-2",
+      "minutes": 24.0,
+      "fields_changed": []
+    },
+    "0001839882-26-034600": {
+      "verifier": "coauthor-2",
+      "minutes": 21.0,
+      "fields_changed": []
+    },
+    "0001839882-26-036457": {
+      "verifier": "coauthor-2",
+      "minutes": 24.0,
+      "fields_changed": []
+    },
+    "0001839882-26-046290": {
+      "verifier": "coauthor-3",
+      "minutes": 25.0,
+      "fields_changed": []
+    },
+    "0001839882-26-046657": {
+      "verifier": "coauthor-3",
+      "minutes": 22.0,
+      "fields_changed": []
+    },
+    "0001918704-26-021949": {
+      "verifier": "author",
+      "minutes": 20.0,
+      "fields_changed": []
+    }
+  },
+  "summary": {
+    "round3_files": 5,
+    "round3_files_full_agreement": 5,
+    "round3_mean_minutes": 59.6,
+    "round4_files": 22,
+    "round4_fields_changed": 0,
+    "round4_mean_minutes": 22.272727272727273,
+    "people": [
+      "author",
+      "coauthor-1",
+      "coauthor-2",
+      "coauthor-3",
+      "verifier-3",
+      "verifier-4",
+      "verifier-5"
+    ]
+  }
+}
